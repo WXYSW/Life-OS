@@ -9,13 +9,15 @@
     30
   ],
   "new_limit": 2,
-  "review_limit": 3,
+  "review_limit": 5,
   "low_priority": "reference_only",
   "trigger": "on_conversation",
   "background_enabled": false,
   "question_version": "questions-v1",
   "backlog_path": "knowledge/questions/backlog.json",
   "resume_before_new": true,
-  "carryover_counts_toward_limits": true
+  "carryover_counts_toward_limits": true,
+  "review_quantity_policy": "user_controlled",
+  "review_limit_is_initial_batch": true,
+  "daily_review_cap": null
 }
-

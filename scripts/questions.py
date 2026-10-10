@@ -1,7 +1,7 @@
 """Persistent-question lifecycle as pure functions; caller commits returned state."""
 import copy
 from datetime import date, timedelta
-from review import select
+from review import CONFIG, select
 
 OPEN = {'unanswered', 'partial', 'awaiting_evaluation', 'deferred', 'paused'}
 
@@ -80,9 +80,11 @@ def change(questions, question_id, action, day, event_id, text=None, complete=Fa
     return result
 
 
-def plan(items, questions, day, assigned=(), new_limit=2, review_limit=3):
+def plan(items, questions, day, assigned=(), new_limit=None, review_limit=None):
     date.fromisoformat(day)
     validate(questions)
+    new_limit = CONFIG['new_limit'] if new_limit is None else new_limit
+    review_limit = CONFIG['review_limit'] if review_limit is None else review_limit
     if min(new_limit, review_limit) < 0:
         raise ValueError('Limits must be nonnegative')
     item_map = {x['id']: x for x in items}

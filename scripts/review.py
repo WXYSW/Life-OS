@@ -65,6 +65,9 @@ if __name__ == '__main__':
     parser.add_argument('--day', required=True)
     parser.add_argument('--session', help='Saved session JSON containing assigned_ids')
     parser.add_argument('--questions', help='Cross-day backlog; auto-detects knowledge/questions/backlog.json')
+    parser.add_argument('--new-limit', type=int, default=CONFIG['new_limit'])
+    parser.add_argument('--review-limit', type=int, default=CONFIG['review_limit'],
+                        help='User-selected batch size; no fixed daily cap (0 pauses reviews)')
     args = parser.parse_args()
     items = json.loads(Path(args.queue).read_text(encoding='utf-8'))
     assigned = []
@@ -78,8 +81,8 @@ if __name__ == '__main__':
         from questions import plan
         backlog = json.loads(question_path.read_text(encoding='utf-8'))
         result = plan(items, backlog['questions'], args.day, assigned,
-                      CONFIG['new_limit'], CONFIG['review_limit'])
+                      args.new_limit, args.review_limit)
     else:
-        result = select(items, args.day, assigned)
+        result = select(items, args.day, assigned, args.new_limit, args.review_limit)
     print(json.dumps(result, ensure_ascii=False, indent=2))
 
