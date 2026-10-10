@@ -70,6 +70,90 @@
       ],
       "status": "evaluated",
       "evaluated_on": "2026-10-11"
+    },
+    {
+      "id": "Q-20261011-D003-01",
+      "knowledge_id": "D-003",
+      "kind": "new",
+      "text": "int a[10]; 在定义所在块和void f(int a[])内部，sizeof(a)分别量度什么？为什么？",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "说明两处sizeof量度对象",
+        "解释数组与函数形参数组声明的区别"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-D003-ISSUE",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
+    },
+    {
+      "id": "Q-20261011-D004-01",
+      "knowledge_id": "D-004",
+      "kind": "new",
+      "text": "只有一个元素且恰好等于目标时，原while(right>left)会发生什么？如何修正？",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "判断边界情况下的行为",
+        "提出闭区间循环条件及收缩修正"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-D004-ISSUE",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
+    },
+    {
+      "id": "Q-20261011-D005-01",
+      "knowledge_id": "D-005",
+      "kind": "new",
+      "text": "命令向stderr输出一句话是否必然失败？如何读取它的退出状态？",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "区分stderr与退出状态",
+        "说明读取上一命令退出状态的方法"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-D005-ISSUE",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
+    },
+    {
+      "id": "Q-20261011-D006-01",
+      "knowledge_id": "D-006",
+      "kind": "new",
+      "text": "当前目录/c：cd missing 与 cd /c/1/missing 各指向哪里？",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "正确解析相对路径",
+        "正确解析绝对路径"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-D006-ISSUE",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
     }
   ]
 }
