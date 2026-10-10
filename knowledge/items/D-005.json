@@ -14,12 +14,41 @@
   "understanding": "unassessed",
   "content": "stderr是诊断文本流，退出状态是另一条信息；$?取上一命令退出状态，$$为shell进程ID。",
   "diagnostic_question": "命令向stderr输出一句话是否必然失败？如何读取它的退出状态？",
-  "question_state": "prepared_not_issued",
+  "question_state": "unanswered",
   "verification_sources": [
     "https://www.gnu.org/s/bash/manual/html_node/Exit-Status.html"
   ],
   "verification_note": "Primary reference consulted",
   "attempt_ids": [],
   "rule_version": "ladder-v1",
-  "visibility": "public"
+  "visibility": "public",
+  "goal_links": [
+    {
+      "goal_id": "G-CS-ABROAD",
+      "contribution": "medium",
+      "basis": "assistant_design_provisional",
+      "rationale": "支撑计算机基础能力；非已确认考试权重"
+    }
+  ],
+  "capability_ids": [
+    "CAP-SHELL"
+  ],
+  "prerequisite_ids": [],
+  "intrinsic_difficulty": null,
+  "estimated_minutes": null,
+  "mastery": {
+    "recall": {
+      "state": "unknown",
+      "evidence_id": null
+    },
+    "explain": {
+      "state": "unknown",
+      "evidence_id": null
+    },
+    "apply": {
+      "state": "unknown",
+      "evidence_id": null
+    }
+  },
+  "learning_events": []
 }

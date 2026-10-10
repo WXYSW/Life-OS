@@ -106,6 +106,7 @@ def plan(items, questions, day, assigned=(), new_limit=None, review_limit=None):
             resumed.append(q['id'])
             counts[q['kind']] += 1
     excluded = set(assigned) | {q['knowledge_id'] for q in active}
+    excluded.update(q['knowledge_id'] for q in questions if q['id'] in set(assigned))
     selected = select(items, day, excluded, new_limit-counts['new'], review_limit-counts['review'])
     return dict(day=day, resume_question_ids=resumed, awaiting_evaluation_ids=waiting,
                 new_ids=selected['new_ids'], review_ids=selected['review_ids'],

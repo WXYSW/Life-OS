@@ -1,1 +1,39 @@
-{"id":null,"title":null,"source_ids":[],"kind":"unverified","content":null,"verification_sources":[],"priority":"normal","status":"pending","stage":-1,"due":null,"last_review":null,"understanding":"unassessed","evidence_ids":[],"attempt_ids":[],"rule_version":"ladder-v1","visibility":"local","publication_basis":null}
+{
+  "id": null,
+  "title": null,
+  "source_ids": [],
+  "kind": "unverified",
+  "content": null,
+  "verification_sources": [],
+  "priority": "normal",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "evidence_ids": [],
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "local",
+  "publication_basis": null,
+  "goal_links": [],
+  "capability_ids": [],
+  "prerequisite_ids": [],
+  "intrinsic_difficulty": null,
+  "estimated_minutes": null,
+  "mastery": {
+    "recall": {
+      "state": "unknown",
+      "evidence_id": null
+    },
+    "explain": {
+      "state": "unknown",
+      "evidence_id": null
+    },
+    "apply": {
+      "state": "unknown",
+      "evidence_id": null
+    }
+  },
+  "learning_events": []
+}

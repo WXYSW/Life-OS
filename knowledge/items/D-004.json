@@ -12,10 +12,39 @@
   "understanding": "unassessed",
   "content": "原代码使用while(right>left)会漏掉left==right的候选；参数key与未定义k也不一致。闭区间二分应检查left<=right并保证每步缩小。",
   "diagnostic_question": "只有一个元素且恰好等于目标时，原while(right>left)会发生什么？如何修正？",
-  "question_state": "prepared_not_issued",
+  "question_state": "unanswered",
   "verification_sources": [],
   "verification_note": "Algorithm boundary reasoning; no original code executed",
   "attempt_ids": [],
   "rule_version": "ladder-v1",
-  "visibility": "public"
+  "visibility": "public",
+  "goal_links": [
+    {
+      "goal_id": "G-CS-ABROAD",
+      "contribution": "medium",
+      "basis": "assistant_design_provisional",
+      "rationale": "支撑计算机基础能力；非已确认考试权重"
+    }
+  ],
+  "capability_ids": [
+    "CAP-CS-BOUNDARY"
+  ],
+  "prerequisite_ids": [],
+  "intrinsic_difficulty": null,
+  "estimated_minutes": null,
+  "mastery": {
+    "recall": {
+      "state": "unknown",
+      "evidence_id": null
+    },
+    "explain": {
+      "state": "unknown",
+      "evidence_id": null
+    },
+    "apply": {
+      "state": "unknown",
+      "evidence_id": null
+    }
+  },
+  "learning_events": []
 }

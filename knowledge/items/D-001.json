@@ -22,5 +22,36 @@
     "A-20261011-D-001"
   ],
   "rule_version": "ladder-v1",
-  "visibility": "public"
+  "visibility": "public",
+  "goal_links": [
+    {
+      "goal_id": "G-CET4-2026-12",
+      "contribution": "medium",
+      "basis": "assistant_design_provisional",
+      "rationale": "支撑基础表达能力；不等于考试权重"
+    }
+  ],
+  "capability_ids": [
+    "CAP-EN-TIME"
+  ],
+  "prerequisite_ids": [],
+  "intrinsic_difficulty": null,
+  "estimated_minutes": null,
+  "mastery": {
+    "recall": {
+      "state": "gap",
+      "evidence_id": "A-20261011-D-001",
+      "observed_on": "2026-10-11",
+      "basis": "已有诊断关键错误；局部正确保留在原attempt"
+    },
+    "explain": {
+      "state": "unknown",
+      "evidence_id": null
+    },
+    "apply": {
+      "state": "unknown",
+      "evidence_id": null
+    }
+  },
+  "learning_events": []
 }

@@ -1,0 +1,18 @@
+{
+  "id": null,
+  "day": null,
+  "knowledge_id": null,
+  "goal_id": null,
+  "question_id": null,
+  "action": null,
+  "dimension": null,
+  "outcome": null,
+  "independent": null,
+  "delayed": null,
+  "transfer": null,
+  "schedule_eligible": false,
+  "basis": null,
+  "actual_minutes": null,
+  "question_version": null,
+  "planner_version": "learning-v2"
+}

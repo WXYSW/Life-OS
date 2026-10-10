@@ -1,0 +1,13 @@
+{
+  "id": null,
+  "name": null,
+  "status": "draft",
+  "importance": null,
+  "importance_basis": null,
+  "deadline": null,
+  "exact_date": null,
+  "success_criteria": null,
+  "gap": "unknown",
+  "current_evidence_ids": [],
+  "time_budget_minutes": null
+}

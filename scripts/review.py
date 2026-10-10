@@ -1,4 +1,4 @@
-"""Pure scheduling functions; caller persists records after privacy review."""
+"""Ladder grading and legacy selector. Use learning.py for goal-aware planning."""
 import argparse
 import copy
 import json
@@ -85,4 +85,3 @@ if __name__ == '__main__':
     else:
         result = select(items, args.day, assigned, args.new_limit, args.review_limit)
     print(json.dumps(result, ensure_ascii=False, indent=2))
-

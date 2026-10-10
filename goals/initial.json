@@ -8,7 +8,17 @@
       "deadline": "2026-12",
       "exact_date": null,
       "target_score": null,
-      "source": "current_conversation"
+      "source": "current_conversation",
+      "importance": null,
+      "success_criteria": null,
+      "current_evidence_ids": [
+        "A-20261011-D-001",
+        "A-20261011-D-002"
+      ],
+      "gap": "unknown",
+      "time_budget_minutes": null,
+      "importance_basis": "not_yet_stated",
+      "evidence_limitation": "两道动词形式诊断仅说明局部缺口，不能推算四级水平或总差距。"
     },
     {
       "id": "G-UPGRADE",
@@ -25,7 +35,13 @@
         "SRC-002",
         "SRC-014",
         "SRC-022"
-      ]
+      ],
+      "importance": null,
+      "success_criteria": null,
+      "current_evidence_ids": [],
+      "gap": "unknown",
+      "time_budget_minutes": null,
+      "importance_basis": "not_yet_stated"
     },
     {
       "id": "G-CS-ABROAD",
@@ -38,7 +54,13 @@
         "CGPA约3.3",
         "IELTS6.5",
         "扎实CS基础"
-      ]
+      ],
+      "importance": null,
+      "success_criteria": null,
+      "current_evidence_ids": [],
+      "gap": "unknown",
+      "time_budget_minutes": null,
+      "importance_basis": "not_yet_stated"
     }
   ]
 }

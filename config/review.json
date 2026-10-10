@@ -32,5 +32,8 @@
     ],
     "ask_each_time": false,
     "user_explicit_exclusions_override": true
-  }
+  },
+  "planner_version": "learning-v2",
+  "planner_entrypoint": "scripts/learning.py",
+  "legacy_selector": "scripts/review.py select (compatibility only)"
 }

@@ -14,12 +14,41 @@
   "understanding": "unassessed",
   "content": "数组和指针是不同类型；多数表达式中数组转换为首元素指针，sizeof数组是整个数组字节数，函数参数数组声明调整为指针。",
   "diagnostic_question": "int a[10]; 在定义所在块和void f(int a[])内部，sizeof(a)分别量度什么？为什么？",
-  "question_state": "prepared_not_issued",
+  "question_state": "unanswered",
   "verification_sources": [
     "https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf"
   ],
   "verification_note": "Primary reference consulted",
   "attempt_ids": [],
   "rule_version": "ladder-v1",
-  "visibility": "public"
+  "visibility": "public",
+  "goal_links": [
+    {
+      "goal_id": "G-CS-ABROAD",
+      "contribution": "medium",
+      "basis": "assistant_design_provisional",
+      "rationale": "支撑计算机基础能力；非已确认考试权重"
+    }
+  ],
+  "capability_ids": [
+    "CAP-CS-BOUNDARY"
+  ],
+  "prerequisite_ids": [],
+  "intrinsic_difficulty": null,
+  "estimated_minutes": null,
+  "mastery": {
+    "recall": {
+      "state": "unknown",
+      "evidence_id": null
+    },
+    "explain": {
+      "state": "unknown",
+      "evidence_id": null
+    },
+    "apply": {
+      "state": "unknown",
+      "evidence_id": null
+    }
+  },
+  "learning_events": []
 }

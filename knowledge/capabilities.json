@@ -1,0 +1,55 @@
+{
+  "version": "learning-v2",
+  "capabilities": [
+    {
+      "id": "CAP-EN-TIME",
+      "name": "理解并表达动作的时间关系",
+      "goal_ids": [
+        "G-CET4-2026-12"
+      ],
+      "task_examples": [
+        "解释语境中的动词形式",
+        "在新语境中独立表达时间关系"
+      ],
+      "knowledge_ids": [
+        "D-001",
+        "D-002"
+      ],
+      "coverage": "partial",
+      "basis": "assistant_design_provisional"
+    },
+    {
+      "id": "CAP-CS-BOUNDARY",
+      "name": "分析程序类型与边界",
+      "goal_ids": [
+        "G-CS-ABROAD"
+      ],
+      "task_examples": [
+        "解释数组参数与边界条件"
+      ],
+      "knowledge_ids": [
+        "D-003",
+        "D-004"
+      ],
+      "coverage": "partial",
+      "basis": "assistant_design_provisional"
+    },
+    {
+      "id": "CAP-SHELL",
+      "name": "解释命令行路径与执行结果",
+      "goal_ids": [
+        "G-CS-ABROAD"
+      ],
+      "task_examples": [
+        "判断路径指向与退出结果"
+      ],
+      "knowledge_ids": [
+        "D-005",
+        "D-006"
+      ],
+      "coverage": "partial",
+      "basis": "assistant_design_provisional"
+    }
+  ],
+  "note": "初始能力结构，不是完整考试大纲；专升本具体目标映射待核验。"
+}
