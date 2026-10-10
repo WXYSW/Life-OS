@@ -19,5 +19,18 @@
   "carryover_counts_toward_limits": true,
   "review_quantity_policy": "user_controlled",
   "review_limit_is_initial_batch": true,
-  "daily_review_cap": null
+  "daily_review_cap": null,
+  "answer_publication": {
+    "policy": "standing_authorization",
+    "effective_on": "2026-10-11",
+    "scope": "knowledge_diagnostic_and_review_answers",
+    "include": [
+      "verbatim_answers",
+      "partial_answers",
+      "hint_or_lookup_context",
+      "evaluation"
+    ],
+    "ask_each_time": false,
+    "user_explicit_exclusions_override": true
+  }
 }
