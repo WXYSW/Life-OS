@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-103"
+  ],
+  "title": "数组的大小",
+  "domain": "programming",
+  "content": "\nsizeof给出整个数组所占据的内容的大小，单位是字节\n用sizeof(a)/sizeof(a[0])就可以得到这个数组有多少个元素\n这样的代码，一旦修改数组中初始的数据，不需要修改遍历的代码\n\n\n",
+  "priority": "normal",
+  "id": "K-IMPORT-106",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

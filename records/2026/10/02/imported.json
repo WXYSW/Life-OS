@@ -1,0 +1,59 @@
+{
+  "id": "REC-2026-10-02",
+  "event_date": "2026-10-02",
+  "imported_on": "2026-10-11",
+  "submitted_at": null,
+  "timezone": "Asia/Shanghai",
+  "source_ids": [
+    "SRC-028"
+  ],
+  "source_path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(28-04)-日/2026-10-02.md",
+  "reported_fields": {
+    "有效学习": {
+      "raw": "4 h",
+      "minutes": 240,
+      "basis": "self_report_explicit_unit"
+    },
+    "政治": {
+      "raw": "信息技术：",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "信息技术": {
+      "raw": "高数：",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "高数": {
+      "raw": "英语：2h4部分加ai对话",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "英语": {
+      "raw": "2h4部分加ai对话",
+      "minutes": 120,
+      "basis": "self_report_explicit_unit"
+    },
+    "游戏化思维搭建": {
+      "raw": "2h",
+      "minutes": 120,
+      "basis": "self_report_explicit_unit"
+    }
+  },
+  "reported_status": {
+    "专注": null,
+    "效率": null,
+    "压力": null,
+    "启动": null
+  },
+  "excerpts": {
+    "今天学了什么": "【今天对学习有效的方式】",
+    "日记": "没吃早饭起的晚，晚上老是睡不着，早上学习，中午下午学习英语，感觉还行进度有些慢，意识到speaking太拖后腿但是同样也是进步点。晚上搞了很久的学习游戏化思维有用不排斥，感觉和其他计划在我面前给压力不同这是给动力或者说好奇，我想试试",
+    "今天对学习有效的方式": "【明天最重要的学习任务】(限三个)\n1.\n2.\n3."
+  },
+  "total_minutes_reported": 240,
+  "inferred_total_minutes": null,
+  "version": 1,
+  "visibility": "public",
+  "publication_basis": "user_archive_import_2026-10-11"
+}

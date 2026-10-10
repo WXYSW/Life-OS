@@ -1,0 +1,25 @@
+{
+  "source_ids": [
+    "SRC-077"
+  ],
+  "title": "洛必达法则的适用条件、未定式转换",
+  "legacy_assessment": [
+    "极限",
+    "洛必达法则的适用条件、未定式转换",
+    "需要巩固条件判断"
+  ],
+  "domain": "math",
+  "content": "| 极限      | 洛必达法则的适用条件、未定式转换 | 需要巩固条件判断            |",
+  "priority": "normal",
+  "id": "K-IMPORT-070",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

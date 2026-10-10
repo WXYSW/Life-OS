@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-119"
+  ],
+  "title": "8.结束语句，可用于循环嵌套结束",
+  "domain": "programming",
+  "content": "\ngoto语句跳出循环\t\t\t\t\t例goto a;\n最好只在跳出多重循环时使用\t\t\t\ta:\nbreak\t\t\t跳出循环\ncontinue\t\t\t跳过循环这一轮剩下的语句进入下一轮",
+  "priority": "normal",
+  "id": "K-IMPORT-121",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

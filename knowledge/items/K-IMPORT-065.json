@@ -1,0 +1,24 @@
+{
+  "source_ids": [
+    "SRC-077"
+  ],
+  "title": "切线方程、法线方程",
+  "legacy_assessment": [
+    "导数应用",
+    "切线方程、法线方程"
+  ],
+  "domain": "math",
+  "content": "| 导数应用  | 切线方程、法线方程                      |",
+  "priority": "normal",
+  "id": "K-IMPORT-065",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

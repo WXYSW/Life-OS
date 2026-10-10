@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-097"
+  ],
+  "title": "4如何调用函数",
+  "domain": "programming",
+  "content": "将你想的重复的代码定义为函数也就是将他移动到固定格式中\n\n函数名（参数值）；\n\t（）起到了表示函数调用的重要作用\n\t即使没有参数也需要（）\n\t如果有参数，则需要给出正确的数量和顺序\n\t这些值会被按照顺序依次用来初要始化函数中的参数",
+  "priority": "normal",
+  "id": "K-IMPORT-100",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

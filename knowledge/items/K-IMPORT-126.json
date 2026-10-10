@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-124"
+  ],
+  "title": "13替换命令",
+  "domain": "programming",
+  "content": "命令替换\n执行 cmd命令，将其标准输出内容替换到当前位置\n如：\n`echo \"当前的时间是 $(date)\"` \n`#输出：当前时间是 Wed Jul 16 20:21:21     2025`\n\n\n进程替换\n\n想象你有一个水管（命令的输出），但你需要一个水龙头（文件接口）才能接到设备上。进程替换就是**把命令的输出变成临时文件**，让其他命令可以像读取文件一样读取它\n\n\n使用方法:diff <(ls dir1) < (ls dir2)",
+  "priority": "normal",
+  "id": "K-IMPORT-126",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

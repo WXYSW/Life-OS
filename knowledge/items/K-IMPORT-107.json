@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-104"
+  ],
+  "title": "数组的赋值",
+  "domain": "programming",
+  "content": "\n数组变量本身不能被赋值\n要把一个数组的所有元素交给另一个数组，必须采用遍历如\nfor ( i=0; i<length; i++)\n{\n\tb[i] = a[i];\n}",
+  "priority": "normal",
+  "id": "K-IMPORT-107",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

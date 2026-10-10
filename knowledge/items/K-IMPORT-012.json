@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-068"
+  ],
+  "title": "名词 - 专有名词",
+  "domain": "english",
+  "content": "## 地名\n\n- Times square 时代广场\n    \n- Wall street 华尔街\n    \n- Las Vegas 拉斯维加斯\n    \n- Chicag 芝加哥\n    \n- Boston 波士顿\n    \n- Miami 迈阿密\n    \n- Scotland 苏格兰\n    \n- Oxford 牛津\n    \n- Big Ben 大本钟\n    \n- Cambridge 剑桥大学\n    \n- Los Angeles 洛杉矶\n    \n- Hollywood 好莱坞\n    \n\n## 食物\n\n- dim sum 点心\n    \n- black tea 红茶\n    \n- fish and chips 炸鱼薯条\n    \n- Sweet food after a meal 饭后甜点\n- fries 薯条\n\n\n## 天气\n\n- thunderstorm 雷雨\n    \n\n## 名词\n\n- Alipay 支付宝\n    \n\n### 名词的其他用法\n\n# 习惯性（反复发生的活动）\n\n泛指性（整个类别）\n\n具体性（抽象概念的具体表现）\n\n集合性（成对物品、群体）",
+  "priority": "core",
+  "id": "K-IMPORT-012",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

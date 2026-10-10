@@ -1,0 +1,56 @@
+{
+  "id": "REC-2026-09-23",
+  "event_date": "2026-09-23",
+  "imported_on": "2026-10-11",
+  "submitted_at": null,
+  "timezone": "Asia/Shanghai",
+  "source_ids": [
+    "SRC-018"
+  ],
+  "source_path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-23.md",
+  "reported_fields": {
+    "有效学习": {
+      "raw": "6h40min",
+      "minutes": 400,
+      "basis": "self_report_explicit_unit"
+    },
+    "政治": {
+      "raw": "1h思维导图",
+      "minutes": 60,
+      "basis": "self_report_explicit_unit"
+    },
+    "信息技术": {
+      "raw": "2h计算机网络第六章，三面题",
+      "minutes": 120,
+      "basis": "self_report_explicit_unit"
+    },
+    "高数": {
+      "raw": "1h10min",
+      "minutes": 70,
+      "basis": "self_report_explicit_unit"
+    },
+    "英语": {
+      "raw": "2h30min6部分",
+      "minutes": 150,
+      "basis": "self_report_explicit_unit"
+    }
+  },
+  "reported_status": {
+    "专注": 6,
+    "效率": 6,
+    "压力": 6,
+    "启动": 6
+  },
+  "excerpts": {
+    "今天我学了什么": "- 政治思修思维导图还有点用\n- 英语六个部分\n- 计算机网络看完没能理解背诵\n- 高数有关于一元三阶函数求根，三根公式\n-",
+    "日记": "今天早上没睡好觉但是意外还可以状态，估计就是睡眠co2过多或者睡眠障碍。中午开始正常睡觉勉强睡了一会不够舒服，唉，下午情绪来了开始看了一集电视剧嗯怎么说呢还可以吧有用哈哈，压力来了确实要缓解压力而不是无脑继续。下午就是正常学，数学又是容易学上头。。。晚上现在正在写日记，马上去洗澡锻炼",
+    "今天发现有效的东西": "不要轻易给自己下定论\n不要在情绪来的时候做出决定\n抓住零碎时间一天学习时间能很高不少",
+    "今日异常": "早上状态出奇的还可以\n早上容易早醒\n晚上状态糟糕，应该多加注意身体状态",
+    "问题原因": "不知道变量有点多"
+  },
+  "total_minutes_reported": 400,
+  "inferred_total_minutes": null,
+  "version": 1,
+  "visibility": "public",
+  "publication_basis": "user_archive_import_2026-10-11"
+}

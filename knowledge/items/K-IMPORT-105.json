@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-102"
+  ],
+  "title": "13.二维数组",
+  "domain": "programming",
+  "content": "int a[3][5];\n通常理解为a是一个3行5列的矩阵\n二维数组遍历需要两重循环\n\n二维数组的初始化\n\t列数是必须给出的，行数可以由编译器来数\n\t每行一个{}，逗号隔开\n\t最后的逗号可以存在，有古老的传统\n\t如果省略，表示补零\n\t",
+  "priority": "normal",
+  "id": "K-IMPORT-105",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

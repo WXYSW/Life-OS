@@ -1,0 +1,24 @@
+{
+  "source_ids": [
+    "SRC-077"
+  ],
+  "title": "积分区域分析、直角坐标下的二次积分、积分次序交换、极坐标变换",
+  "legacy_assessment": [
+    "二重积分",
+    "积分区域分析、直角坐标下的二次积分、积分次序交换、极坐标变换"
+  ],
+  "domain": "math",
+  "content": "| 二重积分  | 积分区域分析、直角坐标下的二次积分、积分次序交换、极坐标变换 |",
+  "priority": "normal",
+  "id": "K-IMPORT-069",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

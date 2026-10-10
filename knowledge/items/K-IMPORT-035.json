@@ -1,0 +1,25 @@
+{
+  "source_ids": [
+    "SRC-076"
+  ],
+  "title": "转折、条件、因果连接词",
+  "legacy_assessment": [
+    "转折、条件、因果连接词",
+    "部分理解",
+    "阅读和听力中有失误"
+  ],
+  "domain": "english",
+  "content": "| 转折、条件、因果连接词   | 部分理解 | 阅读和听力中有失误         |",
+  "priority": "core",
+  "id": "K-IMPORT-035",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-117"
+  ],
+  "title": "6.运算优先级及运算",
+  "domain": "programming",
+  "content": "\n1\t（）\t\t\t\t从左到右\t\t\t\t括号\n2\t！+ - ++ --\t\t从右到左（单目的+和-）如a++\n3\t* / %\t\t\t从左到右\t\t\t\t乘除\n4\t+-\t\t\t\t从左到右\t\t\t\t加减\n5\t< <= > >=\t\t从左到右\t\t\t\t比大小\n6\t== !=\t\t\t从左到右\t\t\t\t等于不等于\n7\t&&\t\t\t\t从左到右\t\t\t\t两边都满足\n8\t||\t\t\t\t从左到右\t\t\t\t满足一边\n9\t= += -= *= /= %= 从右到左\t\t\t\ta=b把b赋值给a\t\t\t\n\n| `a++` | 先返回 `a` 的原始值，再对 `a` 加 1 |\n| ----- | ----------------------- |\n| `++a` | 先对 `a` 加 1，再返回 `a` 的新值  |\nint b = a++;  // b = 5，之后 a = 6\nint c = ++a;  // a 先变成 7，之后 c = 7\n\na+=10等于a = a+10\na /=10也就等于a = a/10\n\n&是一个运算符用于将变量转换为变量地址",
+  "priority": "normal",
+  "id": "K-IMPORT-119",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

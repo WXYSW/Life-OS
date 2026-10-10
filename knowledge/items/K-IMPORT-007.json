@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-063"
+  ],
+  "title": "动词 - 不规则过去式",
+  "domain": "english",
+  "content": "### 不规则动词（补充）\n\ngo-gone\n\nbring-brought\n\nteach-taught",
+  "priority": "core",
+  "id": "K-IMPORT-007",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

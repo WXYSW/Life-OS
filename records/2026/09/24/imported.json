@@ -1,0 +1,59 @@
+{
+  "id": "REC-2026-09-24",
+  "event_date": "2026-09-24",
+  "imported_on": "2026-10-11",
+  "submitted_at": null,
+  "timezone": "Asia/Shanghai",
+  "source_ids": [
+    "SRC-019"
+  ],
+  "source_path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-24.md",
+  "reported_fields": {
+    "有效学习": {
+      "raw": "4 h",
+      "minutes": 240,
+      "basis": "self_report_explicit_unit"
+    },
+    "政治": {
+      "raw": "信息技术：1h40min简单测试",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "信息技术": {
+      "raw": "1h40min简单测试",
+      "minutes": 100,
+      "basis": "self_report_explicit_unit"
+    },
+    "高数": {
+      "raw": "英语：1部分40分钟，简单测试",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "英语": {
+      "raw": "1部分40分钟，简单测试",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "学习改良": {
+      "raw": "1h40min",
+      "minutes": 100,
+      "basis": "self_report_explicit_unit"
+    }
+  },
+  "reported_status": {
+    "专注": 2,
+    "效率": 2,
+    "压力": 6,
+    "启动": 2
+  },
+  "excerpts": {
+    "今天学了什么": "今天就是画了计算机网络和计算机组成导图\n英语一部分\n信息技术简单测试有60+\n英语有些挫败感\n其实今天主要是进行了升级复盘功能，使逻辑变得合理，以及更加高效便利。",
+    "日记": "哎呀，让我想想吧，今天早上吃了土豆卷火腿。然后学计算机导论，计算机网络画了个思维导图吧，然后稍微然后还有计算机组成的思维导图。这两个思维导图。嗯，还可以吧。我只能这么说，相当于复习了，中午的话提前跑路了。然后回宿舍。刷视频，下午的话去拿快递，去拿书。然后也没学，然后就一直刷视频，下午的时候就是嗯看了一下哪些书要带回乡下？然后发现计算机网络置顶加价其实并不适配啊，不应该说是内容没有那些简单的内容，那些内容都是中国自己划分的。至于晚上的话，就是一直在搞这个复习的模式。嗯，现在的话就好了，不过感觉有些嗯，浪费时间吧，我现在澡还没洗，然后锻炼还没锻炼。等我锻炼完，洗完澡直接和朋友玩玩游戏就下了。",
+    "今天对学习有效的方式": "复习，自己直接画思维导图"
+  },
+  "total_minutes_reported": 240,
+  "inferred_total_minutes": null,
+  "version": 1,
+  "visibility": "public",
+  "publication_basis": "user_archive_import_2026-10-11"
+}

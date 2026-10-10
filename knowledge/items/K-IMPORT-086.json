@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-083"
+  ],
+  "title": "学习回文素数的积累",
+  "domain": "programming",
+  "content": "因为要判断素数这里采用了\n  for ( num = 10; num < 999; num++)\n\n    {\n\n        for( int i=2 ; i<num ;i++)\n\n        {\n\n            flig = 1;\n\n            if(num % i == 0)\n\n            {\n\n                flig =0;\n\n                break;\n\n            }\n 这里因为不是素数的数会判断flig=0\n 是素数num%i=1也就跳出去了%是取余%=0不就是取整吗",
+  "priority": "normal",
+  "id": "K-IMPORT-086",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

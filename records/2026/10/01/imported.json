@@ -1,0 +1,54 @@
+{
+  "id": "REC-2026-10-01",
+  "event_date": "2026-10-01",
+  "imported_on": "2026-10-11",
+  "submitted_at": null,
+  "timezone": "Asia/Shanghai",
+  "source_ids": [
+    "SRC-027"
+  ],
+  "source_path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(28-04)-日/2026-10-01.md",
+  "reported_fields": {
+    "有效学习": {
+      "raw": "2 h",
+      "minutes": 120,
+      "basis": "self_report_explicit_unit"
+    },
+    "政治": {
+      "raw": "信息技术：",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "信息技术": {
+      "raw": "高数：",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "高数": {
+      "raw": "英语：3部分",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "英语": {
+      "raw": "3部分",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    }
+  },
+  "reported_status": {
+    "专注": null,
+    "效率": null,
+    "压力": null,
+    "启动": null
+  },
+  "excerpts": {
+    "今天学了什么": "【今天对学习有效的方式】",
+    "日记": "今天早上起来没吃早饭学习了一会但是感觉很慢，中午正常吃 晚上吃的荞麦面，晚上学习状态居然变好了开智了？难道说是荞麦面的功劳，还锻炼还洗澡了，状态好指的是，学习英语时突然灵感爆发，用上了单词句子联系画面而不是都靠翻译，这点要记录一下",
+    "今天对学习有效的方式": "【明天最重要的学习任务】(限三个)\n1.\n2.\n3."
+  },
+  "total_minutes_reported": 120,
+  "inferred_total_minutes": null,
+  "version": 1,
+  "visibility": "public",
+  "publication_basis": "user_archive_import_2026-10-11"
+}

@@ -1,0 +1,1642 @@
+[
+  {
+    "id": "SRC-001",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/专升本考试模拟成绩记录/2026-09-01(成绩).md",
+    "archive_path": "total/Life OS(source)/每日笔记/专升本考试模拟成绩记录/2026-09-01(成绩).md",
+    "bytes": 116,
+    "sha256": "39d218884e705c85172429f17901aabf34ec5ad3f2e128f8e6df8bd367aeb6b4",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "exam_record"
+  },
+  {
+    "id": "SRC-002",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/专升本考试模拟成绩记录/2026-09-30(成绩).md",
+    "archive_path": "total/Life OS(source)/每日笔记/专升本考试模拟成绩记录/2026-09-30(成绩).md",
+    "bytes": 550,
+    "sha256": "56889b9dcc2d0ce187cca07acaaa5300722b10985b2594b273b1dfc637b549d7",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "exam_record"
+  },
+  {
+    "id": "SRC-003",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/专升本考试模拟成绩记录/模板.md",
+    "archive_path": "total/Life OS(source)/每日笔记/专升本考试模拟成绩记录/模板.md",
+    "bytes": 230,
+    "sha256": "cf2cdc01fb2121220ceeaec20d0efb47c223a6b1519f42e3c15e11b341bcb887",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "reference"
+  },
+  {
+    "id": "SRC-004",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/模板/日月周/周模版.md",
+    "archive_path": "total/Life OS(source)/每日笔记/模板/日月周/周模版.md",
+    "bytes": 373,
+    "sha256": "d5ab3795e54348cd3c6127b1d2998254b5d710961b3f37037b7049bbbcdad7ee",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "reference"
+  },
+  {
+    "id": "SRC-005",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/模板/日月周/日模板.md",
+    "archive_path": "total/Life OS(source)/每日笔记/模板/日月周/日模板.md",
+    "bytes": 353,
+    "sha256": "7df269930ad32ad56229930cb5faabb16393fda3f0667b27d5b7dce61b69d6c2",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "reference"
+  },
+  {
+    "id": "SRC-006",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/模板/日月周/月模板.md",
+    "archive_path": "total/Life OS(source)/每日笔记/模板/日月周/月模板.md",
+    "bytes": 772,
+    "sha256": "42dd1dfc9751bef9efebc9ce7803bdf9a7c027139508736c15c643f90abe7fdf",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "reference"
+  },
+  {
+    "id": "SRC-007",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/模板/极简学习循环.md",
+    "archive_path": "total/Life OS(source)/每日笔记/模板/极简学习循环.md",
+    "bytes": 420,
+    "sha256": "8a765d7e31b7bcf26d5004ea95e737a3beb4e5cdb6a08056e222d4eaa87f1e7f",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "reference"
+  },
+  {
+    "id": "SRC-008",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(14-20)-日/2026-09-14.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(14-20)-日/2026-09-14.md",
+    "bytes": 1176,
+    "sha256": "7f6953b5762615037ce5153ed4a18fbbe0d5dcb62232441516ccbda6ff4f4beb",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-009",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(14-20)-日/2026-09-15.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(14-20)-日/2026-09-15.md",
+    "bytes": 1289,
+    "sha256": "36c819bf2631f32a9f44fc29f7386e0714778d930f5e19172f15fc2c6aa04653",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-010",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(14-20)-日/2026-09-16.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(14-20)-日/2026-09-16.md",
+    "bytes": 2216,
+    "sha256": "db6500ec00a6645308f191b4a1a0d226a11c74d013ffbd1bb913fefb929cc8ad",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-011",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(14-20)-日/2026-09-17.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(14-20)-日/2026-09-17.md",
+    "bytes": 1854,
+    "sha256": "4de3accb1afddad801e26c7779b67090c88355dcff9c12e9dd5a2091eb60deb8",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-012",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(14-20)-日/2026-09-18.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(14-20)-日/2026-09-18.md",
+    "bytes": 1551,
+    "sha256": "697d2bf7e9e179cd0f69ab8611e8c487b4906d08c7004a12d610fe940187e9fc",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-013",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(14-20)-日/2026-09-19.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(14-20)-日/2026-09-19.md",
+    "bytes": 2123,
+    "sha256": "67d63c9483241d96d36976b01ba759784b3a183dfadb094a89ebe40b9f2d8f82",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-014",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(14-20)-日/2026-09-20(周总结).md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(14-20)-日/2026-09-20(周总结).md",
+    "bytes": 2877,
+    "sha256": "bb599266369d8b33a5dfef0d734132add49bcc4318d479646838058a875457fa",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "legacy_weekly_report"
+  },
+  {
+    "id": "SRC-015",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(14-20)-日/2026-09-20.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(14-20)-日/2026-09-20.md",
+    "bytes": 1688,
+    "sha256": "f7a4c2d6909c572da3af96dc3e932857503afbd8b5e15f178324242a2a939583",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-016",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-21.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-21.md",
+    "bytes": 2073,
+    "sha256": "62e766ca59308a546d2663a6351439d2faba7a9a680bc4b20241b5c22c0ae3f2",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-017",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-22.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-22.md",
+    "bytes": 2114,
+    "sha256": "594c17249834e0401edc7a150cfa958a5b325a9407bf6ba90446fcf5e522cc32",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-018",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-23.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-23.md",
+    "bytes": 1945,
+    "sha256": "ceeb4e642aaeb98ac87e71b458b0a5ddf5f3908068d83ce55c291e233d0e3b52",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-019",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-24.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-24.md",
+    "bytes": 2355,
+    "sha256": "747a3ade1d3832c2ba7f0d31ac84720734f431994ccfc827140250f924477e5c",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-020",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-25.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-25.md",
+    "bytes": 779,
+    "sha256": "c966e0ceeb9e782513e399d21655010fabdcd7447a27988cc40644c3e5e08264",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-021",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-26.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-26.md",
+    "bytes": 755,
+    "sha256": "aeedef7fff8a6fbb661b0a6a26de595ac4b6d534b44f9c6920bde06457e26578",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-022",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-27(周总结).md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-27(周总结).md",
+    "bytes": 3765,
+    "sha256": "69d06ffba8428ff4f83ee53724c0910f467ce75176863460f8beb95569e61b76",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "legacy_weekly_report"
+  },
+  {
+    "id": "SRC-023",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-27.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-27.md",
+    "bytes": 764,
+    "sha256": "b527fb7c08224a2f48b59d1d2e6bb9f14738dc9998d8225609313df6bbe2a49a",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-024",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(28-04)-日/2026-09-28.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(28-04)-日/2026-09-28.md",
+    "bytes": 1329,
+    "sha256": "e84cdd58b5945e1c361641075bd495e00488955e032cff77e6bef3c8ad5285d5",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-025",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(28-04)-日/2026-09-29.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(28-04)-日/2026-09-29.md",
+    "bytes": 1314,
+    "sha256": "f9e4b42fe26d821acf1466c226b32a9980ac93da495404e600d1b6623c43c3bf",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-026",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(28-04)-日/2026-09-30.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(28-04)-日/2026-09-30.md",
+    "bytes": 859,
+    "sha256": "18241705cda7217c7e2afb4f5fb985e3240f989a5635118afff7b0aac6332ea6",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-027",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(28-04)-日/2026-10-01.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(28-04)-日/2026-10-01.md",
+    "bytes": 1136,
+    "sha256": "76238433f1433a1746b36768df424d1f6b1183f3ec8aa4d32835b94b5505e516",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-028",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(28-04)-日/2026-10-02.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(28-04)-日/2026-10-02.md",
+    "bytes": 1163,
+    "sha256": "47588f98809dd3551cfb217f49ebd1af7dce04c0674f20b153dd1e7b5ca83a3f",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-029",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(28-04)-日/2026-10-03.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(28-04)-日/2026-10-03.md",
+    "bytes": 420,
+    "sha256": "b300eccb7d00a7a69e89d615c3af8b80465c6ce9f30587ef706d36c34397c87a",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-030",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(28-04)-日/2026-10-04(周总结).md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(28-04)-日/2026-10-04(周总结).md",
+    "bytes": 829,
+    "sha256": "bc0e0f02c74cc17f0363fd106d324c832c4a9b93f60f64037e8dad101a1cfd36",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "legacy_weekly_report"
+  },
+  {
+    "id": "SRC-031",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(28-04)-日/2026-10-04.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(28-04)-日/2026-10-04.md",
+    "bytes": 983,
+    "sha256": "5b126965e94322733ca7fcb1529708c141817e137d9969352f121084d2a9e609",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-032",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-30(月总结).md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-30(月总结).md",
+    "bytes": 3859,
+    "sha256": "2524ca73aecc35a800c897059f4f0cf3863ffe267076cc144f64d2d91961c6d9",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "legacy_monthly_report"
+  },
+  {
+    "id": "SRC-033",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-10-(05-01)/2026-10-(05-11)-日/2026-10-05.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-10-(05-01)/2026-10-(05-11)-日/2026-10-05.md",
+    "bytes": 351,
+    "sha256": "fe6c5042728a500daf1de87f2f9f218019982bc0c392c1de9d6f9d3ff6a5f005",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-034",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-10-(05-01)/2026-10-(05-11)-日/2026-10-06.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-10-(05-01)/2026-10-(05-11)-日/2026-10-06.md",
+    "bytes": 912,
+    "sha256": "3c48a15a5f5de1e94e50f536e2ee0744bcac80bad687babf9c19704b44c2f62e",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-035",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-10-(05-01)/2026-10-(05-11)-日/2026-10-07.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-10-(05-01)/2026-10-(05-11)-日/2026-10-07.md",
+    "bytes": 452,
+    "sha256": "c560ce1a1d60a2e6e837c89510743e99e8bae7340b94ee13f73c063223d7e360",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-036",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-10-(05-01)/2026-10-(05-11)-日/2026-10-08.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-10-(05-01)/2026-10-(05-11)-日/2026-10-08.md",
+    "bytes": 482,
+    "sha256": "542bc792758665c11fd1e281383d42bec831a81a36edcf37772f40f3acedf433",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-037",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-10-(05-01)/2026-10-(05-11)-日/2026-10-09.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结(New)/2026-10-(05-01)/2026-10-(05-11)-日/2026-10-09.md",
+    "bytes": 332,
+    "sha256": "25367fa3d9b06a207230930896a0b289ecffce1bef19440fab24c3a5034c0c81",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-038",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结9.14之前/2026-07-21.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结9.14之前/2026-07-21.md",
+    "bytes": 109,
+    "sha256": "e026fc8dcbd0b91e8fa9fb32b2eeae07f2fec07f10554deff64237e1ebb4b832",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-039",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结9.14之前/2026-07-22.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结9.14之前/2026-07-22.md",
+    "bytes": 9,
+    "sha256": "b9f60ea5c242786903ce5e38613e227fba1f03a3da2387993f5a9e3cfe376439",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-040",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结9.14之前/2026-07-23.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结9.14之前/2026-07-23.md",
+    "bytes": 327,
+    "sha256": "c965cce05de7e4a1c14ba57174173e331d5d421f219622575519e0cef32815a6",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-041",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结9.14之前/2026-08-09.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结9.14之前/2026-08-09.md",
+    "bytes": 282,
+    "sha256": "629fed22315748584a467c88c742fe2767e1e95e98b96f4c7a3567edce11f099",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "reference"
+  },
+  {
+    "id": "SRC-042",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结9.14之前/2026-09-02.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结9.14之前/2026-09-02.md",
+    "bytes": 272,
+    "sha256": "863363e6573ce5a5c57cd88bab37ed699e79d6a4eb267d85ba4ce13a4d3641b1",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-043",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结9.14之前/2026-09-08.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结9.14之前/2026-09-08.md",
+    "bytes": 387,
+    "sha256": "e8cd6c60f0a742fd7d324d4f1da087d7098d7046cd4ee57bd12d553747380589",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-044",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结9.14之前/2026-09-09.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结9.14之前/2026-09-09.md",
+    "bytes": 180,
+    "sha256": "2e16698a97bf23ea0888b0fea01bbda5419d96d59f7be95d9b9f62e93d32cac0",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-045",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结9.14之前/2026-09-10.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结9.14之前/2026-09-10.md",
+    "bytes": 471,
+    "sha256": "f05f7ff60b43314affa27b34fcca0d58772fe68b6a9cf9a7cc2d282f16a76550",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-046",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结9.14之前/2026-09-11.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结9.14之前/2026-09-11.md",
+    "bytes": 699,
+    "sha256": "4bc8a9c34444506c99b4fe53ef4164222382b9d3901f8aebbcd0129d003fb95f",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-047",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结9.14之前/2026-09-12.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结9.14之前/2026-09-12.md",
+    "bytes": 786,
+    "sha256": "8569c247742d82b6fcea3ef1ef86da688f3f447ab2b46ac82c7f09620ed8ff65",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-048",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结9.14之前/2026-09-13(周总结).md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结9.14之前/2026-09-13(周总结).md",
+    "bytes": 1414,
+    "sha256": "e0dc48373dacc7ef7fe824b095062458dcd985aa082df897cb2661371ade294c",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "legacy_weekly_report"
+  },
+  {
+    "id": "SRC-049",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结9.14之前/2026-09-13.md",
+    "archive_path": "total/Life OS(source)/每日笔记/每日总结9.14之前/2026-09-13.md",
+    "bytes": 212,
+    "sha256": "f6ada5d845d480d069669ff44f62e36c379ee93beea0fa46cfdedede9ca06b2c",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "daily_record"
+  },
+  {
+    "id": "SRC-050",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/游戏启发/学习游戏化思维-圣经.md",
+    "archive_path": "total/Life OS(source)/每日笔记/游戏启发/学习游戏化思维-圣经.md",
+    "bytes": 2730,
+    "sha256": "aedd339d9dfed676d7ed9884253ac03a00bf3608af24005af87471b8ea569dcd",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "reference"
+  },
+  {
+    "id": "SRC-051",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/游戏启发/核心思想.md",
+    "archive_path": "total/Life OS(source)/每日笔记/游戏启发/核心思想.md",
+    "bytes": 1055,
+    "sha256": "2d107099af6bf6bc44202275e20b72cfb0b043a679d7082b6975263de1030b21",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "reference"
+  },
+  {
+    "id": "SRC-052",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/生活/出国规划.md",
+    "archive_path": "total/Life OS(source)/每日笔记/生活/出国规划.md",
+    "bytes": 71,
+    "sha256": "7ceb61610aba6a0c265fbc38c559a43959e73b63810790ae5eab48a4870cc0f8",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "reference"
+  },
+  {
+    "id": "SRC-053",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/生活/耐受性.md",
+    "archive_path": "total/Life OS(source)/每日笔记/生活/耐受性.md",
+    "bytes": 355,
+    "sha256": "552f9be77d5fa26d61fd86c78b0645c86ef1a8ae5a1c58a55b4ded9e4115cd8d",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "reference"
+  },
+  {
+    "id": "SRC-054",
+    "path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/生活/自我要求总结.md",
+    "archive_path": "total/Life OS(source)/每日笔记/生活/自我要求总结.md",
+    "bytes": 505,
+    "sha256": "cd297532e6dca3386390e55051af5b463b64bf47d6a837a40862ed5569815b84",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "reference"
+  },
+  {
+    "id": "SRC-055",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/README - 分类说明.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/README - 分类说明.md",
+    "bytes": 1211,
+    "sha256": "c6f7c16d9f285423da5e011f55678b415189538c5026642e0fc6b4bb44a17629",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "reference"
+  },
+  {
+    "id": "SRC-056",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/知识系统/词汇/元音字母.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/知识系统/词汇/元音字母.md",
+    "bytes": 6,
+    "sha256": "f1cdd7dbca5e00b105640ad84f60553e6c4bd8bdb3938394ad6d791a77c2fec0",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-057",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/知识系统/词汇/单词相似.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/知识系统/词汇/单词相似.md",
+    "bytes": 460,
+    "sha256": "d6a148950943a906f311b75dbb421b3fe632ad8724b30c45be3f975a481b962f",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-058",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/知识系统/词汇/同(似)音词.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/知识系统/词汇/同(似)音词.md",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "encoding": "utf-8",
+    "empty": true,
+    "role": "reference"
+  },
+  {
+    "id": "SRC-059",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/知识系统/词汇/常用短语与搭配.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/知识系统/词汇/常用短语与搭配.md",
+    "bytes": 4440,
+    "sha256": "1c38864fcfcc71a6e35da4099291f88f3ae7d1cc02133acaf28c4c5149f1f5bf",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-060",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/知识系统/词汇/阅读词汇.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/知识系统/词汇/阅读词汇.md",
+    "bytes": 2287,
+    "sha256": "f79af2db79adc4be137700c8085de93ec346e9cc87564ddfbfc29bc439c394a2",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-061",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/知识系统/语法/介词 - at on in.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/知识系统/语法/介词 - at on in.md",
+    "bytes": 113,
+    "sha256": "ee41b780079fb5ad0522fa95fb1245a2fa50157364fa90cce420a4c8b6f470ab",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-062",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/知识系统/语法/介词 - of & for.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/知识系统/语法/介词 - of & for.md",
+    "bytes": 134,
+    "sha256": "c452b758273ba797a84ffd99bcab6da1ff6269242acbccd2e080230f4a8828ae",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-063",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/知识系统/语法/动词 - 不规则过去式.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/知识系统/语法/动词 - 不规则过去式.md",
+    "bytes": 69,
+    "sha256": "a65aab80ff676f82f1c584c028527b2ed6e5f1bc592737f3304fb94a9bf241bc",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-064",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/知识系统/语法/动词 - 现在分词.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/知识系统/语法/动词 - 现在分词.md",
+    "bytes": 181,
+    "sha256": "32eb827e6747bd7ad3f0b9e3cb165dff887d865713678d1f1d8d28be7ea83805",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-065",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/知识系统/语法/动词 - 规则过去式.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/知识系统/语法/动词 - 规则过去式.md",
+    "bytes": 595,
+    "sha256": "d1aff0c2b3b00c5af9d358dbd01f81b6efcf578ecd46d72b65c574ef9cc9100e",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-066",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/知识系统/语法/动词 - 过去式与过去分词.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/知识系统/语法/动词 - 过去式与过去分词.md",
+    "bytes": 1413,
+    "sha256": "95131d8c1e1e4f2dcb325550aa604cf53fd3efae95682808635e32c67c60b603",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-067",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/知识系统/语法/名词 - 不规则变化.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/知识系统/语法/名词 - 不规则变化.md",
+    "bytes": 208,
+    "sha256": "96116abd1897d44c38e2ec5ab9392683f0d14eaa1a3526fa1a2dc91b4ef3ccb4",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-068",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/知识系统/语法/名词 - 专有名词.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/知识系统/语法/名词 - 专有名词.md",
+    "bytes": 735,
+    "sha256": "33169f7425fa85f0e4929428489ebf1ee45f17794cabe6a52be9af909b2b2679",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-069",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/知识系统/语法/名词 - 特殊变化.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/知识系统/语法/名词 - 特殊变化.md",
+    "bytes": 519,
+    "sha256": "63b2d086a9e86e396cd4fb6ceb0cb8b599d0af9f9535335e0bd1ebecd98fc570",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-070",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/知识系统/语法/名词 - 规则变化.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/知识系统/语法/名词 - 规则变化.md",
+    "bytes": 1186,
+    "sha256": "d1ded75f34777cf559198d4851317a6bcfcf7756ef1dbf1f25f2e9a1c9c96e3d",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-071",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/知识系统/语法/形容词 - 比较级.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/知识系统/语法/形容词 - 比较级.md",
+    "bytes": 931,
+    "sha256": "f9f8de7ca80371a26d8bef56c970918f98e5775839ff350867d676b66b26b399",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-072",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/知识系统/语法/形容词.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/知识系统/语法/形容词.md",
+    "bytes": 58,
+    "sha256": "fb5d2a32c5170773bd50f6ccb6b182f0a34655a9ae9f79476e19c97e581ca6fd",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-073",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/知识系统/语法/第三人称单数.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/知识系统/语法/第三人称单数.md",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "encoding": "utf-8",
+    "empty": true,
+    "role": "reference"
+  },
+  {
+    "id": "SRC-074",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/知识系统/语法/英语语法总览.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/知识系统/语法/英语语法总览.md",
+    "bytes": 795,
+    "sha256": "9a0b424cf0cbfe5b476e79b516740076d0975525d53c77ef233edd43ec64dd8c",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-075",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/English study/输出/口语/英语十大习惯 - 综合练习.md",
+    "archive_path": "total/Personal Knowledge OS(source)/English study/输出/口语/英语十大习惯 - 综合练习.md",
+    "bytes": 357,
+    "sha256": "4e7f7110d9e6a62dc69deff9028a68fd47290617b425ebf3e077d17aaaccfa49",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-076",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/english.md",
+    "archive_path": "total/Personal Knowledge OS(source)/english.md",
+    "bytes": 5200,
+    "sha256": "63884c051385ecb5793d95fff605a682c216f06307be54098113e9e6529beb79",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "legacy_diagnostic_summary"
+  },
+  {
+    "id": "SRC-077",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/math.md",
+    "archive_path": "total/Personal Knowledge OS(source)/math.md",
+    "bytes": 4517,
+    "sha256": "abbd52690712f3579cb5f8e5c10be1bf06eabb5f8b43e3403c7556d95f0874d0",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "legacy_diagnostic_summary"
+  },
+  {
+    "id": "SRC-078",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c++语言/CS106L Standard  Programming.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c++语言/CS106L Standard  Programming.md",
+    "bytes": 2225,
+    "sha256": "3716816a23bbf37e7b39f6d72cc56e9346857f19ea684e8fd24a779442a2c602",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "resource_collection"
+  },
+  {
+    "id": "SRC-079",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c++语言/tips.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c++语言/tips.md",
+    "bytes": 95,
+    "sha256": "c4e962c95e71a4dee536ffbb66957f48ceadd38a7baea8ac8baa20e8a10b06ed",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-080",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c++语言/编译.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c++语言/编译.md",
+    "bytes": 118,
+    "sha256": "ab6c48c2a881beba41b1929ffcac07d19a59896f94043cccc2f6a09937832703",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-081",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c++语言/调用.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c++语言/调用.md",
+    "bytes": 142,
+    "sha256": "a7b32791468b3509891028c48e12720012e125413b552ec9de5667596afc3e14",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-082",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c++语言/链接.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c++语言/链接.md",
+    "bytes": 43,
+    "sha256": "4ee3b0e1be42b442ae22c2039ad4259c5179c44f93eed6f4554535c0539f9a0c",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-083",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/c语言个人总结/学习回文素数的积累.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/c语言个人总结/学习回文素数的积累.md",
+    "bytes": 426,
+    "sha256": "db539986341c9f41fa1fb75ae068fc0bdc4306e7ba43e08c6a290c23486354e8",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-084",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/c语言个人总结/换水桶.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/c语言个人总结/换水桶.md",
+    "bytes": 70,
+    "sha256": "12ffe82cc01c60629bdcf68e9820470b92e4a6f5969f83558aee209bd93ee4e7",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-085",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/c语言个人总结/数组初始化.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/c语言个人总结/数组初始化.md",
+    "bytes": 113,
+    "sha256": "08fcb1abb9cbc5938cde83a113ab60d8e1fee923a6aecacc65babcce7f617077",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-086",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/c语言个人总结/碾转相除法.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/c语言个人总结/碾转相除法.md",
+    "bytes": 66,
+    "sha256": "aafa35bf89a9a5be99443c671a6264cc804253286e04460c44db2deca9463d35",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-087",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/c语言个人总结/计数器.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/c语言个人总结/计数器.md",
+    "bytes": 53,
+    "sha256": "24c1959706e79f954bd6fac41acdb7ef3a2bea823f330292134112bba9f02362",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-088",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/c语言个人总结/非人想的方法.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/c语言个人总结/非人想的方法.md",
+    "bytes": 405,
+    "sha256": "7aa19b21aa0c0f0d314c2ea17341d80026292231103ce9c3765c08af1637567d",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-089",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/代码风格.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/代码风格.md",
+    "bytes": 112,
+    "sha256": "2ac02390fa55c06f80e145936cbfbafc28a8dcabf899c5d3fd9e66cc69fadd63",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-090",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/其他tips.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/其他tips.md",
+    "bytes": 516,
+    "sha256": "2d4b1e890a40e23ae3c76fcc8bd95afe96c5fd65029f260c4c1325e923f1433d",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-091",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/1.固定格式.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/1.固定格式.md",
+    "bytes": 111,
+    "sha256": "7d949716aa82fe3aa3e0321e5a2dd921fe4b5b4d35b7bef10e9b413155980a06",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-092",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/10.随机数.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/10.随机数.md",
+    "bytes": 165,
+    "sha256": "49f61a65c7f29288fd415bdffdb99ce672cbdd543a9e2eb06af53617e2ea77a9",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-093",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/11.数组基本定义.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/11.数组基本定义.md",
+    "bytes": 1251,
+    "sha256": "3473068cffb0036a1e46f28d6bb91f5445d95958f8293d38d80aeed8f2cbaa33",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-094",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/12.函数/使用函数/1函数原型声明.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/12.函数/使用函数/1函数原型声明.md",
+    "bytes": 791,
+    "sha256": "12f47d3ca8bb938b11edec49f2b71a605f8330e3eb12ca8ec5eb937987f9d60f",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-095",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/12.函数/使用函数/2传值，参数和值的关系.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/12.函数/使用函数/2传值，参数和值的关系.md",
+    "bytes": 389,
+    "sha256": "1640fbe035bee1637e9f9e64ce3fde195d3fa86c258ffa0b045e0bca31b08b10",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-096",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/12.函数/使用函数/3从函数中返回值.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/12.函数/使用函数/3从函数中返回值.md",
+    "bytes": 718,
+    "sha256": "05e2694d6732766bd96bcd42a69ddca6d89d2e0f753a7cb232df827cbac52c07",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-097",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/12.函数/使用函数/4如何调用函数.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/12.函数/使用函数/4如何调用函数.md",
+    "bytes": 325,
+    "sha256": "8254931622a8e7896b05201c093ec35bf184bc0564803b4375865ed3abbaf841",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-098",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/12.函数/函数的定义.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/12.函数/函数的定义.md",
+    "bytes": 356,
+    "sha256": "8a9a1f7b7275b585b0090723123e526052f1d1ca3c4d822b03beb924b28deb5e",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-099",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/12.函数/本地变量/1本地变量的定义.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/12.函数/本地变量/1本地变量的定义.md",
+    "bytes": 248,
+    "sha256": "1ebfc42842c8dc6db35f9584a4eea30dc20dacde1151fa2dbcce9949acd46f7f",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-100",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/12.函数/本地变量/2变量的生存期和作用域.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/12.函数/本地变量/2变量的生存期和作用域.md",
+    "bytes": 275,
+    "sha256": "d13a5f463ab46ff3983a64ad7dc20c7916a45a18ed1a0eae71c3c0b7984733ca",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-101",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/12.函数/本地变量/3本地变量规则.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/12.函数/本地变量/3本地变量规则.md",
+    "bytes": 477,
+    "sha256": "5ec2b0b17e84fbf073f6b764653d06fe32a2aab5a1823dc1f2ae9b744f16eade",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-102",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/13.二维数组.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/13.二维数组.md",
+    "bytes": 289,
+    "sha256": "382df4480a40d600dd968d0df4a9279dbebd4f5d7da5323fc37be3b2a68b8171",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-103",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/14.数组运算/数组的大小.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/14.数组运算/数组的大小.md",
+    "bytes": 232,
+    "sha256": "ce7c7c306a177920555889262adacfdf11c07fac831b236fc86d7d2a87963918",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-104",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/14.数组运算/数组的赋值.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/14.数组运算/数组的赋值.md",
+    "bytes": 157,
+    "sha256": "5da3269a10963fdb51fe2ddfbea8c2f117cefbe1cad706682a70f508c1f5561e",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-105",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/14.数组运算/数组的集成初始化.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/14.数组运算/数组的集成初始化.md",
+    "bytes": 158,
+    "sha256": "2dfa774de50002e46d8c6ec23c5d8fde106a8fcc59e81fa758a8bffb3e75d88b",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-106",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/15.搜索/二分搜索.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/15.搜索/二分搜索.md",
+    "bytes": 566,
+    "sha256": "ea6871e9faa7c66100ad905491c1269b0a0e1962c8b05e09c4ce16d8fddcd092",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-107",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/15.搜索/排序初步二分法前提.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/15.搜索/排序初步二分法前提.md",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "encoding": "utf-8",
+    "empty": true,
+    "role": "reference"
+  },
+  {
+    "id": "SRC-108",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/15.搜索/线性搜索.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/15.搜索/线性搜索.md",
+    "bytes": 403,
+    "sha256": "ecf97827e3c13f572b3d606539dff9a3fdf50323621b91f2effd46c60b181046",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-109",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/16.指针与字符串/两个运算符.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/16.指针与字符串/两个运算符.md",
+    "bytes": 270,
+    "sha256": "c606df5b06ea707a1e28073d75349fe93e838aaa261cc68d73342bbbeeb36132",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-110",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/16.指针与字符串/指针.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/16.指针与字符串/指针.md",
+    "bytes": 69,
+    "sha256": "9a1a8156dfc491cbbd72a2c70d6188f57e95b078475b6b228760f3371e7e6d56",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-111",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/16.指针与字符串/指针4种使用方式.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/16.指针与字符串/指针4种使用方式.md",
+    "bytes": 652,
+    "sha256": "026f85d61f13ebd3dfb827704520e12bf66abc39f6d78790824937b45ee21421",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-112",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/16.指针与字符串/指针和数组的关系.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/16.指针与字符串/指针和数组的关系.md",
+    "bytes": 498,
+    "sha256": "fb671c584fca8a4f6418330cddef8f8b6acc542c67b9dcdb194e2f9d324cbf90",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-113",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/2.赋值    四种类型定义.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/2.赋值    四种类型定义.md",
+    "bytes": 246,
+    "sha256": "bb507a5bf260a486be81f87e0fe25385960c91ab90f03e1a942607507ffb66ae",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-114",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/3.printf输出数.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/3.printf输出数.md",
+    "bytes": 527,
+    "sha256": "8ffee0d9c2ba57e07dcac77bc4a57fd6ae98825747c6e54a91e75eab349986f4",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-115",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/4.scanf语句.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/4.scanf语句.md",
+    "bytes": 249,
+    "sha256": "b06b432f8a7878a3a06bdcea120bcdd69800122504f06f2de2b4867345fd9a26",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-116",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/5.条件判断语句.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/5.条件判断语句.md",
+    "bytes": 746,
+    "sha256": "c285e8277b241cc9216819b67e849171ae23e6524ece3231d04bcad09ee56e1b",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-117",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/6.运算优先级及运算.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/6.运算优先级及运算.md",
+    "bytes": 716,
+    "sha256": "124763ea84919a914ddd620c95a7de1fb2ef25703914014172d31404e3b2ec44",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-118",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/7.循环语句.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/7.循环语句.md",
+    "bytes": 683,
+    "sha256": "5917bb761ad4c7af5a67e766158602b3b0ae609a449dfce9cd08188a6b9391f0",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-119",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/8.结束语句，可用于循环嵌套结束.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/8.结束语句，可用于循环嵌套结束.md",
+    "bytes": 168,
+    "sha256": "ca73af20f88af8c53af3e4670abe89f0902926c44b8197271734333c7be0621a",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-120",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/9.条件，逗号运算符,没什么用.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/c语言/基础语法/9.条件，逗号运算符,没什么用.md",
+    "bytes": 449,
+    "sha256": "9c64eb9223602c99dafaf38e40ce81d98ff01b27f199867528a93057baf3ca1f",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-121",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/10变量赋值foo.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/10变量赋值foo.md",
+    "bytes": 404,
+    "sha256": "46adde13ae3181dc7ee915b3ba1b0f904d3a7219ea64d89748209854744aea51",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-122",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/11返回输出`错误`.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/11返回输出`错误`.md",
+    "bytes": 62,
+    "sha256": "77cbb7f81aeadb39b352d57a5a41be538cf286e817374750feb52ac23a8e9f41",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-123",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/12grep命令.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/12grep命令.md",
+    "bytes": 32,
+    "sha256": "2d86c36bc668cdd528254b4cd094220366f37c991e628a5d283b8ca771956ae1",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-124",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/13替换命令.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/13替换命令.md",
+    "bytes": 467,
+    "sha256": "5ead5da08a83e858e65181ec44d3f92b9f8ae5f3dde166eefe529d024190718b",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-125",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/14通配符.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/14通配符.md",
+    "bytes": 315,
+    "sha256": "4e3d4abba9d77739d619b54a06f56cadd163657dc41ca239f82bddffc0c3d624",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-126",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/15花括号.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/15花括号.md",
+    "bytes": 749,
+    "sha256": "df860adf9b979b39041c0642bdcd7080ae51899d97929e25a18089ca7adf8e36",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-127",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/16touch命令.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/16touch命令.md",
+    "bytes": 898,
+    "sha256": "fe8362e994301c0b26e541060155e35cabb0599be4928a8acdf31c21a05d0304",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-128",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/17shell 函数和脚本.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/17shell 函数和脚本.md",
+    "bytes": 825,
+    "sha256": "aea23ffe0e71bf13988505704edd618782186053265bfff755684eff22b43852",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-129",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/18chmod命令添加权限.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/18chmod命令添加权限.md",
+    "bytes": 319,
+    "sha256": "3741a8f427353e9e351de12326fb76428b541bc11704fd94d969779fc9f83910",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-130",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/19env命令行工具.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/19env命令行工具.md",
+    "bytes": 932,
+    "sha256": "024e24ec00ca41c98d9403020f8fe8853963d55512fc4336a27242c10a378bcf",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-131",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/1初步认识.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/1初步认识.md",
+    "bytes": 708,
+    "sha256": "49d2c77559c2c3120a94cef036e0ce162c9b33b9d28ef6fb43273e5b04c913e1",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-132",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/2导航 cd.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/2导航 cd.md",
+    "bytes": 655,
+    "sha256": "cde67165e8a5c4cc84598aa20ef1c56f52057559b4a2cfeadef50db3dafc94e7",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-133",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/2相对与绝对路径.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/2相对与绝对路径.md",
+    "bytes": 662,
+    "sha256": "c62bcb6c4df1e624807f96f912c4727d1abf1e4e962589bf3693a1f6a66c40af",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-134",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/4基础命令.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/4基础命令.md",
+    "bytes": 221,
+    "sha256": "e7bfdb1dc83c481dea60803f23cd2f9ec7f2589b63eda9b0e339c19c1c02c219",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-135",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/5管道（定向）.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/5管道（定向）.md",
+    "bytes": 2127,
+    "sha256": "f4607a255ee2e1d1e8f323d34dd1721bdc5fe1e2a479bc56dbd99b512a7ed11a",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-136",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/6错误码.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/6错误码.md",
+    "bytes": 628,
+    "sha256": "c32ee6b031036c7a90cbf78b278a2e9ee55a1e2f6e562c9b2ab6b797763fa7f1",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-137",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/7mv cp mkdir基础命令.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/7mv cp mkdir基础命令.md",
+    "bytes": 901,
+    "sha256": "542278210e3d243a12a6df73c61793a7549f8400bfe69c1811d04c5f0dd413e1",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-138",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/8特殊变量.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/8特殊变量.md",
+    "bytes": 631,
+    "sha256": "5c9d705a9253bd18932f3f25b0653c10c4650779ab3e342989604d885201af92",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-139",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/9分隔符与操作符.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/9分隔符与操作符.md",
+    "bytes": 538,
+    "sha256": "39e330518683619fb5972c1be19656627e6419076ee018c432fadbc774a89915",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-140",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/a Shell 工具 查看命令如何使用.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/a Shell 工具 查看命令如何使用.md",
+    "bytes": 1568,
+    "sha256": "219c9a8bb44ec75bc69768b87f053d0caefd6093d01756a5f94c047d0f4dbe84",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-141",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/b 查找文件.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/b 查找文件.md",
+    "bytes": 2796,
+    "sha256": "3594be78f88339a16f5a460b20733238d8158d8cca80d2c7ef2751a7ca6ec26e",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-142",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/c 查找代码.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/c 查找代码.md",
+    "bytes": 1897,
+    "sha256": "6357426c64310f46e386ec4e0081478ce9378a1236b620d55539da00ec97436d",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-143",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/d 文件夹导航.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/d 文件夹导航.md",
+    "bytes": 1446,
+    "sha256": "ecd78381a4312a07c185ac878fd30e90628d133660dd67911e6b14bace35857a",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-144",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/e 查找 shell 命令.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/e 查找 shell 命令.md",
+    "bytes": 2210,
+    "sha256": "29bc358594ebb2b48c090d6138e5da66e320267bd68f4a982529f40ee8a34f62",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-145",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/if.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/if.md",
+    "bytes": 39,
+    "sha256": "63f507ab5fab40ca4464a5a7c0299aec2aa2439ac17c06d4c784aa20b6852999",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-146",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/local声明.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/local声明.md",
+    "bytes": 95,
+    "sha256": "2008b90d909d466c266b04d06e40fd6de8c9e67a0ca434c5b13f8c75a36c3c97",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-147",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/mano编辑器.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/mano编辑器.md",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "encoding": "utf-8",
+    "empty": true,
+    "role": "reference"
+  },
+  {
+    "id": "SRC-148",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/Nano与其他对比.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/Nano与其他对比.md",
+    "bytes": 415,
+    "sha256": "3666fe48d8ab946473aa6cdc6d5c89074d46788aa6b7214470aaeca826e32509",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-149",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/Shebang.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/Shebang.md",
+    "bytes": 2666,
+    "sha256": "ff0f07238cc12f0dceed3cd1828371a58215fcea8a97c79961f70a53fe61ebfd",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-150",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/source加载函数.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/source加载函数.md",
+    "bytes": 830,
+    "sha256": "a06b8542c2688391107e549e3f98d6ff04a2cdf5801e107a8d9a7a5186f12f21",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-151",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/sudo.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/sudo.md",
+    "bytes": 1947,
+    "sha256": "f5c3d62cd17506a266130affb0d4b49e459e8753d024399b81e73e368823a4ae",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-152",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/tips.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/tips.md",
+    "bytes": 1187,
+    "sha256": "206e0d218d4a6b4c455ccb35580dce3ced780cfd6cd44250f18fa0d308f7ef8d",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-153",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/工具.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/计算机语言/shell脚本语言/工具.md",
+    "bytes": 186,
+    "sha256": "b1585ea5facba7e2bfdb39d9934355de716beb37d9173226ef79673504275b4f",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-154",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/辅助工具/git必学.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/辅助工具/git必学.md",
+    "bytes": 622,
+    "sha256": "9cee364559636609d6292e4057d9c5b8ea1d4ab9b875d48134ca10de76627bd3",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "resource_collection"
+  },
+  {
+    "id": "SRC-155",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/辅助工具/GNU CMake必学.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/辅助工具/GNU CMake必学.md",
+    "bytes": 991,
+    "sha256": "16847d4a0f462d0d9a519b8ca0eb791cbd2a16d03d0576be54a41aa04d7567c4",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "resource_collection"
+  },
+  {
+    "id": "SRC-156",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/辅助工具/LaTeX写论文.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/辅助工具/LaTeX写论文.md",
+    "bytes": 39,
+    "sha256": "b4fd630819e748e0ea932fb3bd08ddadaf5bedba5dbb06ba59070a22f10f19db",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "resource_collection"
+  },
+  {
+    "id": "SRC-157",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/辅助工具/Vim提高打字效率.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/辅助工具/Vim提高打字效率.md",
+    "bytes": 784,
+    "sha256": "7a4d480fc42905b038dc1d5c302a767a14fe4a65aa3a82c202f1e1a08e85b6cb",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "resource_collection"
+  },
+  {
+    "id": "SRC-158",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/通用基础/操作系统/HIT OS Operating System.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/通用基础/操作系统/HIT OS Operating System.md",
+    "bytes": 2105,
+    "sha256": "48f748ac67b808a9233e0bab1216d92402a2b20d3920f0b3588a2b96e877281c",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "resource_collection"
+  },
+  {
+    "id": "SRC-159",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/通用基础/操作系统/UCB Sysadmin DeCal.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/通用基础/操作系统/UCB Sysadmin DeCal.md",
+    "bytes": 1951,
+    "sha256": "9fe6f9b8ea647f385fd23ab30867dbc9a18405924e802979ad65d7be9fd4a6a5",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "resource_collection"
+  },
+  {
+    "id": "SRC-160",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/通用基础/数据结构/Stanford CS106B   XProgramming Abstractions in.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/通用基础/数据结构/Stanford CS106B   XProgramming Abstractions in.md",
+    "bytes": 3024,
+    "sha256": "01792a6fd5b9c01d00a28cf57336b530e5335ab5c4e0e1443cc9d24cd7aadf44",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "resource_collection"
+  },
+  {
+    "id": "SRC-161",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/通用基础/计算机组成原理/哈工大MOOC.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/通用基础/计算机组成原理/哈工大MOOC.md",
+    "bytes": 297,
+    "sha256": "a694143af6cb892f903f460054818da3203ecd4d87d8bc7e7c60e72ba190fd65",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "knowledge_note"
+  },
+  {
+    "id": "SRC-162",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/通用基础/计算机网络/Computer Networking A Top-Down Approach.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/通用基础/计算机网络/Computer Networking A Top-Down Approach.md",
+    "bytes": 1338,
+    "sha256": "e77e29b328b8f943e36abc262488d49340ec27a692b966212ef95d51aba5be75",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "resource_collection"
+  },
+  {
+    "id": "SRC-163",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/通用基础/计算机网络/CS144 Computer Network.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/通用基础/计算机网络/CS144 Computer Network.md",
+    "bytes": 4543,
+    "sha256": "f8a60e86adcfb47ade77c47bfc1be9da5ab87ed6620bc812e029ffc85592097f",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "resource_collection"
+  },
+  {
+    "id": "SRC-164",
+    "path": "imports/2026-10-11-total/originals/total/Personal Knowledge OS(source)/计算机学习/通用基础/计算机网络/USTC Computer NetworkingA Top-Down Approach.md",
+    "archive_path": "total/Personal Knowledge OS(source)/计算机学习/通用基础/计算机网络/USTC Computer NetworkingA Top-Down Approach.md",
+    "bytes": 1180,
+    "sha256": "d7b492b4ca81f930e8ea44ba24f7c27924c3d878a7bc2212fbffdbc4622ecf0e",
+    "encoding": "utf-8",
+    "empty": false,
+    "role": "resource_collection"
+  }
+]

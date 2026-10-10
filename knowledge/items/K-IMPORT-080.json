@@ -1,0 +1,25 @@
+{
+  "source_ids": [
+    "SRC-077"
+  ],
+  "title": "泰勒公式",
+  "legacy_assessment": [
+    "级数与展开相关",
+    "泰勒公式",
+    "存在遗忘"
+  ],
+  "domain": "math",
+  "content": "| 级数与展开相关 | 泰勒公式      | 存在遗忘      |",
+  "priority": "normal",
+  "id": "K-IMPORT-080",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

@@ -1,1 +1,2261 @@
-[]
+[
+  {
+    "id": "K-IMPORT-001",
+    "title": "元音字母",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-056"
+    ]
+  },
+  {
+    "id": "K-IMPORT-002",
+    "title": "单词相似",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-057"
+    ]
+  },
+  {
+    "id": "K-IMPORT-003",
+    "title": "常用短语与搭配",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-059"
+    ]
+  },
+  {
+    "id": "K-IMPORT-004",
+    "title": "阅读词汇",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-060"
+    ]
+  },
+  {
+    "id": "K-IMPORT-005",
+    "title": "介词 - at on in",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-061"
+    ]
+  },
+  {
+    "id": "K-IMPORT-006",
+    "title": "介词 - of & for",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-062"
+    ]
+  },
+  {
+    "id": "K-IMPORT-007",
+    "title": "动词 - 不规则过去式",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-063"
+    ]
+  },
+  {
+    "id": "K-IMPORT-008",
+    "title": "动词 - 现在分词",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-064"
+    ]
+  },
+  {
+    "id": "K-IMPORT-009",
+    "title": "动词 - 规则过去式",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-065"
+    ]
+  },
+  {
+    "id": "K-IMPORT-010",
+    "title": "动词 - 过去式与过去分词",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-066"
+    ]
+  },
+  {
+    "id": "K-IMPORT-011",
+    "title": "名词 - 不规则变化",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-067"
+    ]
+  },
+  {
+    "id": "K-IMPORT-012",
+    "title": "名词 - 专有名词",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-068"
+    ]
+  },
+  {
+    "id": "K-IMPORT-013",
+    "title": "名词 - 特殊变化",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-069"
+    ]
+  },
+  {
+    "id": "K-IMPORT-014",
+    "title": "名词 - 规则变化",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-070"
+    ]
+  },
+  {
+    "id": "K-IMPORT-015",
+    "title": "形容词 - 比较级",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-071"
+    ]
+  },
+  {
+    "id": "K-IMPORT-016",
+    "title": "形容词",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-072"
+    ]
+  },
+  {
+    "id": "K-IMPORT-017",
+    "title": "英语语法总览",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-074"
+    ]
+  },
+  {
+    "id": "K-IMPORT-018",
+    "title": "英语十大习惯 - 综合练习",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-075"
+    ]
+  },
+  {
+    "id": "K-IMPORT-019",
+    "title": "日常生活基础词汇",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-020",
+    "title": "学校、学习相关词汇",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-021",
+    "title": "工作、职业相关基础词汇",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-022",
+    "title": "个人兴趣、目标相关词汇",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-023",
+    "title": "常见情绪与感受词汇",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-024",
+    "title": "根据上下文推测词义",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-025",
+    "title": "相近词汇准确区分",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-026",
+    "title": "主动调用词汇表达观点",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-027",
+    "title": "主语 + 谓语 + 宾语",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-028",
+    "title": "主语 + 系动词 + 表语",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-029",
+    "title": "一般现在时的基础表达",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-030",
+    "title": "`want to do`",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-031",
+    "title": "`hope to do`",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-032",
+    "title": "`like doing`",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-033",
+    "title": "形容词作表语",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-034",
+    "title": "形容词比较级",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-035",
+    "title": "转折、条件、因果连接词",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-036",
+    "title": "理解简单文章主旨",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-037",
+    "title": "获取文章主要信息",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-038",
+    "title": "利用上下文推测意思",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-039",
+    "title": "理解部分抽象观点",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-040",
+    "title": "阅读较长文章",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-041",
+    "title": "识别细节信息",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-042",
+    "title": "理解转折关系",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-043",
+    "title": "理解条件、因果关系",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-044",
+    "title": "理解日常生活对话",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-045",
+    "title": "理解学校安排",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-046",
+    "title": "理解简单工作场景",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-047",
+    "title": "捕捉时间信息",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-048",
+    "title": "理解计划变更",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-049",
+    "title": "识别简单原因",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-050",
+    "title": "同时记忆多个信息",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-051",
+    "title": "听辨相近或关键名词",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-052",
+    "title": "理解复杂转折信息",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-053",
+    "title": "写出简单完整句子",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-054",
+    "title": "表达个人兴趣",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-055",
+    "title": "表达个人目标",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-056",
+    "title": "表达简单观点",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-057",
+    "title": "描述个人感受",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-058",
+    "title": "提出简单问题",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-059",
+    "title": "连续组织多个句子",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-060",
+    "title": "快速调用词汇",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-061",
+    "title": "流畅连续口语表达",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-062",
+    "title": "自主检查语法错误",
+    "priority": "core",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-076"
+    ]
+  },
+  {
+    "id": "K-IMPORT-063",
+    "title": "基本极限计算、等价无穷小代换、洛必达法则",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-077"
+    ]
+  },
+  {
+    "id": "K-IMPORT-064",
+    "title": "基本求导、复合函数求导、隐函数求导、参数方程求导",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-077"
+    ]
+  },
+  {
+    "id": "K-IMPORT-065",
+    "title": "切线方程、法线方程",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-077"
+    ]
+  },
+  {
+    "id": "K-IMPORT-066",
+    "title": "基本积分公式、换元积分法、分部积分法",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-077"
+    ]
+  },
+  {
+    "id": "K-IMPORT-067",
+    "title": "基本定积分计算、对称性、绝对值分段积分、变上限积分求导",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-077"
+    ]
+  },
+  {
+    "id": "K-IMPORT-068",
+    "title": "平面图形面积、旋转体体积、圆盘法、圆环法、柱壳法",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-077"
+    ]
+  },
+  {
+    "id": "K-IMPORT-069",
+    "title": "积分区域分析、直角坐标下的二次积分、积分次序交换、极坐标变换",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-077"
+    ]
+  },
+  {
+    "id": "K-IMPORT-070",
+    "title": "洛必达法则的适用条件、未定式转换",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-077"
+    ]
+  },
+  {
+    "id": "K-IMPORT-071",
+    "title": "单调性判断、极值判断",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-077"
+    ]
+  },
+  {
+    "id": "K-IMPORT-072",
+    "title": "凹凸性、拐点",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-077"
+    ]
+  },
+  {
+    "id": "K-IMPORT-073",
+    "title": "旋转体体积计算",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-077"
+    ]
+  },
+  {
+    "id": "K-IMPORT-074",
+    "title": "驻点、极值、鞍点判断",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-077"
+    ]
+  },
+  {
+    "id": "K-IMPORT-075",
+    "title": "条件极值",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-077"
+    ]
+  },
+  {
+    "id": "K-IMPORT-076",
+    "title": "可分离变量微分方程",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-077"
+    ]
+  },
+  {
+    "id": "K-IMPORT-077",
+    "title": "初值问题",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-077"
+    ]
+  },
+  {
+    "id": "K-IMPORT-078",
+    "title": "一阶线性微分方程",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-077"
+    ]
+  },
+  {
+    "id": "K-IMPORT-079",
+    "title": "二阶线性微分方程",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-077"
+    ]
+  },
+  {
+    "id": "K-IMPORT-080",
+    "title": "泰勒公式",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-077"
+    ]
+  },
+  {
+    "id": "K-IMPORT-081",
+    "title": "方向导数",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-077"
+    ]
+  },
+  {
+    "id": "K-IMPORT-082",
+    "title": "tips",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-079"
+    ]
+  },
+  {
+    "id": "K-IMPORT-083",
+    "title": "编译",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-080"
+    ]
+  },
+  {
+    "id": "K-IMPORT-084",
+    "title": "调用",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-081"
+    ]
+  },
+  {
+    "id": "K-IMPORT-085",
+    "title": "链接",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-082"
+    ]
+  },
+  {
+    "id": "K-IMPORT-086",
+    "title": "学习回文素数的积累",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-083"
+    ]
+  },
+  {
+    "id": "K-IMPORT-087",
+    "title": "换水桶",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-084"
+    ]
+  },
+  {
+    "id": "K-IMPORT-088",
+    "title": "数组初始化",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-085"
+    ]
+  },
+  {
+    "id": "K-IMPORT-089",
+    "title": "碾转相除法",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-086"
+    ]
+  },
+  {
+    "id": "K-IMPORT-090",
+    "title": "计数器",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-087"
+    ]
+  },
+  {
+    "id": "K-IMPORT-091",
+    "title": "非人想的方法",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-088"
+    ]
+  },
+  {
+    "id": "K-IMPORT-092",
+    "title": "代码风格",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-089"
+    ]
+  },
+  {
+    "id": "K-IMPORT-093",
+    "title": "其他tips",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-090"
+    ]
+  },
+  {
+    "id": "K-IMPORT-094",
+    "title": "1.固定格式",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-091"
+    ]
+  },
+  {
+    "id": "K-IMPORT-095",
+    "title": "10.随机数",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-092"
+    ]
+  },
+  {
+    "id": "K-IMPORT-096",
+    "title": "11.数组基本定义",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-093"
+    ]
+  },
+  {
+    "id": "K-IMPORT-097",
+    "title": "1函数原型声明",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-094"
+    ]
+  },
+  {
+    "id": "K-IMPORT-098",
+    "title": "2传值，参数和值的关系",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-095"
+    ]
+  },
+  {
+    "id": "K-IMPORT-099",
+    "title": "3从函数中返回值",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-096"
+    ]
+  },
+  {
+    "id": "K-IMPORT-100",
+    "title": "4如何调用函数",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-097"
+    ]
+  },
+  {
+    "id": "K-IMPORT-101",
+    "title": "函数的定义",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-098"
+    ]
+  },
+  {
+    "id": "K-IMPORT-102",
+    "title": "1本地变量的定义",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-099"
+    ]
+  },
+  {
+    "id": "K-IMPORT-103",
+    "title": "2变量的生存期和作用域",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-100"
+    ]
+  },
+  {
+    "id": "K-IMPORT-104",
+    "title": "3本地变量规则",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-101"
+    ]
+  },
+  {
+    "id": "K-IMPORT-105",
+    "title": "13.二维数组",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-102"
+    ]
+  },
+  {
+    "id": "K-IMPORT-106",
+    "title": "数组的大小",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-103"
+    ]
+  },
+  {
+    "id": "K-IMPORT-107",
+    "title": "数组的赋值",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-104"
+    ]
+  },
+  {
+    "id": "K-IMPORT-108",
+    "title": "数组的集成初始化",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-105"
+    ]
+  },
+  {
+    "id": "K-IMPORT-109",
+    "title": "二分搜索",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-106"
+    ]
+  },
+  {
+    "id": "K-IMPORT-110",
+    "title": "线性搜索",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-108"
+    ]
+  },
+  {
+    "id": "K-IMPORT-111",
+    "title": "两个运算符",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-109"
+    ]
+  },
+  {
+    "id": "K-IMPORT-112",
+    "title": "指针",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-110"
+    ]
+  },
+  {
+    "id": "K-IMPORT-113",
+    "title": "指针4种使用方式",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-111"
+    ]
+  },
+  {
+    "id": "K-IMPORT-114",
+    "title": "指针和数组的关系",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-112"
+    ]
+  },
+  {
+    "id": "K-IMPORT-115",
+    "title": "2.赋值    四种类型定义",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-113"
+    ]
+  },
+  {
+    "id": "K-IMPORT-116",
+    "title": "3.printf输出数",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-114"
+    ]
+  },
+  {
+    "id": "K-IMPORT-117",
+    "title": "4.scanf语句",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-115"
+    ]
+  },
+  {
+    "id": "K-IMPORT-118",
+    "title": "5.条件判断语句",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-116"
+    ]
+  },
+  {
+    "id": "K-IMPORT-119",
+    "title": "6.运算优先级及运算",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-117"
+    ]
+  },
+  {
+    "id": "K-IMPORT-120",
+    "title": "7.循环语句",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-118"
+    ]
+  },
+  {
+    "id": "K-IMPORT-121",
+    "title": "8.结束语句，可用于循环嵌套结束",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-119"
+    ]
+  },
+  {
+    "id": "K-IMPORT-122",
+    "title": "9.条件，逗号运算符,没什么用",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-120"
+    ]
+  },
+  {
+    "id": "K-IMPORT-123",
+    "title": "10变量赋值foo",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-121"
+    ]
+  },
+  {
+    "id": "K-IMPORT-124",
+    "title": "11返回输出`错误`",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-122"
+    ]
+  },
+  {
+    "id": "K-IMPORT-125",
+    "title": "12grep命令",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-123"
+    ]
+  },
+  {
+    "id": "K-IMPORT-126",
+    "title": "13替换命令",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-124"
+    ]
+  },
+  {
+    "id": "K-IMPORT-127",
+    "title": "14通配符",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-125"
+    ]
+  },
+  {
+    "id": "K-IMPORT-128",
+    "title": "15花括号",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-126"
+    ]
+  },
+  {
+    "id": "K-IMPORT-129",
+    "title": "16touch命令",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-127"
+    ]
+  },
+  {
+    "id": "K-IMPORT-130",
+    "title": "17shell 函数和脚本",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-128"
+    ]
+  },
+  {
+    "id": "K-IMPORT-131",
+    "title": "18chmod命令添加权限",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-129"
+    ]
+  },
+  {
+    "id": "K-IMPORT-132",
+    "title": "19env命令行工具",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-130"
+    ]
+  },
+  {
+    "id": "K-IMPORT-133",
+    "title": "1初步认识",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-131"
+    ]
+  },
+  {
+    "id": "K-IMPORT-134",
+    "title": "2导航 cd",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-132"
+    ]
+  },
+  {
+    "id": "K-IMPORT-135",
+    "title": "2相对与绝对路径",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-133"
+    ]
+  },
+  {
+    "id": "K-IMPORT-136",
+    "title": "4基础命令",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-134"
+    ]
+  },
+  {
+    "id": "K-IMPORT-137",
+    "title": "5管道（定向）",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-135"
+    ]
+  },
+  {
+    "id": "K-IMPORT-138",
+    "title": "6错误码",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-136"
+    ]
+  },
+  {
+    "id": "K-IMPORT-139",
+    "title": "7mv cp mkdir基础命令",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-137"
+    ]
+  },
+  {
+    "id": "K-IMPORT-140",
+    "title": "8特殊变量",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-138"
+    ]
+  },
+  {
+    "id": "K-IMPORT-141",
+    "title": "9分隔符与操作符",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-139"
+    ]
+  },
+  {
+    "id": "K-IMPORT-142",
+    "title": "a Shell 工具 查看命令如何使用",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-140"
+    ]
+  },
+  {
+    "id": "K-IMPORT-143",
+    "title": "b 查找文件",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-141"
+    ]
+  },
+  {
+    "id": "K-IMPORT-144",
+    "title": "c 查找代码",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-142"
+    ]
+  },
+  {
+    "id": "K-IMPORT-145",
+    "title": "d 文件夹导航",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-143"
+    ]
+  },
+  {
+    "id": "K-IMPORT-146",
+    "title": "e 查找 shell 命令",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-144"
+    ]
+  },
+  {
+    "id": "K-IMPORT-147",
+    "title": "if",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-145"
+    ]
+  },
+  {
+    "id": "K-IMPORT-148",
+    "title": "local声明",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-146"
+    ]
+  },
+  {
+    "id": "K-IMPORT-149",
+    "title": "Nano与其他对比",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-148"
+    ]
+  },
+  {
+    "id": "K-IMPORT-150",
+    "title": "Shebang",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-149"
+    ]
+  },
+  {
+    "id": "K-IMPORT-151",
+    "title": "source加载函数",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-150"
+    ]
+  },
+  {
+    "id": "K-IMPORT-152",
+    "title": "sudo",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-151"
+    ]
+  },
+  {
+    "id": "K-IMPORT-153",
+    "title": "tips",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-152"
+    ]
+  },
+  {
+    "id": "K-IMPORT-154",
+    "title": "工具",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-153"
+    ]
+  },
+  {
+    "id": "K-IMPORT-155",
+    "title": "哈工大MOOC",
+    "priority": "normal",
+    "status": "needs_validation",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1",
+    "source_ids": [
+      "SRC-161"
+    ]
+  },
+  {
+    "id": "D-001",
+    "title": "go的过去式与过去分词",
+    "source_ids": [
+      "SRC-063",
+      "SRC-066"
+    ],
+    "priority": "core",
+    "status": "pending",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1"
+  },
+  {
+    "id": "D-002",
+    "title": "现在分词与过去式/分词区别",
+    "source_ids": [
+      "SRC-064"
+    ],
+    "priority": "core",
+    "status": "pending",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1"
+  },
+  {
+    "id": "D-003",
+    "title": "C数组与指针的边界",
+    "source_ids": [
+      "SRC-093",
+      "SRC-103",
+      "SRC-112"
+    ],
+    "priority": "normal",
+    "status": "pending",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1"
+  },
+  {
+    "id": "D-004",
+    "title": "二分查找最后一个候选",
+    "source_ids": [
+      "SRC-106"
+    ],
+    "priority": "normal",
+    "status": "pending",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1"
+  },
+  {
+    "id": "D-005",
+    "title": "Shell退出状态与stderr",
+    "source_ids": [
+      "SRC-122",
+      "SRC-136",
+      "SRC-138"
+    ],
+    "priority": "normal",
+    "status": "pending",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1"
+  },
+  {
+    "id": "D-006",
+    "title": "相对路径与绝对路径",
+    "source_ids": [
+      "SRC-133"
+    ],
+    "priority": "normal",
+    "status": "pending",
+    "stage": -1,
+    "due": null,
+    "last_review": null,
+    "understanding": "unassessed",
+    "rule_version": "ladder-v1"
+  }
+]

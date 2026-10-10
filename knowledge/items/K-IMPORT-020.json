@@ -1,0 +1,24 @@
+{
+  "source_ids": [
+    "SRC-076"
+  ],
+  "title": "学校、学习相关词汇",
+  "legacy_assessment": [
+    "学校、学习相关词汇",
+    "基本掌握"
+  ],
+  "domain": "english",
+  "content": "| 学校、学习相关词汇   | 基本掌握 |",
+  "priority": "core",
+  "id": "K-IMPORT-020",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "REC-2026-09-29",
+  "event_date": "2026-09-29",
+  "imported_on": "2026-10-11",
+  "submitted_at": null,
+  "timezone": "Asia/Shanghai",
+  "source_ids": [
+    "SRC-025"
+  ],
+  "source_path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(28-04)-日/2026-09-29.md",
+  "reported_fields": {
+    "有效学习": {
+      "raw": "1 h",
+      "minutes": 60,
+      "basis": "self_report_explicit_unit"
+    },
+    "政治": {
+      "raw": "信息技术：",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "信息技术": {
+      "raw": "高数：",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "高数": {
+      "raw": "英语：1h1部分",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "英语": {
+      "raw": "1h1部分",
+      "minutes": 60,
+      "basis": "self_report_explicit_unit"
+    }
+  },
+  "reported_status": {
+    "专注": null,
+    "效率": null,
+    "压力": null,
+    "启动": null
+  },
+  "excerpts": {
+    "今天学了什么": "一部分",
+    "日记": "早上起来做鸡蛋，玩手机，天太热刷视频，晚上洗澡学习，状态太差又去锻炼，有效，晚上和gtp聊英语水平感觉也就那样吧，晚上色色把郁闷发泄出来睡觉了。",
+    "今天对学习有效的方式": "锻炼或者说运动就有效很有效。在心情烦躁时，学习不进去的时候就去锻炼，这时候就能学进去，或者说脑子杂念少了很多。这个锻炼对学习对身体对情绪都有效果，而且效果显著。故而每天锻炼是必要的，实在累可以休息一天"
+  },
+  "total_minutes_reported": 60,
+  "inferred_total_minutes": null,
+  "version": 1,
+  "visibility": "public",
+  "publication_basis": "user_archive_import_2026-10-11"
+}
