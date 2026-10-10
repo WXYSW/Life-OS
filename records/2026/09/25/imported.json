@@ -1,0 +1,54 @@
+{
+  "id": "REC-2026-09-25",
+  "event_date": "2026-09-25",
+  "imported_on": "2026-10-11",
+  "submitted_at": null,
+  "timezone": "Asia/Shanghai",
+  "source_ids": [
+    "SRC-020"
+  ],
+  "source_path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-25.md",
+  "reported_fields": {
+    "有效学习": {
+      "raw": "0 h",
+      "minutes": 0,
+      "basis": "self_report_explicit_unit"
+    },
+    "政治": {
+      "raw": "信息技术：",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "信息技术": {
+      "raw": "高数：",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "高数": {
+      "raw": "英语：",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "英语": {
+      "raw": "【状态】",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    }
+  },
+  "reported_status": {
+    "专注": null,
+    "效率": null,
+    "压力": null,
+    "启动": null
+  },
+  "excerpts": {
+    "今天学了什么": "【今天对学习有效的方式】",
+    "日记": "纯玩，收拾床铺，书桌。明天坐火车",
+    "今天对学习有效的方式": "【明天最重要的学习任务】\n1.\n2.\n3."
+  },
+  "total_minutes_reported": 0,
+  "inferred_total_minutes": null,
+  "version": 1,
+  "visibility": "public",
+  "publication_basis": "user_archive_import_2026-10-11"
+}

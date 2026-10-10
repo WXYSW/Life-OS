@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-132"
+  ],
+  "title": "2导航 cd",
+  "domain": "programming",
+  "content": "shell 中的路径是一组被分割的目录，在 Linux 和 macOS 上使用 ==`/`== 分割，而在 Windows 上是 ==`\\`==。\n\n切换目录需要使用 ==`cd`== 命令\n\n在路径中，==`.`== 表示的是当前目录，而 ==`..`== 表示上级目录\n\n\n注意，shell 会实时显示当前的路径信息。可以通过配置 shell 提示符来显示各种有用的信息\n\n一般来说，当我们运行一个程序时，如果我们没有指定路径，则该程序会在当前目录下执行。例如，我们常常会搜索文件，并在需要时创建文件。\n\n为了查看指定目录下包含哪些文件，我们使用 ==`ls`== 命令",
+  "priority": "normal",
+  "id": "K-IMPORT-134",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

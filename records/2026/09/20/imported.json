@@ -1,0 +1,56 @@
+{
+  "id": "REC-2026-09-20",
+  "event_date": "2026-09-20",
+  "imported_on": "2026-10-11",
+  "submitted_at": null,
+  "timezone": "Asia/Shanghai",
+  "source_ids": [
+    "SRC-015"
+  ],
+  "source_path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(14-20)-日/2026-09-20.md",
+  "reported_fields": {
+    "有效学习": {
+      "raw": "4 h",
+      "minutes": 240,
+      "basis": "self_report_explicit_unit"
+    },
+    "政治": {
+      "raw": "复习到了中国精神1h",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "信息技术": {
+      "raw": "1h30min",
+      "minutes": 90,
+      "basis": "self_report_explicit_unit"
+    },
+    "高数": {
+      "raw": "30min",
+      "minutes": 30,
+      "basis": "self_report_explicit_unit"
+    },
+    "英语": {
+      "raw": "1h",
+      "minutes": 60,
+      "basis": "self_report_explicit_unit"
+    }
+  },
+  "reported_status": {
+    "专注": 5,
+    "效率": 6,
+    "压力": 2,
+    "启动": 7
+  },
+  "excerpts": {
+    "今天我学了什么": "- 今天就是纯复习高数稍微又重新了解了一下二阶线性微分方程\n- 计算机科学导论1~5章\n- 政治思修部分从人生价值复习到了中国精神\n- 英语应该就一两个部分吧目前192部分\n- \n-",
+    "日记": "今天早上就是玩，然后学了一点英语，下午的话也是学了一点英语，还是在摆，晚上大概6点钟过来复习，至于复习的内容就多了，计算机导论，思修和高数一点部分，其实高数部分看来还是要再复习，还是有点慌，但是考试很简单，唉，就是卡在中间了，明知道他要是真要考的话，还能考的很难，但是他实际专升本考试就那样。",
+    "今天发现有效的东西": "还能是啥？肯定是主动复习呀。",
+    "今日异常": "没有异常啊，也就是下午学的时候不太想学。去问AI问题去了。",
+    "问题原因": "反正啥原因我想玩玩"
+  },
+  "total_minutes_reported": 240,
+  "inferred_total_minutes": null,
+  "version": 1,
+  "visibility": "public",
+  "publication_basis": "user_archive_import_2026-10-11"
+}

@@ -1,0 +1,24 @@
+{
+  "source_ids": [
+    "SRC-077"
+  ],
+  "title": "基本定积分计算、对称性、绝对值分段积分、变上限积分求导",
+  "legacy_assessment": [
+    "定积分",
+    "基本定积分计算、对称性、绝对值分段积分、变上限积分求导"
+  ],
+  "domain": "math",
+  "content": "| 定积分   | 基本定积分计算、对称性、绝对值分段积分、变上限积分求导    |",
+  "priority": "normal",
+  "id": "K-IMPORT-067",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

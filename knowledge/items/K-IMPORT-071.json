@@ -1,0 +1,25 @@
+{
+  "source_ids": [
+    "SRC-077"
+  ],
+  "title": "单调性判断、极值判断",
+  "legacy_assessment": [
+    "一元函数微分学",
+    "单调性判断、极值判断",
+    "方法基本正确，计算不够稳定"
+  ],
+  "domain": "math",
+  "content": "| 一元函数微分学 | 单调性判断、极值判断       | 方法基本正确，计算不够稳定       |",
+  "priority": "normal",
+  "id": "K-IMPORT-071",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

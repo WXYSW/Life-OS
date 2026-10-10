@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-089"
+  ],
+  "title": "代码风格",
+  "domain": "programming",
+  "content": "\n1.在if和else之后必须加上一个大括号形成语句块\n2.大括号内的语句缩进一个tab的位置\n",
+  "priority": "normal",
+  "id": "K-IMPORT-092",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

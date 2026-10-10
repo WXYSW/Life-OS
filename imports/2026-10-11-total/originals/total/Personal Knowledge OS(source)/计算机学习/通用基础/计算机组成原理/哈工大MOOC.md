@@ -1,0 +1,2 @@
+[计算机组成原理（上）_哈尔滨工业大学_中国大学MOOC(慕课)](https://www.icourse163.org/course/HIT-309001)
+[计算机组成原理（下）_哈尔滨工业大学_中国大学MOOC(慕课)](https://www.icourse163.org/course/HIT-1001527001?from=searchPage&outVendor=zw_mooc_pcssjg_)

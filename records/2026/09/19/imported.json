@@ -1,0 +1,56 @@
+{
+  "id": "REC-2026-09-19",
+  "event_date": "2026-09-19",
+  "imported_on": "2026-10-11",
+  "submitted_at": null,
+  "timezone": "Asia/Shanghai",
+  "source_ids": [
+    "SRC-013"
+  ],
+  "source_path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(14-20)-日/2026-09-19.md",
+  "reported_fields": {
+    "有效学习": {
+      "raw": "5 h",
+      "minutes": 300,
+      "basis": "self_report_explicit_unit"
+    },
+    "政治": {
+      "raw": "0",
+      "minutes": 0,
+      "basis": "self_report_explicit_unit"
+    },
+    "信息技术": {
+      "raw": "4h",
+      "minutes": 240,
+      "basis": "self_report_explicit_unit"
+    },
+    "高数": {
+      "raw": "0",
+      "minutes": 0,
+      "basis": "self_report_explicit_unit"
+    },
+    "英语": {
+      "raw": "1h",
+      "minutes": 60,
+      "basis": "self_report_explicit_unit"
+    }
+  },
+  "reported_status": {
+    "专注": 6,
+    "效率": 3,
+    "压力": 7,
+    "启动": 7
+  },
+  "excerpts": {
+    "今天我学了什么": "- 计算机组成难的知识点搞定\n- “今天我认真解决了一个以前不会的东西，而且发现英语也开始进入真正的学习区了。现在我去锻炼，然后休息。”\n-",
+    "日记": "In the morning I drink a cup of soybean milk. I start study English at duolingo about one hour. I eat an egg ,some rice a cup of soup, a chicken leg ,a lot of broccoli and some Red Oil Cold Noodles at the secend of dining hall in the noon afternoon I learned two hours of Computer Architecture. I felt fall of my study habit and my life in the evening .I go to the dining hall ate some food and go back to the library and start study.Now I learned many knowledge of  how about to study and I feel better now.",
+    "今天发现有效的东西": "今天发现主动复习很有必要真正意义上学会了，比如今天的计算机组成",
+    "今日异常": "今天有两大问题\n 1.畏惧困难遇到困难选择测试寻找确定感\n 2.没有良好的学习习惯\n 无效重复（大量刷已经会的题目）\n 被动学习缺少主动输出\n 没有问自己问题\n 3.通过看书获得的熟悉感最有欺骗性",
+    "问题原因": "【明天针对今天最大问题，我准备怎么处理？】"
+  },
+  "total_minutes_reported": 300,
+  "inferred_total_minutes": null,
+  "version": 1,
+  "visibility": "public",
+  "publication_basis": "user_archive_import_2026-10-11"
+}

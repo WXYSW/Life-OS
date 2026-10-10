@@ -1,0 +1,153 @@
+[
+  {
+    "source_id": "SRC-078",
+    "title": "CS106L Standard  Programming",
+    "links": [
+      "http://web.stanford.edu/class/cs106l/](http://web.stanford.edu/class/cs106l/",
+      "https://www.youtube.com/channel/UCSqr6y-eaQT_qZJVUm_4QxQ/playlists](https://www.youtube.com/channel/UCSqr6y-eaQT_qZJVUm_4QxQ/playlists",
+      "http://web.stanford.edu/class/cs106l/full_course_reader.pdf](http://web.stanford.edu/class/cs106l/full_course_reader.pdf",
+      "https://github.com/snme/cs106L-assignment1](https://github.com/snme/cs106L-assignment1",
+      "https://github.com/snme/cs106L-assignment2](https://github.com/snme/cs106L-assignment2",
+      "https://github.com/PKUFlyingPig/CS106L"
+    ],
+    "status": "saved_not_verified",
+    "personal_completion": "unknown"
+  },
+  {
+    "source_id": "SRC-154",
+    "title": "git必学",
+    "links": [
+      "https://missing.csail.mit.edu/2020/version-control/",
+      "https://www.bilibili.com/video/BV1vy4y1s7k6",
+      "https://git-scm.com/book/en/v2",
+      "https://chris.beams.io/posts/git-commit/"
+    ],
+    "status": "saved_not_verified",
+    "personal_completion": "unknown"
+  },
+  {
+    "source_id": "SRC-155",
+    "title": "GNU CMake必学",
+    "links": [
+      "https://seisman.github.io/how-to-write-makefile/overview.html",
+      "https://cmake.org/cmake/help/latest/guide/tutorial/index.html",
+      "https://www.bilibili.com/video/BV14h41187FZ"
+    ],
+    "status": "saved_not_verified",
+    "personal_completion": "unknown"
+  },
+  {
+    "source_id": "SRC-156",
+    "title": "LaTeX写论文",
+    "links": [],
+    "status": "saved_not_verified",
+    "personal_completion": "unknown"
+  },
+  {
+    "source_id": "SRC-157",
+    "title": "Vim提高打字效率",
+    "links": [
+      "https://missing.csail.mit.edu/2020/editors/",
+      "https://github.com/wsdjeg/vim-galore-zh_cn",
+      "https://learnvimscriptthehardway.stevelosh.com/"
+    ],
+    "status": "saved_not_verified",
+    "personal_completion": "unknown"
+  },
+  {
+    "source_id": "SRC-158",
+    "title": "HIT OS Operating System",
+    "links": [
+      "https://www.icourse163.org/course/HIT-1002531008](https://www.icourse163.org/course/HIT-1002531008",
+      "https://www.bilibili.com/video/BV19r4y1b7Aw/?p=1](https://www.bilibili.com/video/BV19r4y1b7Aw/?p=1",
+      "https://book.douban.com/subject/1231236//",
+      "https://book.douban.com/subject/30391722/",
+      "https://www.lanqiao.cn/courses/115](https://www.lanqiao.cn/courses/115",
+      "https://github.com/NaChen95/Linux0.11"
+    ],
+    "status": "saved_not_verified",
+    "personal_completion": "unknown"
+  },
+  {
+    "source_id": "SRC-159",
+    "title": "UCB Sysadmin DeCal",
+    "links": [
+      "https://overthewire.org/wargames/bandit/",
+      "https://decal.ocf.berkeley.edu/",
+      "https://space.bilibili.com/483435468/video"
+    ],
+    "status": "saved_not_verified",
+    "personal_completion": "unknown"
+  },
+  {
+    "source_id": "SRC-160",
+    "title": "Stanford CS106B   XProgramming Abstractions in",
+    "links": [
+      "https://web.stanford.edu/class/cs106b/",
+      "https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1224/",
+      "https://web.stanford.edu/class/cs106x/",
+      "https://web.stanford.edu/class/cs106x/res/reader/CS106BX-Reader.pdf](https://web.stanford.edu/class/cs106x/res/reader/CS106BX-Reader.pdf",
+      "https://www.youtube.com/watch?v=FIroM06V2MA&list=PL-h0BZdG_K4kAmsfvAik-Za826pNbQd0d",
+      "https://www.bilibili.com/video/BV1G7411k7jG",
+      "https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1224/",
+      "https://github.com/akun0311/CS106B-X-CS106L-",
+      "https://github.com/Andy-xiaokang/CS106B",
+      "https://github.com/Andy-xiaokang/CS106B/blob/master/README.md#postscript",
+      "https://www.youtube.com/watch?v=FIroM06V2MA&list=PL-h0BZdG_K4kAmsfvAik-Za826pNbQd0d"
+    ],
+    "status": "saved_not_verified",
+    "personal_completion": "unknown"
+  },
+  {
+    "source_id": "SRC-162",
+    "title": "Computer Networking A Top-Down Approach",
+    "links": [
+      "https://csdiy.wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/CS144/",
+      "https://gaia.cs.umass.edu/kurose_ross/index.php](https://gaia.cs.umass.edu/kurose_ross/index.php",
+      "https://gaia.cs.umass.edu/kurose_ross/lectures.php](https://gaia.cs.umass.edu/kurose_ross/lectures.php",
+      "https://gaia.cs.umass.edu/kurose_ross/wireshark.php](https://gaia.cs.umass.edu/kurose_ross/wireshark.php",
+      "https://github.com/PKUFlyingPig/Computer-Network-A-Top-Down-Approach"
+    ],
+    "status": "saved_not_verified",
+    "personal_completion": "unknown"
+  },
+  {
+    "source_id": "SRC-163",
+    "title": "CS144 Computer Network",
+    "links": [
+      "http://yuba.stanford.edu/~nickm/index.html",
+      "https://github.com/CS144/minnow",
+      "https://web.archive.org/web/20241209004804/https://cs144.github.io/](https://web.archive.org/web/20241209004804/https://cs144.github.io/",
+      "https://cs144.github.io/](https://cs144.github.io/",
+      "https://www.youtube.com/watch?v=r2WZNaFyrbQ&list=PL6RdenZrxrw9inR-IJv-erlOKRHjymxMN](https://www.youtube.com/watch?v=r2WZNaFyrbQ&list=PL6RdenZrxrw9inR-IJv-erlOKRHjymxMN",
+      "https://cs144.github.io/](https://cs144.github.io/",
+      "https://github.com/xzhseh",
+      "https://zhuanlan.zhihu.com/p/20551290958",
+      "https://github.com/PKUFlyingPig/CS144-Computer-Network",
+      "https://lexssama.github.io/tags/CS144/",
+      "https://github.com/huangrt01/CS-Notes/blob/master/Notes/Output/Computer-Networking-Lab-CS144-Stanford.md",
+      "https://kiprey.github.io/tags/CS144/",
+      "https://www.cnblogs.com/kangyupl/p/stanford_cs144_labs.html",
+      "http://doraemonzzz.com/tags/CS144/",
+      "https://vixbob.moe/25.html",
+      "https://www.epis2048.net/categories/Code/Stanford-CS144/",
+      "https://www.inlighting.org/archives/2021-cs144-notes/",
+      "https://www.cnblogs.com/weijunji/tag/CS144/",
+      "https://www.cnblogs.com/EIMadrigal/p/15500472.html",
+      "http://yuzijun.life/2021-02/CS144"
+    ],
+    "status": "saved_not_verified",
+    "personal_completion": "unknown"
+  },
+  {
+    "source_id": "SRC-164",
+    "title": "USTC Computer NetworkingA Top-Down Approach",
+    "links": [
+      "http://staff.ustc.edu.cn/~qzheng/teaching.html](http://staff.ustc.edu.cn/~qzheng/teaching.html",
+      "https://www.bilibili.com/video/BV1JV411t7ow/](https://www.bilibili.com/video/BV1JV411t7ow/",
+      "http://staff.ustc.edu.cn/~qzheng/cn.zip](http://staff.ustc.edu.cn/~qzheng/cn.zip"
+    ],
+    "status": "saved_not_verified",
+    "personal_completion": "unknown"
+  }
+]

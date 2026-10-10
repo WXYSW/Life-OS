@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-150"
+  ],
+  "title": "source加载函数",
+  "domain": "programming",
+  "content": "作用： ==source== 命令（或者它的等效符号 ==.==）用于读取并执行指定脚本文件中的所有命令。最关键的是，它会在 当前 Shell 进程中执行这些命令，而不是启动一个新的子 Shell。\n\n刷新配置： 当你修改了 ~/.bashrc 等配置文件后，不需要重启终端，只需运行 source ~/.bashrc 即可让修改立即在当前 Shell 生效。\n\n对比 ./script.sh 或 bash script.sh：\n\n如果直接运行脚本 (./script.sh 或 bash script.sh)，系统会启动一个 新的子 Shell 进程 来执行该脚本。\n脚本中设置的环境变量、函数、别名以及对 cd 的调用，都只在这个子 Shell 中有效。当脚本执行完毕，子 Shell 退出后，这些改变不会传递回父 Shell（即你当前的终端会话）。你当前的环境不会改变。",
+  "priority": "normal",
+  "id": "K-IMPORT-151",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

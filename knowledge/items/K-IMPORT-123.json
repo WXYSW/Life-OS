@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-121"
+  ],
+  "title": "10变量赋值foo",
+  "domain": "programming",
+  "content": "注意事项：  ==foo = bar== （使用空格隔开）是不能正确工作的，因为解释器会调用程序 foo 并将 = 和 bar 作为参数。 总的来说，在 shell 脚本中使用空格会起到分割参数的作用，有时候可能会造成混淆\n\n变量赋值的语法是 foo=bar，访问变量中存储的数值，其语法为 $foo\n\nfoo=bar\necho \"$foo\"\n打印 bar\necho '$foo'\n 打印 $foo\n",
+  "priority": "normal",
+  "id": "K-IMPORT-123",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

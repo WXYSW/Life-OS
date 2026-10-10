@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-134"
+  ],
+  "title": "4基础命令",
+  "domain": "programming",
+  "content": "pwd查看当前目录\ncat查看文件也可以用<\n\ttarget_dir=￥(<\"￥MARCO_FILE\")\n\t$(<\"$MARCO_FILE\")：从文件中读取内容\n\t相当于 target_dir=￥(cat \"￥MARCO_FILE\") 但更高效\nls查看当前目录的文件\n",
+  "priority": "normal",
+  "id": "K-IMPORT-136",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

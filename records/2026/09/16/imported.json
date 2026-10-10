@@ -1,0 +1,60 @@
+{
+  "id": "REC-2026-09-16",
+  "event_date": "2026-09-16",
+  "imported_on": "2026-10-11",
+  "submitted_at": null,
+  "timezone": "Asia/Shanghai",
+  "source_ids": [
+    "SRC-010"
+  ],
+  "source_path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(14-20)-日/2026-09-16.md",
+  "reported_fields": {
+    "有效学习": {
+      "raw": "5h40min",
+      "minutes": 340,
+      "basis": "self_report_explicit_unit"
+    },
+    "政治": {
+      "raw": "6页题1h10min",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "信息技术": {
+      "raw": "导论5页1h20min",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "高数": {
+      "raw": "英语：5部分 2h11min",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "英语": {
+      "raw": "5部分 2h11min",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "主动复习": {
+      "raw": "1h",
+      "minutes": 60,
+      "basis": "self_report_explicit_unit"
+    }
+  },
+  "reported_status": {
+    "专注": 5,
+    "效率": 4,
+    "压力": 3,
+    "启动": 4
+  },
+  "excerpts": {
+    "今天我学了什么": "- 位层次逻辑运算not（非）and（与）or（或）xor（异或）\n- 二进制补码算术运算\n- 复习人的价值社会价值，中国精神，爱国主义，社会主义核心价值观\n- 英语ed结尾的形容词，和ed结尾的过去式不一样，ing结尾是形容词，ly结尾的表示程度的\n-",
+    "日记": "今天早上重新写了一份每日规划，吃了一个肉肠和豆浆，中午早退吃早饭然后回寝室玩，中途睡了一下，下午去教室结果老师没来，我服了，不过下午也确实热，下午去图书馆学习感觉还行吧政治有点烦它，复习确实有用啊哈哈，晚上🈶吃了夜宵还行吧还是不太爽，我想色色了或者找个女朋友，唉难受，爱压抑还是性压抑呢？",
+    "今日异常": "学习政治的时候感觉难受没有去理解想学习\n 想色色爱压抑，想做爱，老是容易被女性吸引目光注意力",
+    "问题原因": "我怕自己被改变（已解决通过理性说比如这是思修里面说推动社会的发展才是人价值的体现）"
+  },
+  "total_minutes_reported": 340,
+  "inferred_total_minutes": null,
+  "version": 1,
+  "visibility": "public",
+  "publication_basis": "user_archive_import_2026-10-11"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "REC-2026-10-08",
+  "event_date": "2026-10-08",
+  "imported_on": "2026-10-11",
+  "submitted_at": null,
+  "timezone": "Asia/Shanghai",
+  "source_ids": [
+    "SRC-036"
+  ],
+  "source_path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-10-(05-01)/2026-10-(05-11)-日/2026-10-08.md",
+  "reported_fields": {
+    "有效学习": {
+      "raw": "5h",
+      "minutes": 300,
+      "basis": "self_report_explicit_unit"
+    },
+    "政治": {
+      "raw": "1 h",
+      "minutes": 60,
+      "basis": "self_report_explicit_unit"
+    },
+    "信息技术": {
+      "raw": "1 h30min",
+      "minutes": 90,
+      "basis": "self_report_explicit_unit"
+    },
+    "高数": {
+      "raw": "h",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "英语": {
+      "raw": "2 h30min",
+      "minutes": 150,
+      "basis": "self_report_explicit_unit"
+    }
+  },
+  "reported_status": {
+    "专注": null,
+    "效率": null,
+    "压力": null,
+    "启动": null
+  },
+  "excerpts": {},
+  "total_minutes_reported": 300,
+  "inferred_total_minutes": null,
+  "version": 1,
+  "visibility": "public",
+  "publication_basis": "user_archive_import_2026-10-11"
+}

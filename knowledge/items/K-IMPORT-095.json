@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-092"
+  ],
+  "title": "10.随机数",
+  "domain": "programming",
+  "content": "\n每次召唤rand()就得到一个随机的整数\n固定格式加以下两句\n#include<stdlib.h>\n#include<time.h>\n在如何定义\n如srand(time(0));\nint a = rand();\n",
+  "priority": "normal",
+  "id": "K-IMPORT-095",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

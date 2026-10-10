@@ -1,0 +1,10 @@
+{
+  "id": "REF-2026-08-09",
+  "source_ids": [
+    "SRC-041"
+  ],
+  "event_date": "2026-08-09",
+  "role": "weekly_reflection_and_plan",
+  "total_minutes_reported": null,
+  "note": "Filename has a date; content is a weekly reflection and planned subject durations, not completed daily time."
+}

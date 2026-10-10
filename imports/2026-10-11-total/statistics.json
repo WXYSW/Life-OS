@@ -1,0 +1,30 @@
+{
+  "files": 164,
+  "empty_files": 4,
+  "roles": {
+    "exam_record": 2,
+    "reference": 16,
+    "daily_record": 36,
+    "legacy_weekly_report": 4,
+    "legacy_monthly_report": 1,
+    "knowledge_note": 92,
+    "legacy_diagnostic_summary": 2,
+    "resource_collection": 11
+  },
+  "daily_records": 36,
+  "days_with_explicit_total": 21,
+  "explicit_total_minutes": 4885,
+  "knowledge_candidates": 155,
+  "resources": 11,
+  "weekly_source_ids": [
+    "SRC-014",
+    "SRC-022",
+    "SRC-030",
+    "SRC-048"
+  ],
+  "monthly_source_ids": [
+    "SRC-032"
+  ],
+  "date_min": "2026-07-21",
+  "date_max": "2026-10-09"
+}

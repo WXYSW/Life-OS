@@ -1,0 +1,23 @@
+{
+  "id": "D-002",
+  "title": "现在分词与过去式/分词区别",
+  "source_ids": [
+    "SRC-064"
+  ],
+  "priority": "core",
+  "status": "pending",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "content": "fry的-ing形式是frying，fried是过去式/过去分词；see的-ing形式seeing，过去式saw，过去分词seen。",
+  "diagnostic_question": "写出fry和see的-ing形式，并各造一个正在发生的动作句。",
+  "question_state": "prepared_not_issued",
+  "verification_sources": [
+    "https://dictionary.cambridge.org/us/dictionary/english/fry"
+  ],
+  "verification_note": "Primary reference consulted",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public"
+}

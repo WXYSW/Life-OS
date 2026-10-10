@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-087"
+  ],
+  "title": "计数器",
+  "domain": "programming",
+  "content": "如\nint x；\n\nfor()\n{\n\t\n\tx++;\n}\n很多时候有妙用",
+  "priority": "normal",
+  "id": "K-IMPORT-090",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

@@ -1,0 +1,24 @@
+{
+  "source_ids": [
+    "SRC-076"
+  ],
+  "title": "快速调用词汇",
+  "legacy_assessment": [
+    "快速调用词汇",
+    "薄弱"
+  ],
+  "domain": "english",
+  "content": "| 快速调用词汇   | 薄弱       |",
+  "priority": "core",
+  "id": "K-IMPORT-060",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

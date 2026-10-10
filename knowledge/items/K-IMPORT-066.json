@@ -1,0 +1,24 @@
+{
+  "source_ids": [
+    "SRC-077"
+  ],
+  "title": "基本积分公式、换元积分法、分部积分法",
+  "legacy_assessment": [
+    "不定积分",
+    "基本积分公式、换元积分法、分部积分法"
+  ],
+  "domain": "math",
+  "content": "| 不定积分  | 基本积分公式、换元积分法、分部积分法             |",
+  "priority": "normal",
+  "id": "K-IMPORT-066",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

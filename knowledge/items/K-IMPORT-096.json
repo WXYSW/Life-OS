@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-093"
+  ],
+  "title": "11.数组基本定义",
+  "domain": "programming",
+  "content": "<类型>变量名称[元素数量];\nint grades[100];\ndouble weight[20];\nC99之前:元素数量必须是编译时刻确定的字面量\n用const固定变量如const int number = 10;\n\n概念\n是一种容器(放东西的东西)\n特点是：\n\t其中所有的元素具有相同的数据类型；\n\t一旦创建，不能改变大小\n\t*(数组中的元素在内存中是连续依次排列的)*\n\n如\n\t一个int的数组\n\t10个单元：a{0},a{1},...,a{9}.\n\t每个单元就是一个int类型的变量\n\t可以出现在赋值的左边或右边；\n\t\ta{2} = a{1}+6;\n\t*在赋值的左边的叫做左值*\n\n数组的单元\n\t数组的单元就是数组类型的一个变量\n\t使用数组时放在[]中的数字叫做小标或索引，下标从开始计数\n有效的下标范围\n\t编译器和运行环境都不会检查数组下标是否越界，无论是对数组单元做读还是写\n\t一旦程序运行，越界的数组访问可能造成问题，导致程序崩溃\n\tsegmentation fault\n\t但是也可能运气好，没造成严重后果\n\t所已这是程序员的责任来保证程序只使用有效的下标值：[0,数组的大小-1]\n\n本地变量不能够自动的得到默认的初始值\n初始化如以下也就是遍历\nfor( i = 0; i<number; i++)\n{\n\tcount [x]++;\n}\n",
+  "priority": "normal",
+  "id": "K-IMPORT-096",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

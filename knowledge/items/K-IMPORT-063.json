@@ -1,0 +1,24 @@
+{
+  "source_ids": [
+    "SRC-077"
+  ],
+  "title": "基本极限计算、等价无穷小代换、洛必达法则",
+  "legacy_assessment": [
+    "极限",
+    "基本极限计算、等价无穷小代换、洛必达法则"
+  ],
+  "domain": "math",
+  "content": "| 极限    | 基本极限计算、等价无穷小代换、洛必达法则           |",
+  "priority": "normal",
+  "id": "K-IMPORT-063",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

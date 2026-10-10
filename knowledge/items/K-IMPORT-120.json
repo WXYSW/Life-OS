@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-118"
+  ],
+  "title": "7.循环语句",
+  "domain": "programming",
+  "content": "\nfor\n\t如for(count=10;count>0;count++)\n\t就读成：“对于一开始的count=10,当count>0时，\n\t重复做循环体，每一轮循环在做完循环体内语句后，\n\t使得count++”\n\nwhile\n\twhile（条件表达式）后接{}，{}内满足条件时一直循环直到不满足条件\n\ndo...while\t\n\t先执行循环体再判断条件是否满足使用do...while时while要加;\n\tdo则不用加；使用while时不用加；\n\t\n循环语句之间区别\n\twhile和for两者没什么区别for只是将定义和变化放到一个()中\n\n循环的选择\n\t如果有固定次数，用for如果必须执行一次，用do—while\n\t其他情况用while\n\ntips\n嵌套循环最好不要同一变量\n\n",
+  "priority": "normal",
+  "id": "K-IMPORT-120",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

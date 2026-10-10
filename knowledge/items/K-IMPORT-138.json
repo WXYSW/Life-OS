@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-136"
+  ],
+  "title": "6错误码",
+  "domain": "programming",
+  "content": "退出码可以搭配 `&&`（与操作符）和 `||`（或操作符）使用，用来进行条件判断，决定是否执行其他程序。它们都属于短路 [运算符](https://en.wikipedia.org/wiki/Short-circuit_evaluation)（short-circuiting） 同一行的多个命令可以用 `;` 分隔。程序 `true` 的返回码永远是 `0`，`false` 的返回码永远是 `1`\n\n例子\n```\nfalse || echo \"Oops, fail\"\n# Oops, fail\n\ntrue || echo \"Will not be printed\"\n#\n\ntrue && echo \"Things went well\"\n# Things went well\n\nfalse && echo \"Will not be printed\"\n#\n\nfalse ; echo \"This will always run\"\n# This will always run\n```",
+  "priority": "normal",
+  "id": "K-IMPORT-138",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

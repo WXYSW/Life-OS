@@ -1,0 +1,20 @@
+{
+  "source_ids": [
+    "SRC-153"
+  ],
+  "title": "工具",
+  "domain": "programming",
+  "content": "编写 `bash` 脚本有时候会很别扭和反直觉。例如 [shellcheck](https://github.com/koalaman/shellcheck) 这样的工具可以帮助你定位 sh/bash 脚本中的错误。",
+  "priority": "normal",
+  "id": "K-IMPORT-154",
+  "status": "needs_validation",
+  "stage": -1,
+  "due": null,
+  "last_review": null,
+  "understanding": "unassessed",
+  "kind": "imported_unverified",
+  "attempt_ids": [],
+  "rule_version": "ladder-v1",
+  "visibility": "public",
+  "imported_on": "2026-10-11"
+}

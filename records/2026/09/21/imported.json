@@ -1,0 +1,56 @@
+{
+  "id": "REC-2026-09-21",
+  "event_date": "2026-09-21",
+  "imported_on": "2026-10-11",
+  "submitted_at": null,
+  "timezone": "Asia/Shanghai",
+  "source_ids": [
+    "SRC-016"
+  ],
+  "source_path": "imports/2026-10-11-total/originals/total/Life OS(source)/每日笔记/每日总结(New)/2026-09-(14-04)/2026-09-(21-27)-日/2026-09-21.md",
+  "reported_fields": {
+    "有效学习": {
+      "raw": "5 h 20min",
+      "minutes": 320,
+      "basis": "self_report_explicit_unit"
+    },
+    "政治": {
+      "raw": "信息技术：1h20min",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "信息技术": {
+      "raw": "1h20min",
+      "minutes": 80,
+      "basis": "self_report_explicit_unit"
+    },
+    "高数": {
+      "raw": "英语：4h",
+      "minutes": null,
+      "basis": "missing_or_ambiguous"
+    },
+    "英语": {
+      "raw": "4h",
+      "minutes": 240,
+      "basis": "self_report_explicit_unit"
+    }
+  },
+  "reported_status": {
+    "专注": 2,
+    "效率": 2,
+    "压力": 5,
+    "启动": 7
+  },
+  "excerpts": {
+    "今天我学了什么": "- 计算机网络当中的点对点广域网和交换广域网，局域网和广域网，五层传输协议，从高到低一次是应用层，传输层，网络层，数据链路层，物理层。后面的就不记得了。\n- 英语的话，6个部分和很多音标，但是确实记不太得了\n-",
+    "日记": "II felt really bad this morning because I didn't get enough sleep last night. So I was in a bad state.\n\nI looked at my smartphone until my class started in the afternoon. Then I started learning English in class and studied for three hours.\n\nIn the evening, I still spent a lot of time on my smartphone. After that, I studied for another two hours.\n\nNow I'm writing my diary in English.",
+    "今天发现有效的东西": "脑子混乱的时候闭眼冥想一段时间。比如情绪上来或者刷视频太多，没有状态等",
+    "今日异常": "【问题原因】\n 早上状态太差了学不进去，晚上觉没睡好。\n 英语没法流利读出新单词缺少音标掌握等\n 陷入自责情绪，或者任何情绪-选择承认现在有情绪但是我还是可以继续做自己的事情",
+    "问题原因": "早上状态太差了学不进去，晚上觉没睡好。\n 英语没法流利读出新单词缺少音标掌握等\n 陷入自责情绪，或者任何情绪-选择承认现在有情绪但是我还是可以继续做自己的事情"
+  },
+  "total_minutes_reported": 320,
+  "inferred_total_minutes": null,
+  "version": 1,
+  "visibility": "public",
+  "publication_basis": "user_archive_import_2026-10-11"
+}
