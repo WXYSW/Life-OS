@@ -183,7 +183,10 @@ def record_evidence(item, event):
         effective = 'hinted'
     if event['schedule_eligible'] and event['action'] not in ('relearn', 'practice'):
         if result.get('last_review') != event['day']:
-            result = grade(result, effective, event['day'])
+            result = grade(result, effective, event['day'],
+                           quality=event.get('quality') or 'stable',
+                           error_type=event.get('error_type') or 'unknown',
+                           target_date=event.get('target_date'))
     if effective != 'skip':
         result['understanding'] = {'correct':'independent', 'hinted':'needs_prompt', 'wrong':'needs_relearning'}[effective]
         dimension = result.setdefault('mastery', {}).setdefault(event['dimension'], {})

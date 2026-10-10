@@ -13,7 +13,7 @@
   "understanding": "unassessed",
   "evidence_ids": [],
   "attempt_ids": [],
-  "rule_version": "ladder-v1",
+  "rule_version": "ladder-v2",
   "visibility": "local",
   "publication_basis": null,
   "goal_links": [],
@@ -35,5 +35,10 @@
       "evidence_id": null
     }
   },
-  "learning_events": []
+  "learning_events": [],
+  "review_phase": "initial",
+  "consolidation_passes": 0,
+  "long_interval_passes": 0,
+  "recent_review_outcomes": [],
+  "scheduled_interval_days": null
 }

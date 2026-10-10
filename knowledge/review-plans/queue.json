@@ -2182,7 +2182,14 @@
     "due": "2026-10-12",
     "last_review": "2026-10-11",
     "understanding": "needs_relearning",
-    "rule_version": "ladder-v1"
+    "rule_version": "ladder-v2",
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "wrong"
+    ],
+    "scheduled_interval_days": 1
   },
   {
     "id": "D-002",
@@ -2196,7 +2203,14 @@
     "due": "2026-10-12",
     "last_review": "2026-10-11",
     "understanding": "needs_relearning",
-    "rule_version": "ladder-v1"
+    "rule_version": "ladder-v2",
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "wrong"
+    ],
+    "scheduled_interval_days": 1
   },
   {
     "id": "D-003",

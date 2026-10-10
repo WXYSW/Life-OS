@@ -13,7 +13,7 @@
 ## 第一次接手：按顺序读取
 
 1. README.md：总入口、公开保存规则与目录。
-2. 本文件、docs/workflow.md、docs/learning-engine.md、docs/question-lifecycle.md、config/review.json：日常操作及调度规则。
+2. 本文件、docs/workflow.md、docs/learning-engine.md、docs/schedule-policy.md、docs/question-lifecycle.md、config/review.json：日常操作及调度规则。
 3. state/current.md、goals/initial.json、knowledge/capabilities.json：当前情况、目标与能力结构。
 4. imports/2026-10-11-total/analysis.md、corrections.md：初始分析与错误标记。
 5. knowledge/review-plans/queue.json、knowledge/questions/backlog.json和当天knowledge/sessions/文件（如果存在）：候选、到期、跨天待答与已派题。
@@ -53,12 +53,7 @@
 
 每题有稳定题目ID、知识点ID、题目版本和预先确定的评价要点。先出题；用户回答后再给解释。完整记录实际回答、提示/查阅情况、正确部分、遗漏、误解、证据和评价修订。评估要具体，不用伪精确的理解百分比。一次答对不代表长期掌握。
 
-统一ladder-v1间隔：1、3、7、14、30天，从实际作答日期计算。
-- 初次独立正确进入1天；随后独立正确升阶，末阶维持30天。
-- 提示后正确保持阶位，次日再测。
-- 关键错误重置首阶，次日再测；讲解后即时纠正不连续升阶。
-- 没回答、跳过不算错，不改变理解评价。
-- 同一天不重复推进调度；评价更正通过有效历史重算，保留修订依据。
+采用ladder-v2：初学、短期巩固、长期保持三个阶段。基础间隔1、3、7、14、30天，稳定长期证据可延长到60、90天。独立正确区分费力/稳定/迁移；费力不升阶，提示或遗忘/概念缺口进入1→3→7天巩固，不直接恢复旧长间隔。有明确依据的局部失误适度缩短；未知错误按巩固处理。实际间隔不足不升阶；近期多次失败暂缓延长。30天及以上须两次足间隔独立通过才延长。跳过不变；讲解/即时练习不推进，同日同知识只改变调度一次。具体判断与参数见schedule-policy.md。
 
 日常选题使用 scripts/learning.py（详见learning-engine.md），按目标份额、贡献、前置作用、缺口和到期情况安排动作。scripts/review.py 的 select 仅为旧接口兼容，grade 保留阶梯调度。它们都是纯函数：不会保存文件、生成题目或上传。可以在有Python环境时运行；没有运行能力时按相同规则处理，并准确说明验证方式。派题后保存 knowledge/sessions/YYYY-MM-DD.json（day、assigned_ids及题目ID），回答后追加 knowledge/attempts/YYYY/MM/DD/，更新知识条目和queue。不要仅运行select就宣称派题已持久化。
 

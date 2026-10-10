@@ -20,7 +20,7 @@
   "attempt_ids": [
     "A-20261011-D-002"
   ],
-  "rule_version": "ladder-v1",
+  "rule_version": "ladder-v2",
   "visibility": "public",
   "goal_links": [
     {
@@ -52,5 +52,12 @@
       "evidence_id": null
     }
   },
-  "learning_events": []
+  "learning_events": [],
+  "review_phase": "consolidation",
+  "consolidation_passes": 0,
+  "long_interval_passes": 0,
+  "recent_review_outcomes": [
+    "wrong"
+  ],
+  "scheduled_interval_days": 1
 }

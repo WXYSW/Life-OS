@@ -14,5 +14,9 @@
   "basis": null,
   "actual_minutes": null,
   "question_version": null,
-  "planner_version": "learning-v2"
+  "planner_version": "learning-v2",
+  "quality": null,
+  "error_type": null,
+  "target_date": null,
+  "schedule_rule_version": "ladder-v2"
 }

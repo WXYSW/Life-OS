@@ -10,6 +10,7 @@ Life OS v2：对话式生活记录与学习闭环。每天自然描述生活，�
 - [跨聊天待回答列表](knowledge/questions/backlog.json)
 - [学习决策与证据规则](docs/learning-engine.md)
 - [能力结构](knowledge/capabilities.json)
+- [间隔复习规则](docs/schedule-policy.md)
 - [复习参数](config/review.json)
 - [记录模板](templates/record.json)
 - [知识模板](templates/knowledge.json)

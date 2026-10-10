@@ -21,7 +21,8 @@ class SchedulingTests(unittest.TestCase):
     def test_hint_wrong_skip(self):
         old = dict(id='K1', status='review', stage=3, due='2026-10-10', priority='core')
         hint = grade(old, 'hinted', '2026-10-10')
-        self.assertEqual((hint['stage'], hint['due']), (3, '2026-10-11'))
+        self.assertEqual((hint['stage'], hint['due']), (0, '2026-10-11'))
+        self.assertEqual(hint['review_phase'], 'consolidation')
         self.assertEqual(grade(old, 'wrong', '2026-10-10')['stage'], 0)
         self.assertEqual(grade(old, 'skip', '2026-10-10'), old)
 
@@ -53,4 +54,3 @@ class SchedulingTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-

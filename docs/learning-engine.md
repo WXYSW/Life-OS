@@ -38,7 +38,8 @@ review.py select与questions.plan保留兼容旧记录和测试，日常不用�
 - 事件字段见templates/learning-event.json，必须说明dimension、outcome、是否独立、是否延迟、是否迁移、评价依据及是否符合调度条件。delayed与transfer由实际情境判断，不能根据动作名称自动认定。
 - learning.record_evidence是纯函数，输入已可评估事件，返回知识状态。重复事件ID相同内容不重复记录；同ID变内容拒绝。迟到事件需按时间重放；评价更正追加revision并按有效历史重算。
 - 助手同时保存真实attempt、知识状态、queue、backlog及current。部分回答继续走questions.change；完成后才给整题评价。公开授权沿用workflow；知识回答无需逐次询问。
-- 沿用ladder-v1间隔1/3/7/14/30天。讲解和即时practice不推进；同日同知识只改变调度一次。提示后的正确按hinted处理，不冒充独立正确。若已经有当天调度，后续证据仍保存，但不再次升阶。
+- 采用ladder-v2：初学、短期巩固、长期保持三个阶段。基础间隔1、3、7、14、30天，稳定长期证据可延长到60、90天。独立正确区分费力/稳定/迁移；费力不升阶，提示或遗忘/概念缺口进入1→3→7天巩固，不直接恢复旧长间隔。有明确依据的局部失误适度缩短；未知错误按巩固处理。实际间隔不足不升阶；近期多次失败暂缓延长。30天及以上须两次足间隔独立通过才延长。跳过不变；讲解/即时练习不推进，同日同知识只改变调度一次。具体判断与参数见schedule-policy.md。
+- record_evidence将quality（effortful/stable/transfer）、error_type（unknown/forgetting/conceptual/slip）和可选target_date传给grade。字段缺省采用stable/unknown，助手须在有证据时填写，不能从耗时单独推断。
 - 当前只更新明确被测维度；跳过不降低掌握。delayed_evidence_id和transfer_evidence_id是历史证据索引，最近状态仍须结合outcome和日期判断。前置基础是否需重新诊断由证据判断。
 
 ## 效果检查与探索
