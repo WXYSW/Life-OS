@@ -12,15 +12,29 @@
         "两处形式及其时态结构的对应",
         "能说明一般过去时与现在完成时的使用区别"
       ],
-      "answer_fragments": [],
+      "answer_fragments": [
+        {
+          "event_id": "EV-20261011-D-001-ANSWER",
+          "on": "2026-10-11",
+          "text": "need,to go。不知道语感吧"
+        }
+      ],
       "events": [
         {
           "event_id": "EV-20261011-D001-ISSUE",
           "type": "issued",
           "on": "2026-10-11"
+        },
+        {
+          "event_id": "EV-20261011-D-001-GRADE",
+          "type": "evaluated",
+          "on": "2026-10-11",
+          "attempt_id": "A-20261011-D-001",
+          "result": "key_error"
         }
       ],
-      "status": "unanswered"
+      "status": "evaluated",
+      "evaluated_on": "2026-10-11"
     },
     {
       "id": "Q-20261011-D002-01",
@@ -33,15 +47,29 @@
         "两种-ing形式拼写",
         "两个句子表达正在发生的动作并体现进行时结构"
       ],
-      "answer_fragments": [],
+      "answer_fragments": [
+        {
+          "event_id": "EV-20261011-D-002-ANSWER",
+          "on": "2026-10-11",
+          "text": "fring,seeing.\nThe bird fring in the air.\nI have seeing the view"
+        }
+      ],
       "events": [
         {
           "event_id": "EV-20261011-D002-ISSUE",
           "type": "issued",
           "on": "2026-10-11"
+        },
+        {
+          "event_id": "EV-20261011-D-002-GRADE",
+          "type": "evaluated",
+          "on": "2026-10-11",
+          "attempt_id": "A-20261011-D-002",
+          "result": "key_error"
         }
       ],
-      "status": "unanswered"
+      "status": "evaluated",
+      "evaluated_on": "2026-10-11"
     }
   ]
 }

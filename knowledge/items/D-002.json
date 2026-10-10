@@ -5,19 +5,21 @@
     "SRC-064"
   ],
   "priority": "core",
-  "status": "pending",
-  "stage": -1,
-  "due": null,
-  "last_review": null,
-  "understanding": "unassessed",
+  "status": "review",
+  "stage": 0,
+  "due": "2026-10-12",
+  "last_review": "2026-10-11",
+  "understanding": "needs_relearning",
   "content": "fry的-ing形式是frying，fried是过去式/过去分词；see的-ing形式seeing，过去式saw，过去分词seen。",
   "diagnostic_question": "写出fry和see的-ing形式，并各造一个正在发生的动作句。",
-  "question_state": "prepared_not_issued",
+  "question_state": "evaluated",
   "verification_sources": [
     "https://dictionary.cambridge.org/us/dictionary/english/fry"
   ],
   "verification_note": "Primary reference consulted",
-  "attempt_ids": [],
+  "attempt_ids": [
+    "A-20261011-D-002"
+  ],
   "rule_version": "ladder-v1",
   "visibility": "public"
 }

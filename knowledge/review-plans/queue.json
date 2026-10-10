@@ -2177,11 +2177,11 @@
       "SRC-066"
     ],
     "priority": "core",
-    "status": "pending",
-    "stage": -1,
-    "due": null,
-    "last_review": null,
-    "understanding": "unassessed",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "understanding": "needs_relearning",
     "rule_version": "ladder-v1"
   },
   {
@@ -2191,11 +2191,11 @@
       "SRC-064"
     ],
     "priority": "core",
-    "status": "pending",
-    "stage": -1,
-    "due": null,
-    "last_review": null,
-    "understanding": "unassessed",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "understanding": "needs_relearning",
     "rule_version": "ladder-v1"
   },
   {

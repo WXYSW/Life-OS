@@ -1,0 +1,21 @@
+{
+  "attempt_id": "A-20261011-D-002",
+  "question_id": "Q-20261011-D002-01",
+  "knowledge_id": "D-002",
+  "answered_on": "2026-10-11",
+  "answer_text": "fring,seeing.\nThe bird fring in the air.\nI have seeing the view",
+  "assistance": "not_reported",
+  "grade": "key_error",
+  "correct_parts": [
+    "seeing is correct"
+  ],
+  "missing_or_errors": [
+    "frying misspelled",
+    "fly/fry confusion",
+    "progressive construction missing"
+  ],
+  "assessment": "Needs relearning; retest next day",
+  "stage_after": 0,
+  "due_after": "2026-10-12",
+  "rule_version": "ladder-v1"
+}
