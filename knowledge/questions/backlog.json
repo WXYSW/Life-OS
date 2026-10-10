@@ -1,1 +1,47 @@
-{"version":"questions-v1","questions":[]}
+{
+  "version": "questions-v1",
+  "questions": [
+    {
+      "id": "Q-20261011-D001-01",
+      "knowledge_id": "D-001",
+      "kind": "new",
+      "text": "分别补全 Yesterday I ___ to the library. 和 I have ___ there twice. 并解释选择。",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "两处形式及其时态结构的对应",
+        "能说明一般过去时与现在完成时的使用区别"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-D001-ISSUE",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
+    },
+    {
+      "id": "Q-20261011-D002-01",
+      "knowledge_id": "D-002",
+      "kind": "new",
+      "text": "写出 fry 和 see 的 -ing 形式，并各造一个正在发生的动作句。",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "两种-ing形式拼写",
+        "两个句子表达正在发生的动作并体现进行时结构"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-D002-ISSUE",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
+    }
+  ]
+}

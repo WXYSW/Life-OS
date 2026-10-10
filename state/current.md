@@ -16,3 +16,5 @@
 
 - 2026-10-11运行机制更新：长期待回答列表knowledge/questions/backlog.json已建立，当前为空（6个诊断入口仅准备、未派题）。未答/部分回答跨天续接；默认旧题占额度。细节见docs/question-lifecycle.md。
 
+
+- 2026-10-11：英语诊断派题2道（D-001、D-002），均待回答；已派题详情见 knowledge/questions/backlog.json、knowledge/sessions/2026-10-11.json。今日暂无到期复习题。
