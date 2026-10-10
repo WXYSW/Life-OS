@@ -13,3 +13,6 @@
 - 保存：本次zip原文及整合结果上传现有GitHub。后台定时任务未启用。
 
 详见 imports/2026-10-11-total/analysis.md。
+
+- 2026-10-11运行机制更新：长期待回答列表knowledge/questions/backlog.json已建立，当前为空（6个诊断入口仅准备、未派题）。未答/部分回答跨天续接；默认旧题占额度。细节见docs/question-lifecycle.md。
+

@@ -1,1 +1,21 @@
-{"version":"ladder-v1","timezone":"Asia/Shanghai","intervals_days":[1,3,7,14,30],"new_limit":2,"review_limit":3,"low_priority":"reference_only","trigger":"on_conversation","background_enabled":false}
+{
+  "version": "ladder-v1",
+  "timezone": "Asia/Shanghai",
+  "intervals_days": [
+    1,
+    3,
+    7,
+    14,
+    30
+  ],
+  "new_limit": 2,
+  "review_limit": 3,
+  "low_priority": "reference_only",
+  "trigger": "on_conversation",
+  "background_enabled": false,
+  "question_version": "questions-v1",
+  "backlog_path": "knowledge/questions/backlog.json",
+  "resume_before_new": true,
+  "carryover_counts_toward_limits": true
+}
+

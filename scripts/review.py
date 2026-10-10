@@ -64,6 +64,7 @@ if __name__ == '__main__':
     parser.add_argument('queue')
     parser.add_argument('--day', required=True)
     parser.add_argument('--session', help='Saved session JSON containing assigned_ids')
+    parser.add_argument('--questions', help='Cross-day backlog; auto-detects knowledge/questions/backlog.json')
     args = parser.parse_args()
     items = json.loads(Path(args.queue).read_text(encoding='utf-8'))
     assigned = []
@@ -72,4 +73,13 @@ if __name__ == '__main__':
         if session['day'] != args.day:
             raise ValueError('Session date mismatch')
         assigned = session['assigned_ids']
-    print(json.dumps(select(items, args.day, assigned), ensure_ascii=False, indent=2))
+    question_path = Path(args.questions) if args.questions else Path(args.queue).parent.parent / 'questions/backlog.json'
+    if question_path.exists():
+        from questions import plan
+        backlog = json.loads(question_path.read_text(encoding='utf-8'))
+        result = plan(items, backlog['questions'], args.day, assigned,
+                      CONFIG['new_limit'], CONFIG['review_limit'])
+    else:
+        result = select(items, args.day, assigned)
+    print(json.dumps(result, ensure_ascii=False, indent=2))
+

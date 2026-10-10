@@ -6,6 +6,8 @@
 
 - [当前状态](state/current.md)
 - [操作流程](docs/workflow.md)
+- [未答题与部分回答流程](docs/question-lifecycle.md)
+- [跨聊天待回答列表](knowledge/questions/backlog.json)
 - [复习参数](config/review.json)
 - [记录模板](templates/record.json)
 - [知识模板](templates/knowledge.json)
@@ -47,3 +49,8 @@ python -m unittest discover -s tests -v
 脚本只输出候选题对应的知识 ID，不自动生成题目、不修改文件、不上传。助手依据知识内容出题，并在实际派题后保存 session；作答调用 `grade` 后保存状态和作答历史。时间由调用方按 Asia/Shanghai 提供，拒绝依赖机器默认日期。
 
 已配置的是对话时执行流程，未配置后台定时任务。已导入历史背景，尚需当前作答验证理解；不必重新填写资料已覆盖的全部初始情况。
+
+## 待回答题（v1.1）
+
+尚未出题的知识留待诊断池；已出但未答/只答一部分的题保存在长期backlog，跨天跨聊天继续。旧题占当批额度，不不断加题。回答完成并评价后才进入复习，跳过和未答不算错。说明与当前状态在每次对话操作后同步更新，不依赖后台任务。
+
