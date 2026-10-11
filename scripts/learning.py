@@ -4,11 +4,14 @@ import copy
 import json
 from datetime import date
 from pathlib import Path
-from questions import OPEN, validate
+OPEN={'unanswered','partial','awaiting_evaluation','deferred','paused'}
+def validate(questions):
+    ids=[q['id'] for q in questions]
+    if len(ids)!=len(set(ids)):raise ValueError('Duplicate ephemeral question IDs')
 from review import CONFIG, grade
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = 'learning-v2'
+VERSION = 'knowledge-light-v1'
 
 
 def plan_actions(items, questions, goals, day, assigned=(), new_limit=2,
@@ -189,6 +192,12 @@ def record_evidence(item, event):
     for field in ('independent', 'delayed', 'transfer', 'schedule_eligible'):
         if type(event[field]) is not bool:
             raise ValueError('Evidence flags must be boolean')
+    allowed = {'id','day','action','dimension','outcome','independent','delayed','transfer','schedule_eligible','basis','quality','error_type','target_date','canonical_ids','weakness','actual_minutes'}
+    event = {k:copy.deepcopy(v) for k,v in event.items() if k in allowed}
+    if 'taxonomy' in item:
+        scopes=event.get('canonical_ids', [])
+        if not scopes or not set(scopes)<=set(item['taxonomy']['canonical_ids']):
+            raise ValueError('Explicit tested canonical scope required')
     result = copy.deepcopy(item)
     history = result.setdefault('learning_events', [])
     old = next((e for e in history if e['id'] == event['id']), None)
@@ -217,6 +226,12 @@ def record_evidence(item, event):
         if event['transfer'] and event['independent']:
             dimension['transfer_evidence_id'] = event['id']
     result.setdefault('learning_events', []).append(copy.deepcopy(event))
+    for position, scope in enumerate(event.get('canonical_ids', []), 1):
+        result.setdefault('diagnostic_evidence', []).append(dict(
+            attempt_id=event['id'], canonical_id=scope, position=position,
+            recorded_result=effective, answered_on=event['day'], independent=event['independent'],
+            delayed=event['delayed'], mapping_status='mapped', basis=event['basis'],
+            long_term_verified=False))
     return result
 
 
@@ -241,9 +256,8 @@ def main(argv=None):
             for key in ('goal_links','capability_ids','prerequisite_ids','mastery','estimated_minutes'):
                 if key in detail:
                     i[key] = detail[key]
-    qs = read('knowledge/questions/backlog.json')['questions']
-    session = a.root/'knowledge/sessions'/f'{a.day}.json'
-    assigned = json.loads(session.read_text(encoding='utf-8')).get('assigned_ids', []) if session.exists() else []
+    qs = [] # Questions and assigned IDs live only in the current conversation.
+    assigned = []
     from catalogue import load_context
     items, qs = load_context(a.root, items, qs)
     print(json.dumps(plan_actions(items, qs, read('goals/initial.json')['goals'], a.day,

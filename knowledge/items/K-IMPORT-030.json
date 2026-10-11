@@ -18,7 +18,6 @@
   "last_review": null,
   "understanding": "unassessed",
   "kind": "imported_unverified",
-  "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
   "imported_on": "2026-10-11",
@@ -41,5 +40,7 @@
       "basis": "assistant_taxonomy_provisional",
       "rationale": "英语基础/语言能力关联当前英语目标，尚未核对考试权重"
     }
-  ]
+  ],
+  "evidence_storage": "knowledge-light-v1",
+  "diagnostic_evidence": []
 }

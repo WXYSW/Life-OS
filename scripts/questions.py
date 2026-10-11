@@ -1,3 +1,6 @@
+"""Legacy pure helpers for transient in-conversation questions only. No disk persistence.
+Not used by the normal planner or handoff; retained for API compatibility.
+"""
 """Persistent-question lifecycle as pure functions; caller commits returned state."""
 import copy
 from datetime import date, timedelta

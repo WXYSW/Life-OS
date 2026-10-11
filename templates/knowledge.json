@@ -12,7 +12,6 @@
   "last_review": null,
   "understanding": "unassessed",
   "evidence_ids": [],
-  "attempt_ids": [],
   "rule_version": "ladder-v2",
   "visibility": "local",
   "publication_basis": null,
@@ -41,5 +40,7 @@
   "long_interval_passes": 0,
   "recent_review_outcomes": [],
   "scheduled_interval_days": null,
-  "taxonomy": null
+  "taxonomy": null,
+  "diagnostic_evidence": [],
+  "evidence_storage": "knowledge-light-v1"
 }

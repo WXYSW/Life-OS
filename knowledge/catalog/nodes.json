@@ -5,13 +5,15 @@
       "id": "SUB-EN",
       "title": "英语",
       "level": "subject",
-      "parent_id": null
+      "parent_id": null,
+      "evidence_refs": []
     },
     {
       "id": "MOD-EN-cedd5cda25",
       "title": "词汇与语音",
       "level": "module",
-      "parent_id": "SUB-EN"
+      "parent_id": "SUB-EN",
+      "evidence_refs": []
     },
     {
       "id": "KP-EN-1d0fddfd1fb6",
@@ -117,7 +119,8 @@
       "id": "MOD-EN-4a7c1d9c9a",
       "title": "介词",
       "level": "module",
-      "parent_id": "SUB-EN"
+      "parent_id": "SUB-EN",
+      "evidence_refs": []
     },
     {
       "id": "KP-EN-389adc80d94a",
@@ -148,9 +151,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-005",
-          "position": 1,
-          "recorded_result": "correct"
+          "knowledge_id": "K-IMPORT-005",
+          "evidence_id": "A-20261011-K-IMPORT-005",
+          "position": 1
         }
       ],
       "mastery": "unknown",
@@ -174,9 +177,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-005",
-          "position": 3,
-          "recorded_result": "wrong"
+          "knowledge_id": "K-IMPORT-005",
+          "evidence_id": "A-20261011-K-IMPORT-005",
+          "position": 3
         }
       ],
       "mastery": "unknown",
@@ -200,9 +203,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-005",
-          "position": 2,
-          "recorded_result": "wrong"
+          "knowledge_id": "K-IMPORT-005",
+          "evidence_id": "A-20261011-K-IMPORT-005",
+          "position": 2
         }
       ],
       "mastery": "unknown",
@@ -293,7 +296,8 @@
       "id": "MOD-EN-1a15703c7d",
       "title": "动词形式",
       "level": "module",
-      "parent_id": "SUB-EN"
+      "parent_id": "SUB-EN",
+      "evidence_refs": []
     },
     {
       "id": "KP-EN-31c2279b93d3",
@@ -327,14 +331,14 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-D-001",
-          "position": 1,
-          "recorded_result": "wrong"
+          "knowledge_id": "D-001",
+          "evidence_id": "A-20261011-D-001",
+          "position": 1
         },
         {
-          "attempt_id": "A-20261011-K-IMPORT-007",
-          "position": 1,
-          "recorded_result": "wrong"
+          "knowledge_id": "K-IMPORT-007",
+          "evidence_id": "A-20261011-K-IMPORT-007",
+          "position": 1
         }
       ],
       "mastery": "unknown",
@@ -358,9 +362,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-007",
-          "position": 2,
-          "recorded_result": "unknown"
+          "knowledge_id": "K-IMPORT-007",
+          "evidence_id": "A-20261011-K-IMPORT-007",
+          "position": 2
         }
       ],
       "mastery": "unknown",
@@ -384,9 +388,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-007",
-          "position": 3,
-          "recorded_result": "wrong"
+          "knowledge_id": "K-IMPORT-007",
+          "evidence_id": "A-20261011-K-IMPORT-007",
+          "position": 3
         }
       ],
       "mastery": "unknown",
@@ -446,9 +450,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-008",
-          "position": 3,
-          "recorded_result": "wrong"
+          "knowledge_id": "K-IMPORT-008",
+          "evidence_id": "A-20261011-K-IMPORT-008",
+          "position": 3
         }
       ],
       "mastery": "unknown",
@@ -472,9 +476,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-008",
-          "position": 2,
-          "recorded_result": "unknown"
+          "knowledge_id": "K-IMPORT-008",
+          "evidence_id": "A-20261011-K-IMPORT-008",
+          "position": 2
         }
       ],
       "mastery": "unknown",
@@ -499,14 +503,14 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-D-002",
-          "position": 1,
-          "recorded_result": "wrong"
+          "knowledge_id": "D-002",
+          "evidence_id": "A-20261011-D-002",
+          "position": 1
         },
         {
-          "attempt_id": "A-20261011-K-IMPORT-008",
-          "position": 1,
-          "recorded_result": "unknown"
+          "knowledge_id": "K-IMPORT-008",
+          "evidence_id": "A-20261011-K-IMPORT-008",
+          "position": 1
         }
       ],
       "mastery": "unknown",
@@ -531,9 +535,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-D-002",
-          "position": 2,
-          "recorded_result": "correct"
+          "knowledge_id": "D-002",
+          "evidence_id": "A-20261011-D-002",
+          "position": 2
         }
       ],
       "mastery": "unknown",
@@ -651,9 +655,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-D-001",
-          "position": 3,
-          "recorded_result": "unknown"
+          "knowledge_id": "D-001",
+          "evidence_id": "A-20261011-D-001",
+          "position": 3
         }
       ],
       "mastery": "unknown",
@@ -679,9 +683,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-D-001",
-          "position": 2,
-          "recorded_result": "wrong"
+          "knowledge_id": "D-001",
+          "evidence_id": "A-20261011-D-001",
+          "position": 2
         }
       ],
       "mastery": "unknown",
@@ -756,7 +760,8 @@
       "id": "MOD-EN-756b595bf1",
       "title": "名词",
       "level": "module",
-      "parent_id": "SUB-EN"
+      "parent_id": "SUB-EN",
+      "evidence_refs": []
     },
     {
       "id": "KP-EN-e1b4dce1173e",
@@ -787,9 +792,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-011",
-          "position": 1,
-          "recorded_result": "wrong"
+          "knowledge_id": "K-IMPORT-011",
+          "evidence_id": "A-20261011-K-IMPORT-011",
+          "position": 1
         }
       ],
       "mastery": "unknown",
@@ -813,9 +818,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-011",
-          "position": 2,
-          "recorded_result": "wrong"
+          "knowledge_id": "K-IMPORT-011",
+          "evidence_id": "A-20261011-K-IMPORT-011",
+          "position": 2
         }
       ],
       "mastery": "unknown",
@@ -839,9 +844,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-011",
-          "position": 3,
-          "recorded_result": "correct"
+          "knowledge_id": "K-IMPORT-011",
+          "evidence_id": "A-20261011-K-IMPORT-011",
+          "position": 3
         }
       ],
       "mastery": "unknown",
@@ -865,9 +870,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-011",
-          "position": 4,
-          "recorded_result": "wrong"
+          "knowledge_id": "K-IMPORT-011",
+          "evidence_id": "A-20261011-K-IMPORT-011",
+          "position": 4
         }
       ],
       "mastery": "unknown",
@@ -891,9 +896,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-011",
-          "position": 5,
-          "recorded_result": "correct"
+          "knowledge_id": "K-IMPORT-011",
+          "evidence_id": "A-20261011-K-IMPORT-011",
+          "position": 5
         }
       ],
       "mastery": "unknown",
@@ -1160,7 +1165,8 @@
       "id": "MOD-EN-a99059ba20",
       "title": "形容词",
       "level": "module",
-      "parent_id": "SUB-EN"
+      "parent_id": "SUB-EN",
+      "evidence_refs": []
     },
     {
       "id": "KP-EN-3ae2f2d96080",
@@ -1193,9 +1199,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-015",
-          "position": 1,
-          "recorded_result": "correct"
+          "knowledge_id": "K-IMPORT-015",
+          "evidence_id": "A-20261011-K-IMPORT-015",
+          "position": 1
         }
       ],
       "mastery": "unknown",
@@ -1221,9 +1227,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-015",
-          "position": 3,
-          "recorded_result": "wrong"
+          "knowledge_id": "K-IMPORT-015",
+          "evidence_id": "A-20261011-K-IMPORT-015",
+          "position": 3
         }
       ],
       "mastery": "unknown",
@@ -1249,9 +1255,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-015",
-          "position": 2,
-          "recorded_result": "wrong"
+          "knowledge_id": "K-IMPORT-015",
+          "evidence_id": "A-20261011-K-IMPORT-015",
+          "position": 2
         }
       ],
       "mastery": "unknown",
@@ -1306,7 +1312,8 @@
       "id": "MOD-EN-d527d77d7e",
       "title": "语法总览",
       "level": "module",
-      "parent_id": "SUB-EN"
+      "parent_id": "SUB-EN",
+      "evidence_refs": []
     },
     {
       "id": "KP-EN-cc4d9f2b2607",
@@ -1332,7 +1339,8 @@
       "id": "MOD-EN-9c2a275f91",
       "title": "学习方法",
       "level": "module",
-      "parent_id": "SUB-EN"
+      "parent_id": "SUB-EN",
+      "evidence_refs": []
     },
     {
       "id": "KP-EN-50ef4ab60b6f",
@@ -1518,7 +1526,8 @@
       "id": "MOD-EN-22d269c90d",
       "title": "句法与时态",
       "level": "module",
-      "parent_id": "SUB-EN"
+      "parent_id": "SUB-EN",
+      "evidence_refs": []
     },
     {
       "id": "KP-EN-1b527cb6c85a",
@@ -1533,14 +1542,14 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-027",
-          "position": 1,
-          "recorded_result": "partial"
+          "knowledge_id": "K-IMPORT-027",
+          "evidence_id": "A-20261011-K-IMPORT-027",
+          "position": 1
         },
         {
-          "attempt_id": "A-20261011-K-IMPORT-027",
-          "position": 2,
-          "recorded_result": "correct"
+          "knowledge_id": "K-IMPORT-027",
+          "evidence_id": "A-20261011-K-IMPORT-027",
+          "position": 2
         }
       ],
       "mastery": "unknown",
@@ -1600,9 +1609,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-029",
-          "position": 1,
-          "recorded_result": "wrong"
+          "knowledge_id": "K-IMPORT-029",
+          "evidence_id": "A-20261011-K-IMPORT-029",
+          "position": 1
         }
       ],
       "mastery": "unknown",
@@ -1626,9 +1635,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-029",
-          "position": 2,
-          "recorded_result": "wrong"
+          "knowledge_id": "K-IMPORT-029",
+          "evidence_id": "A-20261011-K-IMPORT-029",
+          "position": 2
         }
       ],
       "mastery": "unknown",
@@ -1643,7 +1652,8 @@
       "id": "MOD-EN-041f394543",
       "title": "动词搭配",
       "level": "module",
-      "parent_id": "SUB-EN"
+      "parent_id": "SUB-EN",
+      "evidence_refs": []
     },
     {
       "id": "KP-EN-c02787b4d638",
@@ -1749,7 +1759,8 @@
       "id": "MOD-EN-e595c09d7c",
       "title": "逻辑连接",
       "level": "module",
-      "parent_id": "SUB-EN"
+      "parent_id": "SUB-EN",
+      "evidence_refs": []
     },
     {
       "id": "KP-EN-1666a8c243f2",
@@ -1780,9 +1791,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-035",
-          "position": 1,
-          "recorded_result": "wrong"
+          "knowledge_id": "K-IMPORT-035",
+          "evidence_id": "A-20261011-K-IMPORT-035",
+          "position": 1
         }
       ],
       "mastery": "unknown",
@@ -1806,9 +1817,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-035",
-          "position": 2,
-          "recorded_result": "correct"
+          "knowledge_id": "K-IMPORT-035",
+          "evidence_id": "A-20261011-K-IMPORT-035",
+          "position": 2
         }
       ],
       "mastery": "unknown",
@@ -1832,9 +1843,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-035",
-          "position": 3,
-          "recorded_result": "correct"
+          "knowledge_id": "K-IMPORT-035",
+          "evidence_id": "A-20261011-K-IMPORT-035",
+          "position": 3
         }
       ],
       "mastery": "unknown",
@@ -1849,7 +1860,8 @@
       "id": "MOD-EN-8bd38d2737",
       "title": "阅读理解",
       "level": "module",
-      "parent_id": "SUB-EN"
+      "parent_id": "SUB-EN",
+      "evidence_refs": []
     },
     {
       "id": "KP-EN-e02dedd9e5a3",
@@ -1984,14 +1996,14 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-042",
-          "position": 1,
-          "recorded_result": "correct"
+          "knowledge_id": "K-IMPORT-042",
+          "evidence_id": "A-20261011-K-IMPORT-042",
+          "position": 1
         },
         {
-          "attempt_id": "A-20261011-K-IMPORT-042",
-          "position": 2,
-          "recorded_result": "correct"
+          "knowledge_id": "K-IMPORT-042",
+          "evidence_id": "A-20261011-K-IMPORT-042",
+          "position": 2
         }
       ],
       "mastery": "unknown",
@@ -2066,7 +2078,8 @@
       "id": "MOD-EN-b753f6639e",
       "title": "听力理解",
       "level": "module",
-      "parent_id": "SUB-EN"
+      "parent_id": "SUB-EN",
+      "evidence_refs": []
     },
     {
       "id": "KP-EN-3a8c5bfbef8f",
@@ -2252,7 +2265,8 @@
       "id": "MOD-EN-20f795d50b",
       "title": "书面与口头表达",
       "level": "module",
-      "parent_id": "SUB-EN"
+      "parent_id": "SUB-EN",
+      "evidence_refs": []
     },
     {
       "id": "KP-EN-49bc882fae56",
@@ -2458,13 +2472,15 @@
       "id": "SUB-MA",
       "title": "高等数学",
       "level": "subject",
-      "parent_id": null
+      "parent_id": null,
+      "evidence_refs": []
     },
     {
       "id": "MOD-MA-0c010c0244",
       "title": "极限",
       "level": "module",
-      "parent_id": "SUB-MA"
+      "parent_id": "SUB-MA",
+      "evidence_refs": []
     },
     {
       "id": "KP-MA-8f92f12a5168",
@@ -2495,14 +2511,14 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-063",
-          "position": 1,
-          "recorded_result": "correct"
+          "knowledge_id": "K-IMPORT-063",
+          "evidence_id": "A-20261011-K-IMPORT-063",
+          "position": 1
         },
         {
-          "attempt_id": "A-20261011-K-IMPORT-063",
-          "position": 2,
-          "recorded_result": "correct"
+          "knowledge_id": "K-IMPORT-063",
+          "evidence_id": "A-20261011-K-IMPORT-063",
+          "position": 2
         }
       ],
       "mastery": "unknown",
@@ -2579,7 +2595,8 @@
       "id": "MOD-MA-b39293baa3",
       "title": "导数与微分",
       "level": "module",
-      "parent_id": "SUB-MA"
+      "parent_id": "SUB-MA",
+      "evidence_refs": []
     },
     {
       "id": "KP-MA-d8dbb8c1e2fa",
@@ -2681,7 +2698,8 @@
       "id": "MOD-MA-37178b9b46",
       "title": "导数应用",
       "level": "module",
-      "parent_id": "SUB-MA"
+      "parent_id": "SUB-MA",
+      "evidence_refs": []
     },
     {
       "id": "KP-MA-3d38ce1520ac",
@@ -2743,7 +2761,8 @@
       "id": "MOD-MA-bd5a0269e1",
       "title": "积分方法",
       "level": "module",
-      "parent_id": "SUB-MA"
+      "parent_id": "SUB-MA",
+      "evidence_refs": []
     },
     {
       "id": "KP-MA-eeffc5e23573",
@@ -2921,7 +2940,8 @@
       "id": "MOD-MA-208ac530b5",
       "title": "积分应用",
       "level": "module",
-      "parent_id": "SUB-MA"
+      "parent_id": "SUB-MA",
+      "evidence_refs": []
     },
     {
       "id": "KP-MA-bd83c5239f03",
@@ -3047,7 +3067,8 @@
       "id": "MOD-MA-7dd953b59a",
       "title": "多元积分",
       "level": "module",
-      "parent_id": "SUB-MA"
+      "parent_id": "SUB-MA",
+      "evidence_refs": []
     },
     {
       "id": "KP-MA-b5aa6295c169",
@@ -3293,7 +3314,8 @@
       "id": "MOD-MA-a0d59973b5",
       "title": "多元微分",
       "level": "module",
-      "parent_id": "SUB-MA"
+      "parent_id": "SUB-MA",
+      "evidence_refs": []
     },
     {
       "id": "KP-MA-215b3055066e",
@@ -3395,7 +3417,8 @@
       "id": "MOD-MA-c3aaeec6f0",
       "title": "微分方程",
       "level": "module",
-      "parent_id": "SUB-MA"
+      "parent_id": "SUB-MA",
+      "evidence_refs": []
     },
     {
       "id": "KP-MA-7dbce15caab2",
@@ -3481,7 +3504,8 @@
       "id": "MOD-MA-18afca3d1e",
       "title": "级数与展开",
       "level": "module",
-      "parent_id": "SUB-MA"
+      "parent_id": "SUB-MA",
+      "evidence_refs": []
     },
     {
       "id": "KP-MA-a686e2cf6913",
@@ -3527,13 +3551,15 @@
       "id": "SUB-CS",
       "title": "计算机",
       "level": "subject",
-      "parent_id": null
+      "parent_id": null,
+      "evidence_refs": []
     },
     {
       "id": "MOD-CS-cf11012233",
       "title": "C++构建基础",
       "level": "module",
-      "parent_id": "SUB-CS"
+      "parent_id": "SUB-CS",
+      "evidence_refs": []
     },
     {
       "id": "KP-CS-80d52f0790c6",
@@ -3637,7 +3663,8 @@
       "id": "MOD-CS-349f7f9acb",
       "title": "算法基础",
       "level": "module",
-      "parent_id": "SUB-CS"
+      "parent_id": "SUB-CS",
+      "evidence_refs": []
     },
     {
       "id": "KP-CS-388b9f5fdd18",
@@ -3701,7 +3728,8 @@
       "id": "MOD-CS-12a7cd9d8b",
       "title": "C基本语法",
       "level": "module",
-      "parent_id": "SUB-CS"
+      "parent_id": "SUB-CS",
+      "evidence_refs": []
     },
     {
       "id": "KP-CS-012fcdd5236a",
@@ -3727,7 +3755,8 @@
       "id": "MOD-CS-16ea0797cd",
       "title": "C数组",
       "level": "module",
-      "parent_id": "SUB-CS"
+      "parent_id": "SUB-CS",
+      "evidence_refs": []
     },
     {
       "id": "KP-CS-6d17069ad522",
@@ -3760,9 +3789,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-088-CS01",
-          "position": 1,
-          "recorded_result": "wrong"
+          "knowledge_id": "K-IMPORT-088",
+          "evidence_id": "A-20261011-K-IMPORT-088-CS01",
+          "position": 1
         }
       ],
       "mastery": "unknown",
@@ -3786,9 +3815,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-088-CS01",
-          "position": 2,
-          "recorded_result": "correct"
+          "knowledge_id": "K-IMPORT-088",
+          "evidence_id": "A-20261011-K-IMPORT-088-CS01",
+          "position": 2
         }
       ],
       "mastery": "unknown",
@@ -3843,7 +3872,8 @@
       "id": "MOD-CS-ab8c37d26e",
       "title": "C代码组织",
       "level": "module",
-      "parent_id": "SUB-CS"
+      "parent_id": "SUB-CS",
+      "evidence_refs": []
     },
     {
       "id": "KP-CS-466ff1841c3f",
@@ -4021,7 +4051,8 @@
       "id": "MOD-CS-26074fda77",
       "title": "C函数",
       "level": "module",
-      "parent_id": "SUB-CS"
+      "parent_id": "SUB-CS",
+      "evidence_refs": []
     },
     {
       "id": "KP-CS-34cc89e5a6c8",
@@ -4052,9 +4083,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-097-CS01",
-          "position": 1,
-          "recorded_result": "unknown"
+          "knowledge_id": "K-IMPORT-097",
+          "evidence_id": "A-20261011-K-IMPORT-097-CS01",
+          "position": 1
         }
       ],
       "mastery": "unknown",
@@ -4078,9 +4109,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-097-CS01",
-          "position": 2,
-          "recorded_result": "unknown"
+          "knowledge_id": "K-IMPORT-097",
+          "evidence_id": "A-20261011-K-IMPORT-097-CS01",
+          "position": 2
         }
       ],
       "mastery": "unknown",
@@ -4104,9 +4135,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-097-CS01",
-          "position": 3,
-          "recorded_result": "unknown"
+          "knowledge_id": "K-IMPORT-097",
+          "evidence_id": "A-20261011-K-IMPORT-097-CS01",
+          "position": 3
         }
       ],
       "mastery": "unknown",
@@ -4146,14 +4177,14 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-098-CS01",
-          "position": 1,
-          "recorded_result": "unknown"
+          "knowledge_id": "K-IMPORT-098",
+          "evidence_id": "A-20261011-K-IMPORT-098-CS01",
+          "position": 1
         },
         {
-          "attempt_id": "A-20261011-K-IMPORT-098-CS01",
-          "position": 2,
-          "recorded_result": "partial"
+          "knowledge_id": "K-IMPORT-098",
+          "evidence_id": "A-20261011-K-IMPORT-098-CS01",
+          "position": 2
         }
       ],
       "mastery": "unknown",
@@ -4177,9 +4208,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-098-CS01",
-          "position": 3,
-          "recorded_result": "unknown"
+          "knowledge_id": "K-IMPORT-098",
+          "evidence_id": "A-20261011-K-IMPORT-098-CS01",
+          "position": 3
         }
       ],
       "mastery": "unknown",
@@ -4259,9 +4290,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-101-CS01",
-          "position": 1,
-          "recorded_result": "correct"
+          "knowledge_id": "K-IMPORT-101",
+          "evidence_id": "A-20261011-K-IMPORT-101-CS01",
+          "position": 1
         }
       ],
       "mastery": "unknown",
@@ -4285,9 +4316,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-101-CS01",
-          "position": 2,
-          "recorded_result": "unknown"
+          "knowledge_id": "K-IMPORT-101",
+          "evidence_id": "A-20261011-K-IMPORT-101-CS01",
+          "position": 2
         }
       ],
       "mastery": "unknown",
@@ -4302,7 +4333,8 @@
       "id": "MOD-CS-0ef5aa66f3",
       "title": "C变量",
       "level": "module",
-      "parent_id": "SUB-CS"
+      "parent_id": "SUB-CS",
+      "evidence_refs": []
     },
     {
       "id": "KP-CS-2616f28a3cf6",
@@ -4469,9 +4501,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-105-CS01",
-          "position": 1,
-          "recorded_result": "wrong"
+          "knowledge_id": "K-IMPORT-105",
+          "evidence_id": "A-20261011-K-IMPORT-105-CS01",
+          "position": 1
         }
       ],
       "mastery": "unknown",
@@ -4495,9 +4527,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-105-CS01",
-          "position": 2,
-          "recorded_result": "unknown"
+          "knowledge_id": "K-IMPORT-105",
+          "evidence_id": "A-20261011-K-IMPORT-105-CS01",
+          "position": 2
         }
       ],
       "mastery": "unknown",
@@ -4521,9 +4553,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-105-CS01",
-          "position": 3,
-          "recorded_result": "unknown"
+          "knowledge_id": "K-IMPORT-105",
+          "evidence_id": "A-20261011-K-IMPORT-105-CS01",
+          "position": 3
         }
       ],
       "mastery": "unknown",
@@ -4662,9 +4694,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-109-CS01",
-          "position": 1,
-          "recorded_result": "correct"
+          "knowledge_id": "K-IMPORT-109",
+          "evidence_id": "A-20261011-K-IMPORT-109-CS01",
+          "position": 1
         }
       ],
       "mastery": "unknown",
@@ -4688,9 +4720,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-109-CS01",
-          "position": 2,
-          "recorded_result": "wrong"
+          "knowledge_id": "K-IMPORT-109",
+          "evidence_id": "A-20261011-K-IMPORT-109-CS01",
+          "position": 2
         }
       ],
       "mastery": "unknown",
@@ -4715,9 +4747,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-109-CS01",
-          "position": 3,
-          "recorded_result": "partial"
+          "knowledge_id": "K-IMPORT-109",
+          "evidence_id": "A-20261011-K-IMPORT-109-CS01",
+          "position": 3
         }
       ],
       "mastery": "unknown",
@@ -4752,7 +4784,8 @@
       "id": "MOD-CS-cc3536f17a",
       "title": "C指针",
       "level": "module",
-      "parent_id": "SUB-CS"
+      "parent_id": "SUB-CS",
+      "evidence_refs": []
     },
     {
       "id": "KP-CS-af3b9941c31f",
@@ -4785,9 +4818,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-112-CS01",
-          "position": 3,
-          "recorded_result": "correct"
+          "knowledge_id": "K-IMPORT-112",
+          "evidence_id": "A-20261011-K-IMPORT-112-CS01",
+          "position": 3
         }
       ],
       "mastery": "unknown",
@@ -4813,9 +4846,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-112-CS01",
-          "position": 2,
-          "recorded_result": "correct"
+          "knowledge_id": "K-IMPORT-112",
+          "evidence_id": "A-20261011-K-IMPORT-112-CS01",
+          "position": 2
         }
       ],
       "mastery": "unknown",
@@ -4855,9 +4888,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-K-IMPORT-112-CS01",
-          "position": 1,
-          "recorded_result": "wrong"
+          "knowledge_id": "K-IMPORT-112",
+          "evidence_id": "A-20261011-K-IMPORT-112-CS01",
+          "position": 1
         }
       ],
       "mastery": "unknown",
@@ -5106,7 +5139,8 @@
       "id": "MOD-CS-ef5a4c9d0a",
       "title": "C输入输出",
       "level": "module",
-      "parent_id": "SUB-CS"
+      "parent_id": "SUB-CS",
+      "evidence_refs": []
     },
     {
       "id": "KP-CS-e222b66fa150",
@@ -5224,7 +5258,8 @@
       "id": "MOD-CS-fa10e1a0c2",
       "title": "C控制流",
       "level": "module",
-      "parent_id": "SUB-CS"
+      "parent_id": "SUB-CS",
+      "evidence_refs": []
     },
     {
       "id": "KP-CS-6508359da301",
@@ -5590,7 +5625,8 @@
       "id": "MOD-CS-01980cfd22",
       "title": "Shell变量",
       "level": "module",
-      "parent_id": "SUB-CS"
+      "parent_id": "SUB-CS",
+      "evidence_refs": []
     },
     {
       "id": "KP-CS-84120aac8202",
@@ -5674,7 +5710,8 @@
       "id": "MOD-CS-829787f5b0",
       "title": "Shell执行",
       "level": "module",
-      "parent_id": "SUB-CS"
+      "parent_id": "SUB-CS",
+      "evidence_refs": []
     },
     {
       "id": "KP-CS-5619be41967e",
@@ -5739,7 +5776,8 @@
       "id": "MOD-CS-c6440db449",
       "title": "Shell文本",
       "level": "module",
-      "parent_id": "SUB-CS"
+      "parent_id": "SUB-CS",
+      "evidence_refs": []
     },
     {
       "id": "KP-CS-0f3a0b757ea9",
@@ -5767,7 +5805,8 @@
       "id": "MOD-CS-0e93ad44be",
       "title": "Shell展开",
       "level": "module",
-      "parent_id": "SUB-CS"
+      "parent_id": "SUB-CS",
+      "evidence_refs": []
     },
     {
       "id": "KP-CS-f5315b9d791a",
@@ -5869,7 +5908,8 @@
       "id": "MOD-CS-ad5f0ca197",
       "title": "Shell文件",
       "level": "module",
-      "parent_id": "SUB-CS"
+      "parent_id": "SUB-CS",
+      "evidence_refs": []
     },
     {
       "id": "KP-CS-5b91957aa553",
@@ -6009,7 +6049,8 @@
       "id": "MOD-CS-0a38903072",
       "title": "Shell权限",
       "level": "module",
-      "parent_id": "SUB-CS"
+      "parent_id": "SUB-CS",
+      "evidence_refs": []
     },
     {
       "id": "KP-CS-f6573702f16d",
@@ -6682,7 +6723,8 @@
       "id": "MOD-CS-e43f45ac61",
       "title": "Shell工具",
       "level": "module",
-      "parent_id": "SUB-CS"
+      "parent_id": "SUB-CS",
+      "evidence_refs": []
     },
     {
       "id": "KP-CS-de1984b16987",
@@ -6840,7 +6882,8 @@
       "id": "MOD-CS-c845abcde7",
       "title": "Shell控制流",
       "level": "module",
-      "parent_id": "SUB-CS"
+      "parent_id": "SUB-CS",
+      "evidence_refs": []
     },
     {
       "id": "KP-CS-d8c27e34a95f",
@@ -7022,7 +7065,8 @@
       "id": "MOD-CS-dc133e30d6",
       "title": "计算机组成",
       "level": "module",
-      "parent_id": "SUB-CS"
+      "parent_id": "SUB-CS",
+      "evidence_refs": []
     },
     {
       "id": "KP-CS-e44bdea2d09c",
@@ -7089,9 +7133,9 @@
       ],
       "evidence_refs": [
         {
-          "attempt_id": "A-20261011-D-002",
-          "position": 3,
-          "recorded_result": "wrong"
+          "knowledge_id": "D-002",
+          "evidence_id": "A-20261011-D-002",
+          "position": 3
         }
       ],
       "mastery": "unknown",

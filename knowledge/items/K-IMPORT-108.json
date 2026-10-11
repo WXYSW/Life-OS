@@ -13,7 +13,6 @@
   "last_review": null,
   "understanding": "unassessed",
   "kind": "imported_unverified",
-  "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
   "imported_on": "2026-10-11",
@@ -35,5 +34,7 @@
     "container_id": "KP-CS-6d17069ad522",
     "scope_basis": "assistant_reorganization_of_existing_content",
     "evidence_inheritance": "explicit_subquestion_only"
-  }
+  },
+  "evidence_storage": "knowledge-light-v1",
+  "diagnostic_evidence": []
 }

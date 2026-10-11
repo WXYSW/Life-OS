@@ -15,10 +15,6 @@
   "low_priority": "reference_only",
   "trigger": "on_conversation",
   "background_enabled": false,
-  "question_version": "questions-v1",
-  "backlog_path": "knowledge/questions/backlog.json",
-  "resume_before_new": true,
-  "carryover_counts_toward_limits": true,
   "review_quantity_policy": "user_controlled",
   "review_limit_is_initial_batch": true,
   "daily_review_cap": null,
@@ -27,15 +23,15 @@
     "effective_on": "2026-10-11",
     "scope": "knowledge_diagnostic_and_review_answers",
     "include": [
-      "verbatim_answers",
-      "partial_answers",
+      "compact_evidence",
+      "weaknesses",
       "hint_or_lookup_context",
-      "evaluation"
+      "evaluation_summary"
     ],
     "ask_each_time": false,
     "user_explicit_exclusions_override": true
   },
-  "planner_version": "learning-v2",
+  "planner_version": "knowledge-light-v1",
   "planner_entrypoint": "scripts/learning.py",
   "legacy_selector": "scripts/review.py select (compatibility only)",
   "schedule_policy": {
@@ -49,5 +45,7 @@
     "parameter_basis": "provisional_engineering_defaults"
   },
   "knowledge_catalog_version": "taxonomy-v1",
-  "knowledge_catalog_path": "knowledge/catalog"
+  "knowledge_catalog_path": "knowledge/catalog",
+  "evidence_storage": "knowledge-light-v1",
+  "persist_questions": false
 }

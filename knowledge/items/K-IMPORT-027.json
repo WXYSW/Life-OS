@@ -18,13 +18,9 @@
   "last_review": "2026-10-11",
   "understanding": "partial",
   "kind": "imported_unverified",
-  "attempt_ids": [
-    "A-20261011-K-IMPORT-027"
-  ],
   "rule_version": "ladder-v2",
   "visibility": "public",
   "imported_on": "2026-10-11",
-  "question_state": "evaluated",
   "review_phase": "initial",
   "consolidation_passes": 0,
   "long_interval_passes": 0,
@@ -55,16 +51,14 @@
       "id": "EV-20261011-KIMPORT027-GRADE",
       "day": "2026-10-11",
       "knowledge_id": "K-IMPORT-027",
-      "question_id": "Q-20261011-KIMPORT027-01",
       "action": "diagnose",
       "dimension": "recall",
       "outcome": "correct",
-      "independent": "not_reported",
+      "independent": null,
       "delayed": false,
       "transfer": false,
       "schedule_eligible": true,
       "basis": "First sentence valid SVO but different tense and everyday vs every day; second correct.",
-      "question_version": "questions-v1",
       "planner_version": "learning-v2",
       "quality": "stable",
       "error_type": null,
@@ -90,6 +84,33 @@
       "contribution": "medium",
       "basis": "assistant_taxonomy_provisional",
       "rationale": "英语基础/语言能力关联当前英语目标，尚未核对考试权重"
+    }
+  ],
+  "evidence_storage": "knowledge-light-v1",
+  "diagnostic_evidence": [
+    {
+      "attempt_id": "A-20261011-K-IMPORT-027",
+      "canonical_id": "KP-EN-1b527cb6c85a",
+      "position": 1,
+      "recorded_result": "partial",
+      "answered_on": "2026-10-11",
+      "independent": null,
+      "delayed": null,
+      "mapping_status": "mapped",
+      "basis": "existing_subanswer_evaluation",
+      "long_term_verified": false
+    },
+    {
+      "attempt_id": "A-20261011-K-IMPORT-027",
+      "canonical_id": "KP-EN-1b527cb6c85a",
+      "position": 2,
+      "recorded_result": "correct",
+      "answered_on": "2026-10-11",
+      "independent": null,
+      "delayed": null,
+      "mapping_status": "mapped",
+      "basis": "existing_subanswer_evaluation",
+      "long_term_verified": false
     }
   ]
 }

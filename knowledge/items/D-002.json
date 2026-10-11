@@ -11,15 +11,10 @@
   "last_review": "2026-10-11",
   "understanding": "needs_relearning",
   "content": "fry的-ing形式是frying，fried是过去式/过去分词；see的-ing形式seeing，过去式saw，过去分词seen。",
-  "diagnostic_question": "写出fry和see的-ing形式，并各造一个正在发生的动作句。",
-  "question_state": "evaluated",
   "verification_sources": [
     "https://dictionary.cambridge.org/us/dictionary/english/fry"
   ],
   "verification_note": "Primary reference consulted",
-  "attempt_ids": [
-    "A-20261011-D-002"
-  ],
   "rule_version": "ladder-v2",
   "visibility": "public",
   "goal_links": [
@@ -73,5 +68,44 @@
     "container_id": "KP-EN-51120359186f",
     "scope_basis": "assistant_reorganization_of_existing_content",
     "evidence_inheritance": "explicit_subquestion_only"
-  }
+  },
+  "evidence_storage": "knowledge-light-v1",
+  "diagnostic_evidence": [
+    {
+      "attempt_id": "A-20261011-D-002",
+      "canonical_id": "KP-EN-6bdbb2bafebe",
+      "position": 1,
+      "recorded_result": "wrong",
+      "answered_on": "2026-10-11",
+      "independent": null,
+      "delayed": null,
+      "mapping_status": "mapped",
+      "basis": "existing_subanswer_evaluation",
+      "long_term_verified": false
+    },
+    {
+      "attempt_id": "A-20261011-D-002",
+      "canonical_id": "KP-EN-3ef441d27e2a",
+      "position": 2,
+      "recorded_result": "correct",
+      "answered_on": "2026-10-11",
+      "independent": null,
+      "delayed": null,
+      "mapping_status": "mapped",
+      "basis": "existing_subanswer_evaluation",
+      "long_term_verified": false
+    },
+    {
+      "attempt_id": "A-20261011-D-002",
+      "canonical_id": "KP-EN-c6d403c06778",
+      "position": 3,
+      "recorded_result": "wrong",
+      "answered_on": "2026-10-11",
+      "independent": null,
+      "delayed": null,
+      "mapping_status": "mapped",
+      "basis": "existing_subanswer_evaluation",
+      "long_term_verified": false
+    }
+  ]
 }

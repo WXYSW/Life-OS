@@ -14,11 +14,7 @@
     "review": 12,
     "paused": 73
   },
-  "question_status_counts": {
-    "evaluated": 19,
-    "paused": 4,
-    "unanswered": 8
-  },
+  "question_status_counts": {},
   "entry_kind_counts": {
     "atomic": 41,
     "collection": 9,
@@ -27,6 +23,6 @@
     "resource": 2,
     "capability": 34
   },
-  "evidence_scope": "catalog/evidence-map.json; update when new answers are evaluated",
+  "evidence_scope": "knowledge/items/*.json diagnostic_evidence; derived index",
   "coverage_complete": false
 }

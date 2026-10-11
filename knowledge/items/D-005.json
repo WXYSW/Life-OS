@@ -13,13 +13,10 @@
   "last_review": null,
   "understanding": "unassessed",
   "content": "stderr是诊断文本流，退出状态是另一条信息；$?取上一命令退出状态，$$为shell进程ID。",
-  "diagnostic_question": "命令向stderr输出一句话是否必然失败？如何读取它的退出状态？",
-  "question_state": "paused",
   "verification_sources": [
     "https://www.gnu.org/s/bash/manual/html_node/Exit-Status.html"
   ],
   "verification_note": "Primary reference consulted",
-  "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
   "goal_links": [
@@ -69,5 +66,7 @@
     "container_id": "KP-CS-2337718166e7",
     "scope_basis": "assistant_reorganization_of_existing_content",
     "evidence_inheritance": "explicit_subquestion_only"
-  }
+  },
+  "evidence_storage": "knowledge-light-v1",
+  "diagnostic_evidence": []
 }

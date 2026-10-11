@@ -13,13 +13,9 @@
   "last_review": "2026-10-11",
   "understanding": "needs_relearning",
   "kind": "imported_unverified",
-  "attempt_ids": [
-    "A-20261011-K-IMPORT-109-CS01"
-  ],
   "rule_version": "ladder-v2",
   "visibility": "public",
   "imported_on": "2026-10-11",
-  "question_state": "evaluated",
   "review_phase": "consolidation",
   "consolidation_passes": 0,
   "long_interval_passes": 0,
@@ -50,16 +46,14 @@
       "id": "EV-20261011-KIMPORT109-CSGRADE",
       "day": "2026-10-11",
       "knowledge_id": "K-IMPORT-109",
-      "question_id": "Q-20261011-KIMPORT109-CS01",
       "action": "diagnose",
       "dimension": "recall",
       "outcome": "wrong",
-      "independent": "not_reported",
+      "independent": null,
       "delayed": false,
       "transfer": false,
       "schedule_eligible": true,
       "basis": "Unknown and partial preserved per question, not counted as wrong.",
-      "question_version": "questions-v1",
       "planner_version": "learning-v2",
       "error_type": "unknown",
       "schedule_rule_version": "ladder-v2"
@@ -84,5 +78,44 @@
     "container_id": "KP-CS-520b721fa66a",
     "scope_basis": "assistant_reorganization_of_existing_content",
     "evidence_inheritance": "explicit_subquestion_only"
-  }
+  },
+  "evidence_storage": "knowledge-light-v1",
+  "diagnostic_evidence": [
+    {
+      "attempt_id": "A-20261011-K-IMPORT-109-CS01",
+      "canonical_id": "KP-CS-627b1fbbc0f2",
+      "position": 1,
+      "recorded_result": "correct",
+      "answered_on": "2026-10-11",
+      "independent": null,
+      "delayed": null,
+      "mapping_status": "mapped",
+      "basis": "existing_subanswer_evaluation",
+      "long_term_verified": false
+    },
+    {
+      "attempt_id": "A-20261011-K-IMPORT-109-CS01",
+      "canonical_id": "KP-CS-6bf7b03cf1be",
+      "position": 2,
+      "recorded_result": "wrong",
+      "answered_on": "2026-10-11",
+      "independent": null,
+      "delayed": null,
+      "mapping_status": "mapped",
+      "basis": "existing_subanswer_evaluation",
+      "long_term_verified": false
+    },
+    {
+      "attempt_id": "A-20261011-K-IMPORT-109-CS01",
+      "canonical_id": "KP-CS-f77b74fd4a7c",
+      "position": 3,
+      "recorded_result": "partial",
+      "answered_on": "2026-10-11",
+      "independent": null,
+      "delayed": null,
+      "mapping_status": "mapped",
+      "basis": "existing_subanswer_evaluation",
+      "long_term_verified": false
+    }
+  ]
 }

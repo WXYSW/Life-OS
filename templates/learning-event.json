@@ -3,7 +3,6 @@
   "day": null,
   "knowledge_id": null,
   "goal_id": null,
-  "question_id": null,
   "action": null,
   "dimension": null,
   "outcome": null,
@@ -13,12 +12,11 @@
   "schedule_eligible": false,
   "basis": null,
   "actual_minutes": null,
-  "question_version": null,
-  "planner_version": "learning-v2",
+  "planner_version": "knowledge-light-v1",
   "quality": null,
   "error_type": null,
   "target_date": null,
   "schedule_rule_version": "ladder-v2",
   "canonical_ids": [],
-  "subquestion_evaluations": []
+  "weakness": null
 }

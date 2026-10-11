@@ -1,6 +1,6 @@
 # 日期调度 ladder-v2
 
-更新2026-10-11。规则是可解释的工程初值，基于真实作答逐步检查效果，不宣称个体最优。与learning-v2选题排序分开：目标重要性不直接缩短记忆间隔。
+更新2026-10-11。规则是可解释的工程初值，基于真实作答逐步检查效果，不宣称个体最优。与knowledge-light-v1选题排序分开：目标重要性不直接缩短记忆间隔。
 
 ## 输入及职责
 
@@ -28,6 +28,6 @@ learning.record_evidence将这些参数转交；讲解relearn和即时练习prac
 
 新增review_phase（initial/consolidation/retention）、consolidation_passes、long_interval_passes、recent_review_outcomes、scheduled_interval_days、actual_gap_days、schedule_reason以及可选pre_lapse_stage。queue与item必须同次保存这些调度字段，事件记录输入质量、错误类型和规则版本，保证下次CLI读到最新状态。
 
-旧数据无新字段仍可按原stage读取，规则在下一次有效作答更新为ladder-v2；旧attempt不重写。D-001/D-002因已有明确关键错误证据初始化consolidation，保持10月12日到期。更正通过revision和有效历史重放，不直接覆盖旧证据。
+旧数据无新字段仍可按原stage读取，规则在下一次有效作答更新为ladder-v2；历史诊断迁移为知识点内精简证据，调度值不变。D-001/D-002因已有明确关键错误证据初始化consolidation，保持10月12日到期。更正通过revision和有效历史重放，不直接覆盖旧证据。
 
 配置intervals_days为1/3/7/14/30/60/90；当前巩固1/3/7与短期上限属于规则代码，修改这些规则应同步测试和说明，不能只改配置注释。长期计数阈值可由schedule_policy.long_interval_required_passes配置。间隔数组至少保留前三阶，须递增正整数。

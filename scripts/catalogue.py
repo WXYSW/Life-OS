@@ -16,8 +16,8 @@ def load_context(root, items, questions):
     read=lambda p:json.loads((root/p).read_text(encoding='utf-8'))
     maps={m['legacy_id']:m for m in read('knowledge/catalog/legacy-map.json')['entries']}
     nodes={n['id']:n for n in read('knowledge/catalog/nodes.json')['nodes']}
-    qmaps={q['question_id']:q for q in read('knowledge/catalog/question-map.json')['questions']}
-    evidence=read('knowledge/catalog/evidence-map.json')['evidence']
+    qmaps={}
+    evidence=[dict(e, legacy_id=m['legacy_id']) for m in read('knowledge/catalog/legacy-map.json')['entries'] for e in read('knowledge/items/'+m['legacy_id']+'.json').get('diagnostic_evidence', [])]
     tested={e['canonical_id'] for e in evidence if e.get('canonical_id') and e.get('mapping_status')=='mapped'}
     scopes={}
     for e in evidence:
@@ -45,9 +45,9 @@ def statistics(root=ROOT):
     root=Path(root);read=lambda p:json.loads((root/p).read_text(encoding='utf-8'))
     entries=read('knowledge/catalog/legacy-map.json')['entries']
     nodes=read('knowledge/catalog/nodes.json')['nodes']
-    evidence=read('knowledge/catalog/evidence-map.json')['evidence']
+    evidence=[dict(e, legacy_id=m['legacy_id']) for m in read('knowledge/catalog/legacy-map.json')['entries'] for e in read('knowledge/items/'+m['legacy_id']+'.json').get('diagnostic_evidence', [])]
     queue=read('knowledge/review-plans/queue.json')
-    qs=read('knowledge/questions/backlog.json')['questions']
+    qs=[]
     leaves=[n for n in nodes if n.get('assessable')]
     observed={e['canonical_id'] for e in evidence if e.get('canonical_id')}
     assessed_legacy={e['legacy_id'] for e in evidence}
@@ -61,7 +61,7 @@ def statistics(root=ROOT):
                 queue_status_counts=dict(Counter(i['status'] for i in queue)),
                 question_status_counts=dict(Counter(q['status'] for q in qs)),
                 entry_kind_counts=dict(Counter(m['entry_kind'] for m in entries)),
-                evidence_scope='catalog/evidence-map.json; update when new answers are evaluated',
+                evidence_scope='knowledge/items/*.json diagnostic_evidence; derived index',
                 coverage_complete=False)
 
 
@@ -81,13 +81,10 @@ def validate_catalogue(root=ROOT):
         if not m['canonical_ids'] or any(c not in nodes for c in m['canonical_ids']):raise ValueError('Missing node')
         item=read('knowledge/items/'+m['legacy_id']+'.json')
         if item.get('taxonomy')!=m:raise ValueError('Item taxonomy drift')
-    qs={q['id']:q for q in read('knowledge/questions/backlog.json')['questions']}
-    for q in read('knowledge/catalog/question-map.json')['questions']:
-        if q['question_id'] not in qs or any(c not in nodes for c in q['canonical_ids']):raise ValueError('Bad question link')
-    for e in read('knowledge/catalog/evidence-map.json')['evidence']:
-        a=read(e['path'])
-        if a.get('attempt_id')!=e['attempt_id']:raise ValueError('Bad evidence link')
-        if e.get('canonical_id') and e['canonical_id'] not in nodes:raise ValueError('Bad evidence scope')
+    for m in entries:
+        item=read('knowledge/items/'+m['legacy_id']+'.json')
+        for e in item.get('diagnostic_evidence', []):
+            if e.get('canonical_id') and e['canonical_id'] not in nodes:raise ValueError('Bad evidence scope')
     return statistics(root)
 
 if __name__=='__main__':

@@ -12,15 +12,10 @@
   "last_review": "2026-10-11",
   "understanding": "needs_relearning",
   "content": "go—went—gone；完成结构使用过去分词，描述一般过去使用went。",
-  "diagnostic_question": "分别补全 Yesterday I ___ to the library. 和 I have ___ there twice. 并解释选择。",
-  "question_state": "evaluated",
   "verification_sources": [
     "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/irregular-verbs"
   ],
   "verification_note": "Primary reference consulted",
-  "attempt_ids": [
-    "A-20261011-D-001"
-  ],
   "rule_version": "ladder-v2",
   "visibility": "public",
   "goal_links": [
@@ -74,5 +69,44 @@
     "container_id": "KP-EN-5a7118075c4e",
     "scope_basis": "assistant_reorganization_of_existing_content",
     "evidence_inheritance": "explicit_subquestion_only"
-  }
+  },
+  "evidence_storage": "knowledge-light-v1",
+  "diagnostic_evidence": [
+    {
+      "attempt_id": "A-20261011-D-001",
+      "canonical_id": "KP-EN-1574b770dfb2",
+      "position": 1,
+      "recorded_result": "wrong",
+      "answered_on": "2026-10-11",
+      "independent": null,
+      "delayed": null,
+      "mapping_status": "mapped",
+      "basis": "existing_subanswer_evaluation",
+      "long_term_verified": false
+    },
+    {
+      "attempt_id": "A-20261011-D-001",
+      "canonical_id": "KP-EN-f0a06217c070",
+      "position": 2,
+      "recorded_result": "wrong",
+      "answered_on": "2026-10-11",
+      "independent": null,
+      "delayed": null,
+      "mapping_status": "mapped",
+      "basis": "existing_subanswer_evaluation",
+      "long_term_verified": false
+    },
+    {
+      "attempt_id": "A-20261011-D-001",
+      "canonical_id": "KP-EN-ef6d04043862",
+      "position": 3,
+      "recorded_result": "unknown",
+      "answered_on": "2026-10-11",
+      "independent": null,
+      "delayed": null,
+      "mapping_status": "mapped",
+      "basis": "existing_subanswer_evaluation",
+      "long_term_verified": false
+    }
+  ]
 }

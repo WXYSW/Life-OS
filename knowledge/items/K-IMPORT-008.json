@@ -13,13 +13,9 @@
   "last_review": "2026-10-11",
   "understanding": "needs_relearning",
   "kind": "imported_unverified",
-  "attempt_ids": [
-    "A-20261011-K-IMPORT-008"
-  ],
   "rule_version": "ladder-v2",
   "visibility": "public",
   "imported_on": "2026-10-11",
-  "question_state": "evaluated",
   "review_phase": "consolidation",
   "consolidation_passes": 0,
   "long_interval_passes": 0,
@@ -50,16 +46,14 @@
       "id": "EV-20261011-KIMPORT008-GRADE",
       "day": "2026-10-11",
       "knowledge_id": "K-IMPORT-008",
-      "question_id": "Q-20261011-KIMPORT008-01",
       "action": "diagnose",
       "dimension": "recall",
       "outcome": "wrong",
-      "independent": "not_reported",
+      "independent": null,
       "delayed": false,
       "transfer": false,
       "schedule_eligible": true,
       "basis": "Present participle forms unestablished; imported notes incorrectly list fried and seen as -ing forms.",
-      "question_version": "questions-v1",
       "planner_version": "learning-v2",
       "quality": null,
       "error_type": "conceptual",
@@ -90,6 +84,45 @@
       "contribution": "medium",
       "basis": "assistant_taxonomy_provisional",
       "rationale": "英语基础/语言能力关联当前英语目标，尚未核对考试权重"
+    }
+  ],
+  "evidence_storage": "knowledge-light-v1",
+  "diagnostic_evidence": [
+    {
+      "attempt_id": "A-20261011-K-IMPORT-008",
+      "canonical_id": "KP-EN-6bdbb2bafebe",
+      "position": 1,
+      "recorded_result": "unknown",
+      "answered_on": "2026-10-11",
+      "independent": null,
+      "delayed": null,
+      "mapping_status": "mapped",
+      "basis": "existing_subanswer_evaluation",
+      "long_term_verified": false
+    },
+    {
+      "attempt_id": "A-20261011-K-IMPORT-008",
+      "canonical_id": "KP-EN-db8731bbcd80",
+      "position": 2,
+      "recorded_result": "unknown",
+      "answered_on": "2026-10-11",
+      "independent": null,
+      "delayed": null,
+      "mapping_status": "mapped",
+      "basis": "existing_subanswer_evaluation",
+      "long_term_verified": false
+    },
+    {
+      "attempt_id": "A-20261011-K-IMPORT-008",
+      "canonical_id": "KP-EN-700312035b3f",
+      "position": 3,
+      "recorded_result": "wrong",
+      "answered_on": "2026-10-11",
+      "independent": null,
+      "delayed": null,
+      "mapping_status": "mapped",
+      "basis": "existing_subanswer_evaluation",
+      "long_term_verified": false
     }
   ]
 }
