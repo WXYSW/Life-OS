@@ -10,6 +10,49 @@
     ]
   },
   {
+    "id": "KP-EN-0b1c482c7cd2",
+    "title": "名词f或fe词尾变化",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "wrong"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "提示/遗忘/概念缺口：短期巩固，1天后独立验证",
+    "rule_version": "ladder-v2",
+    "pre_lapse_stage": -1,
+    "active_goal_ids": [
+      "G-UPGRADE"
+    ]
+  },
+  {
+    "id": "KP-EN-10e71ca02f61",
+    "title": "理解复杂转折信息",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "review_phase": "initial",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "correct"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "首次独立完成：1天后验证",
+    "rule_version": "ladder-v2",
+    "active_goal_ids": [
+      "G-UPGRADE"
+    ]
+  },
+  {
     "id": "KP-EN-1574b770dfb2",
     "title": "go过去式",
     "status": "review",
