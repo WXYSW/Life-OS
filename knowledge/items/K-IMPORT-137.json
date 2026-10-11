@@ -7,7 +7,7 @@
   "content": "最简单的重定向是 `< file` 和 `> file`。这两个命令可以将程序的输入输出流分别重定向到文件：\n\n```\nmissing:~$ echo hello > hello.txt\nmissing:~$ cat hello.txt\nhello\nmissing:~$ cat < hello.txt\nhello\nmissing:~$ cat < hello.txt > hello2.txt\nmissing:~$ cat hello2.txt\nhello\n```\n重定向只要>就可以了相当于覆盖了\n\n\n`>>` 来向一个文件追加内容==`|`== 操作符允许我们将一个程序的输出和另外一个程序的输入连接起来：\n```\nmissing:~$ ls -l / | tail -n1\ndrwxr-xr-x 1 root  root  4096 Jun 20  2019 var\nmissing:~$ curl --head --silent google.com | grep --ignore-case content-length | cut --delimiter=' ' -f2\n219\n```\nls -l /\n列出根目录 (/) 下所有文件和目录的详细信息（权限、所有者、大小、修改时间等）。\n\n| tail -n1\n通过管道 (|) 将上述结果传递给 tail，-n1 表示只显示最后一行。\n\n输出解析：\ndrwxr-xr-x：目录权限（所有者可读/写/执行，其他用户可读/执行）\n1：链接数\nroot root：所有者和所属组\n4096：目录大小（字节）\nJun 20 2019：最后修改时间\nvar：目录名称\n\n结论：\n显示根目录中按字母排序的最后一个条目（这里是 var 目录的详细信息）。\ncurl --head --silent google.com\n向 google.com 发送 HTTP HEAD 请求（只获取响应头，不下载正文），--silent 隐藏进度信息。\n\n| grep --ignore-case content-length\n过滤响应头，忽略大小写匹配包含 Content-Length 的行（例如：Content-Length: 219）。\n\n| cut --delimiter=' ' -f2\n用空格作为分隔符，提取第二个字段（即 219）。\n\n输出解析：\n219 是 Google 服务器返回的 HTTP 响应头中 Content-Length 的值，表示正文长度（单位：字节）。\n\n深层含义：\n这个值通常很小（此处仅 219 字节），因为：\n\nGoogle 可能返回了 HTTP 重定向（如 301/302），响应头中包含一个简短的重定向说明 HTML。\n\nHEAD 请求本身不返回实际内容，但服务器可能仍会声明一个预期的正文长度。\n\n\n ==|==  管道符号，将上一步的输出传递给这个命令",
   "priority": "normal",
   "id": "K-IMPORT-137",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

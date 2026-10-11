@@ -7,7 +7,7 @@
   "content": "int a[3][5];\n通常理解为a是一个3行5列的矩阵\n二维数组遍历需要两重循环\n\n二维数组的初始化\n\t列数是必须给出的，行数可以由编译器来数\n\t每行一个{}，逗号隔开\n\t最后的逗号可以存在，有古老的传统\n\t如果省略，表示补零\n\t",
   "priority": "normal",
   "id": "K-IMPORT-105",
-  "status": "review",
+  "status": "paused",
   "stage": 0,
   "due": "2026-10-12",
   "last_review": "2026-10-11",
@@ -64,5 +64,11 @@
       "error_type": "unknown",
       "schedule_rule_version": "ladder-v2"
     }
-  ]
+  ],
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "review"
+  }
 }

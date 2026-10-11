@@ -88,9 +88,22 @@
           "event_id": "EV-20261011-D003-ISSUE",
           "type": "issued",
           "on": "2026-10-11"
+        },
+        {
+          "id": "EV-ARCHIVE-20261011-Q-20261011-D003-01",
+          "type": "pause",
+          "day": "2026-10-11",
+          "reason": "所属C语言/Shell知识暂时归档"
         }
       ],
-      "status": "unanswered"
+      "status": "paused",
+      "archive": {
+        "kind": "temporary",
+        "on": "2026-10-11",
+        "previous_status": "unanswered",
+        "previous_resume_on": null
+      },
+      "resume_on": null
     },
     {
       "id": "Q-20261011-D004-01",
@@ -109,9 +122,22 @@
           "event_id": "EV-20261011-D004-ISSUE",
           "type": "issued",
           "on": "2026-10-11"
+        },
+        {
+          "id": "EV-ARCHIVE-20261011-Q-20261011-D004-01",
+          "type": "pause",
+          "day": "2026-10-11",
+          "reason": "所属C语言/Shell知识暂时归档"
         }
       ],
-      "status": "unanswered"
+      "status": "paused",
+      "archive": {
+        "kind": "temporary",
+        "on": "2026-10-11",
+        "previous_status": "unanswered",
+        "previous_resume_on": null
+      },
+      "resume_on": null
     },
     {
       "id": "Q-20261011-D005-01",
@@ -130,9 +156,22 @@
           "event_id": "EV-20261011-D005-ISSUE",
           "type": "issued",
           "on": "2026-10-11"
+        },
+        {
+          "id": "EV-ARCHIVE-20261011-Q-20261011-D005-01",
+          "type": "pause",
+          "day": "2026-10-11",
+          "reason": "所属C语言/Shell知识暂时归档"
         }
       ],
-      "status": "unanswered"
+      "status": "paused",
+      "archive": {
+        "kind": "temporary",
+        "on": "2026-10-11",
+        "previous_status": "unanswered",
+        "previous_resume_on": null
+      },
+      "resume_on": null
     },
     {
       "id": "Q-20261011-D006-01",
@@ -151,9 +190,22 @@
           "event_id": "EV-20261011-D006-ISSUE",
           "type": "issued",
           "on": "2026-10-11"
+        },
+        {
+          "id": "EV-ARCHIVE-20261011-Q-20261011-D006-01",
+          "type": "pause",
+          "day": "2026-10-11",
+          "reason": "所属C语言/Shell知识暂时归档"
         }
       ],
-      "status": "unanswered"
+      "status": "paused",
+      "archive": {
+        "kind": "temporary",
+        "on": "2026-10-11",
+        "previous_status": "unanswered",
+        "previous_resume_on": null
+      },
+      "resume_on": null
     },
     {
       "id": "Q-20261011-KIMPORT005-01",

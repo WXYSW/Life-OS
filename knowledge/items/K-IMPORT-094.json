@@ -7,7 +7,7 @@
   "content": "#include<stdio.h>\nint main()\n{\nreturn 0;\n}\n\n其他\n#include<stdbool.h>\n之后就可以使用bool和ture，false",
   "priority": "normal",
   "id": "K-IMPORT-094",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

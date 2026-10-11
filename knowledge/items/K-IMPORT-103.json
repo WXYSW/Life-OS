@@ -7,7 +7,7 @@
   "content": "- 生存期：什么时候这个变量开始出现了，到了什么时候它消亡了\n- 作用域：在（代码的）什么范围内可以访问这个变量（这个变量可以起作用）\n- 对于本地变量，这两个问题的答案是统一的：大括号内——块",
   "priority": "normal",
   "id": "K-IMPORT-103",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

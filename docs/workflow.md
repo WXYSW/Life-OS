@@ -49,3 +49,11 @@
 ## 持续更新说明
 
 每次对话动作完成后提交并核对状态；长期规则变化时同次同步本文件、HANDOFF、question-lifecycle、config和相关脚本。实时更新指对话中及时保存，不是后台监听。
+
+## 暂时归档知识点
+
+“未测试”描述掌握证据，“暂时归档”描述当前是否安排学习，两者独立。暂时归档使用status=paused、archive.kind=temporary；archive.previous_status保留原needs_validation/pending/review等状态，原due、stage、作答证据和来源保留。归档条目单独统计展示，不混入当前待测试/到期队列；归档期间不自动派题、续题、不占额度、不累计欠题。对应开放题暂停，保留原ID、回答片段及恢复前状态。
+
+恢复时按archive.previous_status恢复知识，题目按其archive.previous_status和previous_resume_on恢复，并追加恢复事件；清除当前archive标记但保留归档索引/修订历史。原未核验内容仍须核验，原未测试内容仍待诊断；原复习内容保留日期，若已过期，只安排一次当前独立验证，不批量补做。明确说“恢复C语言/Shell”才恢复；仅指定目标不自动解除归档。暂停/归档不代表不会或学会。
+
+本次（2026-10-11）按来源目录将C语言与Shell的73条知识暂时归档，包括7条已有诊断的C知识和4个训练入口；其他主题保持现有安排。清单见knowledge/archives/2026-10-11-c-shell.json。

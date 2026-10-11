@@ -7,7 +7,7 @@
   "content": "return停止函数的执行，并送回一个值\n如\n\treturn；\n\treturn 表达式；\n一个函数里可以出现多个return语句\n\n细节\n\t使用函数时最好采用单一出口方便代码后期的调试\n\t\n可以赋值个变量\n可以再传递给函数\n甚至可以丢弃\n如\n代码块\n\t`int max(int a, int b)`\n\t`{`\n\t\t`int ret;`\n\t\t`if( a>b )`\n\t\t`{`\n\t\t`ret = a;`\n\t\t`}`\n\t\t`else`\n\t\t`{`\n\t\t`ret = b;`\n\t\t`}`\n\t\t`return ret;`\n\t`}`\n代码块\n\tint a,b,c;\n\ta = 5;\n\tb = 6;\n\tc = max(10,12);\n\tc = max(a,b);\n\tc = max(c,23);\n\tc = max(max(c,a),5);\n\tprintf(\"%d\\n\",max(a,b));\n\tmax(12,13);\n\n没有返回值的函数\n\tvoid 函数名(参数表)\n\t不能使用带值的return\n\t可以没有return\n\t调用的时候不能做返回值的赋值",
   "priority": "normal",
   "id": "K-IMPORT-099",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

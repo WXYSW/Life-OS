@@ -7,7 +7,7 @@
   "content": "\n函数头,以分号\";\"结尾，就构成了函数的原型\n函数的原型的目的是告诉编译器这个函数长什么样\n\t名称\n\t参数（数量及类型）\n\t返回类型\n\n例子\n\t#include <stdio.h>\n\tvoid sum(int begin, int end);            //声明函数begin和end不写是可以的因为只是参数的名称\n\t//函数原型声明，告诉编译器函数的名称、参数类型和返回值类型\n\tint main()\n\t{\n\t    sum(1,10);\n\t    sum(20,30);\n\t    sum(35,45);\n\t    return 0;\n\t}\n\tvoid sum(int begin, int end)            //函数定义\n\t//函数定义，函数体包含了函数的具体实现\n\t{\n\t    int i;\n\t    int sum =0;\n\t    for ( i=begin; i<=end; i++)\n\t    {\n\t        sum += i;\n\t    }\n\t    printf(\"%d到%d的和是%d\\n\",begin,end,sum);\n\t}",
   "priority": "normal",
   "id": "K-IMPORT-097",
-  "status": "review",
+  "status": "paused",
   "stage": 0,
   "due": "2026-10-12",
   "last_review": "2026-10-11",
@@ -64,5 +64,11 @@
       "error_type": "unknown",
       "schedule_rule_version": "ladder-v2"
     }
-  ]
+  ],
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "review"
+  }
 }

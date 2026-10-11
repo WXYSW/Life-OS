@@ -7,7 +7,7 @@
   "content": "\nint a[] = {2,4,6,7,1,3,5,9,11,13,23,14,32};\n直接用大括号给出数组的所有元素的初始化\n不需要给出数组的大小，编译器替你数数\n",
   "priority": "normal",
   "id": "K-IMPORT-108",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

@@ -7,7 +7,7 @@
   "content": "传值\n每个函数有自己的变量空间，参数也位于这个独立的空间中，和其他函数没有关系\n\n参数和值的关系\n\t`void swap(int a//参数,int b//参数);`\n\t`int main()`\n\t`{`\n\t\t`int a = 5;`\n\t\t`int b = 6;`\n\t\t`swap(a,b);//值`\n\t\t`printf(\"a=%d b=%d\\n\",a,b);`\n\t\t`return 0;`\n\t`}`\n\t`void swap(int a//参数,int b//参数)`\n\t`{`\n\t\t`int t = a;`\n\t\t`a = b;`\n\t\t`b = t;`\n\t`}`",
   "priority": "normal",
   "id": "K-IMPORT-098",
-  "status": "review",
+  "status": "paused",
   "stage": 0,
   "due": "2026-10-12",
   "last_review": "2026-10-11",
@@ -64,5 +64,11 @@
       "error_type": "unknown",
       "schedule_rule_version": "ladder-v2"
     }
-  ]
+  ],
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "review"
+  }
 }

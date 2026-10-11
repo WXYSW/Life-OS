@@ -7,7 +7,7 @@
   "content": "'^last-modified:'：搜索以 \"last-modified:\" 开头的行\n\n`-i`：忽略大小写\n\n`~`  ：代表主目录\n\tcat ~/last-modified.txt：查看主目录下的\n\tlast-modified.txt文件\n\tcat last-modified.txt：查看当前目录下的\n\tlast-modified.txt文件。\n\ncut：文本切割工具\n\n-d ' '：用空格作为分隔符\n\n-f2-：取第2列到最后一列\n\n在 bash 中进行比较时，尽量使用双方括号 `[[ ]]` 而不是单方括号 `[ ]`\n\n注意，脚本并不一定只有用 bash 写才能在终端里调用。比如说，这是一段 Python 脚本，作用是将输入的参数倒序输出：\n\n```\n#!/usr/local/bin/python\nimport sys\nfor arg in reversed(sys.argv[1:]):\n    print(arg)\n```\n\n内核知道去用 python 解释器而不是 shell 命令来运行这段脚本，是因为脚本的开头第一行的 [shebang](https://en.wikipedia.org/wiki/Shebang_\\(Unix\\))。\n\n\n- **终端中显示时启用颜色**：当输出直接显示在终端（TTY）时，自动添加颜色标记\n    \n- **重定向时禁用颜色**：当输出被重定向到文件/管道（如 `ls > file.txt` 或 `ls | grep...`）时，自动**关闭**颜色标记，避免写入难读的ANSI转义码",
   "priority": "normal",
   "id": "K-IMPORT-153",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

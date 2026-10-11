@@ -7,7 +7,7 @@
   "content": "目标构造素数表\n#include<stdio.h>\nint main()\n{\n\tconst int maxNumber = 25;\n\tint isprime[maxNumber];\n\tint i;\n\tint x;\n\tfor ( i=0; i<maxNumber; i++){\n\t\tisprime[i] = 1;\n\t}\n\tfor ( x=2, x<maxNumber; x++){\n\t\tif ( isPrime[x] ) {\n\t\t\tfor ( i=2; i*x<maxNumber; i++) {\n\t\t\t\tisPrime[i*x] = 0;\n\t\t\t}\n\t\t}\n\t}\n\tfor ( i=2; i<maxNumber; i++) {\n\t\tif ( isPrime[i] ) {\n\t\t\tprintf(\"%d\\t\",i);\n\t\t}\n\t}\n\tprintf(\"\\n\");\n\treturn 0;\n}",
   "priority": "normal",
   "id": "K-IMPORT-091",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

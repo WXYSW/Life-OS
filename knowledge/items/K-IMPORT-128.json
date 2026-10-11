@@ -7,7 +7,7 @@
   "content": "- 花括号 `{}` - 当你有一系列的指令，其中包含一段公共子串时，可以用花括号来自动展开这些命令。这在批量移动或转换文件时非常方便。\n\n```\nconvert image.{png,jpg}\n# 会展开为\nconvert image.png image.jpg\n\ncp /path/to/project/{foo,bar,baz}.sh /newpath\n# 会展开为\ncp /path/to/project/foo.sh /path/to/project/bar.sh /path/to/project/baz.sh /newpath\n\n# 也可以结合通配使用\nmv *{.py,.sh} folder\n# 会移动所有 *.py 和 *.sh 文件\n\nmkdir foo bar\n\n# 下面命令会创建 foo/a, foo/b, ... foo/h, bar/a, bar/b, ... bar/h 这些文件\ntouch {foo,bar}/{a..h}\ntouch foo/x bar/y\n# 比较文件夹 foo 和 bar 中包含文件的不同\ndiff <(ls foo) <(ls bar)\n# 输出\n# < x\n# ---\n# > y\n```",
   "priority": "normal",
   "id": "K-IMPORT-128",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

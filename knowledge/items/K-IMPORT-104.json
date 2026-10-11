@@ -7,7 +7,7 @@
   "content": "本地变量是定义在块内的\n\t- 它可以是定义在函数的块内\n\t- 也可以是定义在函数的块内\n\t- 甚至可以随便拉一对大括号来定义变量\n- 程序运行进入这个块之前，其中的变量不存在，离开这个块，其中的变量就消失了\n- 块外面定义的变量在里面仍然有效\n- 块里面定义了和外面同名的变量则掩盖了外面的\n- 不能在一个块内定义同名的变量\n- 本地变量不会被默认初始化",
   "priority": "normal",
   "id": "K-IMPORT-104",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

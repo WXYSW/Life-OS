@@ -7,7 +7,7 @@
   "content": "\n（1）if...else\n\t嵌套条件else总是跟最近的if匹配，要加{}才会有例外\ntips\n\t（1）在if或else后面总是用{},即使只有一条语句的时候\n\t\t级联的if   else用于精简代码去除{}\n\t（2）if语句可能错误\n\t\t1.没有加大括号\n\t\t2.加了分号结束了if语句；\n\t\t3.a=b是赋值不是等于一定要记住\n\t\t\n（2）switch语句可以看作是一种基于计算的跳转，\n\t计算控制表达式的值后,程序会跳转到相匹配的case（分支表号）处。\n\t分支只是说明switch内部位置的路标，在执行完分支中的最后一条语句后，\n\t如果后面没有break，就会顺序执行到下面的case里去，\n\t直到遇到一个break，或者switch结束为止。\n\t用default结尾\n",
   "priority": "normal",
   "id": "K-IMPORT-118",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

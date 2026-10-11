@@ -7,7 +7,7 @@
   "content": "&\n\n用于将变量转换为变量地址\n获得变量的地址，它的操作数必须是变量\n地址的大小它的数据类型和int是否相等，\n\n*\n\n是一个单目运算符，用来访问指针的值所表示的地址上的变量\n\n可以做右值也可以做左值",
   "priority": "normal",
   "id": "K-IMPORT-111",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

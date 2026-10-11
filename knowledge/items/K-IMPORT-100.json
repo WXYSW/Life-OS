@@ -7,7 +7,7 @@
   "content": "将你想的重复的代码定义为函数也就是将他移动到固定格式中\n\n函数名（参数值）；\n\t（）起到了表示函数调用的重要作用\n\t即使没有参数也需要（）\n\t如果有参数，则需要给出正确的数量和顺序\n\t这些值会被按照顺序依次用来初要始化函数中的参数",
   "priority": "normal",
   "id": "K-IMPORT-100",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

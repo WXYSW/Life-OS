@@ -7,7 +7,7 @@
   "content": "\n定义\n\tint\t\t\t\t\tint a=3;\t\n\tfloat\tdouble\t\t定义带小数数字\t\t\t\n\tchar\t\t\t\t\t定义字符\t\n\tchar a='A';\t\t\ta=a+32\t\t为小写字符\n\ntips\n\t在定义变量前加const就固定了所定义的\t数值，且定义变量要大写\n\t如\tconst int ATM = 10\t",
   "priority": "normal",
   "id": "K-IMPORT-115",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

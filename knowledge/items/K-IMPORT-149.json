@@ -7,7 +7,7 @@
   "content": "mkdir只能创建目录，不能创建普通文件。\n\ntouch专门创建空文件/更新文件时间戳\n\nnano：创建+编辑一步完成\n\nnano marco.sh       # 创建并立即编辑文件\n\n优势：\n\t智能创建：若文件不存在，自动创建新文件。\n\t直接编辑：创建后立即进入编辑模式，可输入内容。\n\t高效操作：适合快速创建非空文件（如脚本、配置、笔记）。",
   "priority": "normal",
   "id": "K-IMPORT-149",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

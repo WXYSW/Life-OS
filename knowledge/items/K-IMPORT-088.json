@@ -7,7 +7,7 @@
   "content": "\n本地变量不能够自动的得到默认的初始值\n初始化如\nfor( i = 0; i<number; i++)\n{\n\tcount [x]++;\n}",
   "priority": "normal",
   "id": "K-IMPORT-088",
-  "status": "review",
+  "status": "paused",
   "stage": 0,
   "due": "2026-10-12",
   "last_review": "2026-10-11",
@@ -64,5 +64,11 @@
       "error_type": "unknown",
       "schedule_rule_version": "ladder-v2"
     }
-  ]
+  ],
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "review"
+  }
 }

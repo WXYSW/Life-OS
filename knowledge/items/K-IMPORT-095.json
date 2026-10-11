@@ -7,7 +7,7 @@
   "content": "\n每次召唤rand()就得到一个随机的整数\n固定格式加以下两句\n#include<stdlib.h>\n#include<time.h>\n在如何定义\n如srand(time(0));\nint a = rand();\n",
   "priority": "normal",
   "id": "K-IMPORT-095",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

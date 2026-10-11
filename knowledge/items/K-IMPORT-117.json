@@ -7,7 +7,7 @@
   "content": "（1）scanf输入int,float,double,char\n（2）scanf将键盘数入的数字和字符赋值给已定义数字和字符定义的变量要加&\n\t如scanf(\"%d\",&a);\n（3）特殊的scanf中表示小数的%f要变为%lf\n\t如\n\tdouble a;\n\tscanf(\"%lf\",&a);\n",
   "priority": "normal",
   "id": "K-IMPORT-117",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

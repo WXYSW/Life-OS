@@ -59,3 +59,9 @@ python -m unittest discover -s tests -v
 ## 待回答题（v1.1）
 
 尚未出题的知识留待诊断池；已出但未答/只答一部分的题保存在长期backlog，跨天跨聊天继续。旧题占当批额度，不不断加题。回答完成并评价后才进入复习，跳过和未答不算错。说明与当前状态在每次对话操作后同步更新，不依赖后台任务。
+
+## 暂时归档知识点
+
+“未测试”描述掌握证据，“暂时归档”描述当前是否安排学习，两者独立。暂时归档使用status=paused、archive.kind=temporary；archive.previous_status保留原needs_validation/pending/review等状态，原due、stage、作答证据和来源保留。归档条目单独统计展示，不混入当前待测试/到期队列；归档期间不自动派题、续题、不占额度、不累计欠题。对应开放题暂停，保留原ID、回答片段及恢复前状态。
+
+[当前暂时归档清单](knowledge/archives/2026-10-11-c-shell.json)：C语言与Shell共73条。恢复可直接说“恢复C语言”或“恢复Shell”。

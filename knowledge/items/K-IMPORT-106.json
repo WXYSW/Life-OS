@@ -7,7 +7,7 @@
   "content": "\nsizeof给出整个数组所占据的内容的大小，单位是字节\n用sizeof(a)/sizeof(a[0])就可以得到这个数组有多少个元素\n这样的代码，一旦修改数组中初始的数据，不需要修改遍历的代码\n\n\n",
   "priority": "normal",
   "id": "K-IMPORT-106",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

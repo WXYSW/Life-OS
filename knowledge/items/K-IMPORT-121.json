@@ -7,7 +7,7 @@
   "content": "\ngoto语句跳出循环\t\t\t\t\t例goto a;\n最好只在跳出多重循环时使用\t\t\t\ta:\nbreak\t\t\t跳出循环\ncontinue\t\t\t跳过循环这一轮剩下的语句进入下一轮",
   "priority": "normal",
   "id": "K-IMPORT-121",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

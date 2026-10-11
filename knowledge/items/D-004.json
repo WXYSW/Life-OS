@@ -5,14 +5,14 @@
     "SRC-106"
   ],
   "priority": "normal",
-  "status": "pending",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
   "understanding": "unassessed",
   "content": "原代码使用while(right>left)会漏掉left==right的候选；参数key与未定义k也不一致。闭区间二分应检查left<=right并保证每步缩小。",
   "diagnostic_question": "只有一个元素且恰好等于目标时，原while(right>left)会发生什么？如何修正？",
-  "question_state": "unanswered",
+  "question_state": "paused",
   "verification_sources": [],
   "verification_note": "Algorithm boundary reasoning; no original code executed",
   "attempt_ids": [],
@@ -46,5 +46,11 @@
       "evidence_id": null
     }
   },
-  "learning_events": []
+  "learning_events": [],
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "pending"
+  }
 }

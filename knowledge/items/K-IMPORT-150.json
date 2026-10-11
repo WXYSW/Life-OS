@@ -7,7 +7,7 @@
   "content": "1. **结构：**\n    - 必须是脚本文件的**第一行**（前两个字节）。\n    - 以 `#!` 开头（`#` 是 hash, `!` 是 bang，所以叫 hashbang 或 shebang）。\n    - 后面紧跟用于执行该脚本的解释器程序的**绝对路径**。\n    - 例如：\n        - `#!/bin/bash` - 使用 `/bin/bash` 这个 shell 来执行脚本（最常见的 Bash 脚本）。\n        - `#!/usr/bin/python3` - 使用 `/usr/bin/python3` 这个 Python 3 解释器来执行脚本。\n        - `#!/usr/bin/env python3` - 更灵活的方式，使用 `env` 命令在 `PATH` 环境变量中查找 `python3`（推荐，避免路径写死）。\n2. **工作原理：**\n    1. 当你尝试直接执行一个文本脚本文件（例如 `./myscript.sh`）时，操作系统内核会读取该文件的前几个字节。\n    2. 如果发现前两个字节是 `#!`，内核就知道这是一个脚本文件，并且需要解释器。\n    3. 内核会读取 `#!` 后面直到行尾的内容，将其作为解释器的路径。\n    4. 内核启动这个解释器程序，并将**脚本文件的完整路径**作为**第一个参数**传递给解释器。\n    5. 解释器（如 `/bin/bash`, `/usr/bin/python3`）被启动后，它会打开传递给它的脚本文件路径，读取并执行其中的命令/代码。\n**为什么需要 Shebang？**\n- **方便性：** 用户可以直接输入脚本文件名（如 `./myscript.sh` 或 `myscript.py`）来运行脚本，而不需要先输入解释器名字再输入脚本名（如 `bash myscript.sh` 或 `python3 myscript.py`）。\n- **明确性：** 清晰地指定了运行此脚本所需的精确解释器（例如，明确用 `python3` 而不是可能存在的 `python` 或 `python2`）。\n- **可执行性：** 结合 `chmod +x scriptname` 命令赋予脚本文件可执行权限后，脚本就可以像系统命令一样被调用和执行。\n- **环境一致性：** 使用 `#!/usr/bin/env interpreter` 的形式可以在不同的系统环境（解释器安装路径不同）下提供更好的可移植性，因为它会在当前用户的 `PATH` 中查找解释器。\n\n**关键要求：**\n- **必须是第一行：** Shebang 必须在文件的第一行开头。前面不能有任何空白字符或其他内容（如空行）。\n- **文件必须有可执行权限：** 要让操作系统尝试去读取 shebang，脚本文件本身必须被赋予可执行权限（使用 `chmod +x scriptname`）。\n- **解释器路径必须正确：** Shebang 中指定的解释器路径必须存在且可执行。如果路径错误（如 `/bin/bash` 写成了 `/bin/bassh`），执行会失败。",
   "priority": "normal",
   "id": "K-IMPORT-150",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

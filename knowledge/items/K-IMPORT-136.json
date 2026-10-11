@@ -7,7 +7,7 @@
   "content": "pwd查看当前目录\ncat查看文件也可以用<\n\ttarget_dir=￥(<\"￥MARCO_FILE\")\n\t$(<\"$MARCO_FILE\")：从文件中读取内容\n\t相当于 target_dir=￥(cat \"￥MARCO_FILE\") 但更高效\nls查看当前目录的文件\n",
   "priority": "normal",
   "id": "K-IMPORT-136",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

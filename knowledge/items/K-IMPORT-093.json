@@ -7,7 +7,7 @@
   "content": "\n小套路在计算前先保存原始数据值，后面可能有用 \nint a=10;\nint b = a;\n\nint main()也是一个函数\n\nC语言不允许嵌套定义\n\n使用函数时最好采用单一出口方便代码后期的调试[[3从函数中返回值]]\n\n一专多能不是好的代码\n即一个变量最好不要干多件事\n嵌套循环最好也不要同一变量[[7.循环语句]]\n\n代码循环次数越少越好\n\n在定义变量前加const就固定了所定义的\t数值，且定义变量要大写\n\t如\tconst int ATM = 10\t",
   "priority": "normal",
   "id": "K-IMPORT-093",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

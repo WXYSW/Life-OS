@@ -7,14 +7,14 @@
     "SRC-138"
   ],
   "priority": "normal",
-  "status": "pending",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
   "understanding": "unassessed",
   "content": "stderr是诊断文本流，退出状态是另一条信息；$?取上一命令退出状态，$$为shell进程ID。",
   "diagnostic_question": "命令向stderr输出一句话是否必然失败？如何读取它的退出状态？",
-  "question_state": "unanswered",
+  "question_state": "paused",
   "verification_sources": [
     "https://www.gnu.org/s/bash/manual/html_node/Exit-Status.html"
   ],
@@ -50,5 +50,11 @@
       "evidence_id": null
     }
   },
-  "learning_events": []
+  "learning_events": [],
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "pending"
+  }
 }

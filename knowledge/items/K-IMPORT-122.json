@@ -7,7 +7,7 @@
   "content": "\n\n（1）条件运算符\n\t优先级高于赋值运算符，但低于其他运算符\n\t如a=(a>20)?a - 10:a + 10；\n\t意思如果a>20,那么a等于a减10否则a等于a加+\n\t（不如用if...else）\n（2）逗号运算符\n\t只在for内使用\t\t\t\t如for( i=0,j=10;i<j;i++,j--)      \n函数中的运用\n\t调用函数时的圆括号里的逗号是标点符号，不是运算符\n\t\t- f(a,b)\n\t\t- f((a,b))\n\t 多加一个括号表明要先算括号内的运算 ",
   "priority": "normal",
   "id": "K-IMPORT-122",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

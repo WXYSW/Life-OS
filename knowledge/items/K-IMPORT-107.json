@@ -7,7 +7,7 @@
   "content": "\n数组变量本身不能被赋值\n要把一个数组的所有元素交给另一个数组，必须采用遍历如\nfor ( i=0; i<length; i++)\n{\n\tb[i] = a[i];\n}",
   "priority": "normal",
   "id": "K-IMPORT-107",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

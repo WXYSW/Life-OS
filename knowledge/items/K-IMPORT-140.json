@@ -7,7 +7,7 @@
   "content": "==$0== - 脚本名\n==$1== 到 ==$9== - 脚本的参数。 ==$1== 是第一个参数，依此类推。\n==$@== - 所有参数\n==$#== - 参数个数\n==$?== - 前一个命令的返回值\n==$== - 当前脚本的进程识别码\n==!!== - 完整的上一条命令，包括参数。常见应用：当你因为权限不足执行命令失败时，可以使用\n==sudo !!== 再尝试一次。\n==$_== - 上一条命令的最后一个参数。如果你正在使用的是交互式 shell，你可以通过按下 Esc 之后键入 . 来获取这个值。\n\n更完整的列表可以参考 [这里](https://www.tldp.org/LDP/abs/html/special-chars.html)",
   "priority": "normal",
   "id": "K-IMPORT-140",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

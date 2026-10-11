@@ -7,7 +7,7 @@
   "content": "分隔符\n ' 定义的字符串为原义字符串\n\" 定义的字符串会将变量值进行替换\n`#` 在 Bash 中表示注释，而 `!` 即使被双引号（`\"`）包裹也具有特殊的含义。 单引号（`'`）则不一样，此处利用这一点解决输入问题。更多信息请参考 [Bash quoting 手册](https://www.gnu.org/software/bash/manual/html_node/Quoting.html)\n```\n #!/bin/sh\n curl --head --silent https://missing.csail.mit.edu\n```\n解决·方案用单引号注释掉如'#''!'\n\n操作符&&和||与c语言中一样",
   "priority": "normal",
   "id": "K-IMPORT-141",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

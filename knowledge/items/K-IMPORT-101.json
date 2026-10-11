@@ -7,7 +7,7 @@
   "content": "\n是一块代码，接收零个或多个参数，做一件事情，并返回零个或一个值\n如\n\n==void（返回类型） sum（函数名）(int begin, int end)（参数表)==   //函数头\n{\n\t==int i;==\n\t==int sum =0;==\n\t==for ( i=begin; i<=end; i++)==     //函数体\n\t=={==\n\t\t==sum += i;==\n\t==}==\n\t==printf(\"%d到%d的和是%d\\n\",begin,end,sum);==\n}\n",
   "priority": "normal",
   "id": "K-IMPORT-101",
-  "status": "review",
+  "status": "paused",
   "stage": 0,
   "due": "2026-10-12",
   "last_review": "2026-10-11",
@@ -64,5 +64,11 @@
       "error_type": "unknown",
       "schedule_rule_version": "ladder-v2"
     }
-  ]
+  ],
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "review"
+  }
 }

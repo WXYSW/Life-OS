@@ -7,7 +7,7 @@
   "content": "c目录下有1，missing两个文件夹1文件夹中也有一个叫missing的文件夹，当我要进1文件夹中的missing我应该输入cd /c/1/missing，当我要进c目录下的missing则可以直接输入cd missing前者是绝对路径后者则是相对路径\n\n举例- **绝对路径** = \"中国北京市海淀区xx路xx号\"（全球唯一）\n    \n- **相对路径** = \"从你现在的位置出发：直走100米右转\"（取决于你当前在哪）\n\n输入格式\n\n绝对  cd  missing或cd ./missing\n\n相对  cd /c/missing \n\nshell 中的路径是一组被分割的目录，在 Linux 和 macOS 上使用 ==`/`== 分割，\n而在 Windows 上是 ==`\\`==\n",
   "priority": "normal",
   "id": "K-IMPORT-135",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

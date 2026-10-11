@@ -7,7 +7,7 @@
   "content": "#### 1. 函数修改外部变量\nvoid increase(int *num) {\n    *num += 1; // 修改外部变量\n}\n\nint main() {\n    int x = 5;\n    increase(&x); // x变成6\n}\n#### 2. 数组操作\nint arr[3] = {10,20,30};\nint *p = arr; // 数组名就是首元素地址\n\nprintf(\"%d\", *p);    // 10 → 第一个元素\nprintf(\"%d\", *(p+1));// 20 → 第二个元素\n#### 3. 字符串处理\nchar *str = \"Hello\";\nwhile(*str != '\\0') {\n    putchar(*str); // 逐个输出字符\n    str++;\n}\n#### 4. 动态内存分配\nint *p = (int*)malloc(sizeof(int)*5); // 申请5个int空间\n*p = 10;      // 第一个元素\n*(p+1) = 20;  // 第二个元素\nfree(p);      // 释放内存",
   "priority": "normal",
   "id": "K-IMPORT-113",
-  "status": "needs_validation",
+  "status": "paused",
   "stage": -1,
   "due": null,
   "last_review": null,
@@ -16,5 +16,11 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "archive": {
+    "kind": "temporary",
+    "on": "2026-10-11",
+    "reason": "用户要求C语言和Shell暂时归档",
+    "previous_status": "needs_validation"
+  }
 }

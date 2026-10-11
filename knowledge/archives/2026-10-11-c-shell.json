@@ -1,0 +1,531 @@
+{
+  "id": "ARCHIVE-20261011-C-SHELL",
+  "kind": "temporary",
+  "on": "2026-10-11",
+  "topics": [
+    "C语言",
+    "Shell"
+  ],
+  "knowledge_ids": [
+    "K-IMPORT-086",
+    "K-IMPORT-087",
+    "K-IMPORT-088",
+    "K-IMPORT-089",
+    "K-IMPORT-090",
+    "K-IMPORT-091",
+    "K-IMPORT-092",
+    "K-IMPORT-093",
+    "K-IMPORT-094",
+    "K-IMPORT-095",
+    "K-IMPORT-096",
+    "K-IMPORT-097",
+    "K-IMPORT-098",
+    "K-IMPORT-099",
+    "K-IMPORT-100",
+    "K-IMPORT-101",
+    "K-IMPORT-102",
+    "K-IMPORT-103",
+    "K-IMPORT-104",
+    "K-IMPORT-105",
+    "K-IMPORT-106",
+    "K-IMPORT-107",
+    "K-IMPORT-108",
+    "K-IMPORT-109",
+    "K-IMPORT-110",
+    "K-IMPORT-111",
+    "K-IMPORT-112",
+    "K-IMPORT-113",
+    "K-IMPORT-114",
+    "K-IMPORT-115",
+    "K-IMPORT-116",
+    "K-IMPORT-117",
+    "K-IMPORT-118",
+    "K-IMPORT-119",
+    "K-IMPORT-120",
+    "K-IMPORT-121",
+    "K-IMPORT-122",
+    "K-IMPORT-123",
+    "K-IMPORT-124",
+    "K-IMPORT-125",
+    "K-IMPORT-126",
+    "K-IMPORT-127",
+    "K-IMPORT-128",
+    "K-IMPORT-129",
+    "K-IMPORT-130",
+    "K-IMPORT-131",
+    "K-IMPORT-132",
+    "K-IMPORT-133",
+    "K-IMPORT-134",
+    "K-IMPORT-135",
+    "K-IMPORT-136",
+    "K-IMPORT-137",
+    "K-IMPORT-138",
+    "K-IMPORT-139",
+    "K-IMPORT-140",
+    "K-IMPORT-141",
+    "K-IMPORT-142",
+    "K-IMPORT-143",
+    "K-IMPORT-144",
+    "K-IMPORT-145",
+    "K-IMPORT-146",
+    "K-IMPORT-147",
+    "K-IMPORT-148",
+    "K-IMPORT-149",
+    "K-IMPORT-150",
+    "K-IMPORT-151",
+    "K-IMPORT-152",
+    "K-IMPORT-153",
+    "K-IMPORT-154",
+    "D-003",
+    "D-004",
+    "D-005",
+    "D-006"
+  ],
+  "paused_question_ids": [
+    "Q-20261011-D003-01",
+    "Q-20261011-D004-01",
+    "Q-20261011-D005-01",
+    "Q-20261011-D006-01"
+  ],
+  "previous_states": [
+    {
+      "id": "K-IMPORT-086",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-087",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-088",
+      "status": "review",
+      "due": "2026-10-12",
+      "stage": 0
+    },
+    {
+      "id": "K-IMPORT-089",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-090",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-091",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-092",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-093",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-094",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-095",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-096",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-097",
+      "status": "review",
+      "due": "2026-10-12",
+      "stage": 0
+    },
+    {
+      "id": "K-IMPORT-098",
+      "status": "review",
+      "due": "2026-10-12",
+      "stage": 0
+    },
+    {
+      "id": "K-IMPORT-099",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-100",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-101",
+      "status": "review",
+      "due": "2026-10-12",
+      "stage": 0
+    },
+    {
+      "id": "K-IMPORT-102",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-103",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-104",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-105",
+      "status": "review",
+      "due": "2026-10-12",
+      "stage": 0
+    },
+    {
+      "id": "K-IMPORT-106",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-107",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-108",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-109",
+      "status": "review",
+      "due": "2026-10-12",
+      "stage": 0
+    },
+    {
+      "id": "K-IMPORT-110",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-111",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-112",
+      "status": "review",
+      "due": "2026-10-12",
+      "stage": 0
+    },
+    {
+      "id": "K-IMPORT-113",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-114",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-115",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-116",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-117",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-118",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-119",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-120",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-121",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-122",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-123",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-124",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-125",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-126",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-127",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-128",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-129",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-130",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-131",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-132",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-133",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-134",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-135",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-136",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-137",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-138",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-139",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-140",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-141",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-142",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-143",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-144",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-145",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-146",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-147",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-148",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-149",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-150",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-151",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-152",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-153",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "K-IMPORT-154",
+      "status": "needs_validation",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "D-003",
+      "status": "pending",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "D-004",
+      "status": "pending",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "D-005",
+      "status": "pending",
+      "due": null,
+      "stage": -1
+    },
+    {
+      "id": "D-006",
+      "status": "pending",
+      "due": null,
+      "stage": -1
+    }
+  ],
+  "note": "历史归档事件清单；实时状态以queue与item为准。"
+}
