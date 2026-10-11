@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-11",
+  "kind": "first_diagnostic_batch",
+  "knowledge_ids": [
+    "K-IMPORT-007",
+    "K-IMPORT-008",
+    "K-IMPORT-015",
+    "K-IMPORT-027",
+    "K-IMPORT-029",
+    "K-IMPORT-035",
+    "K-IMPORT-042",
+    "K-IMPORT-063"
+  ],
+  "results": {
+    "correct": 8,
+    "wrong": 8,
+    "unknown": 3,
+    "partial": 1
+  },
+  "original_answers": {
+    "K-IMPORT-007": [
+      "gone",
+      "不知道",
+      "Teath"
+    ],
+    "K-IMPORT-008": [
+      "不知道",
+      "不知道",
+      "left"
+    ],
+    "K-IMPORT-015": [
+      "bigger",
+      "gooder",
+      "brautifuller"
+    ],
+    "K-IMPORT-027": [
+      "I'm learning English everyday",
+      "she likes music."
+    ],
+    "K-IMPORT-029": [
+      "studing",
+      "went"
+    ],
+    "K-IMPORT-035": [
+      "after",
+      "if",
+      "because"
+    ],
+    "K-IMPORT-042": [
+      "存钱上大学",
+      "享受"
+    ],
+    "K-IMPORT-063": [
+      "1",
+      "1/2"
+    ]
+  }
+}
