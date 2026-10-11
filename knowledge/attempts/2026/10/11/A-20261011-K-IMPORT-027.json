@@ -1,0 +1,32 @@
+{
+  "attempt_id": "A-20261011-K-IMPORT-027",
+  "question_id": "Q-20261011-KIMPORT027-01",
+  "knowledge_id": "K-IMPORT-027",
+  "answered_on": "2026-10-11",
+  "answer_text": "I'm learning English everyday; she likes music.",
+  "answers": [
+    "I'm learning English everyday",
+    "she likes music."
+  ],
+  "expected": [
+    "I study English every day.",
+    "She likes music."
+  ],
+  "evaluation": [
+    "partial",
+    "correct"
+  ],
+  "assistance": "not_reported",
+  "grade": "correct",
+  "correct_parts": [
+    "2: she likes music."
+  ],
+  "missing_or_errors": [
+    "1: partial; given I'm learning English everyday, expected I study English every day."
+  ],
+  "assessment": "First sentence valid SVO but different tense and everyday vs every day; second correct.",
+  "stage_after": 0,
+  "due_after": "2026-10-12",
+  "rule_version": "ladder-v2",
+  "retrospective": true
+}

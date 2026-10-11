@@ -7,14 +7,64 @@
   "content": "- 一般加er比较级 **加est最高级**\n    \n    - tall taller the tallestshort short\n        \n    - shorter the shortest\n        \n- 以e结尾加r比较级 **加st最高级**\n    \n    - large larger the largest\n        \n- 重读闭音节双写加er比较级加est最高级\n    \n    - big bigger the biggest\n        \n\n### 比较级规则（二）\n\n- 形容词/副词如何变成比较级，主要取决于其音节和词尾。\n    \n- 1. 单音节和部分双音节词：词尾加 -er\n        \n- 2. 多音节词（三个或以上音节）及大部分双音节词：前加 more\n        \n- 3. 不规则变化一些常用词有特殊的比较级形式，需要单独记忆。\n        \n    \n    - · good/well → better（更好）\n        \n    - · bad/badly → worse（更糟）\n        \n    - · far → farther/further（更远）\n        \n    - · little → less（更少）\n        \n    - · much/many → more（更多）",
   "priority": "core",
   "id": "K-IMPORT-015",
-  "status": "needs_validation",
-  "stage": -1,
-  "due": null,
-  "last_review": null,
-  "understanding": "unassessed",
+  "status": "review",
+  "stage": 0,
+  "due": "2026-10-12",
+  "last_review": "2026-10-11",
+  "understanding": "needs_relearning",
   "kind": "imported_unverified",
-  "attempt_ids": [],
-  "rule_version": "ladder-v1",
+  "attempt_ids": [
+    "A-20261011-K-IMPORT-015"
+  ],
+  "rule_version": "ladder-v2",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "question_state": "evaluated",
+  "review_phase": "consolidation",
+  "consolidation_passes": 0,
+  "long_interval_passes": 0,
+  "recent_review_outcomes": [
+    "wrong"
+  ],
+  "scheduled_interval_days": 1,
+  "schedule_reason": "first_diagnostic_concept_gap",
+  "actual_gap_days": null,
+  "mastery": {
+    "recall": {
+      "state": "gap",
+      "evidence_id": "A-20261011-K-IMPORT-015",
+      "observed_on": "2026-10-11",
+      "basis": "Regular -er mastered in sample; irregular and more+adjective not yet."
+    },
+    "explain": {
+      "state": "unknown",
+      "evidence_id": null
+    },
+    "apply": {
+      "state": "unknown",
+      "evidence_id": null
+    }
+  },
+  "learning_events": [
+    {
+      "id": "EV-20261011-KIMPORT015-GRADE",
+      "day": "2026-10-11",
+      "knowledge_id": "K-IMPORT-015",
+      "question_id": "Q-20261011-KIMPORT015-01",
+      "action": "diagnose",
+      "dimension": "recall",
+      "outcome": "wrong",
+      "independent": "not_reported",
+      "delayed": false,
+      "transfer": false,
+      "schedule_eligible": true,
+      "basis": "Regular -er mastered in sample; irregular and more+adjective not yet.",
+      "question_version": "questions-v1",
+      "planner_version": "learning-v2",
+      "quality": null,
+      "error_type": "conceptual",
+      "target_date": null,
+      "schedule_rule_version": "ladder-v2"
+    }
+  ]
 }

@@ -59,15 +59,24 @@
     "id": "K-IMPORT-005",
     "title": "介词 - at on in",
     "priority": "core",
-    "status": "needs_validation",
-    "stage": -1,
-    "due": null,
-    "last_review": null,
-    "understanding": "unassessed",
-    "rule_version": "ladder-v1",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "understanding": "needs_relearning",
+    "rule_version": "ladder-v2",
     "source_ids": [
       "SRC-061"
-    ]
+    ],
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "wrong"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "first_diagnostic_concept_gap"
   },
   {
     "id": "K-IMPORT-006",
@@ -87,29 +96,47 @@
     "id": "K-IMPORT-007",
     "title": "动词 - 不规则过去式",
     "priority": "core",
-    "status": "needs_validation",
-    "stage": -1,
-    "due": null,
-    "last_review": null,
-    "understanding": "unassessed",
-    "rule_version": "ladder-v1",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "understanding": "needs_relearning",
+    "rule_version": "ladder-v2",
     "source_ids": [
       "SRC-063"
-    ]
+    ],
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "wrong"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "first_diagnostic_concept_gap"
   },
   {
     "id": "K-IMPORT-008",
     "title": "动词 - 现在分词",
     "priority": "core",
-    "status": "needs_validation",
-    "stage": -1,
-    "due": null,
-    "last_review": null,
-    "understanding": "unassessed",
-    "rule_version": "ladder-v1",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "understanding": "needs_relearning",
+    "rule_version": "ladder-v2",
     "source_ids": [
       "SRC-064"
-    ]
+    ],
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "wrong"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "first_diagnostic_concept_gap"
   },
   {
     "id": "K-IMPORT-009",
@@ -143,15 +170,24 @@
     "id": "K-IMPORT-011",
     "title": "名词 - 不规则变化",
     "priority": "core",
-    "status": "needs_validation",
-    "stage": -1,
-    "due": null,
-    "last_review": null,
-    "understanding": "unassessed",
-    "rule_version": "ladder-v1",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "understanding": "needs_relearning",
+    "rule_version": "ladder-v2",
     "source_ids": [
       "SRC-067"
-    ]
+    ],
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "wrong"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "first_diagnostic_concept_gap"
   },
   {
     "id": "K-IMPORT-012",
@@ -199,15 +235,24 @@
     "id": "K-IMPORT-015",
     "title": "形容词 - 比较级",
     "priority": "core",
-    "status": "needs_validation",
-    "stage": -1,
-    "due": null,
-    "last_review": null,
-    "understanding": "unassessed",
-    "rule_version": "ladder-v1",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "understanding": "needs_relearning",
+    "rule_version": "ladder-v2",
     "source_ids": [
       "SRC-071"
-    ]
+    ],
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "wrong"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "first_diagnostic_concept_gap"
   },
   {
     "id": "K-IMPORT-016",
@@ -367,15 +412,24 @@
     "id": "K-IMPORT-027",
     "title": "主语 + 谓语 + 宾语",
     "priority": "core",
-    "status": "needs_validation",
-    "stage": -1,
-    "due": null,
-    "last_review": null,
-    "understanding": "unassessed",
-    "rule_version": "ladder-v1",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "understanding": "partial",
+    "rule_version": "ladder-v2",
     "source_ids": [
       "SRC-076"
-    ]
+    ],
+    "review_phase": "initial",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "correct"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "first_diagnostic_correct_retest"
   },
   {
     "id": "K-IMPORT-028",
@@ -395,15 +449,24 @@
     "id": "K-IMPORT-029",
     "title": "一般现在时的基础表达",
     "priority": "core",
-    "status": "needs_validation",
-    "stage": -1,
-    "due": null,
-    "last_review": null,
-    "understanding": "unassessed",
-    "rule_version": "ladder-v1",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "understanding": "needs_relearning",
+    "rule_version": "ladder-v2",
     "source_ids": [
       "SRC-076"
-    ]
+    ],
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "wrong"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "first_diagnostic_concept_gap"
   },
   {
     "id": "K-IMPORT-030",
@@ -479,15 +542,24 @@
     "id": "K-IMPORT-035",
     "title": "转折、条件、因果连接词",
     "priority": "core",
-    "status": "needs_validation",
-    "stage": -1,
-    "due": null,
-    "last_review": null,
-    "understanding": "unassessed",
-    "rule_version": "ladder-v1",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "understanding": "needs_relearning",
+    "rule_version": "ladder-v2",
     "source_ids": [
       "SRC-076"
-    ]
+    ],
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "wrong"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "first_diagnostic_concept_gap"
   },
   {
     "id": "K-IMPORT-036",
@@ -577,15 +649,24 @@
     "id": "K-IMPORT-042",
     "title": "理解转折关系",
     "priority": "core",
-    "status": "needs_validation",
-    "stage": -1,
-    "due": null,
-    "last_review": null,
-    "understanding": "unassessed",
-    "rule_version": "ladder-v1",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "understanding": "provisionally_correct",
+    "rule_version": "ladder-v2",
     "source_ids": [
       "SRC-076"
-    ]
+    ],
+    "review_phase": "initial",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "correct"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "first_diagnostic_correct_retest"
   },
   {
     "id": "K-IMPORT-043",
@@ -871,15 +952,24 @@
     "id": "K-IMPORT-063",
     "title": "基本极限计算、等价无穷小代换、洛必达法则",
     "priority": "normal",
-    "status": "needs_validation",
-    "stage": -1,
-    "due": null,
-    "last_review": null,
-    "understanding": "unassessed",
-    "rule_version": "ladder-v1",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "understanding": "provisionally_correct",
+    "rule_version": "ladder-v2",
     "source_ids": [
       "SRC-077"
-    ]
+    ],
+    "review_phase": "initial",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "correct"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "first_diagnostic_correct_retest"
   },
   {
     "id": "K-IMPORT-064",

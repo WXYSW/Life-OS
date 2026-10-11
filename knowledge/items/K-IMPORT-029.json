@@ -12,14 +12,64 @@
   "content": "| 一般现在时的基础表达    | 初步掌握 | 能表达兴趣和目标          |",
   "priority": "core",
   "id": "K-IMPORT-029",
-  "status": "needs_validation",
-  "stage": -1,
-  "due": null,
-  "last_review": null,
-  "understanding": "unassessed",
+  "status": "review",
+  "stage": 0,
+  "due": "2026-10-12",
+  "last_review": "2026-10-11",
+  "understanding": "needs_relearning",
   "kind": "imported_unverified",
-  "attempt_ids": [],
-  "rule_version": "ladder-v1",
+  "attempt_ids": [
+    "A-20261011-K-IMPORT-029"
+  ],
+  "rule_version": "ladder-v2",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "question_state": "evaluated",
+  "review_phase": "consolidation",
+  "consolidation_passes": 0,
+  "long_interval_passes": 0,
+  "recent_review_outcomes": [
+    "wrong"
+  ],
+  "scheduled_interval_days": 1,
+  "schedule_reason": "first_diagnostic_concept_gap",
+  "actual_gap_days": null,
+  "mastery": {
+    "recall": {
+      "state": "gap",
+      "evidence_id": "A-20261011-K-IMPORT-029",
+      "observed_on": "2026-10-11",
+      "basis": "Simple present and subject-verb agreement gap."
+    },
+    "explain": {
+      "state": "unknown",
+      "evidence_id": null
+    },
+    "apply": {
+      "state": "unknown",
+      "evidence_id": null
+    }
+  },
+  "learning_events": [
+    {
+      "id": "EV-20261011-KIMPORT029-GRADE",
+      "day": "2026-10-11",
+      "knowledge_id": "K-IMPORT-029",
+      "question_id": "Q-20261011-KIMPORT029-01",
+      "action": "diagnose",
+      "dimension": "recall",
+      "outcome": "wrong",
+      "independent": "not_reported",
+      "delayed": false,
+      "transfer": false,
+      "schedule_eligible": true,
+      "basis": "Simple present and subject-verb agreement gap.",
+      "question_version": "questions-v1",
+      "planner_version": "learning-v2",
+      "quality": null,
+      "error_type": "conceptual",
+      "target_date": null,
+      "schedule_rule_version": "ladder-v2"
+    }
+  ]
 }

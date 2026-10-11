@@ -1,0 +1,31 @@
+{
+  "attempt_id": "A-20261011-K-IMPORT-063",
+  "question_id": "Q-20261011-KIMPORT063-01",
+  "knowledge_id": "K-IMPORT-063",
+  "answered_on": "2026-10-11",
+  "answer_text": "1; 1/2",
+  "answers": [
+    "1",
+    "1/2"
+  ],
+  "expected": [
+    "1",
+    "1/2"
+  ],
+  "evaluation": [
+    "correct",
+    "correct"
+  ],
+  "assistance": "not_reported",
+  "grade": "correct",
+  "correct_parts": [
+    "1: 1",
+    "2: 1/2"
+  ],
+  "missing_or_errors": [],
+  "assessment": "Both basic limits correct; derivation and advanced methods untested.",
+  "stage_after": 0,
+  "due_after": "2026-10-12",
+  "rule_version": "ladder-v2",
+  "retrospective": true
+}

@@ -11,14 +11,64 @@
   "content": "| 极限    | 基本极限计算、等价无穷小代换、洛必达法则           |",
   "priority": "normal",
   "id": "K-IMPORT-063",
-  "status": "needs_validation",
-  "stage": -1,
-  "due": null,
-  "last_review": null,
-  "understanding": "unassessed",
+  "status": "review",
+  "stage": 0,
+  "due": "2026-10-12",
+  "last_review": "2026-10-11",
+  "understanding": "provisionally_correct",
   "kind": "imported_unverified",
-  "attempt_ids": [],
-  "rule_version": "ladder-v1",
+  "attempt_ids": [
+    "A-20261011-K-IMPORT-063"
+  ],
+  "rule_version": "ladder-v2",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "question_state": "evaluated",
+  "review_phase": "initial",
+  "consolidation_passes": 0,
+  "long_interval_passes": 0,
+  "recent_review_outcomes": [
+    "correct"
+  ],
+  "scheduled_interval_days": 1,
+  "schedule_reason": "first_diagnostic_correct_retest",
+  "actual_gap_days": null,
+  "mastery": {
+    "recall": {
+      "state": "provisional",
+      "evidence_id": "A-20261011-K-IMPORT-063",
+      "observed_on": "2026-10-11",
+      "basis": "Both basic limits correct; derivation and advanced methods untested."
+    },
+    "explain": {
+      "state": "unknown",
+      "evidence_id": null
+    },
+    "apply": {
+      "state": "unknown",
+      "evidence_id": null
+    }
+  },
+  "learning_events": [
+    {
+      "id": "EV-20261011-KIMPORT063-GRADE",
+      "day": "2026-10-11",
+      "knowledge_id": "K-IMPORT-063",
+      "question_id": "Q-20261011-KIMPORT063-01",
+      "action": "diagnose",
+      "dimension": "recall",
+      "outcome": "correct",
+      "independent": "not_reported",
+      "delayed": false,
+      "transfer": false,
+      "schedule_eligible": true,
+      "basis": "Both basic limits correct; derivation and advanced methods untested.",
+      "question_version": "questions-v1",
+      "planner_version": "learning-v2",
+      "quality": "stable",
+      "error_type": null,
+      "target_date": null,
+      "schedule_rule_version": "ladder-v2"
+    }
+  ]
 }

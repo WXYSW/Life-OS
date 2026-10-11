@@ -154,6 +154,366 @@
         }
       ],
       "status": "unanswered"
+    },
+    {
+      "id": "Q-20261011-KIMPORT005-01",
+      "knowledge_id": "K-IMPORT-005",
+      "kind": "new",
+      "text": "Fill the blanks: wake up ___ 7:00 a.m.; birthday ___ October; exam ___ Monday.",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "Assess each sub-answer independently, allowing unknown and partial responses",
+        "See corresponding attempt for per-answer evaluation"
+      ],
+      "answer_fragments": [
+        {
+          "event_id": "EV-20261011-KIMPORT005-ANSWER",
+          "on": "2026-10-11",
+          "text": "at; on; in"
+        }
+      ],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT005-ISSUE",
+          "type": "issued",
+          "on": "2026-10-11",
+          "note": "Retrospective registration from conversation"
+        },
+        {
+          "event_id": "EV-20261011-KIMPORT005-GRADE",
+          "type": "evaluated",
+          "on": "2026-10-11",
+          "attempt_id": "A-20261011-K-IMPORT-005",
+          "result": "key_error"
+        }
+      ],
+      "status": "evaluated",
+      "evaluated_on": "2026-10-11"
+    },
+    {
+      "id": "Q-20261011-KIMPORT011-01",
+      "knowledge_id": "K-IMPORT-011",
+      "kind": "new",
+      "text": "Write plurals of child, woman, tooth, mouse, sheep.",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "Assess each sub-answer independently, allowing unknown and partial responses",
+        "See corresponding attempt for per-answer evaluation"
+      ],
+      "answer_fragments": [
+        {
+          "event_id": "EV-20261011-KIMPORT011-ANSWER",
+          "on": "2026-10-11",
+          "text": "childes; weman; teeth; mouse; sheep"
+        }
+      ],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT011-ISSUE",
+          "type": "issued",
+          "on": "2026-10-11",
+          "note": "Retrospective registration from conversation"
+        },
+        {
+          "event_id": "EV-20261011-KIMPORT011-GRADE",
+          "type": "evaluated",
+          "on": "2026-10-11",
+          "attempt_id": "A-20261011-K-IMPORT-011",
+          "result": "key_error"
+        }
+      ],
+      "status": "evaluated",
+      "evaluated_on": "2026-10-11"
+    },
+    {
+      "id": "Q-20261011-KIMPORT007-01",
+      "knowledge_id": "K-IMPORT-007",
+      "kind": "new",
+      "text": "Write past tense forms: go; bring; teach.",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "Assess each sub-answer independently, allowing unknown and partial responses",
+        "See corresponding attempt for per-answer evaluation"
+      ],
+      "answer_fragments": [
+        {
+          "event_id": "EV-20261011-KIMPORT007-ANSWER",
+          "on": "2026-10-11",
+          "text": "gone; 不知道; Teath"
+        }
+      ],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT007-ISSUE",
+          "type": "issued",
+          "on": "2026-10-11",
+          "note": "Retrospective registration from conversation"
+        },
+        {
+          "event_id": "EV-20261011-KIMPORT007-GRADE",
+          "type": "evaluated",
+          "on": "2026-10-11",
+          "attempt_id": "A-20261011-K-IMPORT-007",
+          "result": "key_error"
+        }
+      ],
+      "status": "evaluated",
+      "evaluated_on": "2026-10-11"
+    },
+    {
+      "id": "Q-20261011-KIMPORT008-01",
+      "knowledge_id": "K-IMPORT-008",
+      "kind": "new",
+      "text": "Write -ing forms: fry; tie; leave.",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "Assess each sub-answer independently, allowing unknown and partial responses",
+        "See corresponding attempt for per-answer evaluation"
+      ],
+      "answer_fragments": [
+        {
+          "event_id": "EV-20261011-KIMPORT008-ANSWER",
+          "on": "2026-10-11",
+          "text": "不知道; 不知道; left"
+        }
+      ],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT008-ISSUE",
+          "type": "issued",
+          "on": "2026-10-11",
+          "note": "Retrospective registration from conversation"
+        },
+        {
+          "event_id": "EV-20261011-KIMPORT008-GRADE",
+          "type": "evaluated",
+          "on": "2026-10-11",
+          "attempt_id": "A-20261011-K-IMPORT-008",
+          "result": "key_error"
+        }
+      ],
+      "status": "evaluated",
+      "evaluated_on": "2026-10-11"
+    },
+    {
+      "id": "Q-20261011-KIMPORT015-01",
+      "knowledge_id": "K-IMPORT-015",
+      "kind": "new",
+      "text": "Comparatives: big; good; beautiful.",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "Assess each sub-answer independently, allowing unknown and partial responses",
+        "See corresponding attempt for per-answer evaluation"
+      ],
+      "answer_fragments": [
+        {
+          "event_id": "EV-20261011-KIMPORT015-ANSWER",
+          "on": "2026-10-11",
+          "text": "bigger; gooder; brautifuller"
+        }
+      ],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT015-ISSUE",
+          "type": "issued",
+          "on": "2026-10-11",
+          "note": "Retrospective registration from conversation"
+        },
+        {
+          "event_id": "EV-20261011-KIMPORT015-GRADE",
+          "type": "evaluated",
+          "on": "2026-10-11",
+          "attempt_id": "A-20261011-K-IMPORT-015",
+          "result": "key_error"
+        }
+      ],
+      "status": "evaluated",
+      "evaluated_on": "2026-10-11"
+    },
+    {
+      "id": "Q-20261011-KIMPORT027-01",
+      "knowledge_id": "K-IMPORT-027",
+      "kind": "new",
+      "text": "Translate: 我每天学习英语。; 她喜欢音乐。",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "Assess each sub-answer independently, allowing unknown and partial responses",
+        "See corresponding attempt for per-answer evaluation"
+      ],
+      "answer_fragments": [
+        {
+          "event_id": "EV-20261011-KIMPORT027-ANSWER",
+          "on": "2026-10-11",
+          "text": "I'm learning English everyday; she likes music."
+        }
+      ],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT027-ISSUE",
+          "type": "issued",
+          "on": "2026-10-11",
+          "note": "Retrospective registration from conversation"
+        },
+        {
+          "event_id": "EV-20261011-KIMPORT027-GRADE",
+          "type": "evaluated",
+          "on": "2026-10-11",
+          "attempt_id": "A-20261011-K-IMPORT-027",
+          "result": "partial"
+        }
+      ],
+      "status": "evaluated",
+      "evaluated_on": "2026-10-11"
+    },
+    {
+      "id": "Q-20261011-KIMPORT029-01",
+      "knowledge_id": "K-IMPORT-029",
+      "kind": "new",
+      "text": "He ___ (study) English every day.; They ___ (go) to school by bus.",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "Assess each sub-answer independently, allowing unknown and partial responses",
+        "See corresponding attempt for per-answer evaluation"
+      ],
+      "answer_fragments": [
+        {
+          "event_id": "EV-20261011-KIMPORT029-ANSWER",
+          "on": "2026-10-11",
+          "text": "studing; went"
+        }
+      ],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT029-ISSUE",
+          "type": "issued",
+          "on": "2026-10-11",
+          "note": "Retrospective registration from conversation"
+        },
+        {
+          "event_id": "EV-20261011-KIMPORT029-GRADE",
+          "type": "evaluated",
+          "on": "2026-10-11",
+          "attempt_id": "A-20261011-K-IMPORT-029",
+          "result": "key_error"
+        }
+      ],
+      "status": "evaluated",
+      "evaluated_on": "2026-10-11"
+    },
+    {
+      "id": "Q-20261011-KIMPORT035-01",
+      "knowledge_id": "K-IMPORT-035",
+      "kind": "new",
+      "text": "Fill transition, condition, cause: tired ___ finished; ___ it rains; home ___ sick.",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "Assess each sub-answer independently, allowing unknown and partial responses",
+        "See corresponding attempt for per-answer evaluation"
+      ],
+      "answer_fragments": [
+        {
+          "event_id": "EV-20261011-KIMPORT035-ANSWER",
+          "on": "2026-10-11",
+          "text": "after; if; because"
+        }
+      ],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT035-ISSUE",
+          "type": "issued",
+          "on": "2026-10-11",
+          "note": "Retrospective registration from conversation"
+        },
+        {
+          "event_id": "EV-20261011-KIMPORT035-GRADE",
+          "type": "evaluated",
+          "on": "2026-10-11",
+          "attempt_id": "A-20261011-K-IMPORT-035",
+          "result": "key_error"
+        }
+      ],
+      "status": "evaluated",
+      "evaluated_on": "2026-10-11"
+    },
+    {
+      "id": "Q-20261011-KIMPORT042-01",
+      "knowledge_id": "K-IMPORT-042",
+      "kind": "new",
+      "text": "Read two sentences: Tom decided to save money for college. Anna enjoyed a difficult course. Answer follow-up questions.",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "Assess each sub-answer independently, allowing unknown and partial responses",
+        "See corresponding attempt for per-answer evaluation"
+      ],
+      "answer_fragments": [
+        {
+          "event_id": "EV-20261011-KIMPORT042-ANSWER",
+          "on": "2026-10-11",
+          "text": "存钱上大学; 享受"
+        }
+      ],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT042-ISSUE",
+          "type": "issued",
+          "on": "2026-10-11",
+          "note": "Retrospective registration from conversation"
+        },
+        {
+          "event_id": "EV-20261011-KIMPORT042-GRADE",
+          "type": "evaluated",
+          "on": "2026-10-11",
+          "attempt_id": "A-20261011-K-IMPORT-042",
+          "result": "provisionally_correct"
+        }
+      ],
+      "status": "evaluated",
+      "evaluated_on": "2026-10-11"
+    },
+    {
+      "id": "Q-20261011-KIMPORT063-01",
+      "knowledge_id": "K-IMPORT-063",
+      "kind": "new",
+      "text": "Calculate lim(x→0) sin(x)/x and lim(x→0) (1-cos x)/x².",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "Assess each sub-answer independently, allowing unknown and partial responses",
+        "See corresponding attempt for per-answer evaluation"
+      ],
+      "answer_fragments": [
+        {
+          "event_id": "EV-20261011-KIMPORT063-ANSWER",
+          "on": "2026-10-11",
+          "text": "1; 1/2"
+        }
+      ],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT063-ISSUE",
+          "type": "issued",
+          "on": "2026-10-11",
+          "note": "Retrospective registration from conversation"
+        },
+        {
+          "event_id": "EV-20261011-KIMPORT063-GRADE",
+          "type": "evaluated",
+          "on": "2026-10-11",
+          "attempt_id": "A-20261011-K-IMPORT-063",
+          "result": "provisionally_correct"
+        }
+      ],
+      "status": "evaluated",
+      "evaluated_on": "2026-10-11"
     }
   ]
 }

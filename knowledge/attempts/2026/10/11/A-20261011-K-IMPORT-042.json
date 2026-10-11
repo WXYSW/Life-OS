@@ -1,0 +1,31 @@
+{
+  "attempt_id": "A-20261011-K-IMPORT-042",
+  "question_id": "Q-20261011-KIMPORT042-01",
+  "knowledge_id": "K-IMPORT-042",
+  "answered_on": "2026-10-11",
+  "answer_text": "存钱上大学; 享受",
+  "answers": [
+    "存钱上大学",
+    "享受"
+  ],
+  "expected": [
+    "存钱上大学",
+    "喜欢"
+  ],
+  "evaluation": [
+    "correct",
+    "correct"
+  ],
+  "assistance": "not_reported",
+  "grade": "correct",
+  "correct_parts": [
+    "1: 存钱上大学",
+    "2: 享受"
+  ],
+  "missing_or_errors": [],
+  "assessment": "Both short-passage contrast questions correct; longer reading untested.",
+  "stage_after": 0,
+  "due_after": "2026-10-12",
+  "rule_version": "ladder-v2",
+  "retrospective": true
+}
