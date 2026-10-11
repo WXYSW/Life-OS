@@ -11,10 +11,11 @@
   ],
   "created_on": "2026-10-11",
   "verification": {
-    "status": "needs_validation",
-    "basis": null
+    "status": "verified",
+    "basis": "Diagnostic checks standard irregular noun inflection foot -> feet; with five and predicative 'tall', plural feet is required.",
+    "checked_on": "2026-10-11"
   },
-  "assessment": "untested",
+  "assessment": "tested",
   "availability": "active",
   "goal_links": [
     {
@@ -50,15 +51,49 @@
       "checked_on": "2026-10-11"
     }
   ],
-  "evidence": [],
-  "mastery": {},
+  "evidence": [
+    {
+      "id": "A-20261011-BATCH3-9d6952",
+      "day": "2026-10-11",
+      "action": "diagnose",
+      "dimension": "recall",
+      "outcome": "correct",
+      "independent": true,
+      "delayed": false,
+      "transfer": false,
+      "schedule_eligible": true,
+      "basis": "Independently selected 'five feet tall'; foot has irregular plural feet in this measurement context.",
+      "quality": "stable",
+      "error_type": "unknown",
+      "actual_gap_days": null,
+      "scheduled_interval_before": null
+    }
+  ],
+  "mastery": {
+    "recall": {
+      "state": "demonstrated",
+      "evidence_id": "A-20261011-BATCH3-9d6952",
+      "observed_on": "2026-10-11"
+    }
+  },
   "schedule": {
-    "status": "pending",
-    "stage": -1,
-    "due": null
+    "status": "review",
+    "stage": 0,
+    "last_review": "2026-10-11",
+    "due": "2026-10-12",
+    "review_phase": "initial",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "correct"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "首次独立完成：1天后验证",
+    "rule_version": "ladder-v2"
   },
   "routing": {
-    "route": "intake",
+    "route": "review",
     "active_goal_ids": [
       "G-UPGRADE"
     ],
