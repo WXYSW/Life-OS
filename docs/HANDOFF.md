@@ -42,7 +42,7 @@
 - 只追问影响判断的关键缺失。用户说“简单记录”时减负，说“先不保存”时只讨论。
 - 每次给一个主要观察，必要时一个下一步建议；积累后深入复盘。关联不直接当因果，不作未经依据的身心诊断。
 - 同日更新一份日报并注明截至时间；“今天结束”后标完整整理。可继续补记和更正。
-- 提取知识点，合并已有概念；区分资料收藏、经验观点和训练知识。核验后才用作标准答案，不将未核验笔记直接用于评分。
+- 提取知识点，合并已有概念；区分可核验的知识、个人经验观点和原始来源。核验后才用作标准答案，不将未核验笔记直接用于评分。
 - 保存后返回记录 ID、文件/提交链接、同步状态和待确认项。
 
 ## 新题与复习
@@ -64,7 +64,7 @@
 - 周、月、季：reports/weekly/YYYY/、reports/monthly/YYYY/、reports/quarterly/YYYY/。
 - 年报：reports/yearly/YYYY.md。
 - 目标：goals/；当前摘要：state/current.md。
-- 知识：knowledge/items/；资料收藏：knowledge/resources/。
+- 知识：knowledge/items/；原始来源通过source_ids关联imports/，不维护独立收藏目录。
 - 长期待答题：knowledge/questions/backlog.json，保留题目、题目ID、回答片段、状态和事件历史。
 - 复习：knowledge/review-plans/queue.json、knowledge/sessions/及knowledge/attempts/。
 - 修订：revisions/。导入原文位于imports/2026-10-11-total/originals/，保留不改写。
@@ -103,3 +103,6 @@ prepared的diagnostic_question不等于已实际出题。派题先持久化backl
 ## 分层目录与去重（2026-10-11）
 
 先读 [知识分层规则](knowledge-structure.md) 和 knowledge/catalog/README.md；按legacy-map找标准范围，按question-map和evidence-map定位实际测试证据。原ID保留，父条目结果不能传给未测子项。日常使用learning.py的目录范围去重；后续派题/评价同步范围映射与统计。当前161条原始资料、253个可评价范围、19份诊断记录、0个长期验证范围；73条暂时归档，8道英语题未答、4道C/Shell题暂停。数量以实时数据为准。
+
+
+2026-10-11：取消独立资料收藏功能；保留历史来源与已有学习证据，后续材料直接进入知识提取、核验及诊断流程，不再维护收藏索引。
