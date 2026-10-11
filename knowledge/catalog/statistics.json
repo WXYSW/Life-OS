@@ -2,7 +2,7 @@
   "version": "taxonomy-v2",
   "source_entries": 161,
   "canonical_assessable_scopes": 277,
-  "canonical_scopes_with_diagnostic_evidence": 52,
+  "canonical_scopes_with_diagnostic_evidence": 54,
   "canonical_long_term_verified": 0,
   "unique_attempts": 19,
   "mapped_subanswer_evidence": 53,
@@ -11,13 +11,13 @@
   "active_legacy_entries_with_attempts": 12,
   "lifecycle_counts": {
     "archived": 119,
-    "intake": 124,
-    "review": 33,
+    "intake": 122,
+    "review": 35,
     "classification_pending": 1
   },
   "verification_counts": {
-    "needs_validation": 266,
-    "verified": 11
+    "needs_validation": 264,
+    "verified": 13
   },
   "evidence_scope": "knowledge/items/KP-*.json evidence; legacy sources are historical snapshots",
   "coverage_complete": false
