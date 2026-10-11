@@ -1,46 +1,30 @@
 {
   "id": null,
+  "record_type": "knowledge",
   "title": null,
-  "source_ids": [],
-  "kind": "unverified",
   "content": null,
-  "verification_sources": [],
-  "priority": "normal",
-  "status": "needs_validation",
-  "stage": -1,
-  "due": null,
-  "last_review": null,
-  "understanding": "unassessed",
-  "evidence_ids": [],
-  "rule_version": "ladder-v2",
-  "visibility": "local",
-  "publication_basis": null,
-  "goal_links": [],
-  "capability_ids": [],
-  "prerequisite_ids": [],
-  "intrinsic_difficulty": null,
-  "estimated_minutes": null,
-  "mastery": {
-    "recall": {
-      "state": "unknown",
-      "evidence_id": null
-    },
-    "explain": {
-      "state": "unknown",
-      "evidence_id": null
-    },
-    "apply": {
-      "state": "unknown",
-      "evidence_id": null
-    }
+  "source_ids": [],
+  "source_item_ids": [],
+  "created_on": null,
+  "verification": {
+    "status": "needs_validation",
+    "basis": null
   },
-  "learning_events": [],
-  "review_phase": "initial",
-  "consolidation_passes": 0,
-  "long_interval_passes": 0,
-  "recent_review_outcomes": [],
-  "scheduled_interval_days": null,
-  "taxonomy": null,
-  "diagnostic_evidence": [],
-  "evidence_storage": "knowledge-light-v1"
+  "assessment": "untested",
+  "availability": "active",
+  "goal_links": [],
+  "evidence": [],
+  "mastery": {},
+  "schedule": {
+    "status": "pending",
+    "stage": -1,
+    "due": null
+  },
+  "routing": {
+    "route": "intake",
+    "active_goal_ids": [],
+    "future_goal_ids": [],
+    "unresolved_goal_ids": []
+  },
+  "lifecycle_version": "lifecycle-v1"
 }

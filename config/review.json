@@ -31,7 +31,7 @@
     "ask_each_time": false,
     "user_explicit_exclusions_override": true
   },
-  "planner_version": "knowledge-light-v1",
+  "planner_version": "lifecycle-v1",
   "planner_entrypoint": "scripts/learning.py",
   "legacy_selector": "scripts/review.py select (compatibility only)",
   "schedule_policy": {
@@ -44,8 +44,13 @@
     "max_interval_days": 90,
     "parameter_basis": "provisional_engineering_defaults"
   },
-  "knowledge_catalog_version": "taxonomy-v1",
+  "knowledge_catalog_version": "taxonomy-v2",
   "knowledge_catalog_path": "knowledge/catalog",
-  "evidence_storage": "knowledge-light-v1",
-  "persist_questions": false
+  "evidence_storage": "compact_scope_evidence",
+  "persist_questions": false,
+  "lifecycle_version": "lifecycle-v1",
+  "default_mode": "review",
+  "diagnosis_trigger": "explicit_user_request",
+  "queue_policy": "derived_from_canonical_knowledge",
+  "knowledge_entity_prefix": "KP-"
 }

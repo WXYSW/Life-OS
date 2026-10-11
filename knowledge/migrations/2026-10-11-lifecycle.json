@@ -1,0 +1,16 @@
+{
+  "version": "lifecycle-v1",
+  "legacy_source_records": 161,
+  "canonical_migrated": 253,
+  "new_historical_intake": 24,
+  "total_knowledge": 277,
+  "historical_evidence_count": 53,
+  "life_data_changed": false,
+  "notes": [
+    "原ID保留；KP标准范围成为独立调度单位",
+    "未测试范围无due，不继承父模块成绩",
+    "C/Shell原归档仅在所有来源均归档时映射到共享范围",
+    "未获得匹配依据的关联留待确认，不提出删除",
+    "2026大纲作为参考版本；考试年份和高数专业适用性未确认"
+  ]
+}

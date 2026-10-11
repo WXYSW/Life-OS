@@ -18,12 +18,13 @@
       "gap": "unknown",
       "time_budget_minutes": null,
       "importance_basis": "not_yet_stated",
-      "evidence_limitation": "两道动词形式诊断仅说明局部缺口，不能推算四级水平或总差距。"
+      "evidence_limitation": "两道动词形式诊断仅说明局部缺口，不能推算四级水平或总差距。",
+      "syllabus_status": "needs_versioned_outline"
     },
     {
       "id": "G-UPGRADE",
       "name": "专升本备考",
-      "status": "historical_needs_current_confirmation",
+      "status": "active",
       "subjects": [
         "政治",
         "英语",
@@ -41,7 +42,17 @@
       "current_evidence_ids": [],
       "gap": "unknown",
       "time_budget_minutes": null,
-      "importance_basis": "not_yet_stated"
+      "importance_basis": "not_yet_stated",
+      "aliases": [
+        "zsb"
+      ],
+      "activation_basis": "用户已确认 docs/zsb-goal-view.md；本轮授权实施目标生命周期",
+      "syllabus_ids": [
+        "JX-ZSB-2026"
+      ],
+      "exam_year": null,
+      "syllabus_applicability": "reference_year_2026; target_year_unconfirmed",
+      "math_applicability": "pending"
     },
     {
       "id": "G-CS-ABROAD",

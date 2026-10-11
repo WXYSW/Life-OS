@@ -1,0 +1,80 @@
+{
+  "id": "KP-EN-00b6ae1e82ec",
+  "record_type": "knowledge",
+  "title": "空间介词at/on/in",
+  "content": "空间介词at/on/in",
+  "source_ids": [
+    "SRC-061"
+  ],
+  "source_item_ids": [
+    "K-IMPORT-005"
+  ],
+  "created_on": "2026-10-11",
+  "verification": {
+    "status": "needs_validation",
+    "basis": null
+  },
+  "assessment": "untested",
+  "availability": "active",
+  "goal_links": [
+    {
+      "goal_id": "G-CET4-2026-12",
+      "relation": "uncertain",
+      "basis": "保留原四级暂定关联，正式大纲版本尚未接入",
+      "syllabus_id": null,
+      "section_ids": [],
+      "importance": null,
+      "applicability": "pending",
+      "checked_on": "2026-10-11"
+    },
+    {
+      "goal_id": "G-UPGRADE",
+      "relation": "direct",
+      "basis": "助手按知识范围映射到用户提供的2026大纲章节；不代表考频或权重",
+      "syllabus_id": "JX-ZSB-2026",
+      "section_ids": [
+        "EN-KNOWLEDGE"
+      ],
+      "importance": null,
+      "applicability": "confirmed",
+      "checked_on": "2026-10-11"
+    },
+    {
+      "goal_id": "G-CS-ABROAD",
+      "relation": "uncertain",
+      "basis": "尚未逐项核对目标范围；不据此判断无用",
+      "syllabus_id": null,
+      "section_ids": [],
+      "importance": null,
+      "applicability": "pending",
+      "checked_on": "2026-10-11"
+    }
+  ],
+  "evidence": [],
+  "mastery": {},
+  "schedule": {
+    "status": "pending",
+    "stage": -1,
+    "due": null
+  },
+  "routing": {
+    "route": "intake",
+    "active_goal_ids": [
+      "G-UPGRADE"
+    ],
+    "future_goal_ids": [],
+    "unresolved_goal_ids": [
+      "G-CET4-2026-12",
+      "G-CS-ABROAD"
+    ]
+  },
+  "lifecycle_version": "lifecycle-v1",
+  "taxonomy": {
+    "node_id": "KP-EN-00b6ae1e82ec",
+    "parent_id": "KP-EN-389adc80d94a"
+  },
+  "content_note": "范围标题；教学与评分前按来源核验，不将父资料全部内容视作本范围。",
+  "subject_id": "SUB-EN",
+  "module_id": "MOD-EN-4a7c1d9c9a",
+  "routing_checked_on": "2026-10-11"
+}

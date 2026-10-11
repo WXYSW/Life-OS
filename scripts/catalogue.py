@@ -42,49 +42,49 @@ def load_context(root, items, questions):
 
 
 def statistics(root=ROOT):
-    root=Path(root);read=lambda p:json.loads((root/p).read_text(encoding='utf-8'))
-    entries=read('knowledge/catalog/legacy-map.json')['entries']
-    nodes=read('knowledge/catalog/nodes.json')['nodes']
-    evidence=[dict(e, legacy_id=m['legacy_id']) for m in read('knowledge/catalog/legacy-map.json')['entries'] for e in read('knowledge/items/'+m['legacy_id']+'.json').get('diagnostic_evidence', [])]
-    queue=read('knowledge/review-plans/queue.json')
-    qs=[]
-    leaves=[n for n in nodes if n.get('assessable')]
-    observed={e['canonical_id'] for e in evidence if e.get('canonical_id')}
-    assessed_legacy={e['legacy_id'] for e in evidence}
-    archived={i['id'] for i in queue if i['status']=='paused' and i.get('archive',{}).get('kind')=='temporary'}
-    return dict(version='taxonomy-v1',source_entries=len(entries),canonical_assessable_scopes=len(leaves),
-                canonical_scopes_with_diagnostic_evidence=len(observed),
-                canonical_long_term_verified=sum(n.get('long_term_verified') is True for n in leaves),
-                unique_attempts=len({e['attempt_id'] for e in evidence}),mapped_subanswer_evidence=sum(e.get('canonical_id') is not None for e in evidence),
-                legacy_entries_with_attempts=len(assessed_legacy),archived_legacy_entries=len(archived),
-                active_legacy_entries_with_attempts=len(assessed_legacy-archived),
-                queue_status_counts=dict(Counter(i['status'] for i in queue)),
-                question_status_counts=dict(Counter(q['status'] for q in qs)),
-                entry_kind_counts=dict(Counter(m['entry_kind'] for m in entries)),
-                evidence_scope='knowledge/items/*.json diagnostic_evidence; derived index',
+    from lifecycle import load, classify
+    root=Path(root)
+    items,goals=load(root)
+    sources=[json.loads(p.read_text()) for p in (root/'knowledge/items').glob('*.json')]
+    sources=[i for i in sources if i.get('record_type')=='legacy_source']
+    evidence=[e for i in items for e in i.get('evidence',[])]
+    observed=[i for i in items if i['assessment']=='tested']
+    assessed_legacy={e['legacy_source_id'] for e in evidence if e.get('legacy_source_id')}
+    archived_legacy={i['id'] for i in sources if i.get('status')=='paused'}
+    return dict(version='taxonomy-v2',source_entries=len(sources),
+                canonical_assessable_scopes=len(items),canonical_scopes_with_diagnostic_evidence=len(observed),
+                canonical_long_term_verified=sum(sum(e.get('outcome')=='correct' and e.get('independent') is True and e.get('schedule_eligible') is True and e.get('action') not in ('practice','relearn') and (e.get('actual_gap_days') or 0)>=30 for e in i.get('evidence',[]))>=2 for i in items),
+                unique_attempts=len({e.get('legacy_attempt_id',e['id']) for e in evidence}),
+                mapped_subanswer_evidence=len(evidence),legacy_entries_with_attempts=len(assessed_legacy),
+                archived_legacy_entries=len(archived_legacy),active_legacy_entries_with_attempts=len(assessed_legacy-archived_legacy),
+                lifecycle_counts=dict(Counter(classify(i,goals)['route'] for i in items)),
+                verification_counts=dict(Counter(i['verification']['status'] for i in items)),
+                evidence_scope='knowledge/items/KP-*.json evidence; legacy sources are historical snapshots',
                 coverage_complete=False)
 
 
 def validate_catalogue(root=ROOT):
-    root=Path(root);read=lambda p:json.loads((root/p).read_text(encoding='utf-8'))
+    from lifecycle import load, validate, classify
+    root=Path(root);read=lambda p:json.loads((root/p).read_text())
+    items,goals=load(root)
+    validate(items,goals,[json.loads(p.read_text()) for p in (root/'goals/syllabuses').glob('*.json')])
     entries=read('knowledge/catalog/legacy-map.json')['entries'];ns=read('knowledge/catalog/nodes.json')['nodes']
     nodes={n['id']:n for n in ns}
     if len(nodes)!=len(ns):raise ValueError('Duplicate canonical IDs')
-    queue=read('knowledge/review-plans/queue.json');ids={i['id'] for i in queue}
-    if {m['legacy_id'] for m in entries}!=ids or len(entries)!=len(ids):raise ValueError('Incomplete legacy mapping')
     for n in ns:
         seen=set();cur=n
         while cur.get('parent_id'):
             if cur['id'] in seen:raise ValueError('Hierarchy cycle')
             seen.add(cur['id']);cur=nodes[cur['parent_id']]
+    ids={i['id'] for i in items}
+    if {n['id'] for n in ns if n.get('assessable')}!=ids:raise ValueError('Canonical catalogue mismatch')
     for m in entries:
-        if not m['canonical_ids'] or any(c not in nodes for c in m['canonical_ids']):raise ValueError('Missing node')
+        if not m['canonical_ids'] or any(c not in nodes for c in m['canonical_ids']):raise ValueError('Missing legacy node')
         item=read('knowledge/items/'+m['legacy_id']+'.json')
-        if item.get('taxonomy')!=m:raise ValueError('Item taxonomy drift')
-    for m in entries:
-        item=read('knowledge/items/'+m['legacy_id']+'.json')
-        for e in item.get('diagnostic_evidence', []):
-            if e.get('canonical_id') and e['canonical_id'] not in nodes:raise ValueError('Bad evidence scope')
+        if item.get('taxonomy')!=m:raise ValueError('Legacy taxonomy drift')
+    expected=[dict(id=i['id'],title=i['title'],**i['schedule'],active_goal_ids=classify(i,goals)['active_goal_ids']) for i in items if classify(i,goals)['route']=='review']
+    queue=read('knowledge/review-plans/queue.json')
+    if {i['id']:i for i in queue}!={i['id']:i for i in expected}:raise ValueError('Derived queue drift')
     return statistics(root)
 
 if __name__=='__main__':

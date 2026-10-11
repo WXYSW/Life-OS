@@ -9,5 +9,8 @@
   "success_criteria": null,
   "gap": "unknown",
   "current_evidence_ids": [],
-  "time_budget_minutes": null
+  "time_budget_minutes": null,
+  "syllabus_ids": [],
+  "aliases": [],
+  "closed_on": null
 }

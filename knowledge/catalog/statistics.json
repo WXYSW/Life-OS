@@ -1,7 +1,7 @@
 {
-  "version": "taxonomy-v1",
+  "version": "taxonomy-v2",
   "source_entries": 161,
-  "canonical_assessable_scopes": 253,
+  "canonical_assessable_scopes": 277,
   "canonical_scopes_with_diagnostic_evidence": 47,
   "canonical_long_term_verified": 0,
   "unique_attempts": 19,
@@ -9,20 +9,16 @@
   "legacy_entries_with_attempts": 19,
   "archived_legacy_entries": 73,
   "active_legacy_entries_with_attempts": 12,
-  "queue_status_counts": {
-    "needs_validation": 76,
-    "review": 12,
-    "paused": 73
+  "lifecycle_counts": {
+    "archived": 119,
+    "intake": 129,
+    "review": 28,
+    "classification_pending": 1
   },
-  "question_status_counts": {},
-  "entry_kind_counts": {
-    "atomic": 41,
-    "collection": 9,
-    "bundle": 74,
-    "container": 1,
-    "resource": 2,
-    "capability": 34
+  "verification_counts": {
+    "needs_validation": 271,
+    "verified": 6
   },
-  "evidence_scope": "knowledge/items/*.json diagnostic_evidence; derived index",
+  "evidence_scope": "knowledge/items/KP-*.json evidence; legacy sources are historical snapshots",
   "coverage_complete": false
 }

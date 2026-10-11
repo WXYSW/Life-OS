@@ -124,5 +124,8 @@
       "basis": "existing_subanswer_evaluation",
       "long_term_verified": false
     }
-  ]
+  ],
+  "record_type": "legacy_source",
+  "operational_schedule": "retired_to_canonical_scopes",
+  "lifecycle_note": "保留原资料ID与历史快照；现行掌握和复习读取对应KP知识点。"
 }

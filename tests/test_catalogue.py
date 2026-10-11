@@ -38,7 +38,7 @@ class CatalogueTests(unittest.TestCase):
   self.assertEqual(p['actions'],[])
  def test_limit_evidence_does_not_cover_lhopital(self):
   read=lambda p:json.loads((ROOT/p).read_text())
-  q=read('knowledge/review-plans/queue.json');qs=[]
+  q=read('knowledge/migrations/2026-10-11-legacy-schedules.json')['items'];qs=[]
   original=copy.deepcopy(q);enriched,_=load_context(ROOT,q,qs)
   nodes={n['id']:n['title'] for n in read('knowledge/catalog/nodes.json')['nodes']}
   i=next(x for x in enriched if x['id']=='K-IMPORT-063')

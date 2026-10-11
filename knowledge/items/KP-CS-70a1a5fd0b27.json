@@ -1,0 +1,78 @@
+{
+  "id": "KP-CS-70a1a5fd0b27",
+  "record_type": "knowledge",
+  "title": "I/O设备寻址方式",
+  "content": null,
+  "source_ids": [
+    "INTAKE-20261011-CS"
+  ],
+  "source_item_ids": [],
+  "created_on": "2026-10-11",
+  "verification": {
+    "status": "needs_validation",
+    "basis": null
+  },
+  "assessment": "untested",
+  "availability": "active",
+  "goal_links": [
+    {
+      "goal_id": "G-CET4-2026-12",
+      "relation": "uncertain",
+      "basis": "需核对该目标的具体要求",
+      "syllabus_id": null,
+      "section_ids": [],
+      "importance": null,
+      "applicability": "pending",
+      "checked_on": "2026-10-11"
+    },
+    {
+      "goal_id": "G-UPGRADE",
+      "relation": "uncertain",
+      "basis": "历史补录与2026大纲相关章节存在关联；深度与表述需核验",
+      "syllabus_id": "JX-ZSB-2026",
+      "section_ids": [
+        "IT-BASICS"
+      ],
+      "importance": null,
+      "applicability": "pending",
+      "checked_on": "2026-10-11"
+    },
+    {
+      "goal_id": "G-CS-ABROAD",
+      "relation": "uncertain",
+      "basis": "需核对该目标的具体要求",
+      "syllabus_id": null,
+      "section_ids": [],
+      "importance": null,
+      "applicability": "pending",
+      "checked_on": "2026-10-11"
+    }
+  ],
+  "evidence": [],
+  "mastery": {},
+  "schedule": {
+    "status": "pending",
+    "stage": -1,
+    "due": null
+  },
+  "routing": {
+    "route": "intake",
+    "active_goal_ids": [],
+    "future_goal_ids": [],
+    "unresolved_goal_ids": [
+      "G-CET4-2026-12",
+      "G-CS-ABROAD",
+      "G-UPGRADE"
+    ]
+  },
+  "lifecycle_version": "lifecycle-v1",
+  "subject_id": "SUB-CS",
+  "module_id": "MOD-CS-HIST-FOUNDATIONS",
+  "taxonomy": {
+    "node_id": "KP-CS-70a1a5fd0b27",
+    "parent_id": "MOD-CS-HIST-FOUNDATIONS"
+  },
+  "source_document": "knowledge/intake/2026-10-11-computer-foundations-history.md",
+  "original_learning_date": null,
+  "routing_checked_on": "2026-10-11"
+}

@@ -1,0 +1,606 @@
+{
+  "id": "JX-ZSB-2026",
+  "year": 2026,
+  "title": "江西省2026年普通高等学校专升本考试各科目考试说明",
+  "source_kind": "user_supplied_pdf",
+  "source_file": "江西省2026年普通高等学校专升本考试各科目考试说明1767147135278.pdf",
+  "source_sha256": "07ea215a80ce8a8e87e17aa3c7d628667669c30df35f5a7c0459695748d1055c",
+  "library_file_id": "libfile_4d4a33d0bcb08191966277dbca9e4281",
+  "sections": [
+    {
+      "id": "EN-KNOWLEDGE",
+      "title": "语言知识",
+      "subject": "english",
+      "printed_pages": [
+        22
+      ],
+      "pdf_pages": [
+        26
+      ],
+      "requirements": "词汇、语法；功能意念、语篇、体裁等基本知识。",
+      "requirement_levels": [
+        "掌握",
+        "了解"
+      ]
+    },
+    {
+      "id": "EN-READING",
+      "title": "阅读技能",
+      "subject": "english",
+      "printed_pages": [
+        22
+      ],
+      "pdf_pages": [
+        26
+      ],
+      "requirements": "理解主旨要义与事实细节，判断推理，依据上下文推断词义，理解作者意图、观点和态度。",
+      "requirement_levels": [
+        "理解",
+        "运用"
+      ]
+    },
+    {
+      "id": "EN-TRANSLATION",
+      "title": "翻译技能",
+      "subject": "english",
+      "printed_pages": [
+        23
+      ],
+      "pdf_pages": [
+        27
+      ],
+      "requirements": "理解句意，运用正确语法与恰当词汇，准确流畅表达原意。",
+      "requirement_levels": [
+        "运用"
+      ]
+    },
+    {
+      "id": "EN-WRITING",
+      "title": "写作技能",
+      "subject": "english",
+      "printed_pages": [
+        23
+      ],
+      "pdf_pages": [
+        27
+      ],
+      "requirements": "完整有条理地表达内容，正确运用语言知识与写作格式。",
+      "requirement_levels": [
+        "运用"
+      ]
+    },
+    {
+      "id": "IT-BASICS",
+      "title": "计算机基础知识",
+      "subject": "information_technology",
+      "printed_pages": [
+        26,
+        27
+      ],
+      "pdf_pages": [
+        30,
+        31
+      ],
+      "requirements": "计算机发展、分类、应用；系统组成、体系结构、工作原理与性能；进制转换、数值与字符图像的表示存储、数据单位。",
+      "requirement_levels": [
+        "了解",
+        "掌握",
+        "理解"
+      ]
+    },
+    {
+      "id": "IT-OS",
+      "title": "操作系统",
+      "subject": "information_technology",
+      "printed_pages": [
+        27
+      ],
+      "pdf_pages": [
+        31
+      ],
+      "requirements": "操作系统概念、功能、特征与分类；Windows操作、文件文件夹、系统设置及实用程序。",
+      "requirement_levels": [
+        "了解",
+        "掌握",
+        "理解"
+      ]
+    },
+    {
+      "id": "IT-OFFICE",
+      "title": "办公软件",
+      "subject": "information_technology",
+      "printed_pages": [
+        27,
+        28,
+        29
+      ],
+      "pdf_pages": [
+        31,
+        32,
+        33
+      ],
+      "requirements": "Word编辑排版、表格图文、邮件合并与审阅；Excel公式函数、引用、数据处理图表；PowerPoint编辑、母版、动画放映及发布。",
+      "requirement_levels": [
+        "了解",
+        "掌握",
+        "理解"
+      ]
+    },
+    {
+      "id": "IT-NETWORK",
+      "title": "计算机网络基础",
+      "subject": "information_technology",
+      "printed_pages": [
+        29
+      ],
+      "pdf_pages": [
+        33
+      ],
+      "requirements": "网络概念、组成、分类、指标、功能、体系结构和互连设备；Internet接入、IP、DNS、WWW、邮件及其他服务。",
+      "requirement_levels": [
+        "了解",
+        "掌握",
+        "理解"
+      ]
+    },
+    {
+      "id": "IT-MEDIA",
+      "title": "多媒体技术基础知识",
+      "subject": "information_technology",
+      "printed_pages": [
+        29,
+        30
+      ],
+      "pdf_pages": [
+        33,
+        34
+      ],
+      "requirements": "媒体元素与处理、多媒体系统、压缩算法；应用、音视频图像处理及流媒体。",
+      "requirement_levels": [
+        "了解",
+        "掌握",
+        "理解"
+      ]
+    },
+    {
+      "id": "IT-SECURITY",
+      "title": "信息安全",
+      "subject": "information_technology",
+      "printed_pages": [
+        30
+      ],
+      "pdf_pages": [
+        34
+      ],
+      "requirements": "信息安全基础、伦理法规、病毒防治、密码、防火墙、反病毒与网络攻击防范。",
+      "requirement_levels": [
+        "了解",
+        "掌握",
+        "理解"
+      ]
+    },
+    {
+      "id": "IT-NEWTECH",
+      "title": "新一代信息技术",
+      "subject": "information_technology",
+      "printed_pages": [
+        30,
+        31
+      ],
+      "pdf_pages": [
+        34,
+        35
+      ],
+      "requirements": "云计算、大数据、物联网、区块链、虚拟现实；人工智能三要素、机器学习、深度学习、AIGC；大数据4V与数据分析流程。",
+      "requirement_levels": [
+        "了解",
+        "掌握",
+        "理解"
+      ]
+    },
+    {
+      "id": "MA-LIMIT",
+      "title": "函数、极限和连续",
+      "subject": "advanced_math",
+      "printed_pages": [
+        83,
+        84
+      ],
+      "pdf_pages": [
+        87,
+        88
+      ],
+      "requirements": "函数、基本初等函数、数列和函数极限、极限运算、重要极限、等价无穷小、渐近线、连续与间断。",
+      "requirement_levels": [
+        "了解",
+        "理解",
+        "掌握",
+        "熟练掌握"
+      ]
+    },
+    {
+      "id": "MA-DERIVATIVE",
+      "title": "一元函数微分学及其应用",
+      "subject": "advanced_math",
+      "printed_pages": [
+        84,
+        85
+      ],
+      "pdf_pages": [
+        88,
+        89
+      ],
+      "requirements": "导数微分、求导、切线法线、高阶导数；罗尔和拉格朗日中值定理；洛必达、单调性、最值、凹凸和拐点。",
+      "requirement_levels": [
+        "了解",
+        "理解",
+        "掌握",
+        "熟练掌握"
+      ]
+    },
+    {
+      "id": "MA-INTEGRAL",
+      "title": "一元函数积分学及其应用",
+      "subject": "advanced_math",
+      "printed_pages": [
+        85,
+        86
+      ],
+      "pdf_pages": [
+        89,
+        90
+      ],
+      "requirements": "原函数与不定积分、基本积分公式、换元与分部积分；定积分性质、变上限函数、牛顿-莱布尼茨公式、面积和旋转体体积。",
+      "requirement_levels": [
+        "了解",
+        "理解",
+        "掌握",
+        "熟练掌握"
+      ]
+    },
+    {
+      "id": "MA-ODE",
+      "title": "常微分方程",
+      "subject": "advanced_math",
+      "printed_pages": [
+        86
+      ],
+      "pdf_pages": [
+        90
+      ],
+      "requirements": "一阶可分离变量、齐次、一阶线性微分方程；二阶线性解的结构、二阶常系数齐次线性微分方程。",
+      "requirement_levels": [
+        "了解",
+        "理解",
+        "掌握",
+        "熟练掌握"
+      ]
+    },
+    {
+      "id": "MA-MULTIVARIATE",
+      "title": "多元函数微分学及其应用",
+      "subject": "advanced_math",
+      "printed_pages": [
+        86,
+        87
+      ],
+      "pdf_pages": [
+        90,
+        91
+      ],
+      "requirements": "多元函数、偏导、全微分、复合求导、隐函数、二元极值和拉格朗日乘数法。",
+      "requirement_levels": [
+        "了解",
+        "理解",
+        "掌握",
+        "熟练掌握"
+      ]
+    },
+    {
+      "id": "MA-DOUBLE",
+      "title": "二重积分及其应用",
+      "subject": "advanced_math",
+      "printed_pages": [
+        87
+      ],
+      "pdf_pages": [
+        91
+      ],
+      "requirements": "二重积分的概念性质和几何意义，直角与极坐标计算，交换积分次序。",
+      "requirement_levels": [
+        "了解",
+        "理解",
+        "掌握",
+        "熟练掌握"
+      ]
+    },
+    {
+      "id": "PO-1",
+      "title": "思想道德与法治",
+      "subject": "politics",
+      "printed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "requirements": "按原考试说明对应部分核对具体要求；本次没有创建政治知识点。",
+      "requirement_levels": [
+        "识记",
+        "理解",
+        "应用"
+      ]
+    },
+    {
+      "id": "PO-2",
+      "title": "毛泽东思想和中国特色社会主义理论体系概论",
+      "subject": "politics",
+      "printed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "requirements": "按原考试说明对应部分核对具体要求；本次没有创建政治知识点。",
+      "requirement_levels": [
+        "识记",
+        "理解",
+        "应用"
+      ]
+    },
+    {
+      "id": "PO-3",
+      "title": "习近平新时代中国特色社会主义思想概论",
+      "subject": "politics",
+      "printed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "requirements": "按原考试说明对应部分核对具体要求；本次没有创建政治知识点。",
+      "requirement_levels": [
+        "识记",
+        "理解",
+        "应用"
+      ]
+    },
+    {
+      "id": "PO-4",
+      "title": "党的二十大和二十届四中全会精神",
+      "subject": "politics",
+      "printed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "requirements": "按原考试说明对应部分核对具体要求；本次没有创建政治知识点。",
+      "requirement_levels": [
+        "识记",
+        "理解",
+        "应用"
+      ]
+    },
+    {
+      "id": "PO-5",
+      "title": "时事政治",
+      "subject": "politics",
+      "printed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "requirements": "按原考试说明对应部分核对具体要求；本次没有创建政治知识点。",
+      "requirement_levels": [
+        "识记",
+        "理解",
+        "应用"
+      ]
+    }
+  ],
+  "scope": "four_subject_chapter_index",
+  "atomic_outline_complete": false,
+  "note": "章节摘要用于关联定位；具体要求层级按原页核对，不将每个章节列出的所有层级套用到每个知识点。数学专业适用性、用户考试年份待确认；不自动适用于其他年份。"
+}
