@@ -93,6 +93,48 @@
     ]
   },
   {
+    "id": "KP-EN-1d8c6f942af1",
+    "title": "hope to do",
+    "status": "review",
+    "stage": 0,
+    "last_review": "2026-10-11",
+    "due": "2026-10-12",
+    "review_phase": "initial",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "correct"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "首次独立完成：1天后验证",
+    "rule_version": "ladder-v2",
+    "active_goal_ids": [
+      "G-UPGRADE"
+    ]
+  },
+  {
+    "id": "KP-EN-2335f29d6952",
+    "title": "foot复数",
+    "status": "review",
+    "stage": 0,
+    "last_review": "2026-10-11",
+    "due": "2026-10-12",
+    "review_phase": "initial",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "correct"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "首次独立完成：1天后验证",
+    "rule_version": "ladder-v2",
+    "active_goal_ids": [
+      "G-UPGRADE"
+    ]
+  },
+  {
     "id": "KP-EN-27b39149dded",
     "title": "比较级er词尾变化",
     "status": "review",
