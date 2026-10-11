@@ -198,6 +198,48 @@
     ]
   },
   {
+    "id": "KP-EN-355eb17b233c",
+    "title": "常见情绪与感受词汇",
+    "status": "review",
+    "stage": 0,
+    "last_review": "2026-10-11",
+    "due": "2026-10-12",
+    "review_phase": "initial",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "correct"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "首次独立完成：1天后验证",
+    "rule_version": "ladder-v2",
+    "active_goal_ids": [
+      "G-UPGRADE"
+    ]
+  },
+  {
+    "id": "KP-EN-36ffe3c739a5",
+    "title": "利用上下文推测意思",
+    "status": "review",
+    "stage": 0,
+    "last_review": "2026-10-11",
+    "due": "2026-10-12",
+    "review_phase": "initial",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "correct"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "首次独立完成：1天后验证",
+    "rule_version": "ladder-v2",
+    "active_goal_ids": [
+      "G-UPGRADE"
+    ]
+  },
+  {
     "id": "KP-EN-3ef441d27e2a",
     "title": "see现在分词",
     "status": "review",
