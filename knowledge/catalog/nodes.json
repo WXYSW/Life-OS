@@ -183,7 +183,12 @@
       "source_ids": [
         "SRC-061"
       ],
-      "evidence_refs": [],
+      "evidence_refs": [
+        {
+          "knowledge_id": "KP-EN-00b6ae1e82ec",
+          "evidence_id": "A-20261011-KP-EN-00b6ae1e82ec-01"
+        }
+      ],
       "content_validation": "not_inferred_from_cataloguing",
       "assessable": true,
       "knowledge_id": "KP-EN-00b6ae1e82ec"

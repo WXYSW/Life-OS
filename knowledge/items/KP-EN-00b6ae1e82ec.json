@@ -11,10 +11,11 @@
   ],
   "created_on": "2026-10-11",
   "verification": {
-    "status": "needs_validation",
-    "basis": null
+    "status": "verified",
+    "basis": "British Council LearnEnglish: https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/prepositions-place ; source title only, grammar reference verifies spatial in/on/at definitions",
+    "checked_on": "2026-10-11"
   },
-  "assessment": "untested",
+  "assessment": "tested",
   "availability": "active",
   "goal_links": [
     {
@@ -50,15 +51,36 @@
       "checked_on": "2026-10-11"
     }
   ],
-  "evidence": [],
-  "mastery": {},
+  "evidence": [
+    {
+      "id": "A-20261011-KP-EN-00b6ae1e82ec-01",
+      "day": "2026-10-11",
+      "action": "diagnose",
+      "dimension": "apply",
+      "outcome": "partial",
+      "independent": null,
+      "delayed": false,
+      "transfer": false,
+      "schedule_eligible": false,
+      "basis": "2/2选择正确；时间at/on及地点in(城市)正确，但空间at/on尚未测试；本KP空间范围仅部分覆盖。",
+      "quality": "stable",
+      "weakness": "补测空间at/on；目前仅空间in已观察到正确应用。"
+    }
+  ],
+  "mastery": {
+    "apply": {
+      "state": "partial",
+      "evidence_id": "A-20261011-KP-EN-00b6ae1e82ec-01",
+      "observed_on": "2026-10-11"
+    }
+  },
   "schedule": {
     "status": "pending",
     "stage": -1,
     "due": null
   },
   "routing": {
-    "route": "intake",
+    "route": "review",
     "active_goal_ids": [
       "G-UPGRADE"
     ],
@@ -76,5 +98,6 @@
   "content_note": "范围标题；教学与评分前按来源核验，不将父资料全部内容视作本范围。",
   "subject_id": "SUB-EN",
   "module_id": "MOD-EN-4a7c1d9c9a",
-  "routing_checked_on": "2026-10-11"
+  "routing_checked_on": "2026-10-11",
+  "weakness": "空间at/on未测试，需独立补测。"
 }
