@@ -11,10 +11,11 @@
   ],
   "created_on": "2026-10-11",
   "verification": {
-    "status": "needs_validation",
-    "basis": null
+    "status": "verified",
+    "basis": "English plural morphology: wife/wives, wolf/wolves, leaf/leaves, chief/chiefs; verified against conventional dictionary forms.",
+    "checked_on": "2026-10-11"
   },
-  "assessment": "untested",
+  "assessment": "tested",
   "availability": "active",
   "goal_links": [
     {
@@ -50,15 +51,51 @@
       "checked_on": "2026-10-11"
     }
   ],
-  "evidence": [],
-  "mastery": {},
+  "evidence": [
+    {
+      "id": "A-20261011-BATCH2-F-FE",
+      "day": "2026-10-11",
+      "action": "diagnose",
+      "dimension": "recall",
+      "outcome": "wrong",
+      "independent": true,
+      "delayed": false,
+      "transfer": false,
+      "schedule_eligible": true,
+      "basis": "Selected a pair containing wifes; wife takes wives while wolf takes wolves.",
+      "quality": "stable",
+      "error_type": "conceptual",
+      "actual_gap_days": null,
+      "scheduled_interval_before": null,
+      "weakness": "Confuses -f/-fe plurals with exceptions."
+    }
+  ],
+  "mastery": {
+    "recall": {
+      "state": "gap",
+      "evidence_id": "A-20261011-BATCH2-F-FE",
+      "observed_on": "2026-10-11"
+    }
+  },
   "schedule": {
-    "status": "pending",
-    "stage": -1,
-    "due": null
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "wrong"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "提示/遗忘/概念缺口：短期巩固，1天后独立验证",
+    "rule_version": "ladder-v2",
+    "pre_lapse_stage": -1
   },
   "routing": {
-    "route": "intake",
+    "route": "review",
     "active_goal_ids": [
       "G-UPGRADE"
     ],
@@ -76,5 +113,6 @@
   "content_note": "范围标题；教学与评分前按来源核验，不将父资料全部内容视作本范围。",
   "subject_id": "SUB-EN",
   "module_id": "MOD-EN-756b595bf1",
-  "routing_checked_on": "2026-10-11"
+  "routing_checked_on": "2026-10-11",
+  "weakness": "Confuses -f/-fe plurals with exceptions."
 }
