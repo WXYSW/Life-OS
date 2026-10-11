@@ -4,7 +4,7 @@
 
 ## 三种不同对象
 
-1. 知识条目：knowledge/items/。直接发来的资料与日常提取内容走同一路径；合并重复概念，未经核验标needs_validation，核验后训练内容标pending，参考资料标reference。不因保存而认定会了。
+1. 知识条目：knowledge/items/。直接发来的资料与日常提取内容走同一路径；合并重复概念，未经核验标needs_validation，核验后训练内容标pending，非训练内容保留来源、不新增收藏条目。不因保存而认定会了。
 2. 已派题：knowledge/questions/backlog.json。只记录实际向用户发出的题，不能把准备好的diagnostic_question当已派题。包含稳定题目ID、knowledge_id、kind（new/review）、题目文本、版本、issued_on、评价要点、回答片段、事件历史与状态。
 3. 复习状态：knowledge/review-plans/queue.json。pending没有到期日，实际回答完成评估后才成为review；原有复习题未答时维持原阶段和due。
 
@@ -70,3 +70,6 @@
 ## 分层目录与去重（2026-10-11）
 
 先读 [知识分层规则](knowledge-structure.md) 和 knowledge/catalog/README.md；按legacy-map找标准范围，按question-map和evidence-map定位实际测试证据。原ID保留，父条目结果不能传给未测子项。日常使用learning.py的目录范围去重；后续派题/评价同步范围映射与统计。当前161条原始资料、253个可评价范围、19份诊断记录、0个长期验证范围；73条暂时归档，8道英语题未答、4道C/Shell题暂停。数量以实时数据为准。
+
+
+2026-10-11：取消独立资料收藏功能；保留历史来源与已有学习证据，后续材料直接进入知识提取、核验及诊断流程，不再维护收藏索引。
