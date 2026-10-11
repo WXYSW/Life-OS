@@ -690,6 +690,153 @@
         }
       ],
       "status": "unanswered"
+    },
+    {
+      "id": "Q-20261011-KIMPORT097-CS01",
+      "knowledge_id": "K-IMPORT-097",
+      "kind": "new",
+      "text": "函数原型声明：1. `int add(int a, int b);` 是函数声明还是定义？ 2. 函数原型中参数名 `a`、`b` 能否省略？ 3. 函数原型主要告诉编译器哪三类信息？",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "逐小题按语义评价",
+        "不知道、未填写与错误分开"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT097-CSISSUE",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
+    },
+    {
+      "id": "Q-20261011-KIMPORT098-CS01",
+      "knowledge_id": "K-IMPORT-098",
+      "kind": "new",
+      "text": "值传递：1. `int a=5,b=6; swap(a,b);`，若 swap 只交换形参，main 中 a、b 分别是多少？ 2. 为什么函数内部修改普通 int 形参通常不改变调用者的变量？ 3. 若希望函数修改调用者的 int 变量，通常可以传入什么？",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "逐小题按语义评价",
+        "不知道、未填写与错误分开"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT098-CSISSUE",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
+    },
+    {
+      "id": "Q-20261011-KIMPORT101-CS01",
+      "knowledge_id": "K-IMPORT-101",
+      "kind": "new",
+      "text": "函数定义：1. `void print(void)` 中第一个 void 表示什么？ 2. C语言函数体用什么符号包围？",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "逐小题按语义评价",
+        "不知道、未填写与错误分开"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT101-CSISSUE",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
+    },
+    {
+      "id": "Q-20261011-KIMPORT088-CS01",
+      "knowledge_id": "K-IMPORT-088",
+      "kind": "new",
+      "text": "数组初始化：1. `int a[3]={1};`，a[1] 的值是多少？ 2. `int a[3];` 是局部自动数组且未初始化，是否能认为三个元素都为0？",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "逐小题按语义评价",
+        "不知道、未填写与错误分开"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT088-CSISSUE",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
+    },
+    {
+      "id": "Q-20261011-KIMPORT105-CS01",
+      "knowledge_id": "K-IMPORT-105",
+      "kind": "new",
+      "text": "二维数组：1. `int a[3][5];` 有多少个 int 元素？ 2. `int a[][3]={{1,2,3},{4,5,6}};` 的行数是多少？ 3. `int a[2][3]={{1},{2,3}};`，a[0][2] 是多少？",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "逐小题按语义评价",
+        "不知道、未填写与错误分开"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT105-CSISSUE",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
+    },
+    {
+      "id": "Q-20261011-KIMPORT109-CS01",
+      "knowledge_id": "K-IMPORT-109",
+      "kind": "new",
+      "text": "二分搜索：1. 二分搜索通常要求数组满足什么条件？ 2. 在有序数组 `[2,4,6,8,10]` 中查找 8（从0编号），下标是多少？ 3. 仓库示例使用 `while(right>left)`，当 left==right 时会发生什么问题？",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "逐小题按语义评价",
+        "不知道、未填写与错误分开"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT109-CSISSUE",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
+    },
+    {
+      "id": "Q-20261011-KIMPORT112-CS01",
+      "knowledge_id": "K-IMPORT-112",
+      "kind": "new",
+      "text": "指针基础：1. `int x=7; int *p=&x;`，p 保存的是什么？ 2. `*p=9;` 执行后 x 的值是多少？ 3. `&x` 表示什么？",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "逐小题按语义评价",
+        "不知道、未填写与错误分开"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT112-CSISSUE",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
     }
   ]
 }
