@@ -514,6 +514,182 @@
       ],
       "status": "evaluated",
       "evaluated_on": "2026-10-11"
+    },
+    {
+      "id": "Q-20261011-KIMPORT006-02",
+      "knowledge_id": "K-IMPORT-006",
+      "kind": "new",
+      "text": "介词 of / for。选择 of 或 for 填空。 1. a cup ___ tea 2. a gift ___ you 3. the color ___ the sky",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "每个小题独立评分",
+        "不知道记为unknown，不等于wrong",
+        "主旨题按语义评分"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT006-ISSUE-02",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
+    },
+    {
+      "id": "Q-20261011-KIMPORT009-02",
+      "knowledge_id": "K-IMPORT-009",
+      "kind": "new",
+      "text": "规则过去式。写出过去式。 1. play 2. study 3. stop",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "每个小题独立评分",
+        "不知道记为unknown，不等于wrong",
+        "主旨题按语义评分"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT009-ISSUE-02",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
+    },
+    {
+      "id": "Q-20261011-KIMPORT010-02",
+      "knowledge_id": "K-IMPORT-010",
+      "kind": "new",
+      "text": "过去式与过去分词。按“过去式 / 过去分词”格式回答。 1. write 2. take 3. sing",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "每个小题独立评分",
+        "不知道记为unknown，不等于wrong",
+        "主旨题按语义评分"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT010-ISSUE-02",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
+    },
+    {
+      "id": "Q-20261011-KIMPORT014-02",
+      "knowledge_id": "K-IMPORT-014",
+      "kind": "new",
+      "text": "名词规则复数。写出复数形式。 1. box 2. baby 3. knife",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "每个小题独立评分",
+        "不知道记为unknown，不等于wrong",
+        "主旨题按语义评分"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT014-ISSUE-02",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
+    },
+    {
+      "id": "Q-20261011-KIMPORT028-02",
+      "knowledge_id": "K-IMPORT-028",
+      "kind": "new",
+      "text": "主语＋系动词＋表语。将中文翻译成英文。 1. 她很开心。 2. 天气变冷了。",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "每个小题独立评分",
+        "不知道记为unknown，不等于wrong",
+        "主旨题按语义评分"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT028-ISSUE-02",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
+    },
+    {
+      "id": "Q-20261011-KIMPORT030-02",
+      "knowledge_id": "K-IMPORT-030",
+      "kind": "new",
+      "text": "want to do。用 want / wants 完成句子。 1. I ___ to learn English. 2. She ___ to work abroad.",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "每个小题独立评分",
+        "不知道记为unknown，不等于wrong",
+        "主旨题按语义评分"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT030-ISSUE-02",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
+    },
+    {
+      "id": "Q-20261011-KIMPORT032-02",
+      "knowledge_id": "K-IMPORT-032",
+      "kind": "new",
+      "text": "like doing。完成句子，使用括号中动词的正确形式。 1. I like ___ (read) books. 2. He likes ___ (swim).",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "每个小题独立评分",
+        "不知道记为unknown，不等于wrong",
+        "主旨题按语义评分"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT032-ISSUE-02",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
+    },
+    {
+      "id": "Q-20261011-KIMPORT036-02",
+      "knowledge_id": "K-IMPORT-036",
+      "kind": "new",
+      "text": "阅读主旨。阅读后用中文回答主旨。 1. Many students use apps to learn languages. Apps are convenient, but regular practice is still necessary. 这段话的主旨是什么？ 2. Some people work from home. They save commuting time, but they may find it harder to communicate with coworkers. 这段话主要讨论什么？",
+      "version": "questions-v1",
+      "issued_on": "2026-10-11",
+      "evaluation_criteria": [
+        "每个小题独立评分",
+        "不知道记为unknown，不等于wrong",
+        "主旨题按语义评分"
+      ],
+      "answer_fragments": [],
+      "events": [
+        {
+          "event_id": "EV-20261011-KIMPORT036-ISSUE-02",
+          "type": "issued",
+          "on": "2026-10-11"
+        }
+      ],
+      "status": "unanswered"
     }
   ]
 }
