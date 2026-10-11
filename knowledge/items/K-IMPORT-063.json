@@ -70,5 +70,20 @@
       "target_date": null,
       "schedule_rule_version": "ladder-v2"
     }
-  ]
+  ],
+  "taxonomy": {
+    "legacy_id": "K-IMPORT-063",
+    "subject_id": "SUB-MA",
+    "module_id": "MOD-MA-0c010c0244",
+    "entry_kind": "bundle",
+    "canonical_ids": [
+      "KP-MA-a061ed7fa4c6",
+      "KP-MA-37f4d3c648a5",
+      "KP-MA-106051cfa6e2",
+      "KP-MA-a0452f4bcbe8"
+    ],
+    "container_id": "KP-MA-8f92f12a5168",
+    "scope_basis": "assistant_reorganization_of_existing_content",
+    "evidence_inheritance": "explicit_subquestion_only"
+  }
 }

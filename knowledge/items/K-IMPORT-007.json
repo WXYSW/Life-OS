@@ -67,5 +67,27 @@
       "schedule_rule_version": "ladder-v2"
     }
   ],
-  "verification_note": "Imported go-gone is past participle, not past tense; correction pending source validation."
+  "verification_note": "Imported go-gone is past participle, not past tense; correction pending source validation.",
+  "taxonomy": {
+    "legacy_id": "K-IMPORT-007",
+    "subject_id": "SUB-EN",
+    "module_id": "MOD-EN-1a15703c7d",
+    "entry_kind": "bundle",
+    "canonical_ids": [
+      "KP-EN-1574b770dfb2",
+      "KP-EN-522c16f25046",
+      "KP-EN-5c8e044c0f93"
+    ],
+    "container_id": "KP-EN-31c2279b93d3",
+    "scope_basis": "assistant_reorganization_of_existing_content",
+    "evidence_inheritance": "explicit_subquestion_only"
+  },
+  "goal_links": [
+    {
+      "goal_id": "G-CET4-2026-12",
+      "contribution": "medium",
+      "basis": "assistant_taxonomy_provisional",
+      "rationale": "英语基础/语言能力关联当前英语目标，尚未核对考试权重"
+    }
+  ]
 }

@@ -55,3 +55,7 @@ review.py select与questions.plan保留兼容旧记录和测试，日常不用�
 恢复时按archive.previous_status恢复知识，题目按其archive.previous_status和previous_resume_on恢复，并追加恢复事件；清除当前archive标记但保留归档索引/修订历史。原未核验内容仍须核验，原未测试内容仍待诊断；原复习内容保留日期，若已过期，只安排一次当前独立验证，不批量补做。明确说“恢复C语言/Shell”才恢复；仅指定目标不自动解除归档。暂停/归档不代表不会或学会。
 
 本次（2026-10-11）按来源目录将C语言与Shell的73条知识暂时归档，包括7条已有诊断的C知识和4个训练入口；其他主题保持现有安排。清单见knowledge/archives/2026-10-11-c-shell.json。
+
+## 分层目录与去重（2026-10-11）
+
+先读 [知识分层规则](knowledge-structure.md) 和 knowledge/catalog/README.md；按legacy-map找标准范围，按question-map和evidence-map定位实际测试证据。原ID保留，父条目结果不能传给未测子项。日常使用learning.py的目录范围去重；后续派题/评价同步范围映射与统计。当前161条原始资料、253个可评价范围、19份诊断记录、0个长期验证范围；73条暂时归档，8道英语题未答、4道C/Shell题暂停。数量以实时数据为准。

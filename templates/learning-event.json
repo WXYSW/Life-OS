@@ -18,5 +18,7 @@
   "quality": null,
   "error_type": null,
   "target_date": null,
-  "schedule_rule_version": "ladder-v2"
+  "schedule_rule_version": "ladder-v2",
+  "canonical_ids": [],
+  "subquestion_evaluations": []
 }

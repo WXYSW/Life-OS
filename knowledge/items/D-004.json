@@ -52,5 +52,17 @@
     "on": "2026-10-11",
     "reason": "用户要求C语言和Shell暂时归档",
     "previous_status": "pending"
+  },
+  "taxonomy": {
+    "legacy_id": "D-004",
+    "subject_id": "SUB-CS",
+    "module_id": "KP-CS-520b721fa66a",
+    "entry_kind": "atomic",
+    "canonical_ids": [
+      "KP-CS-f77b74fd4a7c"
+    ],
+    "container_id": null,
+    "scope_basis": "assistant_reorganization_of_existing_content",
+    "evidence_inheritance": "explicit_subquestion_only"
   }
 }

@@ -59,5 +59,19 @@
   "recent_review_outcomes": [
     "wrong"
   ],
-  "scheduled_interval_days": 1
+  "scheduled_interval_days": 1,
+  "taxonomy": {
+    "legacy_id": "D-002",
+    "subject_id": "SUB-EN",
+    "module_id": "MOD-EN-1a15703c7d",
+    "entry_kind": "bundle",
+    "canonical_ids": [
+      "KP-EN-6bdbb2bafebe",
+      "KP-EN-3ef441d27e2a",
+      "KP-EN-c6d403c06778"
+    ],
+    "container_id": "KP-EN-51120359186f",
+    "scope_basis": "assistant_reorganization_of_existing_content",
+    "evidence_inheritance": "explicit_subquestion_only"
+  }
 }

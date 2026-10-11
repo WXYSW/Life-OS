@@ -17,7 +17,7 @@ def validate(questions):
 
 
 def issue(questions, question_id, knowledge_id, kind, prompt, day, priority='normal',
-          evaluation_criteria=(), prompt_version=1):
+          evaluation_criteria=(), prompt_version=1, canonical_ids=()):
     date.fromisoformat(day)
     validate(questions)
     if not question_id or not prompt or kind not in ('new', 'review'):
@@ -26,10 +26,12 @@ def issue(questions, question_id, knowledge_id, kind, prompt, day, priority='nor
         raise ValueError('Question ID already exists')
     if any(q['knowledge_id'] == knowledge_id and q['status'] in OPEN for q in questions):
         raise ValueError('Continue the existing open question')
+    if canonical_ids and any(set(canonical_ids) & set(q.get('canonical_ids', [])) for q in questions if q['status'] in OPEN):
+        raise ValueError('Continue existing canonical-scope question')
     result = copy.deepcopy(questions)
     result.append(dict(id=question_id, knowledge_id=knowledge_id, kind=kind, prompt=prompt,
                        prompt_version=prompt_version, evaluation_criteria=list(evaluation_criteria),
-                       priority=priority, issued_on=day, status='unanswered', resume_on=None,
+                       priority=priority, canonical_ids=list(dict.fromkeys(canonical_ids)), issued_on=day, status='unanswered', resume_on=None,
                        answer_fragments=[], events=[dict(type='issued', day=day)]))
     return result
 

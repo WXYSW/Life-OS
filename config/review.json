@@ -47,5 +47,7 @@
     "long_interval_required_passes": 2,
     "max_interval_days": 90,
     "parameter_basis": "provisional_engineering_defaults"
-  }
+  },
+  "knowledge_catalog_version": "taxonomy-v1",
+  "knowledge_catalog_path": "knowledge/catalog"
 }

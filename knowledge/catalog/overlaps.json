@@ -1,0 +1,286 @@
+{
+  "shared_scopes": [
+    {
+      "canonical_id": "KP-EN-1574b770dfb2",
+      "legacy_ids": [
+        "D-001",
+        "K-IMPORT-007",
+        "K-IMPORT-010"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-EN-6bdbb2bafebe",
+      "legacy_ids": [
+        "D-002",
+        "K-IMPORT-008"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-EN-3ef441d27e2a",
+      "legacy_ids": [
+        "D-002",
+        "K-IMPORT-008"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-EN-ef6d04043862",
+      "legacy_ids": [
+        "D-001",
+        "K-IMPORT-010"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-EN-f0a06217c070",
+      "legacy_ids": [
+        "D-001",
+        "K-IMPORT-010"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-EN-27b39149dded",
+      "legacy_ids": [
+        "K-IMPORT-015",
+        "K-IMPORT-034"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-EN-2a76a4a1a4d6",
+      "legacy_ids": [
+        "K-IMPORT-015",
+        "K-IMPORT-034"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-EN-556983d3bfef",
+      "legacy_ids": [
+        "K-IMPORT-015",
+        "K-IMPORT-034"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-MA-106051cfa6e2",
+      "legacy_ids": [
+        "K-IMPORT-063",
+        "K-IMPORT-070"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-MA-a0452f4bcbe8",
+      "legacy_ids": [
+        "K-IMPORT-063",
+        "K-IMPORT-070"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-MA-21d5722f6175",
+      "legacy_ids": [
+        "K-IMPORT-068",
+        "K-IMPORT-073"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-MA-cd44f13cdd84",
+      "legacy_ids": [
+        "K-IMPORT-068",
+        "K-IMPORT-073"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-MA-1578b6547104",
+      "legacy_ids": [
+        "K-IMPORT-068",
+        "K-IMPORT-073"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-MA-d7d6f2d06b50",
+      "legacy_ids": [
+        "K-IMPORT-068",
+        "K-IMPORT-073"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-CS-767aba0773f0",
+      "legacy_ids": [
+        "K-IMPORT-082",
+        "K-IMPORT-085"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-CS-dd6144af552d",
+      "legacy_ids": [
+        "K-IMPORT-086",
+        "K-IMPORT-091"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-CS-6f105c8d9130",
+      "legacy_ids": [
+        "K-IMPORT-088",
+        "K-IMPORT-108"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-CS-9ca60e7d7b89",
+      "legacy_ids": [
+        "K-IMPORT-103",
+        "K-IMPORT-104"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-CS-11e5b1960cf4",
+      "legacy_ids": [
+        "K-IMPORT-103",
+        "K-IMPORT-104"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-CS-362529717dff",
+      "legacy_ids": [
+        "D-003",
+        "K-IMPORT-106"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-CS-f77b74fd4a7c",
+      "legacy_ids": [
+        "D-004",
+        "K-IMPORT-109"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-CS-46167786a46e",
+      "legacy_ids": [
+        "K-IMPORT-111",
+        "K-IMPORT-112"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-CS-6c95b80b5a1f",
+      "legacy_ids": [
+        "K-IMPORT-111",
+        "K-IMPORT-112"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-CS-488e66403616",
+      "legacy_ids": [
+        "D-003",
+        "K-IMPORT-114"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-CS-3043aee21e88",
+      "legacy_ids": [
+        "D-003",
+        "K-IMPORT-114"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-CS-42d8fde41d6a",
+      "legacy_ids": [
+        "K-IMPORT-123",
+        "K-IMPORT-141"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-CS-4fe659e88232",
+      "legacy_ids": [
+        "D-005",
+        "K-IMPORT-124"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-CS-0f3a0b757ea9",
+      "legacy_ids": [
+        "K-IMPORT-125",
+        "K-IMPORT-144"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-CS-c183ef1c2914",
+      "legacy_ids": [
+        "K-IMPORT-129",
+        "K-IMPORT-149"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-CS-a284ec65914e",
+      "legacy_ids": [
+        "D-006",
+        "K-IMPORT-135"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-CS-d84fa719bb7a",
+      "legacy_ids": [
+        "D-006",
+        "K-IMPORT-135"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-CS-17a108cd8254",
+      "legacy_ids": [
+        "D-005",
+        "K-IMPORT-138"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    },
+    {
+      "canonical_id": "KP-CS-25cb2cc451f3",
+      "legacy_ids": [
+        "K-IMPORT-139",
+        "K-IMPORT-149"
+      ],
+      "relation": "shared_scope_not_whole_entry_equivalence"
+    }
+  ],
+  "related_but_distinct": [
+    {
+      "left": "KP-EN-d713b5611c79",
+      "right": "KP-EN-36ffe3c739a5",
+      "reason": "词义推断与篇章含义推断范围不同，保持关联不合并"
+    },
+    {
+      "left": "KP-EN-4c7445da75bd",
+      "right": "KP-EN-84acd4064f95",
+      "reason": "形式选择与阅读理解不是同一能力"
+    },
+    {
+      "left": "KP-CS-41450ff79047",
+      "right": "KP-CS-5fd48e2241c5",
+      "reason": "函数参数与指针应用的交叉范围，后续核验是否统一"
+    }
+  ]
+}

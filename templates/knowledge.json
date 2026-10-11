@@ -40,5 +40,6 @@
   "consolidation_passes": 0,
   "long_interval_passes": 0,
   "recent_review_outcomes": [],
-  "scheduled_interval_days": null
+  "scheduled_interval_days": null,
+  "taxonomy": null
 }

@@ -1,1 +1,18 @@
-{"id":null,"knowledge_id":null,"kind":"new","prompt":null,"prompt_version":1,"evaluation_criteria":[],"priority":"normal","issued_on":null,"status":"unanswered","resume_on":null,"answer_fragments":[],"events":[],"replacement_id":null,"visibility":"public","publication_basis":null}
+{
+  "id": null,
+  "knowledge_id": null,
+  "kind": "new",
+  "prompt": null,
+  "prompt_version": 1,
+  "evaluation_criteria": [],
+  "priority": "normal",
+  "issued_on": null,
+  "status": "unanswered",
+  "resume_on": null,
+  "answer_fragments": [],
+  "events": [],
+  "replacement_id": null,
+  "visibility": "public",
+  "publication_basis": null,
+  "canonical_ids": []
+}

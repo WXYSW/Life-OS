@@ -62,6 +62,10 @@ def plan_actions(items, questions, goals, day, assigned=(), new_limit=2,
     active = {q['knowledge_id']: q for q in questions if q['status'] in OPEN}
     excluded = set(assigned)
     excluded.update(q['knowledge_id'] for q in questions if q['id'] in excluded)
+    covered = set()
+    for question in questions:
+        if question['status'] in OPEN or question['id'] in excluded:
+            covered.update(question.get('canonical_ids', []))
     candidates, blocked, waiting = [], [], []
     for i in items:
         key = i['id']
@@ -75,6 +79,14 @@ def plan_actions(items, questions, goals, day, assigned=(), new_limit=2,
             continue
         if not q and key in excluded:
             continue
+        scope = list(q.get('canonical_ids', [])) if q else list(i.get('canonical_ids', []))
+        if not q and 'taxonomy' in i:
+            if i['taxonomy']['entry_kind'] in ('container', 'resource') or i.get('requires_scope_review'):
+                blocked.append(dict(knowledge_id=key, reason='catalogue_scope_requires_preparation'))
+                continue
+            scope = [c for c in scope if c not in covered]
+            if not scope:
+                continue
         links = [l for l in i.get('goal_links', []) if l['goal_id'] in active_goals]
         if focus_goal:
             links = [l for l in links if l['goal_id'] == focus_goal]
@@ -127,7 +139,7 @@ def plan_actions(items, questions, goals, day, assigned=(), new_limit=2,
         rank = (0 if q else 1, contribution.get(links[0].get('contribution'), 3) if links else 3,
                 0 if foundational else 1, 0 if weak else 1, i.get('due') or day, cost, key)
         candidates.append(dict(knowledge_id=key, question_id=q['id'] if q else None,
-                               goal_id=goal, kind=kind, action=action, estimated_minutes=cost,
+                               goal_id=goal, kind=kind, action=action, canonical_ids=scope, estimated_minutes=cost,
                                estimate_basis='item' if estimated else 'provisional_default',
                                reasons=reasons, _rank=rank))
     counts = dict(new=0, review=0)
@@ -143,6 +155,14 @@ def plan_actions(items, questions, goals, day, assigned=(), new_limit=2,
         # Weighted fair allocation by planned minutes; resumptions first.
         chosen = min(eligible, key=lambda c: (c['_rank'][0], used[c['goal_id']]/weights[c['goal_id']], c['_rank'][1:]))
         candidates.remove(chosen)
+        # Preserve existing open questions, but never newly test a shared scope twice.
+        chosen_scope = set(chosen['canonical_ids'])
+        for candidate in list(candidates):
+            if candidate['question_id'] or not candidate['canonical_ids']:
+                continue
+            candidate['canonical_ids'] = [c for c in candidate['canonical_ids'] if c not in chosen_scope]
+            if not candidate['canonical_ids']:
+                candidates.remove(candidate)
         counts[chosen['kind']] += 1
         used[chosen['goal_id']] += chosen['estimated_minutes']
         elapsed += chosen['estimated_minutes']
@@ -224,6 +244,8 @@ def main(argv=None):
     qs = read('knowledge/questions/backlog.json')['questions']
     session = a.root/'knowledge/sessions'/f'{a.day}.json'
     assigned = json.loads(session.read_text(encoding='utf-8')).get('assigned_ids', []) if session.exists() else []
+    from catalogue import load_context
+    items, qs = load_context(a.root, items, qs)
     print(json.dumps(plan_actions(items, qs, read('goals/initial.json')['goals'], a.day,
                                  assigned, a.new_limit, a.review_limit, a.minutes,
                                  a.focus_goal, a.energy), ensure_ascii=False, indent=2))

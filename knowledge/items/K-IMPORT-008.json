@@ -67,5 +67,29 @@
       "schedule_rule_version": "ladder-v2"
     }
   ],
-  "verification_note": "Imported fry-fried and see-seen are not present participles; correction pending source validation."
+  "verification_note": "Imported fry-fried and see-seen are not present participles; correction pending source validation.",
+  "taxonomy": {
+    "legacy_id": "K-IMPORT-008",
+    "subject_id": "SUB-EN",
+    "module_id": "MOD-EN-1a15703c7d",
+    "entry_kind": "bundle",
+    "canonical_ids": [
+      "KP-EN-ddcc6b26b94b",
+      "KP-EN-700312035b3f",
+      "KP-EN-db8731bbcd80",
+      "KP-EN-6bdbb2bafebe",
+      "KP-EN-3ef441d27e2a"
+    ],
+    "container_id": "KP-EN-06488936a321",
+    "scope_basis": "assistant_reorganization_of_existing_content",
+    "evidence_inheritance": "explicit_subquestion_only"
+  },
+  "goal_links": [
+    {
+      "goal_id": "G-CET4-2026-12",
+      "contribution": "medium",
+      "basis": "assistant_taxonomy_provisional",
+      "rationale": "英语基础/语言能力关联当前英语目标，尚未核对考试权重"
+    }
+  ]
 }

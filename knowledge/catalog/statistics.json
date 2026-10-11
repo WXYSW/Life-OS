@@ -1,0 +1,32 @@
+{
+  "version": "taxonomy-v1",
+  "source_entries": 161,
+  "canonical_assessable_scopes": 253,
+  "canonical_scopes_with_diagnostic_evidence": 47,
+  "canonical_long_term_verified": 0,
+  "unique_attempts": 19,
+  "mapped_subanswer_evidence": 53,
+  "legacy_entries_with_attempts": 19,
+  "archived_legacy_entries": 73,
+  "active_legacy_entries_with_attempts": 12,
+  "queue_status_counts": {
+    "needs_validation": 76,
+    "review": 12,
+    "paused": 73
+  },
+  "question_status_counts": {
+    "evaluated": 19,
+    "paused": 4,
+    "unanswered": 8
+  },
+  "entry_kind_counts": {
+    "atomic": 41,
+    "collection": 9,
+    "bundle": 74,
+    "container": 1,
+    "resource": 2,
+    "capability": 34
+  },
+  "evidence_scope": "catalog/evidence-map.json; update when new answers are evaluated",
+  "coverage_complete": false
+}

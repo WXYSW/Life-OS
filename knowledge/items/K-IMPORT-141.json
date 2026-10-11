@@ -22,5 +22,18 @@
     "on": "2026-10-11",
     "reason": "用户要求C语言和Shell暂时归档",
     "previous_status": "needs_validation"
+  },
+  "taxonomy": {
+    "legacy_id": "K-IMPORT-141",
+    "subject_id": "SUB-CS",
+    "module_id": "MOD-CS-01980cfd22",
+    "entry_kind": "bundle",
+    "canonical_ids": [
+      "KP-CS-42d8fde41d6a",
+      "KP-CS-d3a97072d3a0"
+    ],
+    "container_id": "KP-CS-27e7d59bca49",
+    "scope_basis": "assistant_reorganization_of_existing_content",
+    "evidence_inheritance": "explicit_subquestion_only"
   }
 }

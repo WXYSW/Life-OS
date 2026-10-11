@@ -1,0 +1,2077 @@
+{
+  "version": "taxonomy-v1",
+  "entries": [
+    {
+      "legacy_id": "K-IMPORT-001",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-cedd5cda25",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-EN-1d0fddfd1fb6"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-002",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-cedd5cda25",
+      "entry_kind": "collection",
+      "canonical_ids": [
+        "KP-EN-e00aec032e3a"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-003",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-cedd5cda25",
+      "entry_kind": "collection",
+      "canonical_ids": [
+        "KP-EN-58a35d544065"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-004",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-cedd5cda25",
+      "entry_kind": "collection",
+      "canonical_ids": [
+        "KP-EN-de89905ff9a8"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-012",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-cedd5cda25",
+      "entry_kind": "collection",
+      "canonical_ids": [
+        "KP-EN-ed6289a732cc"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-005",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-4a7c1d9c9a",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-EN-aa2327a5f95f",
+        "KP-EN-df8aa7b2f4eb",
+        "KP-EN-28b86b014605",
+        "KP-EN-00b6ae1e82ec"
+      ],
+      "container_id": "KP-EN-389adc80d94a",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-006",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-4a7c1d9c9a",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-EN-d357c62056a8",
+        "KP-EN-435a7b181c09"
+      ],
+      "container_id": "KP-EN-dee5df4e6e95",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-007",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-1a15703c7d",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-EN-1574b770dfb2",
+        "KP-EN-522c16f25046",
+        "KP-EN-5c8e044c0f93"
+      ],
+      "container_id": "KP-EN-31c2279b93d3",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-008",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-1a15703c7d",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-EN-ddcc6b26b94b",
+        "KP-EN-700312035b3f",
+        "KP-EN-db8731bbcd80",
+        "KP-EN-6bdbb2bafebe",
+        "KP-EN-3ef441d27e2a"
+      ],
+      "container_id": "KP-EN-06488936a321",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-009",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-1a15703c7d",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-EN-d8c9e753a183",
+        "KP-EN-a582d837400d",
+        "KP-EN-8d96ec0d000e"
+      ],
+      "container_id": "KP-EN-ae60dbf44f92",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-010",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-1a15703c7d",
+      "entry_kind": "collection",
+      "canonical_ids": [
+        "KP-EN-ef6d04043862",
+        "KP-EN-1574b770dfb2",
+        "KP-EN-f0a06217c070",
+        "KP-EN-56698701e2df",
+        "KP-EN-b7c006624c2d",
+        "KP-EN-8f585d1e7c02"
+      ],
+      "container_id": "KP-EN-15fc610c5e94",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-011",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-756b595bf1",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-EN-43a573b2ae45",
+        "KP-EN-e4999df997c2",
+        "KP-EN-d97a919cc217",
+        "KP-EN-bfeace6f98d0",
+        "KP-EN-72a7067776c8",
+        "KP-EN-ff5bc58663e4",
+        "KP-EN-2335f29d6952"
+      ],
+      "container_id": "KP-EN-e1b4dce1173e",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-013",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-756b595bf1",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-EN-8e19afe46913",
+        "KP-EN-7f13c897219d",
+        "KP-EN-a0a572a3b3b4",
+        "KP-EN-bf0aafad9903"
+      ],
+      "container_id": "KP-EN-cceed52abf4a",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-014",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-756b595bf1",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-EN-882a6fed66c3",
+        "KP-EN-6c61522029d9",
+        "KP-EN-bac1f18faec5",
+        "KP-EN-0b1c482c7cd2",
+        "KP-EN-08b3e867a63c"
+      ],
+      "container_id": "KP-EN-1ea79e21c965",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-015",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-a99059ba20",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-EN-27b39149dded",
+        "KP-EN-2a76a4a1a4d6",
+        "KP-EN-556983d3bfef",
+        "KP-EN-0440b305ef4d"
+      ],
+      "container_id": "KP-EN-3ae2f2d96080",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-016",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-a99059ba20",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-EN-76831d62baa1"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-017",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-d527d77d7e",
+      "entry_kind": "container",
+      "canonical_ids": [
+        "KP-EN-cc4d9f2b2607"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-018",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-9c2a275f91",
+      "entry_kind": "resource",
+      "canonical_ids": [
+        "KP-EN-50ef4ab60b6f"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-019",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-cedd5cda25",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-69db79980107"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-020",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-cedd5cda25",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-4f7c3a131622"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-021",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-cedd5cda25",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-c4d770bccb11"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-022",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-cedd5cda25",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-39acbc6b2d08"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-023",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-cedd5cda25",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-355eb17b233c"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-024",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-cedd5cda25",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-d713b5611c79"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-025",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-cedd5cda25",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-44d23f3c9c49"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-026",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-cedd5cda25",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-a0fc15d456ba"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-027",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-22d269c90d",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-EN-1b527cb6c85a"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-028",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-22d269c90d",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-EN-babb8c7a03d1"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-029",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-22d269c90d",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-EN-f8c153876f83",
+        "KP-EN-4e8db660a4be"
+      ],
+      "container_id": "KP-EN-dab245dc42d4",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-030",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-041f394543",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-EN-c02787b4d638"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-031",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-041f394543",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-EN-1d8c6f942af1"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-032",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-041f394543",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-EN-7d669a661d30"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-033",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-a99059ba20",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-EN-646417d2f391"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-034",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-a99059ba20",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-EN-27b39149dded",
+        "KP-EN-2a76a4a1a4d6",
+        "KP-EN-556983d3bfef",
+        "KP-EN-8fa86064e676"
+      ],
+      "container_id": "KP-EN-3ae2f2d96080",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-035",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-e595c09d7c",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-EN-4c7445da75bd",
+        "KP-EN-cab9442adc0f",
+        "KP-EN-91fe8a4d6e1f"
+      ],
+      "container_id": "KP-EN-1666a8c243f2",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-036",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-8bd38d2737",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-e02dedd9e5a3"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-037",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-8bd38d2737",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-45f36190c9a3"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-038",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-8bd38d2737",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-36ffe3c739a5"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-039",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-8bd38d2737",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-6b785ec41cfb"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-040",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-8bd38d2737",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-bb9e4c2c56f8"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-041",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-8bd38d2737",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-bb32ef53b948"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-042",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-8bd38d2737",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-84acd4064f95"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-043",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-8bd38d2737",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-EN-982428c1d1e3",
+        "KP-EN-bba5aa8f71be"
+      ],
+      "container_id": "KP-EN-33377a0f2c25",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-044",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-b753f6639e",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-3a8c5bfbef8f"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-045",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-b753f6639e",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-c8ff3407b80f"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-046",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-b753f6639e",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-ceaaff5664fe"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-047",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-b753f6639e",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-5ddcb41a7af0"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-048",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-b753f6639e",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-d955acf53f2d"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-049",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-b753f6639e",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-7422ef17ffa8"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-050",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-b753f6639e",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-02a0513f0045"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-051",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-b753f6639e",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-a057b96ec7f3"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-052",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-b753f6639e",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-10e71ca02f61"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-053",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-20f795d50b",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-49bc882fae56"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-054",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-20f795d50b",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-e5e8a5f5ef50"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-055",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-20f795d50b",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-9d9abfe0bbb0"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-056",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-20f795d50b",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-ccc92ccf9eda"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-057",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-20f795d50b",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-3d851fa39390"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-058",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-20f795d50b",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-20306a1299df"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-059",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-20f795d50b",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-a39aac04a18e"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-060",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-20f795d50b",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-ac4ceb0d2179"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-061",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-20f795d50b",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-82564aa371ed"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-062",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-20f795d50b",
+      "entry_kind": "capability",
+      "canonical_ids": [
+        "KP-EN-53e7f25f5ece"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-063",
+      "subject_id": "SUB-MA",
+      "module_id": "MOD-MA-0c010c0244",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-MA-a061ed7fa4c6",
+        "KP-MA-37f4d3c648a5",
+        "KP-MA-106051cfa6e2",
+        "KP-MA-a0452f4bcbe8"
+      ],
+      "container_id": "KP-MA-8f92f12a5168",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-064",
+      "subject_id": "SUB-MA",
+      "module_id": "MOD-MA-b39293baa3",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-MA-47c40997fc93",
+        "KP-MA-03799b3f7595",
+        "KP-MA-ed967b954a3f",
+        "KP-MA-450cfa70faaa"
+      ],
+      "container_id": "KP-MA-d8dbb8c1e2fa",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-065",
+      "subject_id": "SUB-MA",
+      "module_id": "MOD-MA-37178b9b46",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-MA-be4d63568175",
+        "KP-MA-545e12708afb"
+      ],
+      "container_id": "KP-MA-3d38ce1520ac",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-066",
+      "subject_id": "SUB-MA",
+      "module_id": "MOD-MA-bd5a0269e1",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-MA-3d24638ecc41",
+        "KP-MA-4d3c23c62de2",
+        "KP-MA-350fde7f1764"
+      ],
+      "container_id": "KP-MA-eeffc5e23573",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-067",
+      "subject_id": "SUB-MA",
+      "module_id": "MOD-MA-bd5a0269e1",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-MA-4a349809ac3d",
+        "KP-MA-28f72ea86aab",
+        "KP-MA-d2f376584792",
+        "KP-MA-2355e4cfc36b"
+      ],
+      "container_id": "KP-MA-08c2be4c7da6",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-068",
+      "subject_id": "SUB-MA",
+      "module_id": "MOD-MA-208ac530b5",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-MA-886c6ca6616e",
+        "KP-MA-21d5722f6175",
+        "KP-MA-cd44f13cdd84",
+        "KP-MA-1578b6547104",
+        "KP-MA-d7d6f2d06b50"
+      ],
+      "container_id": "KP-MA-bd83c5239f03",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-069",
+      "subject_id": "SUB-MA",
+      "module_id": "MOD-MA-7dd953b59a",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-MA-028d12ccd83a",
+        "KP-MA-fbba9773b5c1",
+        "KP-MA-030f2351632c",
+        "KP-MA-b3dd5f98fef2"
+      ],
+      "container_id": "KP-MA-b5aa6295c169",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-070",
+      "subject_id": "SUB-MA",
+      "module_id": "MOD-MA-0c010c0244",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-MA-106051cfa6e2",
+        "KP-MA-a0452f4bcbe8"
+      ],
+      "container_id": "KP-MA-13ff34c2315d",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-071",
+      "subject_id": "SUB-MA",
+      "module_id": "MOD-MA-37178b9b46",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-MA-2da635aca00a",
+        "KP-MA-544a27836ff7"
+      ],
+      "container_id": "KP-MA-b78d9f10e385",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-072",
+      "subject_id": "SUB-MA",
+      "module_id": "MOD-MA-37178b9b46",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-MA-65593a40bf7e",
+        "KP-MA-8a3d50c33bee"
+      ],
+      "container_id": "KP-MA-0d0673b4918f",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-073",
+      "subject_id": "SUB-MA",
+      "module_id": "MOD-MA-208ac530b5",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-MA-21d5722f6175",
+        "KP-MA-cd44f13cdd84",
+        "KP-MA-1578b6547104",
+        "KP-MA-d7d6f2d06b50"
+      ],
+      "container_id": "KP-MA-7a4eb54ab17d",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-074",
+      "subject_id": "SUB-MA",
+      "module_id": "MOD-MA-a0d59973b5",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-MA-933756c84cc5",
+        "KP-MA-defe0a544c8d",
+        "KP-MA-6855cc676440"
+      ],
+      "container_id": "KP-MA-215b3055066e",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-075",
+      "subject_id": "SUB-MA",
+      "module_id": "MOD-MA-a0d59973b5",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-MA-f06f82e1fba5"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-076",
+      "subject_id": "SUB-MA",
+      "module_id": "MOD-MA-c3aaeec6f0",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-MA-7dbce15caab2"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-077",
+      "subject_id": "SUB-MA",
+      "module_id": "MOD-MA-c3aaeec6f0",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-MA-627346d1cdc2"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-078",
+      "subject_id": "SUB-MA",
+      "module_id": "MOD-MA-c3aaeec6f0",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-MA-130e81443b63"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-079",
+      "subject_id": "SUB-MA",
+      "module_id": "MOD-MA-c3aaeec6f0",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-MA-dff385eb1404"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-080",
+      "subject_id": "SUB-MA",
+      "module_id": "MOD-MA-18afca3d1e",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-MA-a686e2cf6913"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-081",
+      "subject_id": "SUB-MA",
+      "module_id": "MOD-MA-a0d59973b5",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-MA-f7c0a27ee803"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-082",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-cf11012233",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-e009302abc92",
+        "KP-CS-767aba0773f0"
+      ],
+      "container_id": "KP-CS-80d52f0790c6",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-083",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-cf11012233",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-61c95a761703"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-084",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-cf11012233",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-05cb3d1d06b8"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-085",
+      "subject_id": "SUB-CS",
+      "module_id": "KP-CS-80d52f0790c6",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-767aba0773f0"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-086",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-349f7f9acb",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-b9ccef96c9e6",
+        "KP-CS-dd6144af552d"
+      ],
+      "container_id": "KP-CS-388b9f5fdd18",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-087",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-12a7cd9d8b",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-012fcdd5236a"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-088",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-16ea0797cd",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-6f105c8d9130",
+        "KP-CS-c88e426805e9"
+      ],
+      "container_id": "KP-CS-6d17069ad522",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-089",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-349f7f9acb",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-01b31ef42be0"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-090",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-12a7cd9d8b",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-d0ce0c0abe0c"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-091",
+      "subject_id": "SUB-CS",
+      "module_id": "KP-CS-388b9f5fdd18",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-dd6144af552d"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-092",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-ab8c37d26e",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-466ff1841c3f"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-093",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-ab8c37d26e",
+      "entry_kind": "collection",
+      "canonical_ids": [
+        "KP-CS-5f63519fbbb8"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-094",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-12a7cd9d8b",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-22d2b7e2d408"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-095",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-12a7cd9d8b",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-0ce9c8409365",
+        "KP-CS-c9b76950cf5b"
+      ],
+      "container_id": "KP-CS-ae6ab3ed0288",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-096",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-16ea0797cd",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-f7aab01c4595",
+        "KP-CS-ad2ef1a98436"
+      ],
+      "container_id": "KP-CS-84d16867b68e",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-097",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-26074fda77",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-2735d769abcf",
+        "KP-CS-dfe4c2fd5ae9",
+        "KP-CS-b6c3191f08c8"
+      ],
+      "container_id": "KP-CS-34cc89e5a6c8",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-098",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-26074fda77",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-f926807fb383",
+        "KP-CS-41450ff79047"
+      ],
+      "container_id": "KP-CS-82e6eb55c4b6",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-099",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-26074fda77",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-a98cdf75ea16"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-100",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-26074fda77",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-6209ebab8508"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-101",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-26074fda77",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-a8bb7ae2eb1a",
+        "KP-CS-033ccdf7fcec"
+      ],
+      "container_id": "KP-CS-6f4a73977a53",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-102",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-0ef5aa66f3",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-2616f28a3cf6"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-103",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-0ef5aa66f3",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-9ca60e7d7b89",
+        "KP-CS-11e5b1960cf4"
+      ],
+      "container_id": "KP-CS-6b46c0836500",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-104",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-0ef5aa66f3",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-9ca60e7d7b89",
+        "KP-CS-11e5b1960cf4",
+        "KP-CS-6b516ff555ab",
+        "KP-CS-b996f4095793"
+      ],
+      "container_id": "KP-CS-304a0f3ad05a",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-105",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-16ea0797cd",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-8f1243f63ba5",
+        "KP-CS-09dd4b3abf03",
+        "KP-CS-45ae8dfee250"
+      ],
+      "container_id": "KP-CS-04c0056af2b5",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-106",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-16ea0797cd",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-362529717dff",
+        "KP-CS-554c9f3ca074"
+      ],
+      "container_id": "KP-CS-414f6b874d88",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-107",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-16ea0797cd",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-115e30166e33"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-108",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-16ea0797cd",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-e5844a82346e",
+        "KP-CS-6f105c8d9130"
+      ],
+      "container_id": "KP-CS-6d17069ad522",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-109",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-349f7f9acb",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-627b1fbbc0f2",
+        "KP-CS-6bf7b03cf1be",
+        "KP-CS-f77b74fd4a7c"
+      ],
+      "container_id": "KP-CS-520b721fa66a",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-110",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-349f7f9acb",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-091dccb4d63a"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-111",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-cc3536f17a",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-46167786a46e",
+        "KP-CS-6c95b80b5a1f"
+      ],
+      "container_id": "KP-CS-af3b9941c31f",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-112",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-cc3536f17a",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-62b1781612d7",
+        "KP-CS-46167786a46e",
+        "KP-CS-6c95b80b5a1f"
+      ],
+      "container_id": "KP-CS-0d0c44e51bed",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-113",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-cc3536f17a",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-5fd48e2241c5",
+        "KP-CS-2507a08c0d23",
+        "KP-CS-d3b1dc8a47cd",
+        "KP-CS-62e3f0140ae1"
+      ],
+      "container_id": "KP-CS-e44b844e6f2f",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-114",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-16ea0797cd",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-488e66403616",
+        "KP-CS-3043aee21e88",
+        "KP-CS-8799c799d8b1"
+      ],
+      "container_id": "KP-CS-6ffae5d707ab",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-115",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-12a7cd9d8b",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-da0fa02c34e6",
+        "KP-CS-11460a3dfdc6"
+      ],
+      "container_id": "KP-CS-59396bb7acbd",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-116",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-ef5a4c9d0a",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-78f7f10de3da",
+        "KP-CS-ff9d29b36e8b"
+      ],
+      "container_id": "KP-CS-e222b66fa150",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-117",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-ef5a4c9d0a",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-0ec979f3e097",
+        "KP-CS-5b25cfdc9b34"
+      ],
+      "container_id": "KP-CS-bb3d78843e36",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-118",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-fa10e1a0c2",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-0c814cde2ad8",
+        "KP-CS-c2f762bbb92e",
+        "KP-CS-3845dfc4f555"
+      ],
+      "container_id": "KP-CS-6508359da301",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-119",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-12a7cd9d8b",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-02cbbc7368ba",
+        "KP-CS-29b230239eaf",
+        "KP-CS-8e054c6390d1"
+      ],
+      "container_id": "KP-CS-d388fa7d6840",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-120",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-fa10e1a0c2",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-a02e0b70966c",
+        "KP-CS-1bfcefd1bf59",
+        "KP-CS-3e2808d782c6"
+      ],
+      "container_id": "KP-CS-d3accd689834",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-121",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-fa10e1a0c2",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-d09d8b2c6cc6",
+        "KP-CS-b7371dd8fc6d",
+        "KP-CS-efcb7f4f6025"
+      ],
+      "container_id": "KP-CS-3286bfe940b5",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-122",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-12a7cd9d8b",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-1bd063b91326",
+        "KP-CS-674b38974906"
+      ],
+      "container_id": "KP-CS-041f8d7e482d",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-123",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-01980cfd22",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-1de4a5688839",
+        "KP-CS-d4bb62b94ebe",
+        "KP-CS-42d8fde41d6a"
+      ],
+      "container_id": "KP-CS-84120aac8202",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-124",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-829787f5b0",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-92498fac19f9",
+        "KP-CS-4fe659e88232"
+      ],
+      "container_id": "KP-CS-5619be41967e",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-125",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-c6440db449",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-0f3a0b757ea9"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-126",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-0e93ad44be",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-4ed43ab687ae",
+        "KP-CS-ce6ace9f435c"
+      ],
+      "container_id": "KP-CS-f5315b9d791a",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-127",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-0e93ad44be",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-faaae8204de6"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-128",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-0e93ad44be",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-0954edca5125"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-129",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-ad5f0ca197",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-c183ef1c2914",
+        "KP-CS-9416f0088244"
+      ],
+      "container_id": "KP-CS-5b91957aa553",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-130",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-829787f5b0",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-1edbf8f2b092",
+        "KP-CS-50f1b35ce9be",
+        "KP-CS-fe05cd7f42d1"
+      ],
+      "container_id": "KP-CS-479f5cee0bd0",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-131",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-0a38903072",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-f6573702f16d"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-132",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-01980cfd22",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-01e2168d2455",
+        "KP-CS-67f1cad47be2"
+      ],
+      "container_id": "KP-CS-5dcb5b36d182",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-133",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-829787f5b0",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-29a392ddabff",
+        "KP-CS-0f12eb7ab0d7"
+      ],
+      "container_id": "KP-CS-f309c036d9a0",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-134",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-ad5f0ca197",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-b2f1f9ad100d",
+        "KP-CS-a56f8eb21888"
+      ],
+      "container_id": "KP-CS-f115e50a9858",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-135",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-ad5f0ca197",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-a284ec65914e",
+        "KP-CS-d84fa719bb7a"
+      ],
+      "container_id": "KP-CS-d6d28a47f410",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-136",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-ad5f0ca197",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-2f5408139f3c",
+        "KP-CS-cc686a6167b0",
+        "KP-CS-12d945210de0"
+      ],
+      "container_id": "KP-CS-22a3e8018227",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-137",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-829787f5b0",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-4587d19b1676",
+        "KP-CS-a76336bcba60"
+      ],
+      "container_id": "KP-CS-a78c5b93d063",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-138",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-829787f5b0",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-17a108cd8254",
+        "KP-CS-fe18adede6f2",
+        "KP-CS-f777efef6ac9"
+      ],
+      "container_id": "KP-CS-2337718166e7",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-139",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-ad5f0ca197",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-25cb2cc451f3",
+        "KP-CS-9b4e88959275",
+        "KP-CS-30ea29f2e4e7"
+      ],
+      "container_id": "KP-CS-22b5771b0aa4",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-140",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-01980cfd22",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-f898dfc8529c",
+        "KP-CS-2f6fc0fb792e",
+        "KP-CS-6b50a9a7337a",
+        "KP-CS-5b68d8fba7b9"
+      ],
+      "container_id": "KP-CS-df94ef62baa4",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-141",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-01980cfd22",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-42d8fde41d6a",
+        "KP-CS-d3a97072d3a0"
+      ],
+      "container_id": "KP-CS-27e7d59bca49",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-142",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-e43f45ac61",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-ca0487209102",
+        "KP-CS-e0816d6cbc7b"
+      ],
+      "container_id": "KP-CS-de1984b16987",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-143",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-ad5f0ca197",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-7ed544b14c17"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-144",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-c6440db449",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-0f3a0b757ea9",
+        "KP-CS-2a76792203d3"
+      ],
+      "container_id": "KP-CS-88593693d8db",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-145",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-ad5f0ca197",
+      "entry_kind": "collection",
+      "canonical_ids": [
+        "KP-CS-a5b2be16a87c"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-146",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-e43f45ac61",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-1c6db5a07a9d"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-147",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-c845abcde7",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-d8c27e34a95f"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-148",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-01980cfd22",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-51c8159c239c"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-149",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-ad5f0ca197",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-25cb2cc451f3",
+        "KP-CS-c183ef1c2914",
+        "KP-CS-acef09785fb4"
+      ],
+      "container_id": "KP-CS-5663d7493169",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-150",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-829787f5b0",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-02c8d3a03002"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-151",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-829787f5b0",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-bb8392e72e75"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-152",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-0a38903072",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-eec55fc21d51"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-153",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-e43f45ac61",
+      "entry_kind": "collection",
+      "canonical_ids": [
+        "KP-CS-be4ba77c2d9b"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-154",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-e43f45ac61",
+      "entry_kind": "collection",
+      "canonical_ids": [
+        "KP-CS-aa45fb634254"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "K-IMPORT-155",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-dc133e30d6",
+      "entry_kind": "resource",
+      "canonical_ids": [
+        "KP-CS-e44bdea2d09c"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "D-001",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-1a15703c7d",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-EN-1574b770dfb2",
+        "KP-EN-f0a06217c070",
+        "KP-EN-ef6d04043862"
+      ],
+      "container_id": "KP-EN-5a7118075c4e",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "D-002",
+      "subject_id": "SUB-EN",
+      "module_id": "MOD-EN-1a15703c7d",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-EN-6bdbb2bafebe",
+        "KP-EN-3ef441d27e2a",
+        "KP-EN-c6d403c06778"
+      ],
+      "container_id": "KP-EN-51120359186f",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "D-003",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-16ea0797cd",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-362529717dff",
+        "KP-CS-3043aee21e88",
+        "KP-CS-488e66403616"
+      ],
+      "container_id": "KP-CS-6ffae5d707ab",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "D-004",
+      "subject_id": "SUB-CS",
+      "module_id": "KP-CS-520b721fa66a",
+      "entry_kind": "atomic",
+      "canonical_ids": [
+        "KP-CS-f77b74fd4a7c"
+      ],
+      "container_id": null,
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "D-005",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-829787f5b0",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-4fe659e88232",
+        "KP-CS-17a108cd8254"
+      ],
+      "container_id": "KP-CS-2337718166e7",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    },
+    {
+      "legacy_id": "D-006",
+      "subject_id": "SUB-CS",
+      "module_id": "MOD-CS-ad5f0ca197",
+      "entry_kind": "bundle",
+      "canonical_ids": [
+        "KP-CS-a284ec65914e",
+        "KP-CS-d84fa719bb7a"
+      ],
+      "container_id": "KP-CS-d6d28a47f410",
+      "scope_basis": "assistant_reorganization_of_existing_content",
+      "evidence_inheritance": "explicit_subquestion_only"
+    }
+  ]
+}

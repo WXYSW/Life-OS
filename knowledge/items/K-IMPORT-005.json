@@ -66,5 +66,28 @@
       "target_date": null,
       "schedule_rule_version": "ladder-v2"
     }
+  ],
+  "taxonomy": {
+    "legacy_id": "K-IMPORT-005",
+    "subject_id": "SUB-EN",
+    "module_id": "MOD-EN-4a7c1d9c9a",
+    "entry_kind": "bundle",
+    "canonical_ids": [
+      "KP-EN-aa2327a5f95f",
+      "KP-EN-df8aa7b2f4eb",
+      "KP-EN-28b86b014605",
+      "KP-EN-00b6ae1e82ec"
+    ],
+    "container_id": "KP-EN-389adc80d94a",
+    "scope_basis": "assistant_reorganization_of_existing_content",
+    "evidence_inheritance": "explicit_subquestion_only"
+  },
+  "goal_links": [
+    {
+      "goal_id": "G-CET4-2026-12",
+      "contribution": "medium",
+      "basis": "assistant_taxonomy_provisional",
+      "rationale": "英语基础/语言能力关联当前英语目标，尚未核对考试权重"
+    }
   ]
 }

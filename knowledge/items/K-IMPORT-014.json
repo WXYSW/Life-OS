@@ -16,5 +16,29 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "taxonomy": {
+    "legacy_id": "K-IMPORT-014",
+    "subject_id": "SUB-EN",
+    "module_id": "MOD-EN-756b595bf1",
+    "entry_kind": "bundle",
+    "canonical_ids": [
+      "KP-EN-882a6fed66c3",
+      "KP-EN-6c61522029d9",
+      "KP-EN-bac1f18faec5",
+      "KP-EN-0b1c482c7cd2",
+      "KP-EN-08b3e867a63c"
+    ],
+    "container_id": "KP-EN-1ea79e21c965",
+    "scope_basis": "assistant_reorganization_of_existing_content",
+    "evidence_inheritance": "explicit_subquestion_only"
+  },
+  "goal_links": [
+    {
+      "goal_id": "G-CET4-2026-12",
+      "contribution": "medium",
+      "basis": "assistant_taxonomy_provisional",
+      "rationale": "英语基础/语言能力关联当前英语目标，尚未核对考试权重"
+    }
+  ]
 }

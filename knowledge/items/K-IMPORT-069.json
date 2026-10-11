@@ -20,5 +20,20 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "taxonomy": {
+    "legacy_id": "K-IMPORT-069",
+    "subject_id": "SUB-MA",
+    "module_id": "MOD-MA-7dd953b59a",
+    "entry_kind": "bundle",
+    "canonical_ids": [
+      "KP-MA-028d12ccd83a",
+      "KP-MA-fbba9773b5c1",
+      "KP-MA-030f2351632c",
+      "KP-MA-b3dd5f98fef2"
+    ],
+    "container_id": "KP-MA-b5aa6295c169",
+    "scope_basis": "assistant_reorganization_of_existing_content",
+    "evidence_inheritance": "explicit_subquestion_only"
+  }
 }

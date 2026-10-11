@@ -16,5 +16,17 @@
   "attempt_ids": [],
   "rule_version": "ladder-v1",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "taxonomy": {
+    "legacy_id": "K-IMPORT-017",
+    "subject_id": "SUB-EN",
+    "module_id": "MOD-EN-d527d77d7e",
+    "entry_kind": "container",
+    "canonical_ids": [
+      "KP-EN-cc4d9f2b2607"
+    ],
+    "container_id": null,
+    "scope_basis": "assistant_reorganization_of_existing_content",
+    "evidence_inheritance": "explicit_subquestion_only"
+  }
 }

@@ -1,0 +1,7106 @@
+{
+  "version": "taxonomy-v1",
+  "nodes": [
+    {
+      "id": "SUB-EN",
+      "title": "英语",
+      "level": "subject",
+      "parent_id": null
+    },
+    {
+      "id": "MOD-EN-cedd5cda25",
+      "title": "词汇与语音",
+      "level": "module",
+      "parent_id": "SUB-EN"
+    },
+    {
+      "id": "KP-EN-1d0fddfd1fb6",
+      "title": "元音字母识别",
+      "level": "concept",
+      "parent_id": "MOD-EN-cedd5cda25",
+      "legacy_ids": [
+        "K-IMPORT-001"
+      ],
+      "source_ids": [
+        "SRC-056"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-e00aec032e3a",
+      "title": "易混词汇资料集",
+      "level": "concept",
+      "parent_id": "MOD-EN-cedd5cda25",
+      "legacy_ids": [
+        "K-IMPORT-002"
+      ],
+      "source_ids": [
+        "SRC-057"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-58a35d544065",
+      "title": "短语搭配资料集",
+      "level": "concept",
+      "parent_id": "MOD-EN-cedd5cda25",
+      "legacy_ids": [
+        "K-IMPORT-003"
+      ],
+      "source_ids": [
+        "SRC-059"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-de89905ff9a8",
+      "title": "阅读词汇资料集",
+      "level": "concept",
+      "parent_id": "MOD-EN-cedd5cda25",
+      "legacy_ids": [
+        "K-IMPORT-004"
+      ],
+      "source_ids": [
+        "SRC-060"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-ed6289a732cc",
+      "title": "专有名词与主题词汇资料集",
+      "level": "concept",
+      "parent_id": "MOD-EN-cedd5cda25",
+      "legacy_ids": [
+        "K-IMPORT-012"
+      ],
+      "source_ids": [
+        "SRC-068"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-EN-4a7c1d9c9a",
+      "title": "介词",
+      "level": "module",
+      "parent_id": "SUB-EN"
+    },
+    {
+      "id": "KP-EN-389adc80d94a",
+      "title": "at/on/in",
+      "level": "concept",
+      "parent_id": "MOD-EN-4a7c1d9c9a",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-aa2327a5f95f",
+      "title": "时间介词at",
+      "level": "subconcept",
+      "parent_id": "KP-EN-389adc80d94a",
+      "legacy_ids": [
+        "K-IMPORT-005"
+      ],
+      "source_ids": [
+        "SRC-061"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-005",
+          "position": 1,
+          "recorded_result": "correct"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-df8aa7b2f4eb",
+      "title": "时间介词on",
+      "level": "subconcept",
+      "parent_id": "KP-EN-389adc80d94a",
+      "legacy_ids": [
+        "K-IMPORT-005"
+      ],
+      "source_ids": [
+        "SRC-061"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-005",
+          "position": 3,
+          "recorded_result": "wrong"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-28b86b014605",
+      "title": "时间介词in",
+      "level": "subconcept",
+      "parent_id": "KP-EN-389adc80d94a",
+      "legacy_ids": [
+        "K-IMPORT-005"
+      ],
+      "source_ids": [
+        "SRC-061"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-005",
+          "position": 2,
+          "recorded_result": "wrong"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-00b6ae1e82ec",
+      "title": "空间介词at/on/in",
+      "level": "subconcept",
+      "parent_id": "KP-EN-389adc80d94a",
+      "legacy_ids": [
+        "K-IMPORT-005"
+      ],
+      "source_ids": [
+        "SRC-061"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-dee5df4e6e95",
+      "title": "of/for",
+      "level": "concept",
+      "parent_id": "MOD-EN-4a7c1d9c9a",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-d357c62056a8",
+      "title": "of关系表达",
+      "level": "subconcept",
+      "parent_id": "KP-EN-dee5df4e6e95",
+      "legacy_ids": [
+        "K-IMPORT-006"
+      ],
+      "source_ids": [
+        "SRC-062"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-435a7b181c09",
+      "title": "for对象与目的表达",
+      "level": "subconcept",
+      "parent_id": "KP-EN-dee5df4e6e95",
+      "legacy_ids": [
+        "K-IMPORT-006"
+      ],
+      "source_ids": [
+        "SRC-062"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-EN-1a15703c7d",
+      "title": "动词形式",
+      "level": "module",
+      "parent_id": "SUB-EN"
+    },
+    {
+      "id": "KP-EN-31c2279b93d3",
+      "title": "不规则过去式",
+      "level": "concept",
+      "parent_id": "MOD-EN-1a15703c7d",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-1574b770dfb2",
+      "title": "go过去式",
+      "level": "subconcept",
+      "parent_id": "KP-EN-31c2279b93d3",
+      "legacy_ids": [
+        "D-001",
+        "K-IMPORT-007",
+        "K-IMPORT-010"
+      ],
+      "source_ids": [
+        "SRC-063",
+        "SRC-066"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-D-001",
+          "position": 1,
+          "recorded_result": "wrong"
+        },
+        {
+          "attempt_id": "A-20261011-K-IMPORT-007",
+          "position": 1,
+          "recorded_result": "wrong"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-522c16f25046",
+      "title": "bring过去式",
+      "level": "subconcept",
+      "parent_id": "KP-EN-31c2279b93d3",
+      "legacy_ids": [
+        "K-IMPORT-007"
+      ],
+      "source_ids": [
+        "SRC-063"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-007",
+          "position": 2,
+          "recorded_result": "unknown"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-5c8e044c0f93",
+      "title": "teach过去式",
+      "level": "subconcept",
+      "parent_id": "KP-EN-31c2279b93d3",
+      "legacy_ids": [
+        "K-IMPORT-007"
+      ],
+      "source_ids": [
+        "SRC-063"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-007",
+          "position": 3,
+          "recorded_result": "wrong"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-06488936a321",
+      "title": "现在分词拼写",
+      "level": "concept",
+      "parent_id": "MOD-EN-1a15703c7d",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-ddcc6b26b94b",
+      "title": "直接加ing",
+      "level": "subconcept",
+      "parent_id": "KP-EN-06488936a321",
+      "legacy_ids": [
+        "K-IMPORT-008"
+      ],
+      "source_ids": [
+        "SRC-064"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-700312035b3f",
+      "title": "去不发音e加ing",
+      "level": "subconcept",
+      "parent_id": "KP-EN-06488936a321",
+      "legacy_ids": [
+        "K-IMPORT-008"
+      ],
+      "source_ids": [
+        "SRC-064"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-008",
+          "position": 3,
+          "recorded_result": "wrong"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-db8731bbcd80",
+      "title": "ie变y加ing",
+      "level": "subconcept",
+      "parent_id": "KP-EN-06488936a321",
+      "legacy_ids": [
+        "K-IMPORT-008"
+      ],
+      "source_ids": [
+        "SRC-064"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-008",
+          "position": 2,
+          "recorded_result": "unknown"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-6bdbb2bafebe",
+      "title": "辅音加y保留y加ing",
+      "level": "subconcept",
+      "parent_id": "KP-EN-06488936a321",
+      "legacy_ids": [
+        "D-002",
+        "K-IMPORT-008"
+      ],
+      "source_ids": [
+        "SRC-064"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-D-002",
+          "position": 1,
+          "recorded_result": "wrong"
+        },
+        {
+          "attempt_id": "A-20261011-K-IMPORT-008",
+          "position": 1,
+          "recorded_result": "unknown"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-3ef441d27e2a",
+      "title": "see现在分词",
+      "level": "subconcept",
+      "parent_id": "KP-EN-06488936a321",
+      "legacy_ids": [
+        "D-002",
+        "K-IMPORT-008"
+      ],
+      "source_ids": [
+        "SRC-064"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-D-002",
+          "position": 2,
+          "recorded_result": "correct"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-ae60dbf44f92",
+      "title": "规则过去式",
+      "level": "concept",
+      "parent_id": "MOD-EN-1a15703c7d",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-d8c9e753a183",
+      "title": "直接加ed",
+      "level": "subconcept",
+      "parent_id": "KP-EN-ae60dbf44f92",
+      "legacy_ids": [
+        "K-IMPORT-009"
+      ],
+      "source_ids": [
+        "SRC-065"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-a582d837400d",
+      "title": "辅音加y变ied",
+      "level": "subconcept",
+      "parent_id": "KP-EN-ae60dbf44f92",
+      "legacy_ids": [
+        "K-IMPORT-009"
+      ],
+      "source_ids": [
+        "SRC-065"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-8d96ec0d000e",
+      "title": "双写末辅音加ed",
+      "level": "subconcept",
+      "parent_id": "KP-EN-ae60dbf44f92",
+      "legacy_ids": [
+        "K-IMPORT-009"
+      ],
+      "source_ids": [
+        "SRC-065"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-15fc610c5e94",
+      "title": "过去式与过去分词",
+      "level": "concept",
+      "parent_id": "MOD-EN-1a15703c7d",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-ef6d04043862",
+      "title": "过去式与过去分词的功能区别",
+      "level": "subconcept",
+      "parent_id": "KP-EN-15fc610c5e94",
+      "legacy_ids": [
+        "D-001",
+        "K-IMPORT-010"
+      ],
+      "source_ids": [
+        "SRC-063",
+        "SRC-066"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-D-001",
+          "position": 3,
+          "recorded_result": "unknown"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-f0a06217c070",
+      "title": "go过去分词",
+      "level": "subconcept",
+      "parent_id": "KP-EN-15fc610c5e94",
+      "legacy_ids": [
+        "D-001",
+        "K-IMPORT-010"
+      ],
+      "source_ids": [
+        "SRC-063",
+        "SRC-066"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-D-001",
+          "position": 2,
+          "recorded_result": "wrong"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-56698701e2df",
+      "title": "write过去式与过去分词",
+      "level": "subconcept",
+      "parent_id": "KP-EN-15fc610c5e94",
+      "legacy_ids": [
+        "K-IMPORT-010"
+      ],
+      "source_ids": [
+        "SRC-066"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-b7c006624c2d",
+      "title": "take过去式与过去分词",
+      "level": "subconcept",
+      "parent_id": "KP-EN-15fc610c5e94",
+      "legacy_ids": [
+        "K-IMPORT-010"
+      ],
+      "source_ids": [
+        "SRC-066"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-8f585d1e7c02",
+      "title": "sing过去式与过去分词",
+      "level": "subconcept",
+      "parent_id": "KP-EN-15fc610c5e94",
+      "legacy_ids": [
+        "K-IMPORT-010"
+      ],
+      "source_ids": [
+        "SRC-066"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-EN-756b595bf1",
+      "title": "名词",
+      "level": "module",
+      "parent_id": "SUB-EN"
+    },
+    {
+      "id": "KP-EN-e1b4dce1173e",
+      "title": "不规则复数",
+      "level": "concept",
+      "parent_id": "MOD-EN-756b595bf1",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-43a573b2ae45",
+      "title": "child复数",
+      "level": "subconcept",
+      "parent_id": "KP-EN-e1b4dce1173e",
+      "legacy_ids": [
+        "K-IMPORT-011"
+      ],
+      "source_ids": [
+        "SRC-067"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-011",
+          "position": 1,
+          "recorded_result": "wrong"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-e4999df997c2",
+      "title": "woman复数",
+      "level": "subconcept",
+      "parent_id": "KP-EN-e1b4dce1173e",
+      "legacy_ids": [
+        "K-IMPORT-011"
+      ],
+      "source_ids": [
+        "SRC-067"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-011",
+          "position": 2,
+          "recorded_result": "wrong"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-d97a919cc217",
+      "title": "tooth复数",
+      "level": "subconcept",
+      "parent_id": "KP-EN-e1b4dce1173e",
+      "legacy_ids": [
+        "K-IMPORT-011"
+      ],
+      "source_ids": [
+        "SRC-067"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-011",
+          "position": 3,
+          "recorded_result": "correct"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-bfeace6f98d0",
+      "title": "mouse复数",
+      "level": "subconcept",
+      "parent_id": "KP-EN-e1b4dce1173e",
+      "legacy_ids": [
+        "K-IMPORT-011"
+      ],
+      "source_ids": [
+        "SRC-067"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-011",
+          "position": 4,
+          "recorded_result": "wrong"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-72a7067776c8",
+      "title": "单复数同形名词",
+      "level": "subconcept",
+      "parent_id": "KP-EN-e1b4dce1173e",
+      "legacy_ids": [
+        "K-IMPORT-011"
+      ],
+      "source_ids": [
+        "SRC-067"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-011",
+          "position": 5,
+          "recorded_result": "correct"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-ff5bc58663e4",
+      "title": "man复数",
+      "level": "subconcept",
+      "parent_id": "KP-EN-e1b4dce1173e",
+      "legacy_ids": [
+        "K-IMPORT-011"
+      ],
+      "source_ids": [
+        "SRC-067"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-2335f29d6952",
+      "title": "foot复数",
+      "level": "subconcept",
+      "parent_id": "KP-EN-e1b4dce1173e",
+      "legacy_ids": [
+        "K-IMPORT-011"
+      ],
+      "source_ids": [
+        "SRC-067"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-cceed52abf4a",
+      "title": "特殊复数",
+      "level": "concept",
+      "parent_id": "MOD-EN-756b595bf1",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-8e19afe46913",
+      "title": "复合名词复数",
+      "level": "subconcept",
+      "parent_id": "KP-EN-cceed52abf4a",
+      "legacy_ids": [
+        "K-IMPORT-013"
+      ],
+      "source_ids": [
+        "SRC-069"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-7f13c897219d",
+      "title": "外来词复数",
+      "level": "subconcept",
+      "parent_id": "KP-EN-cceed52abf4a",
+      "legacy_ids": [
+        "K-IMPORT-013"
+      ],
+      "source_ids": [
+        "SRC-069"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-a0a572a3b3b4",
+      "title": "度量单位复数",
+      "level": "subconcept",
+      "parent_id": "KP-EN-cceed52abf4a",
+      "legacy_ids": [
+        "K-IMPORT-013"
+      ],
+      "source_ids": [
+        "SRC-069"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-bf0aafad9903",
+      "title": "名词词义与可数性变化",
+      "level": "subconcept",
+      "parent_id": "KP-EN-cceed52abf4a",
+      "legacy_ids": [
+        "K-IMPORT-013"
+      ],
+      "source_ids": [
+        "SRC-069"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-1ea79e21c965",
+      "title": "名词规则复数",
+      "level": "concept",
+      "parent_id": "MOD-EN-756b595bf1",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-882a6fed66c3",
+      "title": "名词直接加s",
+      "level": "subconcept",
+      "parent_id": "KP-EN-1ea79e21c965",
+      "legacy_ids": [
+        "K-IMPORT-014"
+      ],
+      "source_ids": [
+        "SRC-070"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-6c61522029d9",
+      "title": "名词加es",
+      "level": "subconcept",
+      "parent_id": "KP-EN-1ea79e21c965",
+      "legacy_ids": [
+        "K-IMPORT-014"
+      ],
+      "source_ids": [
+        "SRC-070"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-bac1f18faec5",
+      "title": "名词辅音加y变ies",
+      "level": "subconcept",
+      "parent_id": "KP-EN-1ea79e21c965",
+      "legacy_ids": [
+        "K-IMPORT-014"
+      ],
+      "source_ids": [
+        "SRC-070"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-0b1c482c7cd2",
+      "title": "名词f或fe词尾变化",
+      "level": "subconcept",
+      "parent_id": "KP-EN-1ea79e21c965",
+      "legacy_ids": [
+        "K-IMPORT-014"
+      ],
+      "source_ids": [
+        "SRC-070"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-08b3e867a63c",
+      "title": "名词o词尾变化",
+      "level": "subconcept",
+      "parent_id": "KP-EN-1ea79e21c965",
+      "legacy_ids": [
+        "K-IMPORT-014"
+      ],
+      "source_ids": [
+        "SRC-070"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-EN-a99059ba20",
+      "title": "形容词",
+      "level": "module",
+      "parent_id": "SUB-EN"
+    },
+    {
+      "id": "KP-EN-3ae2f2d96080",
+      "title": "形容词比较",
+      "level": "concept",
+      "parent_id": "MOD-EN-a99059ba20",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-27b39149dded",
+      "title": "比较级er词尾变化",
+      "level": "subconcept",
+      "parent_id": "KP-EN-3ae2f2d96080",
+      "legacy_ids": [
+        "K-IMPORT-015",
+        "K-IMPORT-034"
+      ],
+      "source_ids": [
+        "SRC-071",
+        "SRC-076"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-015",
+          "position": 1,
+          "recorded_result": "correct"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-2a76a4a1a4d6",
+      "title": "比较级more结构",
+      "level": "subconcept",
+      "parent_id": "KP-EN-3ae2f2d96080",
+      "legacy_ids": [
+        "K-IMPORT-015",
+        "K-IMPORT-034"
+      ],
+      "source_ids": [
+        "SRC-071",
+        "SRC-076"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-015",
+          "position": 3,
+          "recorded_result": "wrong"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-556983d3bfef",
+      "title": "不规则比较级",
+      "level": "subconcept",
+      "parent_id": "KP-EN-3ae2f2d96080",
+      "legacy_ids": [
+        "K-IMPORT-015",
+        "K-IMPORT-034"
+      ],
+      "source_ids": [
+        "SRC-071",
+        "SRC-076"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-015",
+          "position": 2,
+          "recorded_result": "wrong"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-0440b305ef4d",
+      "title": "最高级形式",
+      "level": "subconcept",
+      "parent_id": "KP-EN-3ae2f2d96080",
+      "legacy_ids": [
+        "K-IMPORT-015"
+      ],
+      "source_ids": [
+        "SRC-071"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-76831d62baa1",
+      "title": "ed与ing形容词辨析",
+      "level": "concept",
+      "parent_id": "MOD-EN-a99059ba20",
+      "legacy_ids": [
+        "K-IMPORT-016"
+      ],
+      "source_ids": [
+        "SRC-072"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-EN-d527d77d7e",
+      "title": "语法总览",
+      "level": "module",
+      "parent_id": "SUB-EN"
+    },
+    {
+      "id": "KP-EN-cc4d9f2b2607",
+      "title": "英语语法总览",
+      "level": "concept",
+      "parent_id": "MOD-EN-d527d77d7e",
+      "legacy_ids": [
+        "K-IMPORT-017"
+      ],
+      "source_ids": [
+        "SRC-074"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-EN-9c2a275f91",
+      "title": "学习方法",
+      "level": "module",
+      "parent_id": "SUB-EN"
+    },
+    {
+      "id": "KP-EN-50ef4ab60b6f",
+      "title": "英语学习习惯资料",
+      "level": "concept",
+      "parent_id": "MOD-EN-9c2a275f91",
+      "legacy_ids": [
+        "K-IMPORT-018"
+      ],
+      "source_ids": [
+        "SRC-075"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-69db79980107",
+      "title": "日常生活基础词汇",
+      "level": "concept",
+      "parent_id": "MOD-EN-cedd5cda25",
+      "legacy_ids": [
+        "K-IMPORT-019"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-4f7c3a131622",
+      "title": "学校、学习相关词汇",
+      "level": "concept",
+      "parent_id": "MOD-EN-cedd5cda25",
+      "legacy_ids": [
+        "K-IMPORT-020"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-c4d770bccb11",
+      "title": "工作、职业相关基础词汇",
+      "level": "concept",
+      "parent_id": "MOD-EN-cedd5cda25",
+      "legacy_ids": [
+        "K-IMPORT-021"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-39acbc6b2d08",
+      "title": "个人兴趣、目标相关词汇",
+      "level": "concept",
+      "parent_id": "MOD-EN-cedd5cda25",
+      "legacy_ids": [
+        "K-IMPORT-022"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-355eb17b233c",
+      "title": "常见情绪与感受词汇",
+      "level": "concept",
+      "parent_id": "MOD-EN-cedd5cda25",
+      "legacy_ids": [
+        "K-IMPORT-023"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-d713b5611c79",
+      "title": "根据上下文推测词义",
+      "level": "concept",
+      "parent_id": "MOD-EN-cedd5cda25",
+      "legacy_ids": [
+        "K-IMPORT-024"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-44d23f3c9c49",
+      "title": "相近词汇准确区分",
+      "level": "concept",
+      "parent_id": "MOD-EN-cedd5cda25",
+      "legacy_ids": [
+        "K-IMPORT-025"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-a0fc15d456ba",
+      "title": "主动调用词汇表达观点",
+      "level": "concept",
+      "parent_id": "MOD-EN-cedd5cda25",
+      "legacy_ids": [
+        "K-IMPORT-026"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-EN-22d269c90d",
+      "title": "句法与时态",
+      "level": "module",
+      "parent_id": "SUB-EN"
+    },
+    {
+      "id": "KP-EN-1b527cb6c85a",
+      "title": "主谓宾句型",
+      "level": "concept",
+      "parent_id": "MOD-EN-22d269c90d",
+      "legacy_ids": [
+        "K-IMPORT-027"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-027",
+          "position": 1,
+          "recorded_result": "partial"
+        },
+        {
+          "attempt_id": "A-20261011-K-IMPORT-027",
+          "position": 2,
+          "recorded_result": "correct"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-babb8c7a03d1",
+      "title": "主系表句型",
+      "level": "concept",
+      "parent_id": "MOD-EN-22d269c90d",
+      "legacy_ids": [
+        "K-IMPORT-028"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-dab245dc42d4",
+      "title": "一般现在时",
+      "level": "concept",
+      "parent_id": "MOD-EN-22d269c90d",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-f8c153876f83",
+      "title": "第三人称单数一致",
+      "level": "subconcept",
+      "parent_id": "KP-EN-dab245dc42d4",
+      "legacy_ids": [
+        "K-IMPORT-029"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-029",
+          "position": 1,
+          "recorded_result": "wrong"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-4e8db660a4be",
+      "title": "非第三人称单数用原形",
+      "level": "subconcept",
+      "parent_id": "KP-EN-dab245dc42d4",
+      "legacy_ids": [
+        "K-IMPORT-029"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-029",
+          "position": 2,
+          "recorded_result": "wrong"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "MOD-EN-041f394543",
+      "title": "动词搭配",
+      "level": "module",
+      "parent_id": "SUB-EN"
+    },
+    {
+      "id": "KP-EN-c02787b4d638",
+      "title": "want to do",
+      "level": "concept",
+      "parent_id": "MOD-EN-041f394543",
+      "legacy_ids": [
+        "K-IMPORT-030"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-1d8c6f942af1",
+      "title": "hope to do",
+      "level": "concept",
+      "parent_id": "MOD-EN-041f394543",
+      "legacy_ids": [
+        "K-IMPORT-031"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-7d669a661d30",
+      "title": "like doing",
+      "level": "concept",
+      "parent_id": "MOD-EN-041f394543",
+      "legacy_ids": [
+        "K-IMPORT-032"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-646417d2f391",
+      "title": "形容词作表语",
+      "level": "concept",
+      "parent_id": "MOD-EN-a99059ba20",
+      "legacy_ids": [
+        "K-IMPORT-033"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-8fa86064e676",
+      "title": "避免双重比较级",
+      "level": "subconcept",
+      "parent_id": "KP-EN-3ae2f2d96080",
+      "legacy_ids": [
+        "K-IMPORT-034"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-EN-e595c09d7c",
+      "title": "逻辑连接",
+      "level": "module",
+      "parent_id": "SUB-EN"
+    },
+    {
+      "id": "KP-EN-1666a8c243f2",
+      "title": "逻辑连接词",
+      "level": "concept",
+      "parent_id": "MOD-EN-e595c09d7c",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-4c7445da75bd",
+      "title": "转折连接词选择",
+      "level": "subconcept",
+      "parent_id": "KP-EN-1666a8c243f2",
+      "legacy_ids": [
+        "K-IMPORT-035"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-035",
+          "position": 1,
+          "recorded_result": "wrong"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-cab9442adc0f",
+      "title": "条件连接词选择",
+      "level": "subconcept",
+      "parent_id": "KP-EN-1666a8c243f2",
+      "legacy_ids": [
+        "K-IMPORT-035"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-035",
+          "position": 2,
+          "recorded_result": "correct"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-91fe8a4d6e1f",
+      "title": "因果连接词选择",
+      "level": "subconcept",
+      "parent_id": "KP-EN-1666a8c243f2",
+      "legacy_ids": [
+        "K-IMPORT-035"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-035",
+          "position": 3,
+          "recorded_result": "correct"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "MOD-EN-8bd38d2737",
+      "title": "阅读理解",
+      "level": "module",
+      "parent_id": "SUB-EN"
+    },
+    {
+      "id": "KP-EN-e02dedd9e5a3",
+      "title": "理解简单文章主旨",
+      "level": "concept",
+      "parent_id": "MOD-EN-8bd38d2737",
+      "legacy_ids": [
+        "K-IMPORT-036"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-45f36190c9a3",
+      "title": "获取文章主要信息",
+      "level": "concept",
+      "parent_id": "MOD-EN-8bd38d2737",
+      "legacy_ids": [
+        "K-IMPORT-037"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-36ffe3c739a5",
+      "title": "利用上下文推测意思",
+      "level": "concept",
+      "parent_id": "MOD-EN-8bd38d2737",
+      "legacy_ids": [
+        "K-IMPORT-038"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-6b785ec41cfb",
+      "title": "理解部分抽象观点",
+      "level": "concept",
+      "parent_id": "MOD-EN-8bd38d2737",
+      "legacy_ids": [
+        "K-IMPORT-039"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-bb9e4c2c56f8",
+      "title": "阅读较长文章",
+      "level": "concept",
+      "parent_id": "MOD-EN-8bd38d2737",
+      "legacy_ids": [
+        "K-IMPORT-040"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-bb32ef53b948",
+      "title": "识别细节信息",
+      "level": "concept",
+      "parent_id": "MOD-EN-8bd38d2737",
+      "legacy_ids": [
+        "K-IMPORT-041"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-84acd4064f95",
+      "title": "理解转折关系",
+      "level": "concept",
+      "parent_id": "MOD-EN-8bd38d2737",
+      "legacy_ids": [
+        "K-IMPORT-042"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-042",
+          "position": 1,
+          "recorded_result": "correct"
+        },
+        {
+          "attempt_id": "A-20261011-K-IMPORT-042",
+          "position": 2,
+          "recorded_result": "correct"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-EN-33377a0f2c25",
+      "title": "理解条件、因果关系",
+      "level": "concept",
+      "parent_id": "MOD-EN-8bd38d2737",
+      "legacy_ids": [
+        "K-IMPORT-043"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-982428c1d1e3",
+      "title": "阅读条件关系",
+      "level": "subconcept",
+      "parent_id": "KP-EN-33377a0f2c25",
+      "legacy_ids": [
+        "K-IMPORT-043"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-bba5aa8f71be",
+      "title": "阅读因果关系",
+      "level": "subconcept",
+      "parent_id": "KP-EN-33377a0f2c25",
+      "legacy_ids": [
+        "K-IMPORT-043"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-EN-b753f6639e",
+      "title": "听力理解",
+      "level": "module",
+      "parent_id": "SUB-EN"
+    },
+    {
+      "id": "KP-EN-3a8c5bfbef8f",
+      "title": "理解日常生活对话",
+      "level": "concept",
+      "parent_id": "MOD-EN-b753f6639e",
+      "legacy_ids": [
+        "K-IMPORT-044"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-c8ff3407b80f",
+      "title": "理解学校安排",
+      "level": "concept",
+      "parent_id": "MOD-EN-b753f6639e",
+      "legacy_ids": [
+        "K-IMPORT-045"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-ceaaff5664fe",
+      "title": "理解简单工作场景",
+      "level": "concept",
+      "parent_id": "MOD-EN-b753f6639e",
+      "legacy_ids": [
+        "K-IMPORT-046"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-5ddcb41a7af0",
+      "title": "捕捉时间信息",
+      "level": "concept",
+      "parent_id": "MOD-EN-b753f6639e",
+      "legacy_ids": [
+        "K-IMPORT-047"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-d955acf53f2d",
+      "title": "理解计划变更",
+      "level": "concept",
+      "parent_id": "MOD-EN-b753f6639e",
+      "legacy_ids": [
+        "K-IMPORT-048"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-7422ef17ffa8",
+      "title": "识别简单原因",
+      "level": "concept",
+      "parent_id": "MOD-EN-b753f6639e",
+      "legacy_ids": [
+        "K-IMPORT-049"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-02a0513f0045",
+      "title": "同时记忆多个信息",
+      "level": "concept",
+      "parent_id": "MOD-EN-b753f6639e",
+      "legacy_ids": [
+        "K-IMPORT-050"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-a057b96ec7f3",
+      "title": "听辨相近或关键名词",
+      "level": "concept",
+      "parent_id": "MOD-EN-b753f6639e",
+      "legacy_ids": [
+        "K-IMPORT-051"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-10e71ca02f61",
+      "title": "理解复杂转折信息",
+      "level": "concept",
+      "parent_id": "MOD-EN-b753f6639e",
+      "legacy_ids": [
+        "K-IMPORT-052"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-EN-20f795d50b",
+      "title": "书面与口头表达",
+      "level": "module",
+      "parent_id": "SUB-EN"
+    },
+    {
+      "id": "KP-EN-49bc882fae56",
+      "title": "写出简单完整句子",
+      "level": "concept",
+      "parent_id": "MOD-EN-20f795d50b",
+      "legacy_ids": [
+        "K-IMPORT-053"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-e5e8a5f5ef50",
+      "title": "表达个人兴趣",
+      "level": "concept",
+      "parent_id": "MOD-EN-20f795d50b",
+      "legacy_ids": [
+        "K-IMPORT-054"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-9d9abfe0bbb0",
+      "title": "表达个人目标",
+      "level": "concept",
+      "parent_id": "MOD-EN-20f795d50b",
+      "legacy_ids": [
+        "K-IMPORT-055"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-ccc92ccf9eda",
+      "title": "表达简单观点",
+      "level": "concept",
+      "parent_id": "MOD-EN-20f795d50b",
+      "legacy_ids": [
+        "K-IMPORT-056"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-3d851fa39390",
+      "title": "描述个人感受",
+      "level": "concept",
+      "parent_id": "MOD-EN-20f795d50b",
+      "legacy_ids": [
+        "K-IMPORT-057"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-20306a1299df",
+      "title": "提出简单问题",
+      "level": "concept",
+      "parent_id": "MOD-EN-20f795d50b",
+      "legacy_ids": [
+        "K-IMPORT-058"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-a39aac04a18e",
+      "title": "连续组织多个句子",
+      "level": "concept",
+      "parent_id": "MOD-EN-20f795d50b",
+      "legacy_ids": [
+        "K-IMPORT-059"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-ac4ceb0d2179",
+      "title": "快速调用词汇",
+      "level": "concept",
+      "parent_id": "MOD-EN-20f795d50b",
+      "legacy_ids": [
+        "K-IMPORT-060"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-82564aa371ed",
+      "title": "流畅连续口语表达",
+      "level": "concept",
+      "parent_id": "MOD-EN-20f795d50b",
+      "legacy_ids": [
+        "K-IMPORT-061"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-53e7f25f5ece",
+      "title": "自主检查语法错误",
+      "level": "concept",
+      "parent_id": "MOD-EN-20f795d50b",
+      "legacy_ids": [
+        "K-IMPORT-062"
+      ],
+      "source_ids": [
+        "SRC-076"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "SUB-MA",
+      "title": "高等数学",
+      "level": "subject",
+      "parent_id": null
+    },
+    {
+      "id": "MOD-MA-0c010c0244",
+      "title": "极限",
+      "level": "module",
+      "parent_id": "SUB-MA"
+    },
+    {
+      "id": "KP-MA-8f92f12a5168",
+      "title": "极限方法",
+      "level": "concept",
+      "parent_id": "MOD-MA-0c010c0244",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-a061ed7fa4c6",
+      "title": "基本极限计算",
+      "level": "subconcept",
+      "parent_id": "KP-MA-8f92f12a5168",
+      "legacy_ids": [
+        "K-IMPORT-063"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-063",
+          "position": 1,
+          "recorded_result": "correct"
+        },
+        {
+          "attempt_id": "A-20261011-K-IMPORT-063",
+          "position": 2,
+          "recorded_result": "correct"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-MA-37f4d3c648a5",
+      "title": "等价无穷小代换",
+      "level": "subconcept",
+      "parent_id": "KP-MA-8f92f12a5168",
+      "legacy_ids": [
+        "K-IMPORT-063"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-106051cfa6e2",
+      "title": "洛必达条件",
+      "level": "subconcept",
+      "parent_id": "KP-MA-8f92f12a5168",
+      "legacy_ids": [
+        "K-IMPORT-063",
+        "K-IMPORT-070"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-a0452f4bcbe8",
+      "title": "未定式转换",
+      "level": "subconcept",
+      "parent_id": "KP-MA-8f92f12a5168",
+      "legacy_ids": [
+        "K-IMPORT-063",
+        "K-IMPORT-070"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-MA-b39293baa3",
+      "title": "导数与微分",
+      "level": "module",
+      "parent_id": "SUB-MA"
+    },
+    {
+      "id": "KP-MA-d8dbb8c1e2fa",
+      "title": "求导方法",
+      "level": "concept",
+      "parent_id": "MOD-MA-b39293baa3",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-47c40997fc93",
+      "title": "基本求导",
+      "level": "subconcept",
+      "parent_id": "KP-MA-d8dbb8c1e2fa",
+      "legacy_ids": [
+        "K-IMPORT-064"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-03799b3f7595",
+      "title": "复合函数求导",
+      "level": "subconcept",
+      "parent_id": "KP-MA-d8dbb8c1e2fa",
+      "legacy_ids": [
+        "K-IMPORT-064"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-ed967b954a3f",
+      "title": "隐函数求导",
+      "level": "subconcept",
+      "parent_id": "KP-MA-d8dbb8c1e2fa",
+      "legacy_ids": [
+        "K-IMPORT-064"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-450cfa70faaa",
+      "title": "参数方程求导",
+      "level": "subconcept",
+      "parent_id": "KP-MA-d8dbb8c1e2fa",
+      "legacy_ids": [
+        "K-IMPORT-064"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-MA-37178b9b46",
+      "title": "导数应用",
+      "level": "module",
+      "parent_id": "SUB-MA"
+    },
+    {
+      "id": "KP-MA-3d38ce1520ac",
+      "title": "切线与法线",
+      "level": "concept",
+      "parent_id": "MOD-MA-37178b9b46",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-be4d63568175",
+      "title": "切线方程",
+      "level": "subconcept",
+      "parent_id": "KP-MA-3d38ce1520ac",
+      "legacy_ids": [
+        "K-IMPORT-065"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-545e12708afb",
+      "title": "法线方程",
+      "level": "subconcept",
+      "parent_id": "KP-MA-3d38ce1520ac",
+      "legacy_ids": [
+        "K-IMPORT-065"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-MA-bd5a0269e1",
+      "title": "积分方法",
+      "level": "module",
+      "parent_id": "SUB-MA"
+    },
+    {
+      "id": "KP-MA-eeffc5e23573",
+      "title": "不定积分",
+      "level": "concept",
+      "parent_id": "MOD-MA-bd5a0269e1",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-3d24638ecc41",
+      "title": "基本积分公式",
+      "level": "subconcept",
+      "parent_id": "KP-MA-eeffc5e23573",
+      "legacy_ids": [
+        "K-IMPORT-066"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-4d3c23c62de2",
+      "title": "换元积分法",
+      "level": "subconcept",
+      "parent_id": "KP-MA-eeffc5e23573",
+      "legacy_ids": [
+        "K-IMPORT-066"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-350fde7f1764",
+      "title": "分部积分法",
+      "level": "subconcept",
+      "parent_id": "KP-MA-eeffc5e23573",
+      "legacy_ids": [
+        "K-IMPORT-066"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-08c2be4c7da6",
+      "title": "定积分",
+      "level": "concept",
+      "parent_id": "MOD-MA-bd5a0269e1",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-4a349809ac3d",
+      "title": "基本定积分计算",
+      "level": "subconcept",
+      "parent_id": "KP-MA-08c2be4c7da6",
+      "legacy_ids": [
+        "K-IMPORT-067"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-28f72ea86aab",
+      "title": "积分对称性",
+      "level": "subconcept",
+      "parent_id": "KP-MA-08c2be4c7da6",
+      "legacy_ids": [
+        "K-IMPORT-067"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-d2f376584792",
+      "title": "绝对值分段积分",
+      "level": "subconcept",
+      "parent_id": "KP-MA-08c2be4c7da6",
+      "legacy_ids": [
+        "K-IMPORT-067"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-2355e4cfc36b",
+      "title": "变上限积分求导",
+      "level": "subconcept",
+      "parent_id": "KP-MA-08c2be4c7da6",
+      "legacy_ids": [
+        "K-IMPORT-067"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-MA-208ac530b5",
+      "title": "积分应用",
+      "level": "module",
+      "parent_id": "SUB-MA"
+    },
+    {
+      "id": "KP-MA-bd83c5239f03",
+      "title": "面积与体积",
+      "level": "concept",
+      "parent_id": "MOD-MA-208ac530b5",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-886c6ca6616e",
+      "title": "平面图形面积",
+      "level": "subconcept",
+      "parent_id": "KP-MA-bd83c5239f03",
+      "legacy_ids": [
+        "K-IMPORT-068"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-21d5722f6175",
+      "title": "旋转体建模",
+      "level": "subconcept",
+      "parent_id": "KP-MA-bd83c5239f03",
+      "legacy_ids": [
+        "K-IMPORT-068",
+        "K-IMPORT-073"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-cd44f13cdd84",
+      "title": "圆盘法",
+      "level": "subconcept",
+      "parent_id": "KP-MA-bd83c5239f03",
+      "legacy_ids": [
+        "K-IMPORT-068",
+        "K-IMPORT-073"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-1578b6547104",
+      "title": "圆环法",
+      "level": "subconcept",
+      "parent_id": "KP-MA-bd83c5239f03",
+      "legacy_ids": [
+        "K-IMPORT-068",
+        "K-IMPORT-073"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-d7d6f2d06b50",
+      "title": "柱壳法",
+      "level": "subconcept",
+      "parent_id": "KP-MA-bd83c5239f03",
+      "legacy_ids": [
+        "K-IMPORT-068",
+        "K-IMPORT-073"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-MA-7dd953b59a",
+      "title": "多元积分",
+      "level": "module",
+      "parent_id": "SUB-MA"
+    },
+    {
+      "id": "KP-MA-b5aa6295c169",
+      "title": "二重积分",
+      "level": "concept",
+      "parent_id": "MOD-MA-7dd953b59a",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-028d12ccd83a",
+      "title": "积分区域分析",
+      "level": "subconcept",
+      "parent_id": "KP-MA-b5aa6295c169",
+      "legacy_ids": [
+        "K-IMPORT-069"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-fbba9773b5c1",
+      "title": "直角坐标二次积分",
+      "level": "subconcept",
+      "parent_id": "KP-MA-b5aa6295c169",
+      "legacy_ids": [
+        "K-IMPORT-069"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-030f2351632c",
+      "title": "交换积分次序",
+      "level": "subconcept",
+      "parent_id": "KP-MA-b5aa6295c169",
+      "legacy_ids": [
+        "K-IMPORT-069"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-b3dd5f98fef2",
+      "title": "极坐标变换",
+      "level": "subconcept",
+      "parent_id": "KP-MA-b5aa6295c169",
+      "legacy_ids": [
+        "K-IMPORT-069"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-13ff34c2315d",
+      "title": "洛必达法则",
+      "level": "concept",
+      "parent_id": "MOD-MA-0c010c0244",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-b78d9f10e385",
+      "title": "单调性与极值",
+      "level": "concept",
+      "parent_id": "MOD-MA-37178b9b46",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-2da635aca00a",
+      "title": "单调性判断",
+      "level": "subconcept",
+      "parent_id": "KP-MA-b78d9f10e385",
+      "legacy_ids": [
+        "K-IMPORT-071"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-544a27836ff7",
+      "title": "一元函数极值判断",
+      "level": "subconcept",
+      "parent_id": "KP-MA-b78d9f10e385",
+      "legacy_ids": [
+        "K-IMPORT-071"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-0d0673b4918f",
+      "title": "凹凸与拐点",
+      "level": "concept",
+      "parent_id": "MOD-MA-37178b9b46",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-65593a40bf7e",
+      "title": "凹凸性判断",
+      "level": "subconcept",
+      "parent_id": "KP-MA-0d0673b4918f",
+      "legacy_ids": [
+        "K-IMPORT-072"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-8a3d50c33bee",
+      "title": "拐点判断",
+      "level": "subconcept",
+      "parent_id": "KP-MA-0d0673b4918f",
+      "legacy_ids": [
+        "K-IMPORT-072"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-7a4eb54ab17d",
+      "title": "旋转体体积",
+      "level": "concept",
+      "parent_id": "MOD-MA-208ac530b5",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-MA-a0d59973b5",
+      "title": "多元微分",
+      "level": "module",
+      "parent_id": "SUB-MA"
+    },
+    {
+      "id": "KP-MA-215b3055066e",
+      "title": "多元函数极值",
+      "level": "concept",
+      "parent_id": "MOD-MA-a0d59973b5",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-933756c84cc5",
+      "title": "驻点求解",
+      "level": "subconcept",
+      "parent_id": "KP-MA-215b3055066e",
+      "legacy_ids": [
+        "K-IMPORT-074"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-defe0a544c8d",
+      "title": "多元极值判断",
+      "level": "subconcept",
+      "parent_id": "KP-MA-215b3055066e",
+      "legacy_ids": [
+        "K-IMPORT-074"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-6855cc676440",
+      "title": "鞍点判断",
+      "level": "subconcept",
+      "parent_id": "KP-MA-215b3055066e",
+      "legacy_ids": [
+        "K-IMPORT-074"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-f06f82e1fba5",
+      "title": "条件极值",
+      "level": "concept",
+      "parent_id": "MOD-MA-a0d59973b5",
+      "legacy_ids": [
+        "K-IMPORT-075"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-MA-c3aaeec6f0",
+      "title": "微分方程",
+      "level": "module",
+      "parent_id": "SUB-MA"
+    },
+    {
+      "id": "KP-MA-7dbce15caab2",
+      "title": "可分离变量微分方程",
+      "level": "concept",
+      "parent_id": "MOD-MA-c3aaeec6f0",
+      "legacy_ids": [
+        "K-IMPORT-076"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-627346d1cdc2",
+      "title": "初值问题",
+      "level": "concept",
+      "parent_id": "MOD-MA-c3aaeec6f0",
+      "legacy_ids": [
+        "K-IMPORT-077"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-130e81443b63",
+      "title": "一阶线性微分方程",
+      "level": "concept",
+      "parent_id": "MOD-MA-c3aaeec6f0",
+      "legacy_ids": [
+        "K-IMPORT-078"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-dff385eb1404",
+      "title": "二阶线性微分方程",
+      "level": "concept",
+      "parent_id": "MOD-MA-c3aaeec6f0",
+      "legacy_ids": [
+        "K-IMPORT-079"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-MA-18afca3d1e",
+      "title": "级数与展开",
+      "level": "module",
+      "parent_id": "SUB-MA"
+    },
+    {
+      "id": "KP-MA-a686e2cf6913",
+      "title": "泰勒公式",
+      "level": "concept",
+      "parent_id": "MOD-MA-18afca3d1e",
+      "legacy_ids": [
+        "K-IMPORT-080"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-MA-f7c0a27ee803",
+      "title": "方向导数",
+      "level": "concept",
+      "parent_id": "MOD-MA-a0d59973b5",
+      "legacy_ids": [
+        "K-IMPORT-081"
+      ],
+      "source_ids": [
+        "SRC-077"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "SUB-CS",
+      "title": "计算机",
+      "level": "subject",
+      "parent_id": null
+    },
+    {
+      "id": "MOD-CS-cf11012233",
+      "title": "C++构建基础",
+      "level": "module",
+      "parent_id": "SUB-CS"
+    },
+    {
+      "id": "KP-CS-80d52f0790c6",
+      "title": "构建笔记",
+      "level": "concept",
+      "parent_id": "MOD-CS-cf11012233",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-e009302abc92",
+      "title": "条件编译",
+      "level": "subconcept",
+      "parent_id": "KP-CS-80d52f0790c6",
+      "legacy_ids": [
+        "K-IMPORT-082"
+      ],
+      "source_ids": [
+        "SRC-079"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-767aba0773f0",
+      "title": "目标文件链接",
+      "level": "subconcept",
+      "parent_id": "KP-CS-80d52f0790c6",
+      "legacy_ids": [
+        "K-IMPORT-082",
+        "K-IMPORT-085"
+      ],
+      "source_ids": [
+        "SRC-079",
+        "SRC-082"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-61c95a761703",
+      "title": "include与预处理",
+      "level": "concept",
+      "parent_id": "MOD-CS-cf11012233",
+      "legacy_ids": [
+        "K-IMPORT-083"
+      ],
+      "source_ids": [
+        "SRC-080"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-05cb3d1d06b8",
+      "title": "函数调用与程序入口",
+      "level": "concept",
+      "parent_id": "MOD-CS-cf11012233",
+      "legacy_ids": [
+        "K-IMPORT-084"
+      ],
+      "source_ids": [
+        "SRC-081"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-CS-349f7f9acb",
+      "title": "算法基础",
+      "level": "module",
+      "parent_id": "SUB-CS"
+    },
+    {
+      "id": "KP-CS-388b9f5fdd18",
+      "title": "素数判断与筛法",
+      "level": "concept",
+      "parent_id": "MOD-CS-349f7f9acb",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-b9ccef96c9e6",
+      "title": "试除法判断素数",
+      "level": "subconcept",
+      "parent_id": "KP-CS-388b9f5fdd18",
+      "legacy_ids": [
+        "K-IMPORT-086"
+      ],
+      "source_ids": [
+        "SRC-083"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-dd6144af552d",
+      "title": "素数表筛法",
+      "level": "subconcept",
+      "parent_id": "KP-CS-388b9f5fdd18",
+      "legacy_ids": [
+        "K-IMPORT-086",
+        "K-IMPORT-091"
+      ],
+      "source_ids": [
+        "SRC-083",
+        "SRC-088"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-CS-12a7cd9d8b",
+      "title": "C基本语法",
+      "level": "module",
+      "parent_id": "SUB-CS"
+    },
+    {
+      "id": "KP-CS-012fcdd5236a",
+      "title": "交换变量",
+      "level": "concept",
+      "parent_id": "MOD-CS-12a7cd9d8b",
+      "legacy_ids": [
+        "K-IMPORT-087"
+      ],
+      "source_ids": [
+        "SRC-084"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-CS-16ea0797cd",
+      "title": "C数组",
+      "level": "module",
+      "parent_id": "SUB-CS"
+    },
+    {
+      "id": "KP-CS-6d17069ad522",
+      "title": "数组初始化",
+      "level": "concept",
+      "parent_id": "MOD-CS-16ea0797cd",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-6f105c8d9130",
+      "title": "数组部分初始化补零",
+      "level": "subconcept",
+      "parent_id": "KP-CS-6d17069ad522",
+      "legacy_ids": [
+        "K-IMPORT-088",
+        "K-IMPORT-108"
+      ],
+      "source_ids": [
+        "SRC-085",
+        "SRC-105"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-088-CS01",
+          "position": 1,
+          "recorded_result": "wrong"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-CS-c88e426805e9",
+      "title": "局部自动数组未初始化",
+      "level": "subconcept",
+      "parent_id": "KP-CS-6d17069ad522",
+      "legacy_ids": [
+        "K-IMPORT-088"
+      ],
+      "source_ids": [
+        "SRC-085"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-088-CS01",
+          "position": 2,
+          "recorded_result": "correct"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-CS-01b31ef42be0",
+      "title": "辗转相除法",
+      "level": "concept",
+      "parent_id": "MOD-CS-349f7f9acb",
+      "legacy_ids": [
+        "K-IMPORT-089"
+      ],
+      "source_ids": [
+        "SRC-086"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-d0ce0c0abe0c",
+      "title": "计数器初始化与更新",
+      "level": "concept",
+      "parent_id": "MOD-CS-12a7cd9d8b",
+      "legacy_ids": [
+        "K-IMPORT-090"
+      ],
+      "source_ids": [
+        "SRC-087"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-CS-ab8c37d26e",
+      "title": "C代码组织",
+      "level": "module",
+      "parent_id": "SUB-CS"
+    },
+    {
+      "id": "KP-CS-466ff1841c3f",
+      "title": "代码风格规范",
+      "level": "concept",
+      "parent_id": "MOD-CS-ab8c37d26e",
+      "legacy_ids": [
+        "K-IMPORT-092"
+      ],
+      "source_ids": [
+        "SRC-089"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-5f63519fbbb8",
+      "title": "C综合经验资料",
+      "level": "concept",
+      "parent_id": "MOD-CS-ab8c37d26e",
+      "legacy_ids": [
+        "K-IMPORT-093"
+      ],
+      "source_ids": [
+        "SRC-090"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-22d2b7e2d408",
+      "title": "程序入口与头文件",
+      "level": "concept",
+      "parent_id": "MOD-CS-12a7cd9d8b",
+      "legacy_ids": [
+        "K-IMPORT-094"
+      ],
+      "source_ids": [
+        "SRC-091"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-ae6ab3ed0288",
+      "title": "随机数",
+      "level": "concept",
+      "parent_id": "MOD-CS-12a7cd9d8b",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-0ce9c8409365",
+      "title": "rand调用",
+      "level": "subconcept",
+      "parent_id": "KP-CS-ae6ab3ed0288",
+      "legacy_ids": [
+        "K-IMPORT-095"
+      ],
+      "source_ids": [
+        "SRC-092"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-c9b76950cf5b",
+      "title": "srand种子",
+      "level": "subconcept",
+      "parent_id": "KP-CS-ae6ab3ed0288",
+      "legacy_ids": [
+        "K-IMPORT-095"
+      ],
+      "source_ids": [
+        "SRC-092"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-84d16867b68e",
+      "title": "数组定义",
+      "level": "concept",
+      "parent_id": "MOD-CS-16ea0797cd",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-f7aab01c4595",
+      "title": "数组声明与边界",
+      "level": "subconcept",
+      "parent_id": "KP-CS-84d16867b68e",
+      "legacy_ids": [
+        "K-IMPORT-096"
+      ],
+      "source_ids": [
+        "SRC-093"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-ad2ef1a98436",
+      "title": "数组元素访问",
+      "level": "subconcept",
+      "parent_id": "KP-CS-84d16867b68e",
+      "legacy_ids": [
+        "K-IMPORT-096"
+      ],
+      "source_ids": [
+        "SRC-093"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-CS-26074fda77",
+      "title": "C函数",
+      "level": "module",
+      "parent_id": "SUB-CS"
+    },
+    {
+      "id": "KP-CS-34cc89e5a6c8",
+      "title": "函数原型",
+      "level": "concept",
+      "parent_id": "MOD-CS-26074fda77",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-2735d769abcf",
+      "title": "函数声明与定义区别",
+      "level": "subconcept",
+      "parent_id": "KP-CS-34cc89e5a6c8",
+      "legacy_ids": [
+        "K-IMPORT-097"
+      ],
+      "source_ids": [
+        "SRC-094"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-097-CS01",
+          "position": 1,
+          "recorded_result": "unknown"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-CS-dfe4c2fd5ae9",
+      "title": "原型参数名省略",
+      "level": "subconcept",
+      "parent_id": "KP-CS-34cc89e5a6c8",
+      "legacy_ids": [
+        "K-IMPORT-097"
+      ],
+      "source_ids": [
+        "SRC-094"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-097-CS01",
+          "position": 2,
+          "recorded_result": "unknown"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-CS-b6c3191f08c8",
+      "title": "原型类型信息",
+      "level": "subconcept",
+      "parent_id": "KP-CS-34cc89e5a6c8",
+      "legacy_ids": [
+        "K-IMPORT-097"
+      ],
+      "source_ids": [
+        "SRC-094"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-097-CS01",
+          "position": 3,
+          "recorded_result": "unknown"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-CS-82e6eb55c4b6",
+      "title": "函数参数",
+      "level": "concept",
+      "parent_id": "MOD-CS-26074fda77",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-f926807fb383",
+      "title": "值传递副本",
+      "level": "subconcept",
+      "parent_id": "KP-CS-82e6eb55c4b6",
+      "legacy_ids": [
+        "K-IMPORT-098"
+      ],
+      "source_ids": [
+        "SRC-095"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-098-CS01",
+          "position": 1,
+          "recorded_result": "unknown"
+        },
+        {
+          "attempt_id": "A-20261011-K-IMPORT-098-CS01",
+          "position": 2,
+          "recorded_result": "partial"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-CS-41450ff79047",
+      "title": "通过地址修改外部变量",
+      "level": "subconcept",
+      "parent_id": "KP-CS-82e6eb55c4b6",
+      "legacy_ids": [
+        "K-IMPORT-098"
+      ],
+      "source_ids": [
+        "SRC-095"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-098-CS01",
+          "position": 3,
+          "recorded_result": "unknown"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-CS-a98cdf75ea16",
+      "title": "return语义",
+      "level": "concept",
+      "parent_id": "MOD-CS-26074fda77",
+      "legacy_ids": [
+        "K-IMPORT-099"
+      ],
+      "source_ids": [
+        "SRC-096"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-6209ebab8508",
+      "title": "函数调用参数匹配",
+      "level": "concept",
+      "parent_id": "MOD-CS-26074fda77",
+      "legacy_ids": [
+        "K-IMPORT-100"
+      ],
+      "source_ids": [
+        "SRC-097"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-6f4a73977a53",
+      "title": "函数定义",
+      "level": "concept",
+      "parent_id": "MOD-CS-26074fda77",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-a8bb7ae2eb1a",
+      "title": "void返回类型",
+      "level": "subconcept",
+      "parent_id": "KP-CS-6f4a73977a53",
+      "legacy_ids": [
+        "K-IMPORT-101"
+      ],
+      "source_ids": [
+        "SRC-098"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-101-CS01",
+          "position": 1,
+          "recorded_result": "correct"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-CS-033ccdf7fcec",
+      "title": "函数体结构",
+      "level": "subconcept",
+      "parent_id": "KP-CS-6f4a73977a53",
+      "legacy_ids": [
+        "K-IMPORT-101"
+      ],
+      "source_ids": [
+        "SRC-098"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-101-CS01",
+          "position": 2,
+          "recorded_result": "unknown"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "MOD-CS-0ef5aa66f3",
+      "title": "C变量",
+      "level": "module",
+      "parent_id": "SUB-CS"
+    },
+    {
+      "id": "KP-CS-2616f28a3cf6",
+      "title": "局部变量定义",
+      "level": "concept",
+      "parent_id": "MOD-CS-0ef5aa66f3",
+      "legacy_ids": [
+        "K-IMPORT-102"
+      ],
+      "source_ids": [
+        "SRC-099"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-6b46c0836500",
+      "title": "变量范围",
+      "level": "concept",
+      "parent_id": "MOD-CS-0ef5aa66f3",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-9ca60e7d7b89",
+      "title": "块作用域",
+      "level": "subconcept",
+      "parent_id": "KP-CS-6b46c0836500",
+      "legacy_ids": [
+        "K-IMPORT-103",
+        "K-IMPORT-104"
+      ],
+      "source_ids": [
+        "SRC-100",
+        "SRC-101"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-11e5b1960cf4",
+      "title": "自动变量生存期",
+      "level": "subconcept",
+      "parent_id": "KP-CS-6b46c0836500",
+      "legacy_ids": [
+        "K-IMPORT-103",
+        "K-IMPORT-104"
+      ],
+      "source_ids": [
+        "SRC-100",
+        "SRC-101"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-304a0f3ad05a",
+      "title": "局部变量规则",
+      "level": "concept",
+      "parent_id": "MOD-CS-0ef5aa66f3",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-6b516ff555ab",
+      "title": "同名变量遮蔽",
+      "level": "subconcept",
+      "parent_id": "KP-CS-304a0f3ad05a",
+      "legacy_ids": [
+        "K-IMPORT-104"
+      ],
+      "source_ids": [
+        "SRC-101"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-b996f4095793",
+      "title": "局部自动变量初始化",
+      "level": "subconcept",
+      "parent_id": "KP-CS-304a0f3ad05a",
+      "legacy_ids": [
+        "K-IMPORT-104"
+      ],
+      "source_ids": [
+        "SRC-101"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-04c0056af2b5",
+      "title": "二维数组",
+      "level": "concept",
+      "parent_id": "MOD-CS-16ea0797cd",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-8f1243f63ba5",
+      "title": "二维数组元素数量",
+      "level": "subconcept",
+      "parent_id": "KP-CS-04c0056af2b5",
+      "legacy_ids": [
+        "K-IMPORT-105"
+      ],
+      "source_ids": [
+        "SRC-102"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-105-CS01",
+          "position": 1,
+          "recorded_result": "wrong"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-CS-09dd4b3abf03",
+      "title": "二维数组行数推断",
+      "level": "subconcept",
+      "parent_id": "KP-CS-04c0056af2b5",
+      "legacy_ids": [
+        "K-IMPORT-105"
+      ],
+      "source_ids": [
+        "SRC-102"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-105-CS01",
+          "position": 2,
+          "recorded_result": "unknown"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-CS-45ae8dfee250",
+      "title": "二维数组部分初始化补零",
+      "level": "subconcept",
+      "parent_id": "KP-CS-04c0056af2b5",
+      "legacy_ids": [
+        "K-IMPORT-105"
+      ],
+      "source_ids": [
+        "SRC-102"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-105-CS01",
+          "position": 3,
+          "recorded_result": "unknown"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-CS-414f6b874d88",
+      "title": "数组大小",
+      "level": "concept",
+      "parent_id": "MOD-CS-16ea0797cd",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-362529717dff",
+      "title": "sizeof实际数组",
+      "level": "subconcept",
+      "parent_id": "KP-CS-414f6b874d88",
+      "legacy_ids": [
+        "D-003",
+        "K-IMPORT-106"
+      ],
+      "source_ids": [
+        "SRC-093",
+        "SRC-103",
+        "SRC-112"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-554c9f3ca074",
+      "title": "数组元素数量计算",
+      "level": "subconcept",
+      "parent_id": "KP-CS-414f6b874d88",
+      "legacy_ids": [
+        "K-IMPORT-106"
+      ],
+      "source_ids": [
+        "SRC-103"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-115e30166e33",
+      "title": "数组赋值与逐元素复制",
+      "level": "concept",
+      "parent_id": "MOD-CS-16ea0797cd",
+      "legacy_ids": [
+        "K-IMPORT-107"
+      ],
+      "source_ids": [
+        "SRC-104"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-e5844a82346e",
+      "title": "数组列表初始化",
+      "level": "subconcept",
+      "parent_id": "KP-CS-6d17069ad522",
+      "legacy_ids": [
+        "K-IMPORT-108"
+      ],
+      "source_ids": [
+        "SRC-105"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-520b721fa66a",
+      "title": "二分搜索",
+      "level": "concept",
+      "parent_id": "MOD-CS-349f7f9acb",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-627b1fbbc0f2",
+      "title": "二分有序前提",
+      "level": "subconcept",
+      "parent_id": "KP-CS-520b721fa66a",
+      "legacy_ids": [
+        "K-IMPORT-109"
+      ],
+      "source_ids": [
+        "SRC-106"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-109-CS01",
+          "position": 1,
+          "recorded_result": "correct"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-CS-6bf7b03cf1be",
+      "title": "数组索引追踪",
+      "level": "subconcept",
+      "parent_id": "KP-CS-520b721fa66a",
+      "legacy_ids": [
+        "K-IMPORT-109"
+      ],
+      "source_ids": [
+        "SRC-106"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-109-CS01",
+          "position": 2,
+          "recorded_result": "wrong"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-CS-f77b74fd4a7c",
+      "title": "二分闭区间终止条件",
+      "level": "subconcept",
+      "parent_id": "KP-CS-520b721fa66a",
+      "legacy_ids": [
+        "D-004",
+        "K-IMPORT-109"
+      ],
+      "source_ids": [
+        "SRC-106"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-109-CS01",
+          "position": 3,
+          "recorded_result": "partial"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-CS-091dccb4d63a",
+      "title": "线性搜索",
+      "level": "concept",
+      "parent_id": "MOD-CS-349f7f9acb",
+      "legacy_ids": [
+        "K-IMPORT-110"
+      ],
+      "source_ids": [
+        "SRC-108"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-CS-cc3536f17a",
+      "title": "C指针",
+      "level": "module",
+      "parent_id": "SUB-CS"
+    },
+    {
+      "id": "KP-CS-af3b9941c31f",
+      "title": "指针运算",
+      "level": "concept",
+      "parent_id": "MOD-CS-cc3536f17a",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-46167786a46e",
+      "title": "取地址运算",
+      "level": "subconcept",
+      "parent_id": "KP-CS-af3b9941c31f",
+      "legacy_ids": [
+        "K-IMPORT-111",
+        "K-IMPORT-112"
+      ],
+      "source_ids": [
+        "SRC-109",
+        "SRC-110"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-112-CS01",
+          "position": 3,
+          "recorded_result": "correct"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-CS-6c95b80b5a1f",
+      "title": "解引用读写",
+      "level": "subconcept",
+      "parent_id": "KP-CS-af3b9941c31f",
+      "legacy_ids": [
+        "K-IMPORT-111",
+        "K-IMPORT-112"
+      ],
+      "source_ids": [
+        "SRC-109",
+        "SRC-110"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-112-CS01",
+          "position": 2,
+          "recorded_result": "correct"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-CS-0d0c44e51bed",
+      "title": "指针基础",
+      "level": "concept",
+      "parent_id": "MOD-CS-cc3536f17a",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-62b1781612d7",
+      "title": "指针保存地址",
+      "level": "subconcept",
+      "parent_id": "KP-CS-0d0c44e51bed",
+      "legacy_ids": [
+        "K-IMPORT-112"
+      ],
+      "source_ids": [
+        "SRC-110"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-K-IMPORT-112-CS01",
+          "position": 1,
+          "recorded_result": "wrong"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "observed"
+    },
+    {
+      "id": "KP-CS-e44b844e6f2f",
+      "title": "指针应用",
+      "level": "concept",
+      "parent_id": "MOD-CS-cc3536f17a",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-5fd48e2241c5",
+      "title": "通过指针修改外部变量",
+      "level": "subconcept",
+      "parent_id": "KP-CS-e44b844e6f2f",
+      "legacy_ids": [
+        "K-IMPORT-113"
+      ],
+      "source_ids": [
+        "SRC-111"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-2507a08c0d23",
+      "title": "指针遍历数组",
+      "level": "subconcept",
+      "parent_id": "KP-CS-e44b844e6f2f",
+      "legacy_ids": [
+        "K-IMPORT-113"
+      ],
+      "source_ids": [
+        "SRC-111"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-d3b1dc8a47cd",
+      "title": "指针字符串访问",
+      "level": "subconcept",
+      "parent_id": "KP-CS-e44b844e6f2f",
+      "legacy_ids": [
+        "K-IMPORT-113"
+      ],
+      "source_ids": [
+        "SRC-111"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-62e3f0140ae1",
+      "title": "指针与动态内存",
+      "level": "subconcept",
+      "parent_id": "KP-CS-e44b844e6f2f",
+      "legacy_ids": [
+        "K-IMPORT-113"
+      ],
+      "source_ids": [
+        "SRC-111"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-6ffae5d707ab",
+      "title": "数组与指针",
+      "level": "concept",
+      "parent_id": "MOD-CS-16ea0797cd",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-488e66403616",
+      "title": "数组与指针类型区别",
+      "level": "subconcept",
+      "parent_id": "KP-CS-6ffae5d707ab",
+      "legacy_ids": [
+        "D-003",
+        "K-IMPORT-114"
+      ],
+      "source_ids": [
+        "SRC-093",
+        "SRC-103",
+        "SRC-112"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-3043aee21e88",
+      "title": "数组参数调整为指针",
+      "level": "subconcept",
+      "parent_id": "KP-CS-6ffae5d707ab",
+      "legacy_ids": [
+        "D-003",
+        "K-IMPORT-114"
+      ],
+      "source_ids": [
+        "SRC-093",
+        "SRC-103",
+        "SRC-112"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-8799c799d8b1",
+      "title": "数组表达式转换",
+      "level": "subconcept",
+      "parent_id": "KP-CS-6ffae5d707ab",
+      "legacy_ids": [
+        "K-IMPORT-114"
+      ],
+      "source_ids": [
+        "SRC-112"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-59396bb7acbd",
+      "title": "类型与常量",
+      "level": "concept",
+      "parent_id": "MOD-CS-12a7cd9d8b",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-da0fa02c34e6",
+      "title": "基本类型声明",
+      "level": "subconcept",
+      "parent_id": "KP-CS-59396bb7acbd",
+      "legacy_ids": [
+        "K-IMPORT-115"
+      ],
+      "source_ids": [
+        "SRC-113"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-11460a3dfdc6",
+      "title": "const限定",
+      "level": "subconcept",
+      "parent_id": "KP-CS-59396bb7acbd",
+      "legacy_ids": [
+        "K-IMPORT-115"
+      ],
+      "source_ids": [
+        "SRC-113"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-CS-ef5a4c9d0a",
+      "title": "C输入输出",
+      "level": "module",
+      "parent_id": "SUB-CS"
+    },
+    {
+      "id": "KP-CS-e222b66fa150",
+      "title": "printf",
+      "level": "concept",
+      "parent_id": "MOD-CS-ef5a4c9d0a",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-78f7f10de3da",
+      "title": "printf格式匹配",
+      "level": "subconcept",
+      "parent_id": "KP-CS-e222b66fa150",
+      "legacy_ids": [
+        "K-IMPORT-116"
+      ],
+      "source_ids": [
+        "SRC-114"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-ff9d29b36e8b",
+      "title": "printf字段宽度",
+      "level": "subconcept",
+      "parent_id": "KP-CS-e222b66fa150",
+      "legacy_ids": [
+        "K-IMPORT-116"
+      ],
+      "source_ids": [
+        "SRC-114"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-bb3d78843e36",
+      "title": "scanf",
+      "level": "concept",
+      "parent_id": "MOD-CS-ef5a4c9d0a",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-0ec979f3e097",
+      "title": "scanf地址参数",
+      "level": "subconcept",
+      "parent_id": "KP-CS-bb3d78843e36",
+      "legacy_ids": [
+        "K-IMPORT-117"
+      ],
+      "source_ids": [
+        "SRC-115"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-5b25cfdc9b34",
+      "title": "scanf格式匹配",
+      "level": "subconcept",
+      "parent_id": "KP-CS-bb3d78843e36",
+      "legacy_ids": [
+        "K-IMPORT-117"
+      ],
+      "source_ids": [
+        "SRC-115"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-CS-fa10e1a0c2",
+      "title": "C控制流",
+      "level": "module",
+      "parent_id": "SUB-CS"
+    },
+    {
+      "id": "KP-CS-6508359da301",
+      "title": "条件语句",
+      "level": "concept",
+      "parent_id": "MOD-CS-fa10e1a0c2",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-0c814cde2ad8",
+      "title": "if与else匹配",
+      "level": "subconcept",
+      "parent_id": "KP-CS-6508359da301",
+      "legacy_ids": [
+        "K-IMPORT-118"
+      ],
+      "source_ids": [
+        "SRC-116"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-c2f762bbb92e",
+      "title": "switch与case",
+      "level": "subconcept",
+      "parent_id": "KP-CS-6508359da301",
+      "legacy_ids": [
+        "K-IMPORT-118"
+      ],
+      "source_ids": [
+        "SRC-116"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-3845dfc4f555",
+      "title": "赋值与比较区别",
+      "level": "subconcept",
+      "parent_id": "KP-CS-6508359da301",
+      "legacy_ids": [
+        "K-IMPORT-118"
+      ],
+      "source_ids": [
+        "SRC-116"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-d388fa7d6840",
+      "title": "运算符",
+      "level": "concept",
+      "parent_id": "MOD-CS-12a7cd9d8b",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-02cbbc7368ba",
+      "title": "运算优先级",
+      "level": "subconcept",
+      "parent_id": "KP-CS-d388fa7d6840",
+      "legacy_ids": [
+        "K-IMPORT-119"
+      ],
+      "source_ids": [
+        "SRC-117"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-29b230239eaf",
+      "title": "结合性",
+      "level": "subconcept",
+      "parent_id": "KP-CS-d388fa7d6840",
+      "legacy_ids": [
+        "K-IMPORT-119"
+      ],
+      "source_ids": [
+        "SRC-117"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-8e054c6390d1",
+      "title": "自增自减",
+      "level": "subconcept",
+      "parent_id": "KP-CS-d388fa7d6840",
+      "legacy_ids": [
+        "K-IMPORT-119"
+      ],
+      "source_ids": [
+        "SRC-117"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-d3accd689834",
+      "title": "循环",
+      "level": "concept",
+      "parent_id": "MOD-CS-fa10e1a0c2",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-a02e0b70966c",
+      "title": "for循环",
+      "level": "subconcept",
+      "parent_id": "KP-CS-d3accd689834",
+      "legacy_ids": [
+        "K-IMPORT-120"
+      ],
+      "source_ids": [
+        "SRC-118"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-1bfcefd1bf59",
+      "title": "while循环",
+      "level": "subconcept",
+      "parent_id": "KP-CS-d3accd689834",
+      "legacy_ids": [
+        "K-IMPORT-120"
+      ],
+      "source_ids": [
+        "SRC-118"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-3e2808d782c6",
+      "title": "do-while循环",
+      "level": "subconcept",
+      "parent_id": "KP-CS-d3accd689834",
+      "legacy_ids": [
+        "K-IMPORT-120"
+      ],
+      "source_ids": [
+        "SRC-118"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-3286bfe940b5",
+      "title": "跳转",
+      "level": "concept",
+      "parent_id": "MOD-CS-fa10e1a0c2",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-d09d8b2c6cc6",
+      "title": "break",
+      "level": "subconcept",
+      "parent_id": "KP-CS-3286bfe940b5",
+      "legacy_ids": [
+        "K-IMPORT-121"
+      ],
+      "source_ids": [
+        "SRC-119"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-b7371dd8fc6d",
+      "title": "continue",
+      "level": "subconcept",
+      "parent_id": "KP-CS-3286bfe940b5",
+      "legacy_ids": [
+        "K-IMPORT-121"
+      ],
+      "source_ids": [
+        "SRC-119"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-efcb7f4f6025",
+      "title": "goto",
+      "level": "subconcept",
+      "parent_id": "KP-CS-3286bfe940b5",
+      "legacy_ids": [
+        "K-IMPORT-121"
+      ],
+      "source_ids": [
+        "SRC-119"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-041f8d7e482d",
+      "title": "表达式",
+      "level": "concept",
+      "parent_id": "MOD-CS-12a7cd9d8b",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-1bd063b91326",
+      "title": "条件运算符",
+      "level": "subconcept",
+      "parent_id": "KP-CS-041f8d7e482d",
+      "legacy_ids": [
+        "K-IMPORT-122"
+      ],
+      "source_ids": [
+        "SRC-120"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-674b38974906",
+      "title": "逗号运算符",
+      "level": "subconcept",
+      "parent_id": "KP-CS-041f8d7e482d",
+      "legacy_ids": [
+        "K-IMPORT-122"
+      ],
+      "source_ids": [
+        "SRC-120"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-CS-01980cfd22",
+      "title": "Shell变量",
+      "level": "module",
+      "parent_id": "SUB-CS"
+    },
+    {
+      "id": "KP-CS-84120aac8202",
+      "title": "赋值与引用",
+      "level": "concept",
+      "parent_id": "MOD-CS-01980cfd22",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-1de4a5688839",
+      "title": "Shell赋值",
+      "level": "subconcept",
+      "parent_id": "KP-CS-84120aac8202",
+      "legacy_ids": [
+        "K-IMPORT-123"
+      ],
+      "source_ids": [
+        "SRC-121"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-d4bb62b94ebe",
+      "title": "Shell变量展开",
+      "level": "subconcept",
+      "parent_id": "KP-CS-84120aac8202",
+      "legacy_ids": [
+        "K-IMPORT-123"
+      ],
+      "source_ids": [
+        "SRC-121"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-42d8fde41d6a",
+      "title": "单引号与双引号",
+      "level": "subconcept",
+      "parent_id": "KP-CS-84120aac8202",
+      "legacy_ids": [
+        "K-IMPORT-123",
+        "K-IMPORT-141"
+      ],
+      "source_ids": [
+        "SRC-121",
+        "SRC-139"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-CS-829787f5b0",
+      "title": "Shell执行",
+      "level": "module",
+      "parent_id": "SUB-CS"
+    },
+    {
+      "id": "KP-CS-5619be41967e",
+      "title": "输入输出流",
+      "level": "concept",
+      "parent_id": "MOD-CS-829787f5b0",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-92498fac19f9",
+      "title": "标准输出",
+      "level": "subconcept",
+      "parent_id": "KP-CS-5619be41967e",
+      "legacy_ids": [
+        "K-IMPORT-124"
+      ],
+      "source_ids": [
+        "SRC-122"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-4fe659e88232",
+      "title": "标准错误与退出状态区别",
+      "level": "subconcept",
+      "parent_id": "KP-CS-5619be41967e",
+      "legacy_ids": [
+        "D-005",
+        "K-IMPORT-124"
+      ],
+      "source_ids": [
+        "SRC-122",
+        "SRC-136",
+        "SRC-138"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-CS-c6440db449",
+      "title": "Shell文本",
+      "level": "module",
+      "parent_id": "SUB-CS"
+    },
+    {
+      "id": "KP-CS-0f3a0b757ea9",
+      "title": "grep模式搜索",
+      "level": "concept",
+      "parent_id": "MOD-CS-c6440db449",
+      "legacy_ids": [
+        "K-IMPORT-125",
+        "K-IMPORT-144"
+      ],
+      "source_ids": [
+        "SRC-123",
+        "SRC-142"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-CS-0e93ad44be",
+      "title": "Shell展开",
+      "level": "module",
+      "parent_id": "SUB-CS"
+    },
+    {
+      "id": "KP-CS-f5315b9d791a",
+      "title": "替换",
+      "level": "concept",
+      "parent_id": "MOD-CS-0e93ad44be",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-4ed43ab687ae",
+      "title": "命令替换",
+      "level": "subconcept",
+      "parent_id": "KP-CS-f5315b9d791a",
+      "legacy_ids": [
+        "K-IMPORT-126"
+      ],
+      "source_ids": [
+        "SRC-124"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-ce6ace9f435c",
+      "title": "进程替换",
+      "level": "subconcept",
+      "parent_id": "KP-CS-f5315b9d791a",
+      "legacy_ids": [
+        "K-IMPORT-126"
+      ],
+      "source_ids": [
+        "SRC-124"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-faaae8204de6",
+      "title": "通配符匹配",
+      "level": "concept",
+      "parent_id": "MOD-CS-0e93ad44be",
+      "legacy_ids": [
+        "K-IMPORT-127"
+      ],
+      "source_ids": [
+        "SRC-125"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-0954edca5125",
+      "title": "花括号展开",
+      "level": "concept",
+      "parent_id": "MOD-CS-0e93ad44be",
+      "legacy_ids": [
+        "K-IMPORT-128"
+      ],
+      "source_ids": [
+        "SRC-126"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-CS-ad5f0ca197",
+      "title": "Shell文件",
+      "level": "module",
+      "parent_id": "SUB-CS"
+    },
+    {
+      "id": "KP-CS-5b91957aa553",
+      "title": "touch",
+      "level": "concept",
+      "parent_id": "MOD-CS-ad5f0ca197",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-c183ef1c2914",
+      "title": "创建空文件",
+      "level": "subconcept",
+      "parent_id": "KP-CS-5b91957aa553",
+      "legacy_ids": [
+        "K-IMPORT-129",
+        "K-IMPORT-149"
+      ],
+      "source_ids": [
+        "SRC-127",
+        "SRC-148"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-9416f0088244",
+      "title": "更新时间戳",
+      "level": "subconcept",
+      "parent_id": "KP-CS-5b91957aa553",
+      "legacy_ids": [
+        "K-IMPORT-129"
+      ],
+      "source_ids": [
+        "SRC-127"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-479f5cee0bd0",
+      "title": "函数与脚本",
+      "level": "concept",
+      "parent_id": "MOD-CS-829787f5b0",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-1edbf8f2b092",
+      "title": "Shell函数执行环境",
+      "level": "subconcept",
+      "parent_id": "KP-CS-479f5cee0bd0",
+      "legacy_ids": [
+        "K-IMPORT-130"
+      ],
+      "source_ids": [
+        "SRC-128"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-50f1b35ce9be",
+      "title": "脚本子进程",
+      "level": "subconcept",
+      "parent_id": "KP-CS-479f5cee0bd0",
+      "legacy_ids": [
+        "K-IMPORT-130"
+      ],
+      "source_ids": [
+        "SRC-128"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-fe05cd7f42d1",
+      "title": "环境变量导出",
+      "level": "subconcept",
+      "parent_id": "KP-CS-479f5cee0bd0",
+      "legacy_ids": [
+        "K-IMPORT-130"
+      ],
+      "source_ids": [
+        "SRC-128"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-CS-0a38903072",
+      "title": "Shell权限",
+      "level": "module",
+      "parent_id": "SUB-CS"
+    },
+    {
+      "id": "KP-CS-f6573702f16d",
+      "title": "执行权限设置",
+      "level": "concept",
+      "parent_id": "MOD-CS-0a38903072",
+      "legacy_ids": [
+        "K-IMPORT-131"
+      ],
+      "source_ids": [
+        "SRC-129"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-5dcb5b36d182",
+      "title": "env",
+      "level": "concept",
+      "parent_id": "MOD-CS-01980cfd22",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-01e2168d2455",
+      "title": "查看环境变量",
+      "level": "subconcept",
+      "parent_id": "KP-CS-5dcb5b36d182",
+      "legacy_ids": [
+        "K-IMPORT-132"
+      ],
+      "source_ids": [
+        "SRC-130"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-67f1cad47be2",
+      "title": "临时环境运行命令",
+      "level": "subconcept",
+      "parent_id": "KP-CS-5dcb5b36d182",
+      "legacy_ids": [
+        "K-IMPORT-132"
+      ],
+      "source_ids": [
+        "SRC-130"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-f309c036d9a0",
+      "title": "命令执行",
+      "level": "concept",
+      "parent_id": "MOD-CS-829787f5b0",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-29a392ddabff",
+      "title": "PATH命令查找",
+      "level": "subconcept",
+      "parent_id": "KP-CS-f309c036d9a0",
+      "legacy_ids": [
+        "K-IMPORT-133"
+      ],
+      "source_ids": [
+        "SRC-131"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-0f12eb7ab0d7",
+      "title": "echo输出",
+      "level": "subconcept",
+      "parent_id": "KP-CS-f309c036d9a0",
+      "legacy_ids": [
+        "K-IMPORT-133"
+      ],
+      "source_ids": [
+        "SRC-131"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-f115e50a9858",
+      "title": "目录导航",
+      "level": "concept",
+      "parent_id": "MOD-CS-ad5f0ca197",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-b2f1f9ad100d",
+      "title": "cd切换目录",
+      "level": "subconcept",
+      "parent_id": "KP-CS-f115e50a9858",
+      "legacy_ids": [
+        "K-IMPORT-134"
+      ],
+      "source_ids": [
+        "SRC-132"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-a56f8eb21888",
+      "title": "点与双点路径",
+      "level": "subconcept",
+      "parent_id": "KP-CS-f115e50a9858",
+      "legacy_ids": [
+        "K-IMPORT-134"
+      ],
+      "source_ids": [
+        "SRC-132"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-d6d28a47f410",
+      "title": "路径定位",
+      "level": "concept",
+      "parent_id": "MOD-CS-ad5f0ca197",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-a284ec65914e",
+      "title": "绝对路径",
+      "level": "subconcept",
+      "parent_id": "KP-CS-d6d28a47f410",
+      "legacy_ids": [
+        "D-006",
+        "K-IMPORT-135"
+      ],
+      "source_ids": [
+        "SRC-133"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-d84fa719bb7a",
+      "title": "相对路径",
+      "level": "subconcept",
+      "parent_id": "KP-CS-d6d28a47f410",
+      "legacy_ids": [
+        "D-006",
+        "K-IMPORT-135"
+      ],
+      "source_ids": [
+        "SRC-133"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-22a3e8018227",
+      "title": "基础命令",
+      "level": "concept",
+      "parent_id": "MOD-CS-ad5f0ca197",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-2f5408139f3c",
+      "title": "pwd",
+      "level": "subconcept",
+      "parent_id": "KP-CS-22a3e8018227",
+      "legacy_ids": [
+        "K-IMPORT-136"
+      ],
+      "source_ids": [
+        "SRC-134"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-cc686a6167b0",
+      "title": "cat",
+      "level": "subconcept",
+      "parent_id": "KP-CS-22a3e8018227",
+      "legacy_ids": [
+        "K-IMPORT-136"
+      ],
+      "source_ids": [
+        "SRC-134"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-12d945210de0",
+      "title": "ls",
+      "level": "subconcept",
+      "parent_id": "KP-CS-22a3e8018227",
+      "legacy_ids": [
+        "K-IMPORT-136"
+      ],
+      "source_ids": [
+        "SRC-134"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-a78c5b93d063",
+      "title": "管道与重定向",
+      "level": "concept",
+      "parent_id": "MOD-CS-829787f5b0",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-4587d19b1676",
+      "title": "输入输出重定向",
+      "level": "subconcept",
+      "parent_id": "KP-CS-a78c5b93d063",
+      "legacy_ids": [
+        "K-IMPORT-137"
+      ],
+      "source_ids": [
+        "SRC-135"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-a76336bcba60",
+      "title": "管道连接",
+      "level": "subconcept",
+      "parent_id": "KP-CS-a78c5b93d063",
+      "legacy_ids": [
+        "K-IMPORT-137"
+      ],
+      "source_ids": [
+        "SRC-135"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-2337718166e7",
+      "title": "退出状态",
+      "level": "concept",
+      "parent_id": "MOD-CS-829787f5b0",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-17a108cd8254",
+      "title": "读取退出状态",
+      "level": "subconcept",
+      "parent_id": "KP-CS-2337718166e7",
+      "legacy_ids": [
+        "D-005",
+        "K-IMPORT-138"
+      ],
+      "source_ids": [
+        "SRC-122",
+        "SRC-136",
+        "SRC-138"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-fe18adede6f2",
+      "title": "逻辑与或短路",
+      "level": "subconcept",
+      "parent_id": "KP-CS-2337718166e7",
+      "legacy_ids": [
+        "K-IMPORT-138"
+      ],
+      "source_ids": [
+        "SRC-136"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-f777efef6ac9",
+      "title": "命令分号分隔",
+      "level": "subconcept",
+      "parent_id": "KP-CS-2337718166e7",
+      "legacy_ids": [
+        "K-IMPORT-138"
+      ],
+      "source_ids": [
+        "SRC-136"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-22b5771b0aa4",
+      "title": "文件操作",
+      "level": "concept",
+      "parent_id": "MOD-CS-ad5f0ca197",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-25cb2cc451f3",
+      "title": "mkdir",
+      "level": "subconcept",
+      "parent_id": "KP-CS-22b5771b0aa4",
+      "legacy_ids": [
+        "K-IMPORT-139",
+        "K-IMPORT-149"
+      ],
+      "source_ids": [
+        "SRC-137",
+        "SRC-148"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-9b4e88959275",
+      "title": "cp",
+      "level": "subconcept",
+      "parent_id": "KP-CS-22b5771b0aa4",
+      "legacy_ids": [
+        "K-IMPORT-139"
+      ],
+      "source_ids": [
+        "SRC-137"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-30ea29f2e4e7",
+      "title": "mv",
+      "level": "subconcept",
+      "parent_id": "KP-CS-22b5771b0aa4",
+      "legacy_ids": [
+        "K-IMPORT-139"
+      ],
+      "source_ids": [
+        "SRC-137"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-df94ef62baa4",
+      "title": "特殊参数",
+      "level": "concept",
+      "parent_id": "MOD-CS-01980cfd22",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-f898dfc8529c",
+      "title": "脚本参数与数量",
+      "level": "subconcept",
+      "parent_id": "KP-CS-df94ef62baa4",
+      "legacy_ids": [
+        "K-IMPORT-140"
+      ],
+      "source_ids": [
+        "SRC-138"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-2f6fc0fb792e",
+      "title": "读取退出状态",
+      "level": "subconcept",
+      "parent_id": "KP-CS-df94ef62baa4",
+      "legacy_ids": [
+        "K-IMPORT-140"
+      ],
+      "source_ids": [
+        "SRC-138"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-6b50a9a7337a",
+      "title": "进程ID参数",
+      "level": "subconcept",
+      "parent_id": "KP-CS-df94ef62baa4",
+      "legacy_ids": [
+        "K-IMPORT-140"
+      ],
+      "source_ids": [
+        "SRC-138"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-5b68d8fba7b9",
+      "title": "命令历史展开",
+      "level": "subconcept",
+      "parent_id": "KP-CS-df94ef62baa4",
+      "legacy_ids": [
+        "K-IMPORT-140"
+      ],
+      "source_ids": [
+        "SRC-138"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-27e7d59bca49",
+      "title": "引用与注释",
+      "level": "concept",
+      "parent_id": "MOD-CS-01980cfd22",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-d3a97072d3a0",
+      "title": "Shell注释",
+      "level": "subconcept",
+      "parent_id": "KP-CS-27e7d59bca49",
+      "legacy_ids": [
+        "K-IMPORT-141"
+      ],
+      "source_ids": [
+        "SRC-139"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-CS-e43f45ac61",
+      "title": "Shell工具",
+      "level": "module",
+      "parent_id": "SUB-CS"
+    },
+    {
+      "id": "KP-CS-de1984b16987",
+      "title": "查阅命令帮助",
+      "level": "concept",
+      "parent_id": "MOD-CS-e43f45ac61",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-ca0487209102",
+      "title": "help选项",
+      "level": "subconcept",
+      "parent_id": "KP-CS-de1984b16987",
+      "legacy_ids": [
+        "K-IMPORT-142"
+      ],
+      "source_ids": [
+        "SRC-140"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-e0816d6cbc7b",
+      "title": "man手册",
+      "level": "subconcept",
+      "parent_id": "KP-CS-de1984b16987",
+      "legacy_ids": [
+        "K-IMPORT-142"
+      ],
+      "source_ids": [
+        "SRC-140"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-7ed544b14c17",
+      "title": "find文件搜索",
+      "level": "concept",
+      "parent_id": "MOD-CS-ad5f0ca197",
+      "legacy_ids": [
+        "K-IMPORT-143"
+      ],
+      "source_ids": [
+        "SRC-141"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-88593693d8db",
+      "title": "代码搜索",
+      "level": "concept",
+      "parent_id": "MOD-CS-c6440db449",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-2a76792203d3",
+      "title": "grep递归与选项",
+      "level": "subconcept",
+      "parent_id": "KP-CS-88593693d8db",
+      "legacy_ids": [
+        "K-IMPORT-144"
+      ],
+      "source_ids": [
+        "SRC-142"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-a5b2be16a87c",
+      "title": "目录导航工具资料",
+      "level": "concept",
+      "parent_id": "MOD-CS-ad5f0ca197",
+      "legacy_ids": [
+        "K-IMPORT-145"
+      ],
+      "source_ids": [
+        "SRC-143"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-1c6db5a07a9d",
+      "title": "历史命令检索",
+      "level": "concept",
+      "parent_id": "MOD-CS-e43f45ac61",
+      "legacy_ids": [
+        "K-IMPORT-146"
+      ],
+      "source_ids": [
+        "SRC-144"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-CS-c845abcde7",
+      "title": "Shell控制流",
+      "level": "module",
+      "parent_id": "SUB-CS"
+    },
+    {
+      "id": "KP-CS-d8c27e34a95f",
+      "title": "if条件语法",
+      "level": "concept",
+      "parent_id": "MOD-CS-c845abcde7",
+      "legacy_ids": [
+        "K-IMPORT-147"
+      ],
+      "source_ids": [
+        "SRC-145"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-51c8159c239c",
+      "title": "local局部变量",
+      "level": "concept",
+      "parent_id": "MOD-CS-01980cfd22",
+      "legacy_ids": [
+        "K-IMPORT-148"
+      ],
+      "source_ids": [
+        "SRC-146"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-5663d7493169",
+      "title": "文件创建工具",
+      "level": "concept",
+      "parent_id": "MOD-CS-ad5f0ca197",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-acef09785fb4",
+      "title": "Nano编辑文件",
+      "level": "subconcept",
+      "parent_id": "KP-CS-5663d7493169",
+      "legacy_ids": [
+        "K-IMPORT-149"
+      ],
+      "source_ids": [
+        "SRC-148"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-02c8d3a03002",
+      "title": "Shebang解释器选择",
+      "level": "concept",
+      "parent_id": "MOD-CS-829787f5b0",
+      "legacy_ids": [
+        "K-IMPORT-150"
+      ],
+      "source_ids": [
+        "SRC-149"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-bb8392e72e75",
+      "title": "source当前环境执行",
+      "level": "concept",
+      "parent_id": "MOD-CS-829787f5b0",
+      "legacy_ids": [
+        "K-IMPORT-151"
+      ],
+      "source_ids": [
+        "SRC-150"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-eec55fc21d51",
+      "title": "sudo指定身份执行",
+      "level": "concept",
+      "parent_id": "MOD-CS-0a38903072",
+      "legacy_ids": [
+        "K-IMPORT-152"
+      ],
+      "source_ids": [
+        "SRC-151"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-be4ba77c2d9b",
+      "title": "Shell综合技巧资料",
+      "level": "concept",
+      "parent_id": "MOD-CS-e43f45ac61",
+      "legacy_ids": [
+        "K-IMPORT-153"
+      ],
+      "source_ids": [
+        "SRC-152"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-CS-aa45fb634254",
+      "title": "ShellCheck工具资料",
+      "level": "concept",
+      "parent_id": "MOD-CS-e43f45ac61",
+      "legacy_ids": [
+        "K-IMPORT-154"
+      ],
+      "source_ids": [
+        "SRC-153"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "archived",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "MOD-CS-dc133e30d6",
+      "title": "计算机组成",
+      "level": "module",
+      "parent_id": "SUB-CS"
+    },
+    {
+      "id": "KP-CS-e44bdea2d09c",
+      "title": "计算机组成课程资料",
+      "level": "concept",
+      "parent_id": "MOD-CS-dc133e30d6",
+      "legacy_ids": [
+        "K-IMPORT-155"
+      ],
+      "source_ids": [
+        "SRC-161"
+      ],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-5a7118075c4e",
+      "title": "go形式与时态",
+      "level": "concept",
+      "parent_id": "MOD-EN-1a15703c7d",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-51120359186f",
+      "title": "现在分词应用",
+      "level": "concept",
+      "parent_id": "MOD-EN-1a15703c7d",
+      "legacy_ids": [],
+      "source_ids": [],
+      "evidence_refs": [],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": false,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "unassessed"
+    },
+    {
+      "id": "KP-EN-c6d403c06778",
+      "title": "进行时结构",
+      "level": "subconcept",
+      "parent_id": "KP-EN-51120359186f",
+      "legacy_ids": [
+        "D-002"
+      ],
+      "source_ids": [
+        "SRC-064"
+      ],
+      "evidence_refs": [
+        {
+          "attempt_id": "A-20261011-D-002",
+          "position": 3,
+          "recorded_result": "wrong"
+        }
+      ],
+      "mastery": "unknown",
+      "long_term_verified": false,
+      "content_validation": "not_inferred_from_cataloguing",
+      "assessable": true,
+      "scheduling_status": "not_scheduled",
+      "availability": "active",
+      "diagnosis_status": "observed"
+    }
+  ]
+}
