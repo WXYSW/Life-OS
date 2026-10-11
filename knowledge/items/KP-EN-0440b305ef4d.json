@@ -11,10 +11,10 @@
   ],
   "created_on": "2026-10-11",
   "verification": {
-    "status": "needs_validation",
-    "basis": null
+    "status": "verified",
+    "basis": "Standard English noun plural morphology and adjective superlative grammar; checked against the diagnostic examples."
   },
-  "assessment": "untested",
+  "assessment": "tested",
   "availability": "active",
   "goal_links": [
     {
@@ -50,15 +50,38 @@
       "checked_on": "2026-10-11"
     }
   ],
-  "evidence": [],
-  "mastery": {},
+  "evidence": [
+    {
+      "id": "A-20261011-EN-SUPERLATIVE",
+      "day": "2026-10-11",
+      "mode": "diagnose",
+      "outcome": "correct",
+      "independent": true,
+      "quality": "stable",
+      "error_type": null,
+      "basis": "Correctly selected the most interesting in a superlative context.",
+      "scope_id": "KP-EN-0440b305ef4d"
+    }
+  ],
+  "mastery": {
+    "status": "initial_correct",
+    "basis": "One independent diagnostic response; long-term retention not established."
+  },
   "schedule": {
-    "status": "pending",
-    "stage": -1,
-    "due": null
+    "status": "scheduled",
+    "stage": 0,
+    "due": "2026-10-12",
+    "review_phase": "initial",
+    "scheduled_interval_days": 1,
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "correct"
+    ],
+    "schedule_reason": "first_independent_correct"
   },
   "routing": {
-    "route": "intake",
+    "route": "review",
     "active_goal_ids": [
       "G-UPGRADE"
     ],
