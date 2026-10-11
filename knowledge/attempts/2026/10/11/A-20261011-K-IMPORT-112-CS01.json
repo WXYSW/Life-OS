@@ -1,0 +1,32 @@
+{
+  "attempt_id": "A-20261011-K-IMPORT-112-CS01",
+  "question_id": "Q-20261011-KIMPORT112-CS01",
+  "knowledge_id": "K-IMPORT-112",
+  "answered_on": "2026-10-11",
+  "answer_text": "x的值; 9; 取x的地址",
+  "answers": [
+    "x的值",
+    "9",
+    "取x的地址"
+  ],
+  "expected": [
+    "x的地址",
+    "9",
+    "取x的地址"
+  ],
+  "evaluation": [
+    "wrong",
+    "correct",
+    "correct"
+  ],
+  "correct_count": 2,
+  "partial_count": 0,
+  "wrong_count": 1,
+  "unknown_count": 0,
+  "unanswered_count": 0,
+  "assistance": "not_reported",
+  "grade": "diagnostic_mixed",
+  "stage_after": 0,
+  "due_after": "2026-10-12",
+  "rule_version": "ladder-v2"
+}

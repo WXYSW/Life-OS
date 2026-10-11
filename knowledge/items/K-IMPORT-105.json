@@ -7,14 +7,62 @@
   "content": "int a[3][5];\n通常理解为a是一个3行5列的矩阵\n二维数组遍历需要两重循环\n\n二维数组的初始化\n\t列数是必须给出的，行数可以由编译器来数\n\t每行一个{}，逗号隔开\n\t最后的逗号可以存在，有古老的传统\n\t如果省略，表示补零\n\t",
   "priority": "normal",
   "id": "K-IMPORT-105",
-  "status": "needs_validation",
-  "stage": -1,
-  "due": null,
-  "last_review": null,
-  "understanding": "unassessed",
+  "status": "review",
+  "stage": 0,
+  "due": "2026-10-12",
+  "last_review": "2026-10-11",
+  "understanding": "needs_relearning",
   "kind": "imported_unverified",
-  "attempt_ids": [],
-  "rule_version": "ladder-v1",
+  "attempt_ids": [
+    "A-20261011-K-IMPORT-105-CS01"
+  ],
+  "rule_version": "ladder-v2",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "question_state": "evaluated",
+  "review_phase": "consolidation",
+  "consolidation_passes": 0,
+  "long_interval_passes": 0,
+  "recent_review_outcomes": [
+    "wrong"
+  ],
+  "scheduled_interval_days": 1,
+  "actual_gap_days": null,
+  "schedule_reason": "first_diagnostic_gaps_or_unknown",
+  "mastery": {
+    "recall": {
+      "state": "gap",
+      "evidence_id": "A-20261011-K-IMPORT-105-CS01",
+      "observed_on": "2026-10-11",
+      "basis": "correct 0; partial 0; wrong 1; unknown 2"
+    },
+    "explain": {
+      "state": "unknown",
+      "evidence_id": null
+    },
+    "apply": {
+      "state": "unknown",
+      "evidence_id": null
+    }
+  },
+  "learning_events": [
+    {
+      "id": "EV-20261011-KIMPORT105-CSGRADE",
+      "day": "2026-10-11",
+      "knowledge_id": "K-IMPORT-105",
+      "question_id": "Q-20261011-KIMPORT105-CS01",
+      "action": "diagnose",
+      "dimension": "recall",
+      "outcome": "wrong",
+      "independent": "not_reported",
+      "delayed": false,
+      "transfer": false,
+      "schedule_eligible": true,
+      "basis": "Unknown and partial preserved per question, not counted as wrong.",
+      "question_version": "questions-v1",
+      "planner_version": "learning-v2",
+      "error_type": "unknown",
+      "schedule_rule_version": "ladder-v2"
+    }
+  ]
 }

@@ -702,15 +702,29 @@
         "逐小题按语义评价",
         "不知道、未填写与错误分开"
       ],
-      "answer_fragments": [],
+      "answer_fragments": [
+        {
+          "event_id": "EV-20261011-KIMPORT097-CSANSWER",
+          "on": "2026-10-11",
+          "text": "不知道忘了; 不知道; 不知道"
+        }
+      ],
       "events": [
         {
           "event_id": "EV-20261011-KIMPORT097-CSISSUE",
           "type": "issued",
           "on": "2026-10-11"
+        },
+        {
+          "event_id": "EV-20261011-KIMPORT097-CSGRADE",
+          "type": "evaluated",
+          "on": "2026-10-11",
+          "attempt_id": "A-20261011-K-IMPORT-097-CS01",
+          "result": "diagnostic_mixed"
         }
       ],
-      "status": "unanswered"
+      "status": "evaluated",
+      "evaluated_on": "2026-10-11"
     },
     {
       "id": "Q-20261011-KIMPORT098-CS01",
@@ -723,15 +737,29 @@
         "逐小题按语义评价",
         "不知道、未填写与错误分开"
       ],
-      "answer_fragments": [],
+      "answer_fragments": [
+        {
+          "event_id": "EV-20261011-KIMPORT098-CSANSWER",
+          "on": "2026-10-11",
+          "text": "不知道; int定义在函数内才有效; 不知道"
+        }
+      ],
       "events": [
         {
           "event_id": "EV-20261011-KIMPORT098-CSISSUE",
           "type": "issued",
           "on": "2026-10-11"
+        },
+        {
+          "event_id": "EV-20261011-KIMPORT098-CSGRADE",
+          "type": "evaluated",
+          "on": "2026-10-11",
+          "attempt_id": "A-20261011-K-IMPORT-098-CS01",
+          "result": "diagnostic_mixed"
         }
       ],
-      "status": "unanswered"
+      "status": "evaluated",
+      "evaluated_on": "2026-10-11"
     },
     {
       "id": "Q-20261011-KIMPORT101-CS01",
@@ -744,15 +772,29 @@
         "逐小题按语义评价",
         "不知道、未填写与错误分开"
       ],
-      "answer_fragments": [],
+      "answer_fragments": [
+        {
+          "event_id": "EV-20261011-KIMPORT101-CSANSWER",
+          "on": "2026-10-11",
+          "text": "无; 不知道"
+        }
+      ],
       "events": [
         {
           "event_id": "EV-20261011-KIMPORT101-CSISSUE",
           "type": "issued",
           "on": "2026-10-11"
+        },
+        {
+          "event_id": "EV-20261011-KIMPORT101-CSGRADE",
+          "type": "evaluated",
+          "on": "2026-10-11",
+          "attempt_id": "A-20261011-K-IMPORT-101-CS01",
+          "result": "diagnostic_mixed"
         }
       ],
-      "status": "unanswered"
+      "status": "evaluated",
+      "evaluated_on": "2026-10-11"
     },
     {
       "id": "Q-20261011-KIMPORT088-CS01",
@@ -765,15 +807,29 @@
         "逐小题按语义评价",
         "不知道、未填写与错误分开"
       ],
-      "answer_fragments": [],
+      "answer_fragments": [
+        {
+          "event_id": "EV-20261011-KIMPORT088-CSANSWER",
+          "on": "2026-10-11",
+          "text": "1; 不能"
+        }
+      ],
       "events": [
         {
           "event_id": "EV-20261011-KIMPORT088-CSISSUE",
           "type": "issued",
           "on": "2026-10-11"
+        },
+        {
+          "event_id": "EV-20261011-KIMPORT088-CSGRADE",
+          "type": "evaluated",
+          "on": "2026-10-11",
+          "attempt_id": "A-20261011-K-IMPORT-088-CS01",
+          "result": "diagnostic_mixed"
         }
       ],
-      "status": "unanswered"
+      "status": "evaluated",
+      "evaluated_on": "2026-10-11"
     },
     {
       "id": "Q-20261011-KIMPORT105-CS01",
@@ -786,15 +842,29 @@
         "逐小题按语义评价",
         "不知道、未填写与错误分开"
       ],
-      "answer_fragments": [],
+      "answer_fragments": [
+        {
+          "event_id": "EV-20261011-KIMPORT105-CSANSWER",
+          "on": "2026-10-11",
+          "text": "6个; 不知道; 不知道"
+        }
+      ],
       "events": [
         {
           "event_id": "EV-20261011-KIMPORT105-CSISSUE",
           "type": "issued",
           "on": "2026-10-11"
+        },
+        {
+          "event_id": "EV-20261011-KIMPORT105-CSGRADE",
+          "type": "evaluated",
+          "on": "2026-10-11",
+          "attempt_id": "A-20261011-K-IMPORT-105-CS01",
+          "result": "diagnostic_mixed"
         }
       ],
-      "status": "unanswered"
+      "status": "evaluated",
+      "evaluated_on": "2026-10-11"
     },
     {
       "id": "Q-20261011-KIMPORT109-CS01",
@@ -807,15 +877,29 @@
         "逐小题按语义评价",
         "不知道、未填写与错误分开"
       ],
-      "answer_fragments": [],
+      "answer_fragments": [
+        {
+          "event_id": "EV-20261011-KIMPORT109-CSANSWER",
+          "on": "2026-10-11",
+          "text": "顺序排列; 4; 跳出循环"
+        }
+      ],
       "events": [
         {
           "event_id": "EV-20261011-KIMPORT109-CSISSUE",
           "type": "issued",
           "on": "2026-10-11"
+        },
+        {
+          "event_id": "EV-20261011-KIMPORT109-CSGRADE",
+          "type": "evaluated",
+          "on": "2026-10-11",
+          "attempt_id": "A-20261011-K-IMPORT-109-CS01",
+          "result": "diagnostic_mixed"
         }
       ],
-      "status": "unanswered"
+      "status": "evaluated",
+      "evaluated_on": "2026-10-11"
     },
     {
       "id": "Q-20261011-KIMPORT112-CS01",
@@ -828,15 +912,29 @@
         "逐小题按语义评价",
         "不知道、未填写与错误分开"
       ],
-      "answer_fragments": [],
+      "answer_fragments": [
+        {
+          "event_id": "EV-20261011-KIMPORT112-CSANSWER",
+          "on": "2026-10-11",
+          "text": "x的值; 9; 取x的地址"
+        }
+      ],
       "events": [
         {
           "event_id": "EV-20261011-KIMPORT112-CSISSUE",
           "type": "issued",
           "on": "2026-10-11"
+        },
+        {
+          "event_id": "EV-20261011-KIMPORT112-CSGRADE",
+          "type": "evaluated",
+          "on": "2026-10-11",
+          "attempt_id": "A-20261011-K-IMPORT-112-CS01",
+          "result": "diagnostic_mixed"
         }
       ],
-      "status": "unanswered"
+      "status": "evaluated",
+      "evaluated_on": "2026-10-11"
     }
   ]
 }

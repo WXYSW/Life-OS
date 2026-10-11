@@ -7,14 +7,62 @@
   "content": "\n是一块代码，接收零个或多个参数，做一件事情，并返回零个或一个值\n如\n\n==void（返回类型） sum（函数名）(int begin, int end)（参数表)==   //函数头\n{\n\t==int i;==\n\t==int sum =0;==\n\t==for ( i=begin; i<=end; i++)==     //函数体\n\t=={==\n\t\t==sum += i;==\n\t==}==\n\t==printf(\"%d到%d的和是%d\\n\",begin,end,sum);==\n}\n",
   "priority": "normal",
   "id": "K-IMPORT-101",
-  "status": "needs_validation",
-  "stage": -1,
-  "due": null,
-  "last_review": null,
-  "understanding": "unassessed",
+  "status": "review",
+  "stage": 0,
+  "due": "2026-10-12",
+  "last_review": "2026-10-11",
+  "understanding": "needs_relearning",
   "kind": "imported_unverified",
-  "attempt_ids": [],
-  "rule_version": "ladder-v1",
+  "attempt_ids": [
+    "A-20261011-K-IMPORT-101-CS01"
+  ],
+  "rule_version": "ladder-v2",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "question_state": "evaluated",
+  "review_phase": "consolidation",
+  "consolidation_passes": 0,
+  "long_interval_passes": 0,
+  "recent_review_outcomes": [
+    "wrong"
+  ],
+  "scheduled_interval_days": 1,
+  "actual_gap_days": null,
+  "schedule_reason": "first_diagnostic_gaps_or_unknown",
+  "mastery": {
+    "recall": {
+      "state": "gap",
+      "evidence_id": "A-20261011-K-IMPORT-101-CS01",
+      "observed_on": "2026-10-11",
+      "basis": "correct 1; partial 0; wrong 0; unknown 1"
+    },
+    "explain": {
+      "state": "unknown",
+      "evidence_id": null
+    },
+    "apply": {
+      "state": "unknown",
+      "evidence_id": null
+    }
+  },
+  "learning_events": [
+    {
+      "id": "EV-20261011-KIMPORT101-CSGRADE",
+      "day": "2026-10-11",
+      "knowledge_id": "K-IMPORT-101",
+      "question_id": "Q-20261011-KIMPORT101-CS01",
+      "action": "diagnose",
+      "dimension": "recall",
+      "outcome": "wrong",
+      "independent": "not_reported",
+      "delayed": false,
+      "transfer": false,
+      "schedule_eligible": true,
+      "basis": "Unknown and partial preserved per question, not counted as wrong.",
+      "question_version": "questions-v1",
+      "planner_version": "learning-v2",
+      "error_type": "unknown",
+      "schedule_rule_version": "ladder-v2"
+    }
+  ]
 }

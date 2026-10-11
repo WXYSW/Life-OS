@@ -7,14 +7,62 @@
   "content": "字面理解就是将要判断的数据不断二分从而找到要的数据\n\n对于有序的数组好用学[[排序初步二分法前提]]\n\n具体实操方案如\n#include<stdio.h>\nint  search(int key, int a[], int len)\n{\n\tint ret = -1;\n\tint left = 0;\n\tint right = len-1;\n\twhile(right>left)\n\t{\n\t\tint mid = (left+right)/2;\n\t\tif ( a[mid] == k)\n\t\t{\n\t\t\t ret = mid;\n\t\t\t break;\n\t\t}else if( a[mid]>k)\n\t\t{\n\t\t\tright = mid-1;\n\t\t}else {\n\t\t\tleft = mid+1;\n\t\t}\n\t}\n\treturn ret;\n}\nint main()\n{\n\tint k = 10;\n\tint r  = search(k, amount, sizeof(amount)/sizeof(amount[0]) );\n\treturn 0;\n}",
   "priority": "normal",
   "id": "K-IMPORT-109",
-  "status": "needs_validation",
-  "stage": -1,
-  "due": null,
-  "last_review": null,
-  "understanding": "unassessed",
+  "status": "review",
+  "stage": 0,
+  "due": "2026-10-12",
+  "last_review": "2026-10-11",
+  "understanding": "needs_relearning",
   "kind": "imported_unverified",
-  "attempt_ids": [],
-  "rule_version": "ladder-v1",
+  "attempt_ids": [
+    "A-20261011-K-IMPORT-109-CS01"
+  ],
+  "rule_version": "ladder-v2",
   "visibility": "public",
-  "imported_on": "2026-10-11"
+  "imported_on": "2026-10-11",
+  "question_state": "evaluated",
+  "review_phase": "consolidation",
+  "consolidation_passes": 0,
+  "long_interval_passes": 0,
+  "recent_review_outcomes": [
+    "wrong"
+  ],
+  "scheduled_interval_days": 1,
+  "actual_gap_days": null,
+  "schedule_reason": "first_diagnostic_gaps_or_unknown",
+  "mastery": {
+    "recall": {
+      "state": "gap",
+      "evidence_id": "A-20261011-K-IMPORT-109-CS01",
+      "observed_on": "2026-10-11",
+      "basis": "correct 1; partial 1; wrong 1; unknown 0"
+    },
+    "explain": {
+      "state": "unknown",
+      "evidence_id": null
+    },
+    "apply": {
+      "state": "unknown",
+      "evidence_id": null
+    }
+  },
+  "learning_events": [
+    {
+      "id": "EV-20261011-KIMPORT109-CSGRADE",
+      "day": "2026-10-11",
+      "knowledge_id": "K-IMPORT-109",
+      "question_id": "Q-20261011-KIMPORT109-CS01",
+      "action": "diagnose",
+      "dimension": "recall",
+      "outcome": "wrong",
+      "independent": "not_reported",
+      "delayed": false,
+      "transfer": false,
+      "schedule_eligible": true,
+      "basis": "Unknown and partial preserved per question, not counted as wrong.",
+      "question_version": "questions-v1",
+      "planner_version": "learning-v2",
+      "error_type": "unknown",
+      "schedule_rule_version": "ladder-v2"
+    }
+  ]
 }

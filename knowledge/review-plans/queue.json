@@ -1311,15 +1311,24 @@
     "id": "K-IMPORT-088",
     "title": "数组初始化",
     "priority": "normal",
-    "status": "needs_validation",
-    "stage": -1,
-    "due": null,
-    "last_review": null,
-    "understanding": "unassessed",
-    "rule_version": "ladder-v1",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "understanding": "needs_relearning",
+    "rule_version": "ladder-v2",
     "source_ids": [
       "SRC-085"
-    ]
+    ],
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "wrong"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "first_diagnostic_gaps_or_unknown"
   },
   {
     "id": "K-IMPORT-089",
@@ -1437,29 +1446,47 @@
     "id": "K-IMPORT-097",
     "title": "1函数原型声明",
     "priority": "normal",
-    "status": "needs_validation",
-    "stage": -1,
-    "due": null,
-    "last_review": null,
-    "understanding": "unassessed",
-    "rule_version": "ladder-v1",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "understanding": "unassessed_after_diagnostic",
+    "rule_version": "ladder-v2",
     "source_ids": [
       "SRC-094"
-    ]
+    ],
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "wrong"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "first_diagnostic_gaps_or_unknown"
   },
   {
     "id": "K-IMPORT-098",
     "title": "2传值，参数和值的关系",
     "priority": "normal",
-    "status": "needs_validation",
-    "stage": -1,
-    "due": null,
-    "last_review": null,
-    "understanding": "unassessed",
-    "rule_version": "ladder-v1",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "understanding": "needs_relearning",
+    "rule_version": "ladder-v2",
     "source_ids": [
       "SRC-095"
-    ]
+    ],
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "wrong"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "first_diagnostic_gaps_or_unknown"
   },
   {
     "id": "K-IMPORT-099",
@@ -1493,15 +1520,24 @@
     "id": "K-IMPORT-101",
     "title": "函数的定义",
     "priority": "normal",
-    "status": "needs_validation",
-    "stage": -1,
-    "due": null,
-    "last_review": null,
-    "understanding": "unassessed",
-    "rule_version": "ladder-v1",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "understanding": "needs_relearning",
+    "rule_version": "ladder-v2",
     "source_ids": [
       "SRC-098"
-    ]
+    ],
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "wrong"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "first_diagnostic_gaps_or_unknown"
   },
   {
     "id": "K-IMPORT-102",
@@ -1549,15 +1585,24 @@
     "id": "K-IMPORT-105",
     "title": "13.二维数组",
     "priority": "normal",
-    "status": "needs_validation",
-    "stage": -1,
-    "due": null,
-    "last_review": null,
-    "understanding": "unassessed",
-    "rule_version": "ladder-v1",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "understanding": "needs_relearning",
+    "rule_version": "ladder-v2",
     "source_ids": [
       "SRC-102"
-    ]
+    ],
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "wrong"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "first_diagnostic_gaps_or_unknown"
   },
   {
     "id": "K-IMPORT-106",
@@ -1605,15 +1650,24 @@
     "id": "K-IMPORT-109",
     "title": "二分搜索",
     "priority": "normal",
-    "status": "needs_validation",
-    "stage": -1,
-    "due": null,
-    "last_review": null,
-    "understanding": "unassessed",
-    "rule_version": "ladder-v1",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "understanding": "needs_relearning",
+    "rule_version": "ladder-v2",
     "source_ids": [
       "SRC-106"
-    ]
+    ],
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "wrong"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "first_diagnostic_gaps_or_unknown"
   },
   {
     "id": "K-IMPORT-110",
@@ -1647,15 +1701,24 @@
     "id": "K-IMPORT-112",
     "title": "指针",
     "priority": "normal",
-    "status": "needs_validation",
-    "stage": -1,
-    "due": null,
-    "last_review": null,
-    "understanding": "unassessed",
-    "rule_version": "ladder-v1",
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-12",
+    "last_review": "2026-10-11",
+    "understanding": "needs_relearning",
+    "rule_version": "ladder-v2",
     "source_ids": [
       "SRC-110"
-    ]
+    ],
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "wrong"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "first_diagnostic_gaps_or_unknown"
   },
   {
     "id": "K-IMPORT-113",
