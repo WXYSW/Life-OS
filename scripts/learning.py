@@ -244,21 +244,23 @@ def main(argv=None):
     p.add_argument('--day', required=True)
     p.add_argument('--root', type=Path, default=ROOT)
     p.add_argument('--new-limit', type=int, default=None)
-    p.add_argument('--mode', choices=['review','diagnose'], default='review')
-    p.add_argument('--review-limit', type=int, default=CONFIG['review_limit'])
+    p.add_argument('--mode', choices=['review','diagnose','reinforce'], default='review')
+    p.add_argument('--review-limit', type=int, default=None)
+    p.add_argument('--profile', choices=['light','standard','deep'], default='standard')
+    p.add_argument('--assigned', action='append', default=[])
     p.add_argument('--minutes', type=int)
     p.add_argument('--focus-goal')
     p.add_argument('--energy', choices=['low','normal','high'], default='normal')
     a = p.parse_args(argv)
     from lifecycle import load, plan
     items, goals = load(a.root)
-    if a.mode == 'review' and a.new_limit not in (None, 0):
+    if a.mode != 'diagnose' and a.new_limit not in (None, 0):
         p.error('Use --mode diagnose to explicitly request intake testing')
-    limit = a.review_limit if a.mode == 'review' else (a.new_limit if a.new_limit is not None else CONFIG['new_limit'])
+    limit = a.review_limit if a.mode != 'diagnose' else (a.new_limit if a.new_limit is not None else CONFIG['new_limit'])
     if a.focus_goal:
         a.focus_goal = next((g['id'] for g in goals if a.focus_goal == g['id'] or a.focus_goal in g.get('aliases', [])), a.focus_goal)
     print(json.dumps(plan(items, goals, a.day, mode=a.mode, limit=limit,
-                          minutes=a.minutes, focus_goal=a.focus_goal, energy=a.energy), ensure_ascii=False, indent=2))
+                          minutes=a.minutes, focus_goal=a.focus_goal, energy=a.energy, profile=a.profile, assigned=a.assigned), ensure_ascii=False, indent=2))
 
 
 

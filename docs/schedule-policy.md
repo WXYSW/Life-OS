@@ -36,3 +36,10 @@ learning.record_evidence将这些参数转交；讲解relearn和即时练习prac
 ## 独立范围与派生索引
 
 现行ladder-v2只作用于KP实体的schedule；queue由生命周期路由派生，禁止手工改队列日期。目标完成仅重检引用，不改变记忆日期。历史资料的旧stage/due作为迁移快照保留，不参与派题。新知识须用户主动诊断。
+
+
+## review-v3：调度和强化边界（2026-10-12）
+
+本次不改grade函数或已有日期。正常复习仍由due决定资格，使用基于到期、逾期和真实表现的风险标签排序。memory保存已观察的保持间隔与记忆状态，不把它当作概率预测。
+
+reinforce、practice、relearn强制schedule_eligible=false；同日上述练习暴露后的正式回答也不推进阶梯。每次事件由引擎记录schedule_changed和memory_effect；长期验证只取不同日期的足间隔独立稳定正式成功，正式失败后重新积累。个体化间隔开关保持关闭。

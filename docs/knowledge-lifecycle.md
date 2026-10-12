@@ -24,13 +24,13 @@ flowchart TD
 - goal_links：目标ID、关系、版本化大纲ID、章节、匹配理由、重要性及适用性；允许多个。
 - mastery/evidence：具体维度的表现与精简证据。
 - schedule：每个KP范围独立的ladder-v2状态。
-- routing：派生的intake/review/retained/classification_pending/decision_required/archived。
+- routing：派生的intake/review/verification_pending/assessment_pending/retained/classification_pending/decision_required/archived。
 
-未测知识先处于intake，即使暂时不知道目标关系也能由用户主动诊断。测试后有关联才安排复习。unknown和partial保留原结果，需补充评价；不能未经判断当成wrong自动降级。未答、skip不改变掌握或复习日期。
+未测知识先处于intake，即使暂时不知道目标关系也能由用户主动诊断。测试后须有活跃关联、核验依据、有效测试证据与日期，才进入正式复习；核验不足归verification_pending，未形成有效初次调度归assessment_pending，显式diagnose可补测。unknown和partial保留原结果，需补充评价；不能未经判断当成wrong自动降级。未答、skip不改变掌握或复习日期。
 
 ## 目标关联和完成
 
-直接要求或必要基础需有版本化大纲/个人目标要求及章节。脚本校验引用存在，不替代助手对内容的语义核对。没有匹配记录、适用性未确认或关系uncertain都视作未完成分类，不生成删除建议。重要性未知用null，不臆造考频。
+直接要求、必要基础或一般相关需有版本化大纲/个人目标要求及章节。可补充mastery_requirement和requirement_basis，分别表达目标对本知识的要求；不明确时保留null。脚本校验引用存在，不替代助手对内容的语义核对。没有匹配记录、适用性未确认或关系uncertain都视作未完成分类，不生成删除建议。重要性未知用null，不臆造考频。
 
 关闭目标时保留历史关联，重算所有引用。其他活跃目标需要则继续复习；未来目标需要则保留；不确定则待分类；无任何未关闭目标需要才询问归档、兴趣保留或删除。保留为兴趣默认不自动复习，需要长期维护时可建立明确的个人目标要求。
 
@@ -67,3 +67,7 @@ python scripts/catalogue.py --validate
 仅47个实际被测范围拥有历史诊断证据，总计53份范围评价、19次诊断。只为这些范围继承对应旧日期；未测子项没有到期日，不继承父模块掌握程度。独立性与维度未知的历史证据保持未知。原调度快照保存在knowledge/migrations/，不参与派题。
 
 生活数据和报告不参与此次迁移。C/Shell原73条资料对应的119个范围保持归档。24条计算机历史补录仅进入待检测，原学习日期未知，不产生历史复习债务。
+
+## review-v3接入
+
+正式复习资格、目标需求、证据风险及每轮数量见[动态复习系统](review-system.md)。标准轮最多5个范围，不代表固定题数或每日任务。轻量/深度显式选择；目标强化使用reinforce，不推进阶梯。原迁移事实段为2026-10-11快照，后续作答数量以实时统计为准。

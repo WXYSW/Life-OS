@@ -26,7 +26,10 @@
       "section_ids": [],
       "importance": null,
       "applicability": "pending",
-      "checked_on": "2026-10-11"
+      "checked_on": "2026-10-11",
+      "relevance": "uncertain",
+      "mastery_requirement": null,
+      "requirement_basis": null
     },
     {
       "goal_id": "G-UPGRADE",
@@ -38,7 +41,10 @@
       ],
       "importance": null,
       "applicability": "confirmed",
-      "checked_on": "2026-10-11"
+      "checked_on": "2026-10-11",
+      "relevance": "required",
+      "mastery_requirement": null,
+      "requirement_basis": null
     },
     {
       "goal_id": "G-CS-ABROAD",
@@ -48,7 +54,10 @@
       "section_ids": [],
       "importance": null,
       "applicability": "pending",
-      "checked_on": "2026-10-11"
+      "checked_on": "2026-10-11",
+      "relevance": "uncertain",
+      "mastery_requirement": null,
+      "requirement_basis": null
     }
   ],
   "evidence": [
@@ -113,6 +122,32 @@
   "content_note": "范围标题；教学与评分前按来源核验，不将父资料全部内容视作本范围。",
   "subject_id": "SUB-EN",
   "module_id": "MOD-EN-756b595bf1",
-  "routing_checked_on": "2026-10-11",
-  "weakness": "Confuses -f/-fe plurals with exceptions."
+  "routing_checked_on": "2026-10-12",
+  "weakness": "Confuses -f/-fe plurals with exceptions.",
+  "memory": {
+    "as_of": "2026-10-12",
+    "model": "ladder-v2-cold-start",
+    "state": "consolidation",
+    "risk": "high",
+    "risk_basis": "ordinal_due_and_observed_performance_not_probability",
+    "observed_stability_days": null,
+    "stability_basis": "median_full_gap_independent_stable_passes_since_lapse",
+    "supporting_passes": 0,
+    "long_interval_successes": 0,
+    "long_term_verified": false,
+    "elapsed_days": 1,
+    "overdue_days": 0,
+    "next_review": "2026-10-12",
+    "due_now": true,
+    "long_unvalidated": false,
+    "latest_result": "wrong",
+    "critical_failure": true,
+    "effortful": false,
+    "error_type": "conceptual",
+    "reasons": [
+      "今日到期",
+      "最近测试有错误或依赖提示，需独立验证",
+      "错误类型为理解或概念缺口"
+    ]
+  }
 }

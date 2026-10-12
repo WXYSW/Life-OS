@@ -43,6 +43,7 @@ def load_context(root, items, questions):
 
 def statistics(root=ROOT):
     from lifecycle import load, classify
+    from review_engine import memory_snapshot
     root=Path(root)
     items,goals=load(root)
     sources=[json.loads(p.read_text()) for p in (root/'knowledge/items').glob('*.json')]
@@ -53,8 +54,9 @@ def statistics(root=ROOT):
     archived_legacy={i['id'] for i in sources if i.get('status')=='paused'}
     return dict(version='taxonomy-v2',source_entries=len(sources),
                 canonical_assessable_scopes=len(items),canonical_scopes_with_diagnostic_evidence=len(observed),
-                canonical_long_term_verified=sum(sum(e.get('outcome')=='correct' and e.get('independent') is True and e.get('schedule_eligible') is True and e.get('action') not in ('practice','relearn') and (e.get('actual_gap_days') or 0)>=30 for e in i.get('evidence',[]))>=2 for i in items),
+                canonical_long_term_verified=sum(memory_snapshot(i, i.get('routing_checked_on') or '2026-10-11')['long_term_verified'] for i in items),
                 unique_attempts=len({e.get('legacy_attempt_id',e['id']) for e in evidence}),
+                historical_unique_attempts=len({e['legacy_attempt_id'] for e in evidence if e.get('legacy_attempt_id')}),
                 mapped_subanswer_evidence=len(evidence),legacy_entries_with_attempts=len(assessed_legacy),
                 archived_legacy_entries=len(archived_legacy),active_legacy_entries_with_attempts=len(assessed_legacy-archived_legacy),
                 lifecycle_counts=dict(Counter(classify(i,goals)['route'] for i in items)),

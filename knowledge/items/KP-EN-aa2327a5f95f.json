@@ -25,7 +25,10 @@
       "section_ids": [],
       "importance": null,
       "applicability": "pending",
-      "checked_on": "2026-10-11"
+      "checked_on": "2026-10-11",
+      "relevance": "uncertain",
+      "mastery_requirement": null,
+      "requirement_basis": null
     },
     {
       "goal_id": "G-UPGRADE",
@@ -37,7 +40,10 @@
       ],
       "importance": null,
       "applicability": "confirmed",
-      "checked_on": "2026-10-11"
+      "checked_on": "2026-10-11",
+      "relevance": "required",
+      "mastery_requirement": null,
+      "requirement_basis": null
     },
     {
       "goal_id": "G-CS-ABROAD",
@@ -47,7 +53,10 @@
       "section_ids": [],
       "importance": null,
       "applicability": "pending",
-      "checked_on": "2026-10-11"
+      "checked_on": "2026-10-11",
+      "relevance": "uncertain",
+      "mastery_requirement": null,
+      "requirement_basis": null
     }
   ],
   "evidence": [
@@ -92,7 +101,7 @@
     "rule_version": "ladder-v2"
   },
   "routing": {
-    "route": "review",
+    "route": "verification_pending",
     "active_goal_ids": [
       "G-UPGRADE"
     ],
@@ -117,5 +126,29 @@
   "weakness": null,
   "subject_id": "SUB-EN",
   "module_id": "MOD-EN-4a7c1d9c9a",
-  "routing_checked_on": "2026-10-11"
+  "routing_checked_on": "2026-10-12",
+  "memory": {
+    "as_of": "2026-10-12",
+    "model": "ladder-v2-cold-start",
+    "state": "unverified",
+    "risk": "due",
+    "risk_basis": "ordinal_due_and_observed_performance_not_probability",
+    "observed_stability_days": null,
+    "stability_basis": "median_full_gap_independent_stable_passes_since_lapse",
+    "supporting_passes": 0,
+    "long_interval_successes": 0,
+    "long_term_verified": false,
+    "elapsed_days": 1,
+    "overdue_days": 0,
+    "next_review": "2026-10-12",
+    "due_now": true,
+    "long_unvalidated": false,
+    "latest_result": "correct",
+    "critical_failure": false,
+    "effortful": false,
+    "error_type": "unknown",
+    "reasons": [
+      "今日到期"
+    ]
+  }
 }

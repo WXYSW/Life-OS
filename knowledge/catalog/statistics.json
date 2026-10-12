@@ -4,15 +4,18 @@
   "canonical_assessable_scopes": 277,
   "canonical_scopes_with_diagnostic_evidence": 56,
   "canonical_long_term_verified": 0,
-  "unique_attempts": 19,
-  "mapped_subanswer_evidence": 53,
+  "unique_attempts": 28,
+  "historical_unique_attempts": 19,
+  "mapped_subanswer_evidence": 62,
   "legacy_entries_with_attempts": 19,
   "archived_legacy_entries": 73,
   "active_legacy_entries_with_attempts": 12,
   "lifecycle_counts": {
     "archived": 119,
     "intake": 120,
-    "review": 37,
+    "assessment_pending": 3,
+    "review": 12,
+    "verification_pending": 22,
     "classification_pending": 1
   },
   "verification_counts": {

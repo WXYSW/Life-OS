@@ -31,7 +31,7 @@
     "ask_each_time": false,
     "user_explicit_exclusions_override": true
   },
-  "planner_version": "lifecycle-v1",
+  "planner_version": "review-v3",
   "planner_entrypoint": "scripts/learning.py",
   "legacy_selector": "scripts/review.py select (compatibility only)",
   "schedule_policy": {
@@ -52,5 +52,19 @@
   "default_mode": "review",
   "diagnosis_trigger": "explicit_user_request",
   "queue_policy": "derived_from_canonical_knowledge",
-  "knowledge_entity_prefix": "KP-"
+  "knowledge_entity_prefix": "KP-",
+  "round_profiles": {
+    "light": {
+      "max_scopes": 3
+    },
+    "standard": {
+      "max_scopes": 5
+    },
+    "deep": {
+      "max_scopes": 8
+    }
+  },
+  "memory_model": "ladder-v2-cold-start",
+  "risk_model": "ordinal_observed_evidence",
+  "adaptive_intervals_enabled": false
 }

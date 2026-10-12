@@ -13,5 +13,6 @@
   "quality": "stable",
   "error_type": "unknown",
   "weakness": null,
-  "lookup_used": null
+  "lookup_used": null,
+  "target_date": null
 }

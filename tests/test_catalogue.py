@@ -16,7 +16,7 @@ class CatalogueTests(unittest.TestCase):
   self.assertEqual(stats['source_entries'],161)
   self.assertEqual(stats['archived_legacy_entries'],73)
   self.assertEqual(stats['canonical_long_term_verified'],0)
-  self.assertEqual(stats['unique_attempts'],19)
+  self.assertEqual(stats['historical_unique_attempts'],19)
  def test_partial_overlap_preserves_remaining_scope(self):
   p=plan_actions([item('A',['X']),item('B',['X','Y'])],[],[dict(id='G',status='active')],'2026-10-12',new_limit=2)
   self.assertEqual([a['canonical_ids'] for a in p['actions']],[['X'],['Y']])

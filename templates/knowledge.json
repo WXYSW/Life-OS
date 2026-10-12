@@ -26,5 +26,6 @@
     "future_goal_ids": [],
     "unresolved_goal_ids": []
   },
-  "lifecycle_version": "lifecycle-v1"
+  "lifecycle_version": "lifecycle-v1",
+  "memory": null
 }

@@ -16,7 +16,9 @@ DAY='2026-10-11'
 def goals():return [dict(id='G1',status='active'),dict(id='G2',status='active')]
 def item(k='KP-A',tested=False):
     i=verify_content(create_intake(k,'概念'+k,['S'],DAY),'已核验教材定义',DAY)
-    if tested:i.update(assessment='tested',schedule=dict(status='review',stage=0,due='2026-10-12',last_review=DAY,scheduled_interval_days=1))
+    if tested:
+        i.update(assessment='tested',schedule=dict(status='review',stage=0,due='2026-10-12',last_review=DAY,scheduled_interval_days=1))
+        i['evidence']=[dict(id='INITIAL-'+k,day=DAY,action='diagnose',dimension='recall',outcome='correct',independent=True,delayed=False,transfer=False,schedule_eligible=True,basis='独立首次测试',quality='stable',actual_gap_days=None,scheduled_interval_before=None)]
     return i
 def match(i,g='G1',rel='direct'):
     return set_match(i,goals(),g,rel,DAY,basis='大纲条目核对',syllabus_id='S1',section_ids=['SEC'])
@@ -115,8 +117,8 @@ class LifecycleTests(unittest.TestCase):
         self.assertEqual(len(plan(items,goals(),'2026-10-12',assigned=['KP-0'])['actions']),3)
     def test_migration_preserves_evidence_dates_and_archives(self):
         items,gs=load(ROOT);self.assertEqual(len(items),277)
-        self.assertEqual(sum(len(i['evidence']) for i in items),53)
-        self.assertEqual(sum(i['assessment']=='tested' for i in items),47)
+        self.assertEqual(sum(e.get('migration') is True for i in items for e in i['evidence']),53)
+        self.assertEqual(sum(any(e.get('migration') for e in i['evidence']) for i in items),47)
         for i in items:
             if i['assessment']=='untested':self.assertIsNone(i['schedule'].get('due'))
             if i.get('schedule_migration'):self.assertEqual(i['schedule']['due'],'2026-10-12')

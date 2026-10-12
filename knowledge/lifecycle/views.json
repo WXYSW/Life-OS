@@ -1,6 +1,6 @@
 {
   "version": "lifecycle-v1",
-  "as_of": "2026-10-11",
+  "as_of": "2026-10-12",
   "views": {
     "intake": [
       "KP-CS-05cb3d1d06b8",
@@ -125,43 +125,47 @@
       "KP-MA-fbba9773b5c1"
     ],
     "review": [
-      "KP-EN-00b6ae1e82ec",
-      "KP-EN-0440b305ef4d",
-      "KP-EN-08b3e867a63c",
       "KP-EN-0b1c482c7cd2",
       "KP-EN-10e71ca02f61",
       "KP-EN-1574b770dfb2",
-      "KP-EN-1b527cb6c85a",
       "KP-EN-1d8c6f942af1",
       "KP-EN-2335f29d6952",
-      "KP-EN-27b39149dded",
-      "KP-EN-28b86b014605",
-      "KP-EN-2a76a4a1a4d6",
       "KP-EN-355eb17b233c",
       "KP-EN-36ffe3c739a5",
       "KP-EN-3ef441d27e2a",
+      "KP-EN-6bdbb2bafebe",
+      "KP-EN-c6d403c06778",
+      "KP-EN-ef6d04043862",
+      "KP-EN-f0a06217c070"
+    ],
+    "verification_pending": [
+      "KP-EN-1b527cb6c85a",
+      "KP-EN-27b39149dded",
+      "KP-EN-28b86b014605",
+      "KP-EN-2a76a4a1a4d6",
       "KP-EN-43a573b2ae45",
       "KP-EN-4c7445da75bd",
       "KP-EN-4e8db660a4be",
       "KP-EN-522c16f25046",
       "KP-EN-556983d3bfef",
       "KP-EN-5c8e044c0f93",
-      "KP-EN-6bdbb2bafebe",
       "KP-EN-700312035b3f",
       "KP-EN-72a7067776c8",
       "KP-EN-84acd4064f95",
       "KP-EN-91fe8a4d6e1f",
       "KP-EN-aa2327a5f95f",
       "KP-EN-bfeace6f98d0",
-      "KP-EN-c6d403c06778",
       "KP-EN-cab9442adc0f",
       "KP-EN-d97a919cc217",
       "KP-EN-db8731bbcd80",
       "KP-EN-df8aa7b2f4eb",
       "KP-EN-e4999df997c2",
-      "KP-EN-ef6d04043862",
-      "KP-EN-f0a06217c070",
       "KP-EN-f8c153876f83"
+    ],
+    "assessment_pending": [
+      "KP-EN-00b6ae1e82ec",
+      "KP-EN-0440b305ef4d",
+      "KP-EN-08b3e867a63c"
     ],
     "archived": [
       "KP-CS-012fcdd5236a",
@@ -292,7 +296,9 @@
   },
   "counts": {
     "intake": 120,
-    "review": 37,
+    "review": 12,
+    "verification_pending": 22,
+    "assessment_pending": 3,
     "archived": 119,
     "retained": 0,
     "classification_pending": 1,

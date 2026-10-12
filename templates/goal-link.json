@@ -6,5 +6,8 @@
   "section_ids": [],
   "importance": null,
   "applicability": "pending",
-  "checked_on": null
+  "checked_on": null,
+  "relevance": "uncertain",
+  "mastery_requirement": null,
+  "requirement_basis": null
 }

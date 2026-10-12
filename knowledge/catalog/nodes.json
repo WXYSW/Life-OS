@@ -752,7 +752,12 @@
       "source_ids": [
         "SRC-067"
       ],
-      "evidence_refs": [],
+      "evidence_refs": [
+        {
+          "knowledge_id": "KP-EN-2335f29d6952",
+          "evidence_id": "A-20261011-BATCH3-9d6952"
+        }
+      ],
       "content_validation": "not_inferred_from_cataloguing",
       "assessable": true,
       "knowledge_id": "KP-EN-2335f29d6952"
@@ -902,7 +907,12 @@
       "source_ids": [
         "SRC-070"
       ],
-      "evidence_refs": [],
+      "evidence_refs": [
+        {
+          "knowledge_id": "KP-EN-0b1c482c7cd2",
+          "evidence_id": "A-20261011-BATCH2-F-FE"
+        }
+      ],
       "content_validation": "not_inferred_from_cataloguing",
       "assessable": true,
       "knowledge_id": "KP-EN-0b1c482c7cd2"
@@ -918,7 +928,12 @@
       "source_ids": [
         "SRC-070"
       ],
-      "evidence_refs": [],
+      "evidence_refs": [
+        {
+          "knowledge_id": "KP-EN-08b3e867a63c",
+          "evidence_id": "A-20261011-EN-O-PLURAL"
+        }
+      ],
       "content_validation": "not_inferred_from_cataloguing",
       "assessable": true,
       "knowledge_id": "KP-EN-08b3e867a63c"
@@ -1021,7 +1036,12 @@
       "source_ids": [
         "SRC-071"
       ],
-      "evidence_refs": [],
+      "evidence_refs": [
+        {
+          "knowledge_id": "KP-EN-0440b305ef4d",
+          "evidence_id": "A-20261011-EN-SUPERLATIVE"
+        }
+      ],
       "content_validation": "not_inferred_from_cataloguing",
       "assessable": true,
       "knowledge_id": "KP-EN-0440b305ef4d"
@@ -1161,7 +1181,12 @@
       "source_ids": [
         "SRC-076"
       ],
-      "evidence_refs": [],
+      "evidence_refs": [
+        {
+          "knowledge_id": "KP-EN-355eb17b233c",
+          "evidence_id": "A-20261011-BATCH4-7b233c"
+        }
+      ],
       "content_validation": "not_inferred_from_cataloguing",
       "assessable": true,
       "knowledge_id": "KP-EN-355eb17b233c"
@@ -1349,7 +1374,12 @@
       "source_ids": [
         "SRC-076"
       ],
-      "evidence_refs": [],
+      "evidence_refs": [
+        {
+          "knowledge_id": "KP-EN-1d8c6f942af1",
+          "evidence_id": "A-20261011-BATCH3-942af1"
+        }
+      ],
       "content_validation": "not_inferred_from_cataloguing",
       "assessable": true,
       "knowledge_id": "KP-EN-1d8c6f942af1"
@@ -1533,7 +1563,12 @@
       "source_ids": [
         "SRC-076"
       ],
-      "evidence_refs": [],
+      "evidence_refs": [
+        {
+          "knowledge_id": "KP-EN-36ffe3c739a5",
+          "evidence_id": "A-20261011-BATCH4-c739a5"
+        }
+      ],
       "content_validation": "not_inferred_from_cataloguing",
       "assessable": true,
       "knowledge_id": "KP-EN-36ffe3c739a5"
@@ -1804,7 +1839,12 @@
       "source_ids": [
         "SRC-076"
       ],
-      "evidence_refs": [],
+      "evidence_refs": [
+        {
+          "knowledge_id": "KP-EN-10e71ca02f61",
+          "evidence_id": "A-20261011-BATCH2-CONTRAST"
+        }
+      ],
       "content_validation": "not_inferred_from_cataloguing",
       "assessable": true,
       "knowledge_id": "KP-EN-10e71ca02f61"

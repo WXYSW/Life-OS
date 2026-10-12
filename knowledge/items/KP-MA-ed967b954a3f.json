@@ -25,7 +25,10 @@
       "section_ids": [],
       "importance": null,
       "applicability": "pending",
-      "checked_on": "2026-10-11"
+      "checked_on": "2026-10-11",
+      "relevance": "uncertain",
+      "mastery_requirement": null,
+      "requirement_basis": null
     },
     {
       "goal_id": "G-UPGRADE",
@@ -37,7 +40,10 @@
       ],
       "importance": null,
       "applicability": "pending",
-      "checked_on": "2026-10-11"
+      "checked_on": "2026-10-11",
+      "relevance": "required",
+      "mastery_requirement": null,
+      "requirement_basis": null
     },
     {
       "goal_id": "G-CS-ABROAD",
@@ -47,7 +53,10 @@
       "section_ids": [],
       "importance": null,
       "applicability": "pending",
-      "checked_on": "2026-10-11"
+      "checked_on": "2026-10-11",
+      "relevance": "uncertain",
+      "mastery_requirement": null,
+      "requirement_basis": null
     }
   ],
   "evidence": [],
@@ -75,5 +84,27 @@
   "content_note": "范围标题；教学与评分前按来源核验，不将父资料全部内容视作本范围。",
   "subject_id": "SUB-MA",
   "module_id": "MOD-MA-b39293baa3",
-  "routing_checked_on": "2026-10-11"
+  "routing_checked_on": "2026-10-12",
+  "memory": {
+    "as_of": "2026-10-12",
+    "model": "ladder-v2-cold-start",
+    "state": "unverified",
+    "risk": "unknown",
+    "risk_basis": "ordinal_due_and_observed_performance_not_probability",
+    "observed_stability_days": null,
+    "stability_basis": "median_full_gap_independent_stable_passes_since_lapse",
+    "supporting_passes": 0,
+    "long_interval_successes": 0,
+    "long_term_verified": false,
+    "elapsed_days": null,
+    "overdue_days": null,
+    "next_review": null,
+    "due_now": false,
+    "long_unvalidated": false,
+    "latest_result": null,
+    "critical_failure": false,
+    "effortful": false,
+    "error_type": "unknown",
+    "reasons": []
+  }
 }

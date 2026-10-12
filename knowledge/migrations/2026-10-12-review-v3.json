@@ -1,0 +1,30 @@
+{
+  "version": "review-v3",
+  "source_name": "未命名.md",
+  "source_sha256": "f2a48bdf9991a3a901c71d54afcaf9e3fb3fe0e84a3aecdd8703f2822d1ae1cd",
+  "source_library_id": "libfile_83a16e9269c8819187df5835115660fd",
+  "adopted_scope": [
+    "goal_mastery_requirements",
+    "ordinal_memory_summary",
+    "layered_priority",
+    "adaptive_rounds",
+    "explicit_targeted_practice"
+  ],
+  "deferred": [
+    "individualized_intervals",
+    "calibrated_forgetting_probability",
+    "learned_weights"
+  ],
+  "preserve": [
+    "all_evidence",
+    "all_schedule_dates_and_stages",
+    "life_records",
+    "archive_states"
+  ],
+  "engineering_defaults": {
+    "light_max_scopes": 3,
+    "standard_max_scopes": 5,
+    "deep_max_scopes": 8
+  },
+  "note": "只保存来源标识和实施摘要，不复制来源中的示例题库或演示数据。"
+}

@@ -151,58 +151,58 @@
 | KP-CS-fe05cd7f42d1 | 环境变量导出 | archived | K-IMPORT-130 |
 | KP-CS-fe18adede6f2 | 逻辑与或短路 | archived | K-IMPORT-138 |
 | KP-CS-ff9d29b36e8b | printf字段宽度 | archived | K-IMPORT-116 |
-| KP-EN-00b6ae1e82ec | 空间介词at/on/in | intake | K-IMPORT-005 |
+| KP-EN-00b6ae1e82ec | 空间介词at/on/in | assessment_pending | K-IMPORT-005 |
 | KP-EN-02a0513f0045 | 同时记忆多个信息 | intake | K-IMPORT-050 |
-| KP-EN-0440b305ef4d | 最高级形式 | intake | K-IMPORT-015 |
-| KP-EN-08b3e867a63c | 名词o词尾变化 | intake | K-IMPORT-014 |
-| KP-EN-0b1c482c7cd2 | 名词f或fe词尾变化 | intake | K-IMPORT-014 |
-| KP-EN-10e71ca02f61 | 理解复杂转折信息 | intake | K-IMPORT-052 |
+| KP-EN-0440b305ef4d | 最高级形式 | assessment_pending | K-IMPORT-015 |
+| KP-EN-08b3e867a63c | 名词o词尾变化 | assessment_pending | K-IMPORT-014 |
+| KP-EN-0b1c482c7cd2 | 名词f或fe词尾变化 | review | K-IMPORT-014 |
+| KP-EN-10e71ca02f61 | 理解复杂转折信息 | review | K-IMPORT-052 |
 | KP-EN-1574b770dfb2 | go过去式 | review | D-001, K-IMPORT-007, K-IMPORT-010 |
-| KP-EN-1b527cb6c85a | 主谓宾句型 | review | K-IMPORT-027 |
+| KP-EN-1b527cb6c85a | 主谓宾句型 | verification_pending | K-IMPORT-027 |
 | KP-EN-1d0fddfd1fb6 | 元音字母识别 | intake | K-IMPORT-001 |
-| KP-EN-1d8c6f942af1 | hope to do | intake | K-IMPORT-031 |
+| KP-EN-1d8c6f942af1 | hope to do | review | K-IMPORT-031 |
 | KP-EN-20306a1299df | 提出简单问题 | intake | K-IMPORT-058 |
-| KP-EN-2335f29d6952 | foot复数 | intake | K-IMPORT-011 |
-| KP-EN-27b39149dded | 比较级er词尾变化 | review | K-IMPORT-015, K-IMPORT-034 |
-| KP-EN-28b86b014605 | 时间介词in | review | K-IMPORT-005 |
-| KP-EN-2a76a4a1a4d6 | 比较级more结构 | review | K-IMPORT-015, K-IMPORT-034 |
-| KP-EN-355eb17b233c | 常见情绪与感受词汇 | intake | K-IMPORT-023 |
-| KP-EN-36ffe3c739a5 | 利用上下文推测意思 | intake | K-IMPORT-038 |
+| KP-EN-2335f29d6952 | foot复数 | review | K-IMPORT-011 |
+| KP-EN-27b39149dded | 比较级er词尾变化 | verification_pending | K-IMPORT-015, K-IMPORT-034 |
+| KP-EN-28b86b014605 | 时间介词in | verification_pending | K-IMPORT-005 |
+| KP-EN-2a76a4a1a4d6 | 比较级more结构 | verification_pending | K-IMPORT-015, K-IMPORT-034 |
+| KP-EN-355eb17b233c | 常见情绪与感受词汇 | review | K-IMPORT-023 |
+| KP-EN-36ffe3c739a5 | 利用上下文推测意思 | review | K-IMPORT-038 |
 | KP-EN-39acbc6b2d08 | 个人兴趣、目标相关词汇 | intake | K-IMPORT-022 |
 | KP-EN-3a8c5bfbef8f | 理解日常生活对话 | intake | K-IMPORT-044 |
 | KP-EN-3d851fa39390 | 描述个人感受 | intake | K-IMPORT-057 |
 | KP-EN-3ef441d27e2a | see现在分词 | review | D-002, K-IMPORT-008 |
 | KP-EN-435a7b181c09 | for对象与目的表达 | intake | K-IMPORT-006 |
-| KP-EN-43a573b2ae45 | child复数 | review | K-IMPORT-011 |
+| KP-EN-43a573b2ae45 | child复数 | verification_pending | K-IMPORT-011 |
 | KP-EN-44d23f3c9c49 | 相近词汇准确区分 | intake | K-IMPORT-025 |
 | KP-EN-45f36190c9a3 | 获取文章主要信息 | intake | K-IMPORT-037 |
 | KP-EN-49bc882fae56 | 写出简单完整句子 | intake | K-IMPORT-053 |
-| KP-EN-4c7445da75bd | 转折连接词选择 | review | K-IMPORT-035 |
-| KP-EN-4e8db660a4be | 非第三人称单数用原形 | review | K-IMPORT-029 |
+| KP-EN-4c7445da75bd | 转折连接词选择 | verification_pending | K-IMPORT-035 |
+| KP-EN-4e8db660a4be | 非第三人称单数用原形 | verification_pending | K-IMPORT-029 |
 | KP-EN-4f7c3a131622 | 学校、学习相关词汇 | intake | K-IMPORT-020 |
-| KP-EN-522c16f25046 | bring过去式 | review | K-IMPORT-007 |
+| KP-EN-522c16f25046 | bring过去式 | verification_pending | K-IMPORT-007 |
 | KP-EN-53e7f25f5ece | 自主检查语法错误 | intake | K-IMPORT-062 |
-| KP-EN-556983d3bfef | 不规则比较级 | review | K-IMPORT-015, K-IMPORT-034 |
-| KP-EN-5c8e044c0f93 | teach过去式 | review | K-IMPORT-007 |
+| KP-EN-556983d3bfef | 不规则比较级 | verification_pending | K-IMPORT-015, K-IMPORT-034 |
+| KP-EN-5c8e044c0f93 | teach过去式 | verification_pending | K-IMPORT-007 |
 | KP-EN-5ddcb41a7af0 | 捕捉时间信息 | intake | K-IMPORT-047 |
 | KP-EN-646417d2f391 | 形容词作表语 | intake | K-IMPORT-033 |
 | KP-EN-69db79980107 | 日常生活基础词汇 | intake | K-IMPORT-019 |
 | KP-EN-6b785ec41cfb | 理解部分抽象观点 | intake | K-IMPORT-039 |
 | KP-EN-6bdbb2bafebe | 辅音加y保留y加ing | review | D-002, K-IMPORT-008 |
 | KP-EN-6c61522029d9 | 名词加es | intake | K-IMPORT-014 |
-| KP-EN-700312035b3f | 去不发音e加ing | review | K-IMPORT-008 |
-| KP-EN-72a7067776c8 | 单复数同形名词 | review | K-IMPORT-011 |
+| KP-EN-700312035b3f | 去不发音e加ing | verification_pending | K-IMPORT-008 |
+| KP-EN-72a7067776c8 | 单复数同形名词 | verification_pending | K-IMPORT-011 |
 | KP-EN-7422ef17ffa8 | 识别简单原因 | intake | K-IMPORT-049 |
 | KP-EN-76831d62baa1 | ed与ing形容词辨析 | intake | K-IMPORT-016 |
 | KP-EN-7d669a661d30 | like doing | intake | K-IMPORT-032 |
 | KP-EN-7f13c897219d | 外来词复数 | intake | K-IMPORT-013 |
 | KP-EN-82564aa371ed | 流畅连续口语表达 | intake | K-IMPORT-061 |
-| KP-EN-84acd4064f95 | 理解转折关系 | review | K-IMPORT-042 |
+| KP-EN-84acd4064f95 | 理解转折关系 | verification_pending | K-IMPORT-042 |
 | KP-EN-882a6fed66c3 | 名词直接加s | intake | K-IMPORT-014 |
 | KP-EN-8d96ec0d000e | 双写末辅音加ed | intake | K-IMPORT-009 |
 | KP-EN-8e19afe46913 | 复合名词复数 | intake | K-IMPORT-013 |
 | KP-EN-8fa86064e676 | 避免双重比较级 | intake | K-IMPORT-034 |
-| KP-EN-91fe8a4d6e1f | 因果连接词选择 | review | K-IMPORT-035 |
+| KP-EN-91fe8a4d6e1f | 因果连接词选择 | verification_pending | K-IMPORT-035 |
 | KP-EN-982428c1d1e3 | 阅读条件关系 | intake | K-IMPORT-043 |
 | KP-EN-9d9abfe0bbb0 | 表达个人目标 | intake | K-IMPORT-055 |
 | KP-EN-a057b96ec7f3 | 听辨相近或关键名词 | intake | K-IMPORT-051 |
@@ -210,7 +210,7 @@
 | KP-EN-a0fc15d456ba | 主动调用词汇表达观点 | intake | K-IMPORT-026 |
 | KP-EN-a39aac04a18e | 连续组织多个句子 | intake | K-IMPORT-059 |
 | KP-EN-a582d837400d | 辅音加y变ied | intake | K-IMPORT-009 |
-| KP-EN-aa2327a5f95f | 时间介词at | review | K-IMPORT-005 |
+| KP-EN-aa2327a5f95f | 时间介词at | verification_pending | K-IMPORT-005 |
 | KP-EN-ac4ceb0d2179 | 快速调用词汇 | intake | K-IMPORT-060 |
 | KP-EN-babb8c7a03d1 | 主系表句型 | intake | K-IMPORT-028 |
 | KP-EN-bac1f18faec5 | 名词辅音加y变ies | intake | K-IMPORT-014 |
@@ -218,28 +218,28 @@
 | KP-EN-bb9e4c2c56f8 | 阅读较长文章 | intake | K-IMPORT-040 |
 | KP-EN-bba5aa8f71be | 阅读因果关系 | intake | K-IMPORT-043 |
 | KP-EN-bf0aafad9903 | 名词词义与可数性变化 | intake | K-IMPORT-013 |
-| KP-EN-bfeace6f98d0 | mouse复数 | review | K-IMPORT-011 |
+| KP-EN-bfeace6f98d0 | mouse复数 | verification_pending | K-IMPORT-011 |
 | KP-EN-c02787b4d638 | want to do | intake | K-IMPORT-030 |
 | KP-EN-c4d770bccb11 | 工作、职业相关基础词汇 | intake | K-IMPORT-021 |
 | KP-EN-c6d403c06778 | 进行时结构 | review | D-002 |
 | KP-EN-c8ff3407b80f | 理解学校安排 | intake | K-IMPORT-045 |
-| KP-EN-cab9442adc0f | 条件连接词选择 | review | K-IMPORT-035 |
+| KP-EN-cab9442adc0f | 条件连接词选择 | verification_pending | K-IMPORT-035 |
 | KP-EN-ccc92ccf9eda | 表达简单观点 | intake | K-IMPORT-056 |
 | KP-EN-ceaaff5664fe | 理解简单工作场景 | intake | K-IMPORT-046 |
 | KP-EN-d357c62056a8 | of关系表达 | intake | K-IMPORT-006 |
 | KP-EN-d713b5611c79 | 根据上下文推测词义 | intake | K-IMPORT-024 |
 | KP-EN-d8c9e753a183 | 直接加ed | intake | K-IMPORT-009 |
 | KP-EN-d955acf53f2d | 理解计划变更 | intake | K-IMPORT-048 |
-| KP-EN-d97a919cc217 | tooth复数 | review | K-IMPORT-011 |
-| KP-EN-db8731bbcd80 | ie变y加ing | review | K-IMPORT-008 |
+| KP-EN-d97a919cc217 | tooth复数 | verification_pending | K-IMPORT-011 |
+| KP-EN-db8731bbcd80 | ie变y加ing | verification_pending | K-IMPORT-008 |
 | KP-EN-ddcc6b26b94b | 直接加ing | intake | K-IMPORT-008 |
-| KP-EN-df8aa7b2f4eb | 时间介词on | review | K-IMPORT-005 |
+| KP-EN-df8aa7b2f4eb | 时间介词on | verification_pending | K-IMPORT-005 |
 | KP-EN-e02dedd9e5a3 | 理解简单文章主旨 | intake | K-IMPORT-036 |
-| KP-EN-e4999df997c2 | woman复数 | review | K-IMPORT-011 |
+| KP-EN-e4999df997c2 | woman复数 | verification_pending | K-IMPORT-011 |
 | KP-EN-e5e8a5f5ef50 | 表达个人兴趣 | intake | K-IMPORT-054 |
 | KP-EN-ef6d04043862 | 过去式与过去分词的功能区别 | review | D-001, K-IMPORT-010 |
 | KP-EN-f0a06217c070 | go过去分词 | review | D-001, K-IMPORT-010 |
-| KP-EN-f8c153876f83 | 第三人称单数一致 | review | K-IMPORT-029 |
+| KP-EN-f8c153876f83 | 第三人称单数一致 | verification_pending | K-IMPORT-029 |
 | KP-EN-ff5bc58663e4 | man复数 | intake | K-IMPORT-011 |
 | KP-MA-028d12ccd83a | 积分区域分析 | intake | K-IMPORT-069 |
 | KP-MA-030f2351632c | 交换积分次序 | intake | K-IMPORT-069 |

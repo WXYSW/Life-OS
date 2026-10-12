@@ -25,7 +25,10 @@
       "section_ids": [],
       "importance": null,
       "applicability": "pending",
-      "checked_on": "2026-10-11"
+      "checked_on": "2026-10-11",
+      "relevance": "uncertain",
+      "mastery_requirement": null,
+      "requirement_basis": null
     },
     {
       "goal_id": "G-UPGRADE",
@@ -35,7 +38,10 @@
       "section_ids": [],
       "importance": null,
       "applicability": "pending",
-      "checked_on": "2026-10-11"
+      "checked_on": "2026-10-11",
+      "relevance": "uncertain",
+      "mastery_requirement": null,
+      "requirement_basis": null
     },
     {
       "goal_id": "G-CS-ABROAD",
@@ -45,7 +51,10 @@
       "section_ids": [],
       "importance": null,
       "applicability": "pending",
-      "checked_on": "2026-10-11"
+      "checked_on": "2026-10-11",
+      "relevance": "uncertain",
+      "mastery_requirement": null,
+      "requirement_basis": null
     }
   ],
   "evidence": [
@@ -114,5 +123,30 @@
   "weakness": "历史测试显示本范围存在缺口，下一次需独立验证",
   "subject_id": "SUB-CS",
   "module_id": "MOD-CS-26074fda77",
-  "routing_checked_on": "2026-10-11"
+  "routing_checked_on": "2026-10-12",
+  "memory": {
+    "as_of": "2026-10-12",
+    "model": "ladder-v2-cold-start",
+    "state": "consolidation",
+    "risk": "due",
+    "risk_basis": "ordinal_due_and_observed_performance_not_probability",
+    "observed_stability_days": null,
+    "stability_basis": "median_full_gap_independent_stable_passes_since_lapse",
+    "supporting_passes": 0,
+    "long_interval_successes": 0,
+    "long_term_verified": false,
+    "elapsed_days": 1,
+    "overdue_days": 0,
+    "next_review": "2026-10-12",
+    "due_now": true,
+    "long_unvalidated": false,
+    "latest_result": "unknown",
+    "critical_failure": false,
+    "effortful": false,
+    "error_type": "unknown",
+    "reasons": [
+      "今日到期",
+      "最近测试证据仍不完整"
+    ]
+  }
 }
