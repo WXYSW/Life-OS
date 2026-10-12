@@ -31,7 +31,6 @@
       "KP-CS-eef345794f8f",
       "KP-CS-fc02f9296a9b",
       "KP-CS-fd38ce4cc169",
-      "KP-EN-02a0513f0045",
       "KP-EN-20306a1299df",
       "KP-EN-39acbc6b2d08",
       "KP-EN-3a8c5bfbef8f",
@@ -286,7 +285,8 @@
       "KP-CS-faaae8204de6",
       "KP-CS-fe05cd7f42d1",
       "KP-CS-fe18adede6f2",
-      "KP-CS-ff9d29b36e8b"
+      "KP-CS-ff9d29b36e8b",
+      "KP-EN-02a0513f0045"
     ],
     "retained": [],
     "classification_pending": [
@@ -295,11 +295,11 @@
     "decision_required": []
   },
   "counts": {
-    "intake": 119,
+    "intake": 118,
     "review": 13,
     "verification_pending": 22,
     "assessment_pending": 3,
-    "archived": 119,
+    "archived": 120,
     "retained": 0,
     "classification_pending": 1,
     "decision_required": 0
