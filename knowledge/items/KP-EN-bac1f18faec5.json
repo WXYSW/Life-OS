@@ -11,10 +11,11 @@
   ],
   "created_on": "2026-10-11",
   "verification": {
-    "status": "needs_validation",
-    "basis": null
+    "status": "verified",
+    "basis": "原始来源 SRC-070 明确列出辅音字母+y结尾的名词变 y 加 -ies；例词 babies/cities 可按该规则核验。",
+    "checked_on": "2026-10-12"
   },
-  "assessment": "untested",
+  "assessment": "tested",
   "availability": "active",
   "goal_links": [
     {
@@ -59,15 +60,50 @@
       "requirement_basis": null
     }
   ],
-  "evidence": [],
-  "mastery": {},
+  "evidence": [
+    {
+      "id": "A-20261012-INTAKE-PLURAL-Y",
+      "day": "2026-10-12",
+      "action": "diagnose",
+      "dimension": "recall",
+      "outcome": "partial",
+      "independent": null,
+      "delayed": false,
+      "transfer": false,
+      "schedule_eligible": true,
+      "basis": "题目要求 baby 与 city 两项。用户答出 babies 正确，但未回答 city；只按已提交内容记录，不推断遗漏原因。",
+      "quality": "stable",
+      "error_type": "incomplete",
+      "actual_gap_days": null,
+      "scheduled_interval_before": null
+    }
+  ],
+  "mastery": {
+    "recall": {
+      "state": "partial",
+      "evidence_id": "A-20261012-INTAKE-PLURAL-Y",
+      "observed_on": "2026-10-12"
+    }
+  },
   "schedule": {
-    "status": "pending",
-    "stage": -1,
-    "due": null
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-13",
+    "last_review": "2026-10-12",
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "partial"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "本题仅完成一项；短期巩固后补测完整规则",
+    "rule_version": "ladder-v2",
+    "pre_lapse_stage": -1
   },
   "routing": {
-    "route": "intake",
+    "route": "review",
     "active_goal_ids": [
       "G-UPGRADE"
     ],
@@ -89,8 +125,8 @@
   "memory": {
     "as_of": "2026-10-12",
     "model": "ladder-v2-cold-start",
-    "state": "unverified",
-    "risk": "unknown",
+    "state": "consolidation",
+    "risk": "medium",
     "risk_basis": "ordinal_due_and_observed_performance_not_probability",
     "observed_stability_days": null,
     "stability_basis": "median_full_gap_independent_stable_passes_since_lapse",
@@ -99,13 +135,16 @@
     "long_term_verified": false,
     "elapsed_days": null,
     "overdue_days": null,
-    "next_review": null,
+    "next_review": "2026-10-13",
     "due_now": false,
     "long_unvalidated": false,
-    "latest_result": null,
+    "latest_result": "partial",
     "critical_failure": false,
     "effortful": false,
-    "error_type": "unknown",
-    "reasons": []
+    "error_type": "incomplete",
+    "reasons": [
+      "本次只回答 baby→babies，city 未回答",
+      "完整规则掌握情况仍需补测"
+    ]
   }
 }
