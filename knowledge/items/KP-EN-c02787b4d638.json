@@ -11,10 +11,11 @@
   ],
   "created_on": "2026-10-11",
   "verification": {
-    "status": "needs_validation",
-    "basis": null
+    "status": "verified",
+    "basis": "原始汇总 SRC-076 包含 want to do 结构；句型按 want + to + 动词原形核验。",
+    "checked_on": "2026-10-12"
   },
-  "assessment": "untested",
+  "assessment": "tested",
   "availability": "active",
   "goal_links": [
     {
@@ -59,15 +60,50 @@
       "requirement_basis": null
     }
   ],
-  "evidence": [],
-  "mastery": {},
+  "evidence": [
+    {
+      "id": "A-20261012-INTAKE-WANT-TO",
+      "day": "2026-10-12",
+      "action": "diagnose",
+      "dimension": "application",
+      "outcome": "correct_with_language_note",
+      "independent": null,
+      "delayed": false,
+      "transfer": false,
+      "schedule_eligible": true,
+      "basis": "I want to learn code 使用了 want + to + 动词原形，核心句型正确；表达编程技能时更自然的说法是 I want to learn to code.，或 I want to learn programming.",
+      "quality": "stable",
+      "error_type": "expression_naturalness",
+      "actual_gap_days": null,
+      "scheduled_interval_before": null
+    }
+  ],
+  "mastery": {
+    "application": {
+      "state": "observed_correct_with_language_note",
+      "evidence_id": "A-20261012-INTAKE-WANT-TO",
+      "observed_on": "2026-10-12"
+    }
+  },
   "schedule": {
-    "status": "pending",
-    "stage": -1,
-    "due": null
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-13",
+    "last_review": "2026-10-12",
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "correct_with_language_note"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "核心句型正确；1天后巩固并注意自然表达",
+    "rule_version": "ladder-v2",
+    "pre_lapse_stage": -1
   },
   "routing": {
-    "route": "intake",
+    "route": "review",
     "active_goal_ids": [
       "G-UPGRADE"
     ],
@@ -89,8 +125,8 @@
   "memory": {
     "as_of": "2026-10-12",
     "model": "ladder-v2-cold-start",
-    "state": "unverified",
-    "risk": "unknown",
+    "state": "consolidation",
+    "risk": "medium",
     "risk_basis": "ordinal_due_and_observed_performance_not_probability",
     "observed_stability_days": null,
     "stability_basis": "median_full_gap_independent_stable_passes_since_lapse",
@@ -99,13 +135,16 @@
     "long_term_verified": false,
     "elapsed_days": null,
     "overdue_days": null,
-    "next_review": null,
+    "next_review": "2026-10-13",
     "due_now": false,
     "long_unvalidated": false,
-    "latest_result": null,
+    "latest_result": "correct_with_language_note",
     "critical_failure": false,
     "effortful": false,
-    "error_type": "unknown",
-    "reasons": []
+    "error_type": "expression_naturalness",
+    "reasons": [
+      "want + to + 动词原形结构正确",
+      "learn code 在该语境不够自然，需巩固更地道表达"
+    ]
   }
 }
