@@ -11,10 +11,11 @@
   ],
   "created_on": "2026-10-11",
   "verification": {
-    "status": "needs_validation",
-    "basis": null
+    "status": "verified",
+    "basis": "English alphabet convention: vowel letters A, E, I, O, U (letter identification, not all vowel sounds).",
+    "checked_on": "2026-10-12"
   },
-  "assessment": "untested",
+  "assessment": "tested",
   "availability": "active",
   "goal_links": [
     {
@@ -59,15 +60,50 @@
       "requirement_basis": null
     }
   ],
-  "evidence": [],
-  "mastery": {},
+  "evidence": [
+    {
+      "id": "A-20261012-INTAKE-VOWELS",
+      "day": "2026-10-12",
+      "action": "diagnose",
+      "dimension": "recall",
+      "outcome": "correct",
+      "independent": null,
+      "delayed": false,
+      "transfer": false,
+      "schedule_eligible": true,
+      "basis": "Correctly identified all five English vowel letters; no hint/independence metadata established.",
+      "quality": "stable",
+      "error_type": "none",
+      "actual_gap_days": null,
+      "scheduled_interval_before": null
+    }
+  ],
+  "mastery": {
+    "recall": {
+      "state": "observed_correct",
+      "evidence_id": "A-20261012-INTAKE-VOWELS",
+      "observed_on": "2026-10-12"
+    }
+  },
   "schedule": {
-    "status": "pending",
-    "stage": -1,
-    "due": null
+    "status": "review",
+    "stage": 0,
+    "due": "2026-10-13",
+    "last_review": "2026-10-12",
+    "review_phase": "consolidation",
+    "consolidation_passes": 0,
+    "long_interval_passes": 0,
+    "recent_review_outcomes": [
+      "correct"
+    ],
+    "scheduled_interval_days": 1,
+    "actual_gap_days": null,
+    "schedule_reason": "初测正确，独立性未确认；1天后巩固验证",
+    "rule_version": "ladder-v2",
+    "pre_lapse_stage": -1
   },
   "routing": {
-    "route": "intake",
+    "route": "review",
     "active_goal_ids": [
       "G-UPGRADE"
     ],
@@ -89,8 +125,8 @@
   "memory": {
     "as_of": "2026-10-12",
     "model": "ladder-v2-cold-start",
-    "state": "unverified",
-    "risk": "unknown",
+    "state": "consolidation",
+    "risk": "medium",
     "risk_basis": "ordinal_due_and_observed_performance_not_probability",
     "observed_stability_days": null,
     "stability_basis": "median_full_gap_independent_stable_passes_since_lapse",
@@ -99,13 +135,16 @@
     "long_term_verified": false,
     "elapsed_days": null,
     "overdue_days": null,
-    "next_review": null,
+    "next_review": "2026-10-13",
     "due_now": false,
     "long_unvalidated": false,
-    "latest_result": null,
+    "latest_result": "correct",
     "critical_failure": false,
     "effortful": false,
-    "error_type": "unknown",
-    "reasons": []
+    "error_type": "none",
+    "reasons": [
+      "初测正确，尚未长期验证",
+      "独立性未知"
+    ]
   }
 }
