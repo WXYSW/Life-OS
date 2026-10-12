@@ -11,8 +11,8 @@
   "archived_legacy_entries": 73,
   "active_legacy_entries_with_attempts": 12,
   "lifecycle_counts": {
-    "archived": 119,
-    "intake": 119,
+    "archived": 120,
+    "intake": 118,
     "assessment_pending": 3,
     "review": 13,
     "verification_pending": 22,
