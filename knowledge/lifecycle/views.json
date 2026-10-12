@@ -64,12 +64,10 @@
       "KP-EN-a582d837400d",
       "KP-EN-ac4ceb0d2179",
       "KP-EN-babb8c7a03d1",
-      "KP-EN-bac1f18faec5",
       "KP-EN-bb32ef53b948",
       "KP-EN-bb9e4c2c56f8",
       "KP-EN-bba5aa8f71be",
       "KP-EN-bf0aafad9903",
-      "KP-EN-c02787b4d638",
       "KP-EN-c4d770bccb11",
       "KP-EN-c8ff3407b80f",
       "KP-EN-ccc92ccf9eda",
@@ -133,6 +131,8 @@
       "KP-EN-36ffe3c739a5",
       "KP-EN-3ef441d27e2a",
       "KP-EN-6bdbb2bafebe",
+      "KP-EN-bac1f18faec5",
+      "KP-EN-c02787b4d638",
       "KP-EN-c6d403c06778",
       "KP-EN-ef6d04043862",
       "KP-EN-f0a06217c070"
@@ -295,8 +295,8 @@
     "decision_required": []
   },
   "counts": {
-    "intake": 118,
-    "review": 13,
+    "intake": 116,
+    "review": 15,
     "verification_pending": 22,
     "assessment_pending": 3,
     "archived": 120,
