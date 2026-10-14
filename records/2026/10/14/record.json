@@ -1,0 +1,45 @@
+{
+  "id": "REC-2026-10-14",
+  "event_date": "2026-10-14",
+  "timezone": "Asia/Shanghai",
+  "source": "user_self_report",
+  "events": [
+    {
+      "category": "sleep",
+      "description": "前一晚约凌晨2点入睡，早上起床时很困。",
+      "sleep_time": "02:00",
+      "wake_time": null,
+      "duration_minutes": null
+    },
+    {
+      "category": "school",
+      "description": "早上上课期间一直在处理账号相关问题。",
+      "details": "后来两个账号都被冻结，何时恢复使用未知。",
+      "emotional_response": "沮丧"
+    },
+    {
+      "category": "account_troubleshooting",
+      "description": "下午继续处理账号相关问题。",
+      "outcome": "两个账号均被冻结，恢复时间未知。",
+      "duration_minutes": null
+    },
+    {
+      "category": "entertainment",
+      "description": "晚上玩了一会儿游戏。",
+      "duration_minutes": null
+    }
+  ],
+  "reported_mood": ["疲惫", "沮丧", "对熬夜影响状态有所反思"],
+  "reflection": "用户感觉熬夜后第二天像是变笨了，意识到晚睡会影响白天状态。",
+  "interpretation": "用户主观感到前夜晚睡后白天状态下降。缺少起床时间、睡眠时长与其他因素信息，不量化影响或断言单一因果。",
+  "missing_fields": {
+    "wake_time": null,
+    "sleep_duration_minutes": null,
+    "account_troubleshooting_duration_minutes": null,
+    "gaming_duration_minutes": null,
+    "study_duration_minutes": null
+  },
+  "visibility": "public",
+  "privacy_note": "未记录账号标识、密码或凭据。",
+  "version": 1
+}
