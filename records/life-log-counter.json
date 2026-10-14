@@ -1,0 +1,15 @@
+{
+  "purpose": "Count completed daily life records as a reminder that lived experience is worth preserving and reviewing.",
+  "counting_rule": "Increment record_count once when a daily life record is completed and saved. Edits or additions to the same date's record do not increment again. recorded_days counts distinct dates with a formal daily life record.",
+  "record_count": 1,
+  "recorded_days": 1,
+  "last_record_date": "2026-10-14",
+  "records": [
+    {
+      "date": "2026-10-14",
+      "path": "records/2026/10/14/record.json",
+      "counted": true
+    }
+  ],
+  "review_guidance": "Periodically, and especially when the user feels low, offer a grounded review of past experiences, difficulties faced, events, and changes. Do not fabricate totals or imply a day must have been productive to be worth recording."
+}
